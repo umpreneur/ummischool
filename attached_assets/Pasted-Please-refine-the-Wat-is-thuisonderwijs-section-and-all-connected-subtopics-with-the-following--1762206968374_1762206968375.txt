@@ -1,0 +1,86 @@
+Please refine the “Wat is thuisonderwijs?” section (and all connected subtopics) with the following updates to achieve a calm, cohesive, and professional editorial layout.
+
+The goal: one continuous, scrollable page that combines reading flow with optional navigation links — warm, balanced, and easy to read.
+
+🧩 1. Page Structure
+
+Merge all subtopics (“Wat is thuisonderwijs”, “Waarom kiezen families hiervoor”, “Veelvoorkomende misverstanden”, “Wettelijke context”) into one long, continuous page.
+
+Remove the left sidebar’s “Overzicht” title completely — keep only the clickable section links.
+
+Make each sidebar link an anchor link that scrolls smoothly to its section (no page reload).
+
+Keep both scroll and click navigation active.
+
+✒️ 2. Typography
+
+Main titles (e.g. “Wat is thuisonderwijs?”):
+
+Font size: 2.5rem
+
+Font weight: 600
+
+Letter spacing: 0.5px
+
+Color: #2C2C2C
+
+Subtitles (section headings below main):
+
+Font size: 2rem
+
+Weight: 500
+
+Color: slightly lighter, e.g. #3A3A3A
+
+Body text:
+
+Keep the current font, but increase line-height to 1.8 for better readability.
+
+Max width of text block: 680px to maintain a calm reading rhythm.
+
+🌿 3. Layout & Spacing
+
+Center the main content column on the page with generous margins.
+
+Add consistent vertical spacing:
+
+80px above each section title
+
+32px below each section title
+
+64px above each image
+
+80px below each image
+
+Ensure that sections flow naturally — no abrupt gaps or overlaps.
+
+🖼️ 4. Images
+
+Place one image below each section’s text, with soft top and bottom spacing.
+
+Use slightly rounded corners (border-radius: 12px) and subtle shadow for a gentle look.
+
+Keep image width within the text column width — no full-width images.
+
+🎨 5. Visual Hierarchy & Harmony
+
+Make sure the sidebar text is smaller and lighter (font-size: 0.9rem; color: #6C6C6C) so it doesn’t overpower the main text.
+
+Highlight the active section in the sidebar with a soft beige or light brown background (#F3EEE9).
+
+Maintain alignment between title, text, and images for a clean vertical rhythm.
+
+🪶 6. Page Ending
+
+After the final section (“Wettelijke context”), add a closing image — calm, symbolic (e.g. open book, window, or light scene).
+
+Below that, a centered closing line:
+© 2025 Thuisonderwijsinfo. Alle rechten voorbehouden.
+
+Add 80px padding above this footer line for visual breathing space.
+
+💡 Design Intention Recap
+
+The page should feel calm, editorial, and reflective — like a slow, thoughtful article in a print magazine.
+The reader should be able to scroll continuously without interruption, while the optional sidebar provides gentle navigation.
+Every element (spacing, typography, and imagery) should breathe and feel intentional.

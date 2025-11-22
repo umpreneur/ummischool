@@ -1,0 +1,60 @@
+🧾 Message for Replit – Subtle Animation, Color & Navigation Refinement
+
+Please refine the homepage with small visual depth and warmth, without losing its minimal calm tone.
+The site should feel alive and intentional — like a quiet, editorial space, not static or empty.
+
+1. Subtitle Highlight (“We leren thuis.”)
+
+Keep the same font (Lora Italic), but make it stand out softly:
+
+Color: #A5672B (the same warm brown-orange accent used on buttons).
+
+Slightly increase letter spacing to improve readability.
+
+Optional: apply a very slow fade-in (1.5s) when the page loads.
+
+This line should feel like a living tagline — simple but with presence.
+
+2. Animation Element (Replacing “House” Idea)
+
+Instead of a literal house, use a line animation that symbolizes connection and growth:
+
+A single, fine line (#2B2B2B, 1px thick) appears below the subtitle.
+
+It draws itself from left to right in 2 seconds (as if “growing” or “writing”).
+
+Once complete, three small branches gently extend upward — like soft rays, or growth lines — and then fade out slowly.
+
+Animation plays only once on page load.
+
+Timing should be slow and graceful, not playful.
+
+👉 This represents the idea of learning, direction, and growth at home — without using literal icons.
+
+3. Navigation Bar Refinement
+
+Keep the same menu items:
+Wat & Waarom · Waar begin ik? · Blog · Contact
+
+Make the navigation slightly more visible (less faded):
+
+Text color: #3E3E3E
+
+On hover: use accent color #A5672B + subtle underline (#EDE7E0).
+
+Active page link stays in the accent color.
+
+Increase spacing slightly between menu items for readability.
+
+4. Overall Layout
+
+Keep the current typography and spacing from the last version.
+
+The animation and subtitle should be vertically centered and in harmony.
+
+Maintain the footer exactly as it is.
+
+Design Intent
+
+The homepage should feel thoughtful and alive — calm like a morning page from a design magazine.
+The line animation and accent tone give it warmth and purpose, without noise or distraction.

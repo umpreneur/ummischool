@@ -1,0 +1,533 @@
+
+
+ChatGPT 5
+You said:
+Uploaded image
+Aub kritisch zijn voor webpage wat is thuisonder  is toch chaos met afbeelsingen beter een lijn met schadw dacht geef eerlijk antwoord en suggesties 
+ChatGPT said:
+Zeker — ik geef je een eerlijke, kritische beoordeling van de webpagina op je screenshot (“Wat is thuisonderwijs?”), met suggesties om de structuur, stijl en uitstraling te verbeteren.
+
+💬 Algemene indruk
+De tekstinhoud is op zich goed en duidelijk, maar de visuele samenhang en opmaak ogen wat rommelig. Het lijkt alsof er geen consistente lijn is tussen tekst, witruimte en afbeeldingen. Daardoor voelt de pagina minder professioneel en wat “blogachtig” in plaats van een betrouwbare informatiesite.
+
+⚠️ Wat niet goed werkt
+Afbeeldingen breken de flow
+
+De eerste foto (open boek op tafel) en de tweede (moeder met kind aan laptop) zijn los gekozen en hebben geen visuele of kleurmatige samenhang.
+
+Ze voegen weinig betekenis toe en voelen eerder als decoratie dan ondersteuning van de tekst.
+
+De stijl (licht, herfstbladeren vs. binnen met warme kleuren) botst qua sfeer.
+
+Witruimte & typografie
+
+Er is vrij veel witruimte, maar niet consequent toegepast. Daardoor lijkt het alsof de stukken tekst “zweven”.
+
+De kopjes hebben te weinig visuele hiërarchie; de overgang van Nederlands naar Engels in de tweede sectie (“Not always. And that’s okay.”) breekt de consistentie.
+
+Structuur van de tekst
+
+De toon is vriendelijk, maar de overgangen tussen de drie secties (“Wat is...”, “Die ouders zijn...”, “Maar kinderen horen...”) voelen los van elkaar.
+
+Door het ontbreken van visuele ankers (zoals iconen, een subtiele scheidingslijn, of kleuraccent) oogt het wat fragmentarisch.
+
+Sfeer en merkidentiteit
+
+De pagina mist een duidelijke stijlrichting: is het warm en persoonlijk, of informatief en zakelijk?
+
+Dat zie je terug in de mix van serieuze tekst en zachte familiefoto’s zonder uniform filter of thema.
+
+💡 Concrete verbeteringssuggesties
+Breng één visuele lijn aan
+
+Kies afbeeldingen met één stijl (bijv. zachte kleuren, lichte achtergrond, rustgevend gevoel).
+
+Voeg eventueel een subtiele schaduw of rand toe rond de afbeeldingen, zodat ze beter “liggen” op de pagina en niet zweven.
+
+Overweeg om íéts minder afbeeldingen te gebruiken, maar wel betekenisvoller (bijv. één heldere headerafbeelding bovenaan).
+
+Maak de lay-out strakker
+
+Gebruik consistente marges tussen kopjes, tekst en beelden.
+
+Voeg eventueel een lichte achtergrondkleur of subtiele lijn toe tussen secties.
+
+Overweeg om de Engelse tekst ook naar het Nederlands te vertalen voor een uniforme uitstraling.
+
+Verbeter leesstructuur
+
+Maak de kopjes iets groter of geef ze een zachte kleur (bijv. donkergrijs of aardetint) om ze visueel te onderscheiden.
+
+Gebruik bullets of korte blokken bij de uitleg over homeschooling – dat maakt het prettiger leesbaar.
+
+Zorg voor sfeer en vertrouwen
+
+Voeg eventueel een korte inleidende alinea bovenaan toe die uitlegt waarom thuisonderwijs belangrijk is (emotionele connectie).
+
+Sluit elk blok af met een korte samenvattende zin of citaat voor rust in het ritme.
+
+📈 Kort gezegd
+Nu oogt de pagina een beetje als een verzameling losse delen — goed bedoeld, maar niet strak gecoördineerd.
+Met consistente beelden, evenwichtige witruimte, en duidelijke sectieovergangen kun je het geheel veel rustiger, professioneler en geloofwaardiger maken.
+
+Wil je dat ik een korte herontwerp-suggestie (layoutschets) geef — bijvoorbeeld welke volgorde, beeldstijl en tekstindeling beter zou werken? Dan maak ik een concreet voorstel.
+
+You said:
+Ik dacht dus helemaal geen afbeelsing maar een lij als afscheidinga
+ChatGPT said:
+Dat is een héél goed instinct — en ik ben het met je eens. 👏
+Als je kiest voor géén afbeeldingen maar subtiele scheidingslijnen, dan win je rust, consistentie en focus op de inhoud. Laten we even kijken wat dat concreet oplevert en hoe je het kunt aanpakken:
+
+💡 Waarom geen afbeeldingen beter werkt hier
+De kracht zit in de tekst.
+De boodschap over thuisonderwijs is rustig, menselijk en beschouwend. Afbeeldingen leiden hier vooral af, in plaats van iets toe te voegen.
+
+Een strakke lijn zorgt voor orde.
+Een eenvoudige horizontale lijn of zachte scheidingsbalk geeft structuur tussen de blokken tekst zonder de flow te breken.
+
+Professioneler en tijdlozer.
+Zonder stockfoto’s oogt het minder “blogachtig” en meer als een bewuste, minimalistische keuze — wat vertrouwen wekt bij lezers.
+
+✏️ Concrete suggestie voor jouw pagina
+Structuur
+[ Titel ]
+Wat is thuisonderwijs?
+----------------------------------------
+[ Paragraaf over betekenis thuisonderwijs ]
+----------------------------------------
+[ Subtitel ]
+Die ouders zijn toch geen leraren?
+----------------------------------------
+[ Paragraaf over begeleiding en kennis ]
+----------------------------------------
+[ Subtitel ]
+Maar kinderen horen toch gewoon op school?
+----------------------------------------
+[ Slotparagraaf over rust, vrijheid en keuze ]
+Vormgeving
+Gebruik een dunne, zachte lijn (bijv. #ddd of #e5e5e5) tussen secties.
+
+Geef elke sectie iets extra witruimte boven en onder de lijn (bijv. margin: 2rem 0;).
+
+Houd kopjes consequent (zelfde lettertype, grootte, kleur).
+
+Overweeg lichte accentkleuren (bijv. een warm beige of zacht groen) voor kopjes om de secties subtiel te onderscheiden.
+
+Extra verfijning
+Je kunt eventueel een klein citaat of korte zin cursief plaatsen onder de laatste paragraaf, als een afsluitende gedachte.
+Bijvoorbeeld:
+
+Thuisonderwijs is niet minder leren, maar anders leren.
+
+Dat geeft de pagina een rustig, afgerond gevoel.
+
+🔧 Kort gezegd
+➡️ Weg met de beelden,
+➡️ werk met lichte lijnen en ademende witruimte,
+➡️ houd een consequente stijl in typografie en toon.
+
+Dan oogt je pagina kalm, modern en geloofwaardig — precies passend bij de boodschap van aandacht en rust in leren.
+
+Wil je dat ik een klein visueel voorbeeld geef (HTML of mock-up) van hoe die nieuwe, lijn-gebaseerde versie eruit kan zien? Dat kan ik meteen voor je maken.
+
+You said:
+Ik dacht dus een diepe lijn met schaduw als je bgerijp wat k bedoel
+ChatGPT said:
+Ja, ik snap precies wat je bedoelt — een “diepe” scheidingslijn, dus niet zomaar een dun lijntje, maar eentje met wat schaduw of reliëf zodat het lijkt alsof de secties licht van elkaar “ingezonken” of “opgetild” zijn.
+Dat is een mooie keuze: het geeft structuur én een gevoel van diepte, zonder dat het druk wordt.
+
+Laten we even concreet bekijken hoe je dat effect goed kunt gebruiken 👇
+
+💡 Waarom dit goed werkt
+Het vervangt de functie van afbeeldingen: visuele afwisseling, maar rustiger en consistenter.
+
+Het breekt de tekstblokken subtiel zonder harde contrasten.
+
+Het oogt modern en professioneel, zeker in combinatie met zachte kleuren en veel witruimte.
+
+🎨 Stijlvoorstel: “diepe lijn” met schaduw
+In CSS-termen zou je dat bijvoorbeeld zo kunnen doen:
+
+.section-divider {
+  height: 2px;
+  border: none;
+  background: #e0e0e0;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin: 3rem 0;
+}
+💬 Wat dat doet:
+
+background: #e0e0e0 → de basiskleur van de lijn
+
+box-shadow → zorgt voor de diepte (alsof de lijn in de pagina ligt)
+
+margin → zorgt voor voldoende witruimte zodat het rustig blijft
+
+Je kunt ook een zachtere, meer subtiele variant maken, bijvoorbeeld:
+
+.section-divider {
+  height: 1px;
+  border: none;
+  background: linear-gradient(to right, transparent, #ccc, transparent);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+  margin: 2.5rem 0;
+}
+Dat geeft een mooi “licht” effect, alsof de secties van elkaar loskomen zonder harde lijnen.
+
+🧱 Visuele compositie met zo’n lijn
+Bijvoorbeeld:
+
+<h2>Wat is thuisonderwijs?</h2>
+<p>Thuisonderwijs betekent dat ouders zelf hun kind begeleiden...</p>
+
+<hr class="section-divider">
+
+<h2>Die ouders zijn toch geen leraren?</h2>
+<p>Niet altijd, en dat is prima...</p>
+
+<hr class="section-divider">
+
+<h2>Maar kinderen horen toch gewoon op school?</h2>
+<p>School is de norm geworden, maar niet per se wat elk kind nodig heeft...</p>
+Zo krijg je een strakke, luchtige opbouw met ritme — zonder afleiding van foto’s.
+
+✨ Extra tip
+Kies voor een lichte achtergrondkleur (bijv. #fafafa) voor de hele pagina, dan valt de schaduwlijn subtieler op.
+
+Gebruik dezelfde “diepe lijn” eventueel ook boven de footer, zodat de pagina visueel mooi afrondt.
+
+Wil je dat ik voor jou even een volledige mini-layout (HTML/CSS) maak waarin jouw huidige tekst staat, maar dan met die diepe lijnen? Dan laat ik exact zien hoe het eruit kan zien.
+
+You said:
+Maak replit een tekst omdar te raloseren
+ChatGPT said:
+
+Thought for 4 seconds
+Top, dan maken we er even een simpel Replit-paginaatje van dat precies doet wat jij wilde: géén afbeeldingen, rustige blokken, en tussen elk stuk zo’n “diepe” lijn met schaduw.
+
+Plak dit gewoon in index.html op Replit (of in een HTML Repl) en je ziet het meteen.
+
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Wat is thuisonderwijs?</title>
+  <style>
+    :root {
+      --bg: #faf7f3;
+      --text: #2e2e2e;
+      --accent: #c9c0b5;
+    }
+
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+    }
+
+    header {
+      background: #fff;
+      border-bottom: 1px solid rgba(0,0,0,0.04);
+      padding: 1rem 1.5rem;
+      position: sticky;
+      top: 0;
+      z-index: 10;
+    }
+
+    .container {
+      max-width: 820px;
+      margin: 0 auto;
+      padding: 2.5rem 1.5rem 3.5rem;
+    }
+
+    h1 {
+      font-size: clamp(2.1rem, 3vw, 2.6rem);
+      margin-bottom: .75rem;
+    }
+
+    h2 {
+      font-size: 1.45rem;
+      margin-bottom: .5rem;
+    }
+
+    p {
+      margin: .5rem 0 0.7rem;
+    }
+
+    /* jouw “diepe lijn” */
+    .divider {
+      height: 2px;
+      border: none;
+      background: #e1ddd7;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.12);
+      margin: 2.7rem 0;
+      border-radius: 999px;
+    }
+
+    .lead {
+      font-size: 1.05rem;
+      max-width: 56rem;
+    }
+
+    .quote {
+      font-style: italic;
+      margin-top: 1.5rem;
+      color: #665c50;
+    }
+
+    @media (max-width: 600px) {
+      .container {
+        padding: 2rem 1.1rem 3rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <strong>Thuisonderwijs</strong>
+  </header>
+
+  <main class="container">
+    <section>
+      <h1>Wat is thuisonderwijs?</h1>
+      <p class="lead">
+        Thuisonderwijs betekent dat ouders zelf hun kind begeleiden bij het leren, buiten school.
+        Niet volgens vaste tijden of lessen, maar op een manier die past bij hun gezin.
+      </p>
+      <p>
+        Het gaat om leren met meer rust en aandacht. Geen afkeer van school, maar een keuze die beter past
+        bij sommige kinderen.
+      </p>
+      <p>
+        Kort gezegd: thuisonderwijs is niet minder leren, maar <strong>anders</strong> leren.
+      </p>
+    </section>
+
+    <hr class="divider" />
+
+    <section>
+      <h2>Die ouders zijn toch geen leraren?</h2>
+      <p>
+        Niet altijd. En dat is oké. Thuisonderwijs gaat niet over school nadoen, maar over weten wat je kind
+        nodig heeft en daar tijd voor maken.
+      </p>
+      <p>
+        Kennis is overal: online, in boeken, in andere mensen. Wat echt telt, is dat er iemand aanwezig is.
+      </p>
+    </section>
+
+    <hr class="divider" />
+
+    <section>
+      <h2>Maar kinderen horen toch gewoon op school?</h2>
+      <p>
+        School is de norm geworden, maar niet per se wat kinderen nodig hebben. Niet elk kind bloeit op tussen bel,
+        cijfers en volle klassen.
+      </p>
+      <p>
+        Thuisonderwijs geeft ruimte om te leren zonder die druk, op een manier die past bij wie een kind is.
+      </p>
+      <p class="quote">
+        “Thuisonderwijs is kiezen voor tempo, aandacht en relatie.”
+      </p>
+    </section>
+  </main>
+</body>
+</html>
+🔧 Wat dit doet:
+
+Geen afbeeldingen.
+
+Tussen elk blok staat een afgeronde, iets dikkere lijn met schaduw → jouw “diepe lijn”.
+
+Rustige kleuren, veel witruimte.
+
+Mobiel werkt het ook.
+
+Als je wilt, kan ik de lijn nog “dieper” maken (meer schaduw, of een soort ingedrukte stijl).
+
+You said:
+Ik hoef geen code alleen tekst voor replit om te vertellen wat die moet aanpassen
+ChatGPT said:
+Ah, duidelijk 👍 — je wilt dus een korte tekst die je op Replit kunt zetten (bijv. in de “beschrijving” of README), waarin je uitlegt wat er moet worden aangepast aan de pagina — niet de code zelf.
+
+Hier is een nette, duidelijke tekst die je daarvoor kunt gebruiken:
+
+🪶 Aanpassing voor de pagina “Wat is thuisonderwijs?”
+Verwijder alle afbeeldingen uit de pagina.
+In plaats daarvan moet er tussen elk tekstblok een duidelijke horizontale lijn komen die diepte en schaduw heeft, zodat de secties mooi van elkaar worden gescheiden.
+
+De lijn mag iets dikker zijn dan standaard (ongeveer 2 px) en een zachte schaduw krijgen, zodat het lijkt alsof er wat reliëf of diepte in de pagina zit.
+
+Houd de rest van de lay-out rustig en luchtig, met voldoende witruimte tussen de tekstblokken.
+Gebruik geen decoratieve beelden, want de nadruk moet liggen op de woorden en de structuur.
+
+Kort samengevat:
+
+Alle afbeeldingen verwijderen.
+
+Tussen elk onderdeel een lijn met schaduw toevoegen.
+
+Zorgen voor één rustige, consequente stijl.
+
+Wil je dat ik de tekst iets korter of informeler maak, alsof je hem direct als instructie aan iemand in je Replit-project schrijft (bijv. “Hey, pas dit aan…”)?
+
+You said:
+Graag in het engels replit is een agent hoeft geen samenvatting
+ChatGPT said:
+Sure — here’s the English version you can paste directly into Replit as an instruction for the AI agent:
+
+Remove all images from the page.
+Between each content section, insert a horizontal divider line that has a subtle drop shadow to create a sense of depth.
+The line should be slightly thicker than normal (around 2px) and softly blurred, so it feels like a recessed or raised separation.
+
+Keep the overall layout clean, calm, and spacious.
+Do not use any decorative images — focus entirely on text structure and visual rhythm created by spacing and shadowed dividers.
+
+You said:
+Uploaded image
+Kritisch advies 
+ChatGPT said:
+Perfect — dit ziet er al véél rustiger en consistenter uit dan de vorige versie 👏
+Je hebt duidelijk de juiste richting te pakken met de lijnen en het weghalen van de beelden.
+Toch nog even een kritisch oog op de details, want er zijn nog wat subtiele verbeterpunten die het geheel net dat professionele, gepolijste gevoel kunnen geven:
+
+💬 1. De lijnen met schaduw
+Goed idee en mooi subtiel toegepast!
+
+Maar: op mobiel (zoals op je screenshot) lijken ze iets te licht en te ver uit elkaar. Daardoor verliezen ze wat van hun visuele kracht.
+👉 Suggestie: maak ze óf iets donkerder of geef ze een iets zachtere, kortere schaduw (zodat het effect blijft, maar compacter).
+👉 Ook kun je de afstand boven en onder de lijn iets verkleinen (bijv. 2rem in plaats van 3rem), zodat de secties visueel meer verbonden lijken.
+
+💬 2. Tekstcontrast en hiërarchie
+De tekstkleur is mooi zacht, maar misschien iets té lichtgrijs tegen die beige achtergrond — zeker op mobiel met minder helderheid.
+👉 Overweeg een iets donkerdere tekstkleur (#2c2c2c of #333).
+
+De kopjes hebben een fijne stijl, maar ze zouden iets meer mogen opvallen:
+
+Maak de letterdikte iets steviger, of
+
+Voeg een subtiel accent toe (bijv. een warme grijstint of lichte onderstreping).
+
+Dit helpt de lezer meteen te zien waar elk onderdeel begint, zonder dat het schreeuwerig wordt.
+
+💬 3. Tekststructuur
+De inhoud leest prettig en rustig, maar sommige alinea’s (vooral bij “Wat is thuisonderwijs?” en “Maar kinderen horen toch gewoon op school?”) lopen vrij breed.
+👉 Overweeg de maximale breedte van de tekst iets te beperken (bijv. 60–65 tekens per regel). Dat verbetert de leesbaarheid enorm, vooral op desktop.
+
+In de sectie “Mag dat eigenlijk wel?” is de opsomming prima, maar de puntjes zouden iets dichter bij de tekst mogen staan. Nu lijken ze wat losjes te hangen.
+
+💬 4. Balans en ritme
+Het geheel heeft een goede rustige flow, maar het ritme kan nog iets compacter:
+👉 verklein de verticale ruimte tussen kopje en eerste paragraaf een beetje; dat geeft een prettiger visueel tempo.
+👉 hou de ruimte tussen alinea’s consistent — soms lijkt het iets wisselend.
+
+💬 5. Toon en consistentie
+Je hebt Nederlands en Engels door elkaar (bijv. “Not always. And that’s okay.”).
+👉 Kies consequent één taal per pagina.
+Als je dit voor Nederlandstalige ouders schrijft, vertaal die Engelse stukjes ook naar Nederlands — dat oogt professioneler en vloeiender.
+
+✅ Samengevat
+Sterk:
+
+Rustige uitstraling
+
+Goede leesstructuur
+
+Duidelijke scheiding zonder drukte
+
+Te verfijnen:
+
+Donkerder tekstkleur
+
+Iets compacter witruimtegebruik
+
+Kopjes visueel iets sterker
+
+Engels/Nederlands consequent maken
+
+Wil je dat ik je help met een voorbeeld van dezelfde tekst, maar herschreven en heropgemaakt volgens deze verbeterpunten (zonder code, gewoon de tekst zoals hij beter zou klinken/tonen)? Dat kan ik in één strakke versie zetten.
+
+You said:
+Tekst for replit om de vebetering toe te passen
+ChatGPT said:
+Hier is de Engelse tekst die je rechtstreeks aan Replit kunt geven als instructie om de verbeteringen toe te passen op de huidige versie van de pagina:
+
+Darken the main text color slightly for better contrast (around #2c2c2c).
+Make all headings slightly bolder or use a warmer gray tone to improve visual hierarchy.
+Reduce vertical spacing above and below each divider line to make sections feel more connected.
+Adjust the divider lines to have a slightly stronger shadow and darker base color, so the depth effect remains visible on mobile.
+Limit the maximum text width to improve readability (around 60–65 characters per line).
+Ensure equal spacing between paragraphs throughout the page.
+Keep all text in one language — translate the English sentences into Dutch for consistency.
+Make the bullet list items in the “Mag dat eigenlijk wel?” section sit closer to their text for a tighter layout.
+
+You said:
+Geen vetaling waarom
+ChatGPT said:
+Goede vraag — en heel terecht 👍
+
+De reden dat ik in de Replit-instructie schreef “translate the English sentences into Dutch for consistency” is puur stijlmatig, niet inhoudelijk.
+Op jouw pagina stond een mix van Nederlands en Engels (zoals “Not always. And that’s okay.”). Dat breekt de flow en ziet er voor bezoekers wat rommelig uit.
+
+Het idee is dus niet dat Replit alles moet vertalen naar een andere taal,
+maar dat de hele pagina één taal moet hebben — in dit geval Nederlands, omdat de rest van de tekst ook Nederlands is.
+
+Als je liever die Engelse zinnen wíl behouden (omdat het bijvoorbeeld persoonlijker of toegankelijker klinkt), kun je dat gerust doen. Dan kun je die regel in de Replit-tekst gewoon verwijderen.
+
+Wil je dat ik de instructie herschrijf zónder dat Replit iets over taalconsistentie hoeft te doen?
+
+You said:
+Die tekst was eerst ook dutch wat is er gebeurt
+ChatGPT said:
+Goede oplettende vraag — en je hebt helemaal gelijk dat dat vreemd lijkt.
+Wat er waarschijnlijk gebeurd is, is dat Replit (of de AI agent binnen Replit) de originele Nederlandstalige tekst deels heeft hergeschreven of vervangen door Engelse zinnen, waarschijnlijk tijdens een eerdere bewerking of “auto-improvement”-actie.
+
+Replit-agents zijn getraind om teksten te verbeteren, en soms interpreteren ze dat als:
+
+“maak de toon meer universeel of Engelstalig.”
+
+Dus als er in je project geen taalinstelling of context stond (zoals “deze site is Nederlandstalig”), kiest de agent automatisch Engels als standaardtaal.
+
+🔧 Wat je nu kunt doen:
+Om te voorkomen dat dit nog eens gebeurt, kun je bovenaan je Replit-instructie gewoon even dit zetten:
+
+This page must stay in Dutch. Do not translate or rewrite text into English.
+
+Dat is genoeg om te zorgen dat de agent al je aanpassingen in het Nederlands uitvoert.
+
+Wil je dat ik je de verbeter-instructie opnieuw geef, maar dan met dat taalbehoud erin verwerkt (dus een duidelijke versie voor Replit die zegt dat alles Nederlands moet blijven)?
+
+You said:
+Schrijf alle verbeter punten voor replit
+ChatGPT said:
+Zeker 👍 — hieronder staat een complete, duidelijke tekst die je rechtstreeks in Replit kunt plakken als instructie voor de agent.
+Alles is in het Engels (want Replit werkt daar beter mee), maar het geeft expliciet aan dat de inhoud Nederlands moet blijven en beschrijft alle verbeterpunten die jij wilt doorvoeren:
+
+Instruction for Replit agent:
+
+Keep the entire page in Dutch — do not translate any text into English.
+Maintain the current calm, minimal design and focus only on visual and structural improvements.
+
+Apply the following adjustments:
+
+Slightly darken the main text color (around #2c2c2c) for better contrast and readability.
+
+Make all headings (h1, h2) slightly bolder or use a warmer gray tone to improve hierarchy and visibility.
+
+Reduce the vertical spacing above and below each divider line so sections feel more connected.
+
+Strengthen the divider lines a bit — use a slightly darker base color and a soft, shorter shadow for a deeper, balanced look.
+
+Keep consistent vertical rhythm: equal spacing between all paragraphs and sections.
+
+Limit the maximum text width (around 60–65 characters per line) to improve readability on larger screens.
+
+Ensure the bullet list in the “Mag dat eigenlijk wel?” section sits closer to the text (tighter layout).
+
+Keep background color and typography consistent throughout the page.
+
+Preserve the calm, modern style — no images, only text and the shadowed divider lines.

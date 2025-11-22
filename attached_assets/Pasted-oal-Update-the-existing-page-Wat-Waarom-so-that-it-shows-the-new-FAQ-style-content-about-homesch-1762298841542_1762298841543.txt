@@ -1,0 +1,113 @@
+oal
+Update the existing page “Wat & Waarom” so that it shows the new FAQ-style content about homeschooling.
+Keep the current layout (title on the right, clickable list on the left, image between sections), but replace the text blocks and the left sidebar items with the new ones below.
+
+1. Rename / keep page title
+
+Keep the top page title on the right as: “Wat is thuisonderwijs?”
+
+2. Update the left sidebar (the clickable section list)
+
+Replace the current items:
+
+Wat is thuisonderwijs
+
+Waarom kiezen families hiervoor
+
+Veelvoorkomende misverstanden
+
+Wettelijke context
+
+with these items, in this order:
+
+Wat is thuisonderwijs?
+
+Maar kinderen horen toch gewoon op school?
+
+Mag dat eigenlijk wel?
+
+Missen ze geen sociaal contact?
+
+Verpest je niet hun toekomst?
+
+Moet je daar niet veel geld voor hebben?
+
+Each item should scroll to the matching section on the right (same anchor behaviour as now).
+
+3. Replace the content blocks on the right with this text
+
+(keep the same spacing and the image between sections, like it is now — just use the text below)
+
+Wat is thuisonderwijs?
+
+Thuisonderwijs betekent dat ouders zelf hun kind begeleiden bij het leren, buiten school.
+Niet volgens vaste tijden of lessen, maar op een manier die past bij hun gezin.
+
+Het gaat om leren met meer rust en aandacht.
+Geen afkeer van school, maar een keuze die beter past bij sommige kinderen.
+
+Kort gezegd: thuisonderwijs is niet minder leren, maar anders leren.
+
+(insert image here – same style as current)
+
+Maar kinderen horen toch gewoon op school?
+
+School is de norm geworden, maar niet per se wat kinderen nodig hebben.
+Niet elk kind bloeit op tussen bel, cijfers en volle klassen.
+
+Thuisonderwijs geeft ruimte om te leren zonder die druk,
+op een manier die past bij wie een kind is.
+
+(insert image here)
+
+Mag dat eigenlijk wel?
+
+Ja, in sommige gevallen wel.
+In Nederland is leren verplicht, maar school niet.
+
+Thuisonderwijs mag wanneer:
+
+er geen school is die past bij de levensovertuiging van het gezin;
+
+een kind om medische of psychische redenen niet naar school kan;
+
+of het gezin een reizend leven leidt.
+
+Ouders stellen de gemeente op de hoogte van hun besluit.
+
+(insert image here)
+
+Missen ze geen sociaal contact?
+
+Dat verschilt per gezin.
+Sommige kinderen zijn vaak op pad voor sport, thuisonderwijsgroepen of uitstapjes.
+Anderen hebben juist een rustige kring om zich heen.
+
+Sociaal contact is er wel, alleen op een andere manier.
+
+(insert image here)
+
+Verpest je niet hun toekomst met thuisonderwijs?
+
+De toekomst hangt niet aan een schoolgebouw.
+
+Kinderen die thuis leren, kunnen staatsexamens doen,
+doorstromen naar vervolgonderwijs of hun eigen pad volgen.
+Sommigen studeren, anderen werken of ondernemen.
+
+Thuisonderwijs sluit geen deuren.
+
+(insert image here)
+
+Moet je daar niet veel geld voor hebben?
+
+Nee.
+Thuisonderwijs kost eerder tijd dan geld.
+
+Er is veel gratis te vinden: online materiaal, bibliotheken, musea, thuisonderwijsgroepen.
+
+Het hangt niet van geld af, maar van keuze en inzet.
+
+4. Homepage button / navigation
+
+On the homepage, change the label of the button/tab from “Wat & Waarom” to “Wat is thuisonderwijs?” so it matches this page.

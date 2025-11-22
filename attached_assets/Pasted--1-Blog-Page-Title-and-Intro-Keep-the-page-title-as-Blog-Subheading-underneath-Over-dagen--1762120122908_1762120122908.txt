@@ -1,0 +1,98 @@
+🔹 1. Blog Page Title and Intro
+
+Keep the page title as “Blog”.
+
+Subheading underneath: Over dagen, groei en alles daartussen.
+
+Layout: clean text, centered, serif font (Cormorant Garamond), light gray subtitle in #6B655E.
+
+No line or box — just white space above and below.
+
+🔹 2. Main Section – Featured Posts
+
+Display 2–3 featured blog posts at the top of the page.
+
+Each post should include:
+
+A horizontal image (neutral tones, no bright colors).
+
+Post title (in serif font, black #1E1E1E).
+
+Short 2–3 line intro.
+
+“Lees verder →” link in accent color #A5672B.
+
+Maintain generous spacing between featured posts.
+
+On hover, image slightly fades or lifts (minimal effect, no box shadow).
+
+🔹 3. Side Section – “Meer lezen”
+
+On desktop: right column listing other blog titles (no images).
+
+On mobile: list appears below featured posts.
+
+Section title: “Meer lezen” (or “Andere stukken”).
+
+Each title functions as a link — simple black text, date optional in warm gray #6B655E.
+
+Add subtle line above this section (1px, warm gray).
+
+No icons, no frames, just text and space.
+
+🔹 4. Layout & Responsiveness
+
+Desktop: two-column layout
+
+Left: featured posts
+
+Right: list of titles (“Meer lezen”)
+
+Mobile: one-column layout
+
+Featured posts first
+
+Title list below
+
+Maintain large margins and white space throughout (no grid borders).
+
+🔹 5. Colors & Typography
+Element	Color	HEX
+Text	Soft black	#1E1E1E
+Accent (links)	Warm brown-orange	#A5672B
+Hover background	Light beige	#EDE7E0
+Background	Off-white	#FAF9F7
+Subtext / date	Warm gray	#6B655E
+
+Fonts:
+
+Titles → Cormorant Garamond (serif, weight 500–600)
+
+Body text → Inter or Manrope (sans-serif, weight 300–400)
+
+Line spacing: 1.6–1.8
+
+🔹 6. Content Style
+
+No category buttons or filters (keep page minimal).
+
+Limit the total number of images to 3–4 on the whole page.
+
+Focus on calm rhythm, white space, and typography.
+
+All buttons and “Lees verder” links use accent color #A5672B.
+
+🔹 7. Blog Post Pages
+
+When opening a single post:
+
+Large serif title on top.
+
+Date in small warm gray text.
+
+Wide margins, no sidebar.
+
+Light background (#FAF9F7), no borders or frames.
+
+That’s all for this update — the goal is to make the Blog page feel calm, editorial, and balanced,
+with a few visual highlights at the top and a clean text-based list for the rest.

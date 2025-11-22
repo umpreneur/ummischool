@@ -1,0 +1,122 @@
+Purpose:
+A calm, editorial-style website about homeschooling (thuisonderwijs), written in Dutch.
+It’s designed for parents who are searching, doubting, or already homeschooling — a place of clarity, calm, and connection.
+
+The site should feel like a quiet online magazine:
+warm, simple, text-focused, and visually balanced.
+
+🧭 Main Navigation (Dutch menu names)
+
+Wat & Waarom
+
+Informative, scrollable page (not a blog).
+
+Divided into sections explaining:
+
+What homeschooling is
+
+Why families choose it
+
+Common misunderstandings
+
+Basic legal or practical context
+
+A sidebar or sticky navigation allows users to jump between sections easily.
+
+Smooth scroll transitions and subtle dividers for readability.
+
+Beginnen
+
+Practical guide page (scrollable, not a blog).
+
+Sections such as:
+
+First steps
+
+Daily rhythm
+
+Structuring the day
+
+Materials and resources
+
+How to combine homeschooling with family life
+
+Sidebar navigation for easy access to sections.
+
+Blog
+
+Dynamic content section for articles and printables.
+
+Contains subcategories such as:
+
+Ervaringen (experiences)
+
+Thema’s / Seizoenen
+
+Printables
+
+Opvoeding & balans
+
+Archive section where users can browse older posts or filter by topic.
+
+Editorial layout: large headings, white background, clear typography.
+
+Contact
+
+Simple, standard form with: name, email, message.
+
+Small text introducing the purpose of contact (questions, collaborations, consulting).
+
+Minimal design, aligned with the rest of the site.
+
+🎨 Design & Style
+
+Visual tone: calm, real, warm, minimal.
+
+Inspiration: The Gentlewoman, Kinfolk, Cerealmag.
+
+Typography:
+
+Headlines: Cormorant Garamond or Playfair Display (serif)
+
+Body text: Inter or Manrope (sans-serif)
+
+Color palette:
+
+Primary text: soft black (#1E1E1E)
+
+Accent: warm beige (#EDE9E3) or muted olive (#B6B29E)
+
+Background: off-white (#FAF9F7)
+
+Layout:
+
+Wide margins, centered text blocks
+
+Subtle divider lines between sections
+
+No icons or bright colors — purely editorial tone
+
+Header: minimalist navbar (transparent, becomes solid on scroll)
+
+Footer: clean with small tagline (“over rust, richting & groei”)
+
+🧱 Technical notes
+
+Fully responsive for mobile, tablet, and desktop.
+
+Blog content managed via markdown or a simple CMS.
+
+“Wat & Waarom” and “Beginnen” pages are long scrollable sections (with anchors in sidebar).
+
+“Blog” includes archive filter by topic/date.
+
+“Contact” uses minimal HTML form (no CAPTCHA).
+
+Light mode only.
+
+🪶 Summary
+
+Thuisonderwijs should feel like a modern, quiet online magazine —
+minimalist, text-driven, focused on warmth and real experience,
+not on flashy design or heavy visuals.
