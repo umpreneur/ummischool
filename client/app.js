@@ -19420,6 +19420,8 @@ const vw = [
     imageUrl:
       "https://images.unsplash.com/photo-1522202176988-696ce0213ce0?w=800&h=600&fit=crop",
   },
+
+
   {
     id: "2",
     title: "Dagstart",
@@ -19430,6 +19432,15 @@ const vw = [
       "https://images.unsplash.com/photo-1507842621343-583f20270319?w=800&h=600&fit=crop",
   },
   {
+    id: "3",
+    title: "Jouw Nieuwe Post",
+    excerpt:
+      "Dit is een voorbeeld van hoe je zelf een blog post kunt toevoegen. Vervang deze titel, excerpt en afbeelding met jouw eigen content!",
+    slug: "jouw-nieuwe-post",
+    imageUrl:
+      "https://images.unsplash.com/photo-1507842621343-583f20270319?w=800&h=600&fit=crop",
+  },
+   {
     id: "3",
     title: "Jouw Nieuwe Post",
     excerpt:
