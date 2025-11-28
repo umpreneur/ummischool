@@ -19445,7 +19445,7 @@ const vw = [
     title: "Rahma",
     excerpt:
       "idee 4 of zoieyts",
-    slug: "jouw-nieuwe-post",
+    slug: "iets-anders",
     imageUrl:
       "https://images.unsplash.com/photo-1507842621343-583f20270319?w=800&h=600&fit=crop",
   },
