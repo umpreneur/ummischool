@@ -19442,9 +19442,9 @@ const vw = [
   },
    {
     id: "4",
-    title: "Jouw Nieuwe Post",
+    title: "Rahma",
     excerpt:
-      "Dit is een voorbeeld van hoe je zelf een blog post kunt toevoegen. Vervang deze titel, excerpt en afbeelding met jouw eigen content!",
+      "idee 4 of zoieyts",
     slug: "jouw-nieuwe-post",
     imageUrl:
       "https://images.unsplash.com/photo-1507842621343-583f20270319?w=800&h=600&fit=crop",
@@ -19533,6 +19533,30 @@ const xw = {
       "Probeer het eens. Begin de dag samen, met rust en aandacht. Je zult merken dat de hele dag anders aanvoelt.",
     ],
   },
+
+ "Rahma": {
+    title: "Rahma",
+    category: "Geenidee",
+    date: "2025-11-29",
+    imageUrl:
+      "https://images.unsplash.com/photo-1522202176988-696ce0213ce0?w=800&h=600&fit=crop",
+    highlights: [
+      "Ja",
+      "Yeap",
+      "Yip",
+    ],
+    content: [
+      "Er is niet zoveel content.",
+      "Maar wat als het niet gaat om wat anderen vinden? Wat als het gaat om wat jij diep van binnen weet dat goed is voor jouw kind?",
+      "Thuisonderwijs is niet voor iedereen. Dat hoeft ook niet. Maar voor sommige gezinnen is het de mooiste, meest passende weg. Een weg die rust biedt, diepgang, aandacht. Een weg die ruimte maakt voor wie je kind werkelijk is.",
+      "Het is oké om je eigen pad te kiezen. Ook al begrijpt niet iedereen het. Ook al zijn er vragen en twijfels van buitenaf. Jij kent je kind. Jij ziet wat werkt en wat niet werkt.",
+      "Vertrouw daarop. Vertrouw op jezelf. En blijf lopen op het pad dat voor jullie goed voelt, ook al loopt de massa een andere kant op.",
+    ],
+  },
+
+
+
+  
 };
 function ww() {
   const [, e] = Ny("/blog/:slug"),
