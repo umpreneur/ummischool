@@ -19859,6 +19859,7 @@ function jw() {
                 }),
                 s.jsx("input", {
                   id: "name",
+                  name: "name",
                   type: "text",
                   value: e.name,
                   onChange: (h) => t({ ...e, name: h.target.value }),
@@ -19881,6 +19882,7 @@ function jw() {
                 }),
                 s.jsx("input", {
                   id: "email",
+                  name: "email",
                   type: "email",
                   value: e.email,
                   onChange: (h) => t({ ...e, email: h.target.value }),
@@ -19903,6 +19905,7 @@ function jw() {
                 }),
                 s.jsx("input", {
                   id: "subject",
+                  name: "subject",
                   type: "text",
                   value: e.subject,
                   onChange: (h) => t({ ...e, subject: h.target.value }),
@@ -19925,6 +19928,7 @@ function jw() {
                 }),
                 s.jsx("textarea", {
                   id: "message",
+                  name: "message",
                   value: e.message,
                   onChange: (h) => t({ ...e, message: h.target.value }),
                   onFocus: () => i("message"),
