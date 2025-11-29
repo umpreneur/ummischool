@@ -19846,7 +19846,7 @@ function jw() {
       : s.jsxs("form", {
           name: "contact",
           method: "POST",
-"data-netlify": "true",
+ netlify: !0,
         onSubmit: u,
           children: [
             s.jsxs("div", {
