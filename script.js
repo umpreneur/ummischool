@@ -357,8 +357,8 @@ function renderContactPage() {
         <p class="contact-subtitle" data-testid="text-contact-subtitle">Altijd voor vragen</p>
       </div>
       <div class="contact-form-wrapper">
-        <form name="contact" method="POST" netlify data-testid="form-contact">
-          <div class="form-group">
+<form action="https://formspree.io/f/mldqgory" method="POST" data-testid="form-contact">
+<div class="form-group">
             <label data-testid="label-name">Naam *</label>
             <input 
               type="text" 
