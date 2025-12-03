@@ -264,19 +264,21 @@ function renderWatIsUmmiPage() {
 // Waar Begin Ik page
 function renderWaarBeginIkPage() {
   const steps = [
-    {
-      id: "intentie",
-      title: "Thuisonderwijs begint met intentie",
-      content: "Daden worden beoordeeld naar hun intenties. Een thuisonderwijsreis start niet met boeken of schema's, maar met helderheid: waarom kiezen wij hiervoor? Niet uit reactie, maar uit richting. Je wilt je kinderen opvoeden en laten leren op een manier die klopt met jullie waarden, geloof en toekomstbeeld.",
-      highlight: "Als je weet waarom, wordt hoe veel eenvoudiger."
+   {
+  id: "intentie",
+  title: "Visie en richting: denk verder dan vandaag",
+  content: [
+    "Daden worden beoordeeld naar hun intenties. Een thuisonderwijsreis start niet met boeken of schema's, maar met helderheid: waarom kiezen wij hiervoor? Je wilt je kinderen opvoeden en laten leren op een manier die klopt met jullie waarden, geloof en toekomstbeeld.",
+
+    { 
+      type: "highlight", 
+      text: "Als je weet waarom, wordt het hoe veel eenvoudiger."
     },
-    
-    {
-      id: "leren",
-      title: "Wat is er te leren?",
-      content: "Thuisonderwijs gaat om drie dingen: kennis, vaardigheden en waarden. Je kiest bewust wat je aanbiedt, zodat je kind groeit in gedrag en praktische schoolse vaardigheden. Je hoeft niets te raden.",
-      highlight: "Je kiest bewust wat je aanbiedt voor groei."
-    },
+
+    "Wanneer je visie helder is, zie je vanzelf wat bij jullie past — en wat niet. Het helpt je keuzes te maken zonder overweldigd te raken door alle mogelijkheden.",
+
+    "Sta stil bij de lange termijn: welke waarden willen jullie meegeven? Welke vaardigheden zijn echt belangrijk voor jullie gezin? Deze antwoorden vormen de basis van jullie thuisonderwijsplan."
+},
     {
       id: "quran",
       title: "Qur'an en (fusha) Arabisch",
