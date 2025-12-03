@@ -266,18 +266,14 @@ function renderWaarBeginIkPage() {
   const steps = [
    {
   id: "intentie",
-  title: "Visie en richting: denk verder dan vandaag",
-  content:
-    "Daden worden beoordeeld naar hun intenties. Een thuisonderwijsreis start niet met boeken of schema's, maar met helderheid: waarom kiezen wij hiervoor? Je wilt je kinderen opvoeden en laten leren op een manier die klopt met jullie waarden, geloof en toekomstbeeld.",
-
-    
-      type: "highlight", 
-      text: "Als je weet waarom, wordt het hoe veel eenvoudiger."
-
-
-    "Wanneer je visie helder is, zie je vanzelf wat bij jullie past — en wat niet. Het helpt je keuzes te maken zonder overweldigd te raken door alle mogelijkheden.",
-
-    "Sta stil bij de lange termijn: welke waarden willen jullie meegeven? Welke vaardigheden zijn echt belangrijk voor jullie gezin? Deze antwoorden vormen de basis van jullie thuisonderwijsplan."
+  title: "Thuisonderwijs begint met intentie",
+    content: [
+      "Een dagstart is een kort en rustig moment waarop je samen de dag opent. Het is een bewust begin van de ochtend: eerst verbinding, daarna duidelijkheid over wat er komt.",
+      "Bij ons begint de dag vaak met een kopje thee, een gesprek over hoe iedereen zich voelt, en een kort moment om stil te staan bij wat we die dag gaan doen. Soms lezen we een kort verhaal, soms kijken we samen naar buiten en praten we over het weer of de seizoenen.",
+      { type: "highlight", text: "Het hoeft niet lang te duren. Tien minuten is vaak genoeg. Het gaat om de intentie: we starten samen, we zijn even bij elkaar, en daarna gaan we aan de slag." },
+      "Deze dagstart geeft rust en richting. Het helpt kinderen om zich veilig en gezien te voelen voordat de dag echt begint. En het helpt ons als ouders om bewust aanwezig te zijn, in plaats van meteen in de hectiek te schieten.",
+      { type: "highlight", text: "Probeer het eens. Begin de dag samen, met rust en aandacht. Je zult merken dat de hele dag anders aanvoelt." },
+    ],
 },
     {
       id: "quran",
