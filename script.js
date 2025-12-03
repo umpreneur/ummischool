@@ -267,7 +267,7 @@ function renderWaarBeginIkPage() {
    {
   id: "intentie",
   title: "Visie en richting: denk verder dan vandaag",
-  content: [
+  content:
     "Daden worden beoordeeld naar hun intenties. Een thuisonderwijsreis start niet met boeken of schema's, maar met helderheid: waarom kiezen wij hiervoor? Je wilt je kinderen opvoeden en laten leren op een manier die klopt met jullie waarden, geloof en toekomstbeeld.",
 
     { 
