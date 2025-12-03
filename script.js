@@ -270,10 +270,10 @@ function renderWaarBeginIkPage() {
   content:
     "Daden worden beoordeeld naar hun intenties. Een thuisonderwijsreis start niet met boeken of schema's, maar met helderheid: waarom kiezen wij hiervoor? Je wilt je kinderen opvoeden en laten leren op een manier die klopt met jullie waarden, geloof en toekomstbeeld.",
 
-    { 
+    
       type: "highlight", 
       text: "Als je weet waarom, wordt het hoe veel eenvoudiger."
-    },
+
 
     "Wanneer je visie helder is, zie je vanzelf wat bij jullie past — en wat niet. Het helpt je keuzes te maken zonder overweldigd te raken door alle mogelijkheden.",
 
