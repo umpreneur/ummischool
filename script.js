@@ -265,23 +265,13 @@ function renderWatIsUmmiPage() {
 function renderWaarBeginIkPage() {
   const steps = [
     {
-      id: "intentie",
+      id: "Visi",
       title: "Thuisonderwijs begint met intentie",
       content: "Daden worden beoordeeld naar hun intenties. Een thuisonderwijsreis start niet met boeken of schema's, maar met helderheid: waarom kiezen wij hiervoor? Niet uit reactie, maar uit richting. Je wilt je kinderen opvoeden en laten leren op een manier die klopt met jullie waarden, geloof en toekomstbeeld.",
       highlight: "Als je weet waarom, wordt hoe veel eenvoudiger."
     },
-    {
-      id: "toekomst",
-      title: "Denk verder dan vandaag",
-      content: "Voordat je materialen kiest, stel jezelf een paar vragen: Welke waarden willen we onze kinderen meegeven? Hoe zien we ons gezin over vijf of tien jaar? Blijven we hier of bereiden we ons voor op een toekomst elders? Welke talen, gewoontes en kennis zijn belangrijk voor die toekomst? Je antwoorden geven richting.",
-      highlight: "Ze maken meteen duidelijk wat bij jullie past — en wat niet."
-    },
-    {
-      id: "doelen",
-      title: "Doelen zonder druk",
-      content: "Wat telt, is dat je weet waar je naartoe werkt, en dat je bijstuurt wanneer het nodig is. Rust, duidelijkheid en realistische stappen brengen verder dan perfectie. Voor inspiratie download hier de handleiding van NVVTO, voor het schrijven van een plan: https://www.thuisonderwijs.nl/wp-content/uploads/2023/09/Handleiding-schrijf-je-to-plan.pdf",
-      highlight: "Rust en duidelijkheid brengen verder dan perfectie. Download NVVTO handleiding: https://www.thuisonderwijs.nl/wp-content/uploads/2023/09/Handleiding-schrijf-je-to-plan.pdf"
-    },
+    
+    
     {
       id: "leren",
       title: "Wat is er te leren?",
