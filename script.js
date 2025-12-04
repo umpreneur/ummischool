@@ -264,12 +264,13 @@ function renderWatIsUmmiPage() {
 // Waar Begin Ik page
 function renderWaarBeginIkPage() {
   const steps = [
-    {
-      id: "intentie",
-      title: "Visie",
-      content: "Daden worden beoordeeld naar hun intenties. Een thuisonderwijsreis start niet met boeken of schema's, maar met helderheid: waarom kiezen wij hiervoor? Niet uit reactie, maar uit richting. Je wilt je kinderen opvoeden en laten leren op een manier die klopt met jullie waarden, geloof en toekomstbeeld.",
-      highlight: "Als je weet waarom, wordt hoe veel eenvoudiger."
-    },
+   {
+  id: "intentie",
+  title: "Visie",
+  content: "«إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ»  daden worden beoordeeld naar hun intenties. In de islam begint elke keuze bij niyyah. Ook thuisonderwijs vraagt om een bewuste bedoeling: waarom willen we onze kinderen zelf onderwijzen? Welke waarden willen we in hen laten groeien? Als de intentie duidelijk is, ontstaat richting. Je ziet sneller welke keuzes passen bij jullie gezin, geloof en toekomst. \n\n**Denk verder dan vandaag:**\n• Welke islamitische waarden, adab en karaktereigenschappen willen we meegeven?\n• Hoe zien we ons gezin over vijf of tien jaar, in imaan en ontwikkeling?\n• Blijven we hier, of bereiden we ons voor op een toekomst elders?\n• Welke talen — zoals Nederlands en Arabisch zijn belangrijk voor onze toekomst en religieuze groei?\n• Welke leerroute ondersteunt deze doelen het best, zonder onze waarden te verliezen?",
+  highlight: "Ter ondersteuning bij het schrijven van een plan kun je de handleiding van de NVVTO gebruiken: https://www.thuisonderwijs.nl/wp-content/uploads/2023/09/Handleiding-schrijf-je-to-plan.pdf"
+},
+
     
     
     {
