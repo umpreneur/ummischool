@@ -265,8 +265,8 @@ function renderWatIsUmmiPage() {
 function renderWaarBeginIkPage() {
   const steps = [
     {
-      id: "Visi",
-      title: "Thuisonderwijs begint met intentie",
+      id: "intentie",
+      title: "Visie",
       content: "Daden worden beoordeeld naar hun intenties. Een thuisonderwijsreis start niet met boeken of schema's, maar met helderheid: waarom kiezen wij hiervoor? Niet uit reactie, maar uit richting. Je wilt je kinderen opvoeden en laten leren op een manier die klopt met jullie waarden, geloof en toekomstbeeld.",
       highlight: "Als je weet waarom, wordt hoe veel eenvoudiger."
     },
