@@ -268,15 +268,11 @@ function renderWaarBeginIkPage() {
  
       id: "intentie",
       title: "Thuisonderwijs begint met intentie",
-
-     
-    content: [
-      "In deze tijd praat iedereen. Iedereen adviseert, bekritiseert, vergelijkt en vult in. Soms lijkt het alsof meningen luider zijn geworden dan wijsheid. En precies in zo'n wereld is het gemakkelijk om te twijfelen aan een keuze die niet mainstream is, zoals thuisonderwijs.",
-      { type: "highlight", text: "Maar wat als het niet gaat om wat anderen vinden? Wat als het gaat om wat jij diep van binnen weet dat goed is voor jouw kind?" },
-      "Thuisonderwijs is niet voor iedereen. Dat hoeft ook niet. Maar voor sommige gezinnen is het de mooiste, meest passende weg. Een weg die rust biedt, diepgang, aandacht. Een weg die ruimte maakt voor wie je kind werkelijk is.",
-      "Het is oké om je eigen pad te kiezen. Ook al begrijpt niet iedereen het. Ook al zijn er vragen en twijfels van buitenaf. Jij kent je kind. Jij ziet wat werkt en wat niet werkt.",
-      { type: "highlight", text: "Vertrouw daarop. Vertrouw op jezelf. En blijf lopen op het pad dat voor jullie goed voelt, ook al loopt de massa een andere kant op." },
-    ],
+   content: "Voor veel gezinnen is dit de basis. Hoe eerder een kind Qur'an hoort en de klanken",
+       highlight: "Belangrijk is dat het consequent een plek krijgt in het dagelijkse ritme",
+    "van het Arabisch leert kennen, hoe natuurlijker het lezen en memoriseren gaat. Dit kan je zelf begeleiden of via een docent; belangrijk is dat het consequent een plek krijgt in het dagelijkse ritme.",
+      highlight: "Belangrijk is dat het consequent een plek krijgt in het dagelijkse ritme."
+   
   },
 
 
