@@ -1,30 +1,12 @@
 // Blog Data
 const blogPreviews = [
-  {
+
+{
   id: "intentie",
   title: "Visie",
-  content: (
-    <>
-      <p>
-        إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ — daden worden beoordeeld naar hun intenties.
-        In de islam begint elke keuze bij niyyah. Ook thuisonderwijs vraagt om een
-        bewuste bedoeling: waarom willen we onze kinderen zelf onderwijzen? Welke
-        waarden willen we in hen laten groeien? Een heldere intentie geeft richting
-        en maakt keuzes eenvoudiger.
-      </p>
-
-      <p><strong>Denk verder dan vandaag:</strong></p>
-      <ul>
-        <li>Welke islamitische waarden, adab en karaktereigenschappen willen we meegeven?</li>
-        <li>Hoe zien we ons gezin over vijf of tien jaar, in imaan en ontwikkeling?</li>
-        <li>Blijven we hier of bereiden we ons voor op een toekomst elders?</li>
-        <li>Welke talen – zoals Nederlands en Arabisch – ondersteunen onze toekomst en religieuze groei?</li>
-        <li>Welke leerroute past hierbij zonder onze waarden te verliezen?</li>
-      </ul>
-    </>
-  ),
-  highlight:
-    "Ter ondersteuning bij het schrijven van een plan kun je de handleiding van de NVVTO gebruiken: https://www.thuisonderwijs.nl/wp-content/uploads/2023/09/Handleiding-schrijf-je-to-plan.pdf"
+  content: "إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ — daden worden beoordeeld naar hun intenties.\n\nIn de islam begint elke keuze bij niyyah. Ook thuisonderwijs vraagt om een bewuste bedoeling: waarom willen we onze kinderen zelf onderwijzen? Welke waarden willen we in hen laten groeien? Een heldere intentie geeft richting en maakt keuzes eenvoudiger.\n\nDenk verder dan vandaag:\n• Welke islamitische waarden, adab en karaktereigenschappen willen we meegeven?\n• Hoe zien we ons gezin over vijf of tien jaar, in imaan en ontwikkeling?\n• Blijven we hier of bereiden we ons voor op een toekomst elders?\n• Welke talen — zoals Nederlands en Arabisch — ondersteunen onze toekomst en religieuze groei?\n• Welke leerroute past hierbij zonder onze waarden te verliezen?",
+  
+  highlight: "Ter ondersteuning bij het schrijven van een plan kun je de handleiding van de NVVTO gebruiken: https://www.thuisonderwijs.nl/wp-content/uploads/2023/09/Handleiding-schrijf-je-to-plan.pdf"
 }
   {
     id: "2",
