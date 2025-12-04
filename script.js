@@ -1,13 +1,14 @@
 // Blog Data
 const blogPreviews = [
 
-{
-  id: "intentie",
-  title: "Visie",
-  content: "إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ — daden worden beoordeeld naar hun intenties.\n\nIn de islam begint elke keuze bij niyyah. Ook thuisonderwijs vraagt om een bewuste bedoeling: waarom willen we onze kinderen zelf onderwijzen? Welke waarden willen we in hen laten groeien? Een heldere intentie geeft richting en maakt keuzes eenvoudiger.\n\nDenk verder dan vandaag:\n• Welke islamitische waarden, adab en karaktereigenschappen willen we meegeven?\n• Hoe zien we ons gezin over vijf of tien jaar, in imaan en ontwikkeling?\n• Blijven we hier of bereiden we ons voor op een toekomst elders?\n• Welke talen — zoals Nederlands en Arabisch — ondersteunen onze toekomst en religieuze groei?\n• Welke leerroute past hierbij zonder onze waarden te verliezen?",
-  
-  highlight: "Ter ondersteuning bij het schrijven van een plan kun je de handleiding van de NVVTO gebruiken: https://www.thuisonderwijs.nl/wp-content/uploads/2023/09/Handleiding-schrijf-je-to-plan.pdf"
-}
+  {
+    id: "1",
+    title: "Jouw Pad, Niet dat van de Massa",
+    excerpt: "In deze tijd praat iedereen. Iedereen adviseert, bekritiseert, vergelijkt en vult in. Soms lijkt het alsof meningen luider zijn geworden dan wijsheid.",
+    slug: "jouw-pad-niet-dat-van-de-massa",
+    thumbnailUrl: "https://images.unsplash.com/photo-1522202176988-696ce0213ce0?w=300&h=200&fit=crop",
+    imageUrl: "https://images.unsplash.com/photo-1522202176988-696ce0213ce0?w=800&h=600&fit=crop",
+  },
   {
     id: "2",
     title: "Dagstart",
@@ -264,25 +265,13 @@ function renderWatIsUmmiPage() {
 // Waar Begin Ik page
 function renderWaarBeginIkPage() {
   const steps = [
- {
+{
   id: "intentie",
   title: "Visie",
-  content:
-    "إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ — daden worden beoordeeld naar hun intenties.\n\n" +
-    "In de islam begint elke keuze bij niyyah. Ook thuisonderwijs vraagt om een bewuste bedoeling: waarom willen we onze kinderen zelf onderwijzen? Welke waarden willen we in hen laten groeien? Een heldere intentie geeft richting en maakt keuzes eenvoudiger.\n\n" +
-    "Denk verder dan vandaag:\n" +
-    "• Welke islamitische waarden, adab en karaktereigenschappen willen we meegeven?\n" +
-    "• Hoe zien we ons gezin over vijf of tien jaar, in imaan en ontwikkeling?\n" +
-    "• Blijven we hier of bereiden we ons voor op een toekomst elders?\n" +
-    "• Welke talen — zoals Nederlands en Arabisch — ondersteunen onze toekomst en religieuze groei?\n" +
-    "• Welke leerroute past hierbij zonder onze waarden te verliezen?",
+  content: "إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ — daden worden beoordeeld naar hun intenties.\n\nIn de islam begint elke keuze bij niyyah. Ook thuisonderwijs vraagt om een bewuste bedoeling: waarom willen we onze kinderen zelf onderwijzen? Welke waarden willen we in hen laten groeien? Een heldere intentie geeft richting en maakt keuzes eenvoudiger.\n\nDenk verder dan vandaag:\n• Welke islamitische waarden, adab en karaktereigenschappen willen we meegeven?\n• Hoe zien we ons gezin over vijf of tien jaar, in imaan en ontwikkeling?\n• Blijven we hier of bereiden we ons voor op een toekomst elders?\n• Welke talen — zoals Nederlands en Arabisch — ondersteunen onze toekomst en religieuze groei?\n• Welke leerroute past hierbij zonder onze waarden te verliezen?",
   
-  highlight:
-    "Ter ondersteuning bij het schrijven van een plan kun je de handleiding van de NVVTO gebruiken: https://www.thuisonderwijs.nl/wp-content/uploads/2023/09/Handleiding-schrijf-je-to-plan.pdf"
-},
-
-
-    
+  highlight: "Ter ondersteuning bij het schrijven van een plan kun je de handleiding van de NVVTO gebruiken: https://www.thuisonderwijs.nl/wp-content/uploads/2023/09/Handleiding-schrijf-je-to-plan.pdf"
+}
     
     {
       id: "leren",
