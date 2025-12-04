@@ -269,14 +269,16 @@ function renderWaarBeginIkPage() {
  
    
   id: "intentie",
-  title: "Thuisonderwijs begint met intentie",
+  title: "Visie",
   content: `
     Voor veel gezinnen is dit de basis. Hoe eerder een kind Qur'an hoort en de klanken
     van het Arabisch leert kennen, hoe natuurlijker het lezen en memoriseren gaat.
     Dit kan je zelf begeleiden of via een docent; belangrijk is dat het consequent 
     een plek krijgt in het dagelijkse ritme.
   `,
-  highlight: "Belangrijk is dat het consequent een plek krijgt in het dagelijkse ritme."
+  highlight: "Wil je inspiratie of ondersteuning bij het beschrijven van je plan?
+👉 Download hier de NVVTO-handleiding:
+https://www.thuisonderwijs.nl/wp-content/uploads/2023/09/Handleiding-schrijf-je-to-plan.pdf"
 },
 
 
