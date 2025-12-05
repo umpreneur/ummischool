@@ -266,9 +266,28 @@ function renderWaarBeginIkPage() {
   const steps = [
     {
       id: "intentie",
-      title: "Thuisonderwijs begint met intentie",
-      content: "Daden worden beoordeeld naar hun intenties. Een thuisonderwijsreis start niet met boeken of schema's, maar met helderheid: waarom kiezen wij hiervoor? Niet uit reactie, maar uit richting. Je wilt je kinderen opvoeden en laten leren op een manier die klopt met jullie waarden, geloof en toekomstbeeld.",
-      highlight: "Als je weet waarom, wordt hoe veel eenvoudiger."
+  title: "Visie",
+  content: "Thuisonderwijs begint niet met boeken, methodes of schema’s. Het begint met <strong>intentie en richting</strong>.<br><br>" +
+
+        "Je kiest deze weg omdat je je kinderen wilt laten opgroeien en leren op een manier die past bij jullie waarden, overtuigingen en toekomstbeeld. Wanneer het waarom helder is, wordt het hoe vanzelf overzichtelijker.<br><br>" +
+
+        "<strong>Denk verder dan vandaag:</strong><br>" +
+        "Voor je een leerroute of materialen kiest, helpt het om stil te staan bij een paar vragen:<br>" +
+        "• Welke waarden willen we onze kinderen meegeven?<br>" +
+        "• Hoe zien we ons gezin over vijf of tien jaar?<br>" +
+        "• Waar leven we dan? Blijven we hier of bereiden we ons voor op een toekomst elders?<br>" +
+        "• Welke talen, gewoontes en kennis zijn belangrijk voor die toekomst?<br>" +
+        "• Welke manier van leren ondersteunt dit het best?<br><br>" +
+
+        "De antwoorden bieden helderheid. Ze laten meteen zien wat bij jullie past — en wat niet.<br><br>" +
+
+        "<strong>Doelen zonder druk:</strong><br>" +
+        "Thuisonderwijs vraagt geen perfectie. Het vraagt richting, rust en het vermogen om bij te sturen wanneer dat nodig is. Kleine, realistische stappen brengen meer op dan ingewikkelde plannen. Wat telt, is dat je weet waar je naartoe werkt.",
+      
+      highlight:
+        "<strong>Wil je praktisch aan de slag?</strong><br>" +
+        "Gebruik dan de handleiding van de NVVTO als hulpmiddel bij het schrijven van je plan:<br>" +
+        "<a href='https://www.thuisonderwijs.nl/wp-content/uploads/2023/09/Handleiding-schrijf-je-to-plan.pdf' target='_blank'>Download de NVVTO-handleiding</a>"
     },
     {
       id: "toekomst",
