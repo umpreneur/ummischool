@@ -298,30 +298,7 @@ function renderWaarBeginIkPage() {
       content: "Thuisonderwijs gaat om drie dingen: kennis, vaardigheden en waarden. Je kiest bewust wat je aanbiedt, zodat je kind groeit in gedrag en praktische schoolse vaardigheden. Je hoeft niets te raden.",
       highlight: "Je kiest bewust wat je aanbiedt voor groei."
     },
-    {
-      id: "quran",
-      title: "Qur'an en (fusha) Arabisch",
-      content: "Voor veel gezinnen is dit de basis. Hoe eerder een kind Qur'an hoort en de klanken van het Arabisch leert kennen, hoe natuurlijker het lezen en memoriseren gaat. Dit kan je zelf begeleiden of via een docent; belangrijk is dat het consequent een plek krijgt in het dagelijkse ritme.",
-      highlight: "Belangrijk is dat het consequent een plek krijgt in het dagelijkse ritme."
-    },
-    {
-      id: "adab",
-      title: "Adab en Akhlaaq",
-      content: "Goed gedrag groeit door dagelijkse gewoontes, niet door lange lessen. Kinderen leren door: verhalen, voorbeeld, herhaling en duidelijke grenzen. Boeken over de profeten en verhalen met islamitische normen en waarden helpen om gedrag begrijpelijk en herkenbaar te maken.",
-      highlight: "Goed gedrag groeit door dagelijkse gewoontes, niet door lange lessen."
-    },
-    {
-      id: "schoolvakken",
-      title: "Hoe weet ik welke schoolvakken ik moet aanbieden?",
-      content: "Je hoeft niet zelf uit te zoeken wat een kind normaal leert. Er zijn twee duidelijke bronnen: SLO (https://www.slo.nl/thema/meer/jonge-kind/doelen-jonge-kind/) - hier zie je per leeftijd welke onderwerpen vaak worden aangeboden in het basisonderwijs. En het boek 'Van kerndoel tot referentieniveau' van auteur Marielle van der Stap - dit boek laat per groep en per vak zien hoe de leerstof oploopt. Overzichtelijk, praktisch en fijn als richtlijn.",
-      highlight: "Met deze twee bronnen krijg je helder wat er onder 'schoolse basis' valt. SLO: https://www.slo.nl/thema/meer/jonge-kind/doelen-jonge-kind/"
-    },
-    {
-      id: "dagelijks",
-      title: "Vaardigheden uit het dagelijks leven",
-      content: "Kinderen leren veel door mee te doen met wat er thuis gebeurt: aankleden, meehelpen, kleine taken afronden, samenwerken en zelf dingen proberen. Simpele, echte taken die vanzelf concentratie, zelfstandigheid en verantwoordelijkheid opbouwen, zonder werkboek.",
-      highlight: "Echte taken opbouwen concentratie en zelfstandigheid."
-    },
+    
     {
       id: "methode",
       title: "Welke methode past bij jullie?",
@@ -346,12 +323,7 @@ function renderWaarBeginIkPage() {
       content: "In Nederland geldt leerplicht, maar geen schoolplicht. Een kind moet leren, maar dat hoeft niet op school als je voldoet aan de voorwaarden voor vrijstelling (artikel 5b, richtingbezwaar). Dit betekent dat er geen school in de buurt is die past bij jullie levensovertuiging. Dit leg je uit in een brief aan de gemeente.\n\nWanneer dien je de vrijstelling in? Je levert de vrijstellingsbrief één maand voordat je kind leerplichtig wordt in. De vrijstelling geldt per kind, dus elk kind heeft een eigen brief nodig. Je bevestigt de vrijstelling elk jaar opnieuw. Bij verhuizing meld je de vrijstelling opnieuw bij je nieuwe gemeente.\n\nBelangrijk om te weten: Vrijstelling is een melding, geen aanvraag. Je vraagt geen toestemming, als je aan de voorwaarden voldoet en op tijd bent, is de vrijstelling van kracht. Je hoeft niet te wachten op goedkeuring.\n\nEen voorbeeldbrief en uitleg vind je hier: https://www.thuisonderwijs.nl/wettelijk/5onderb/",
       highlight: "Vrijstelling is een melding, geen aanvraag. Voorbeeldbrief: https://www.thuisonderwijs.nl/wettelijk/5onderb/"
     },
-    {
-      id: "hulp",
-      title: "Hulp & ondersteuning",
-      content: "Voor juridische vragen of twijfel kun je terecht bij:\n\nFacebookgroep: Thuisonderwijs Juridisch (https://www.facebook.com/groups/tojur/)\n\nWebsite van Peter van Zuidam - juridische uitleg & ondersteuning (https://thuisonderwijs.net/)\n\nDeze bronnen helpen je stap voor stap door de juridische kant van thuisonderwijs.",
-      highlight: "Hulp is beschikbaar: Facebook https://www.facebook.com/groups/tojur/ | Website https://thuisonderwijs.net/"
-    },
+    
   ];
 
   const stepsHtml = steps.map(step => `
