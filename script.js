@@ -295,13 +295,7 @@ function renderWaarBeginIkPage() {
     {
       id: "leren",
       title: "Wat is er te leren?",
-      content: "Thuisonderwijs gaat om drie dingen: kennis, vaardigheden en waarden. Je kiest bewust wat je aanbiedt, zodat je kind groeit in gedrag en praktische schoolse vaardigheden. Je hoeft niets te raden.",
-      highlight: "Je kiest bewust wat je aanbiedt voor groei."
-    },
- {
-      id: "leren",
-      title: "Wat is er te leren?",
-  content:
+content:
     "Thuisonderwijs draait om drie onderdelen: kennis, vaardigheden en waarden.<br>" +
     "Het gaat niet alleen om wat je kind moet <em>weten</em>, maar ook om wat het moet <em>kunnen</em> en <em>wie het wordt</em>.<br><br>" +
 
@@ -315,31 +309,80 @@ function renderWaarBeginIkPage() {
   
   highlight: ""
 },
-
-    {
+ {
       id: "quran",
       title: "Qur'an en (fusha) Arabisch",
-      content: "Voor veel gezinnen is dit de basis. Hoe eerder een kind Qur'an hoort en de klanken van het Arabisch leert kennen, hoe natuurlijker het lezen en memoriseren gaat. Dit kan je zelf begeleiden of via een docent; belangrijk is dat het consequent een plek krijgt in het dagelijkse ritme.",
-      highlight: "Belangrijk is dat het consequent een plek krijgt in het dagelijkse ritme."
-    },
+  content:
+    "Binnen thuisonderwijs vormt Qur’an en Arabisch voor veel gezinnen een vast leergebied. Kinderen werken hierbij aan:<br><br>" +
+    "• het herkennen van de klanken en het ritme van de Qur’an<br>" +
+    "• het lezen van Arabische letters in verschillende schrijfvormen<br>" +
+    "• correcte uitspraak volgens de basisregels van tajwied<br>" +
+    "• vloeiend reciteren en het stapsgewijs memoriseren van Qur’an<br>" +
+    "• een eerste basis in fusha-Arabisch, zoals eenvoudige woorden en zinnen<br><br>" +
+    "Je kunt dit zelf aanbieden of met een docent. Het belangrijkste is dat het regelmatig en gestructureerd terugkomt.",
+  
+  highlight: ""
+},
+
+
+   
     {
       id: "adab",
       title: "Adab en Akhlaaq",
-      content: "Goed gedrag groeit door dagelijkse gewoontes, niet door lange lessen. Kinderen leren door: verhalen, voorbeeld, herhaling en duidelijke grenzen. Boeken over de profeten en verhalen met islamitische normen en waarden helpen om gedrag begrijpelijk en herkenbaar te maken.",
-      highlight: "Goed gedrag groeit door dagelijkse gewoontes, niet door lange lessen."
-    },
+  content:
+    "Goed karakter ontstaat door de omgeving waarin een kind opgroeit: door wat het ziet, hoort en dagelijks herhaalt.<br><br>" +
+
+    "<strong>Richtlijnen</strong><br>" +
+    "Vanuit Qur’an en Sunnah leert een kind welke houding past en hoe het met anderen omgaat. Verhalen uit de sirah, de profeten en de sahaba geven herkenbare voorbeelden om na te volgen.<br><br>" +
+
+    "<strong>Wat kinderen ontwikkelen:</strong><br>" +
+    "• adab: zichtbaar gedrag zoals respect, beleefdheid en zorg voor anderen<br>" +
+    "• akhlaaq: innerlijke eigenschappen zoals eerlijkheid, zelfbeheersing en betrouwbaarheid<br>" +
+    "• character building: doorzetten, verantwoordelijkheid nemen en omgaan met uitdagingen<br><br>" +
+
+    "Karakter groeit door voorbeeld, duidelijke gewoontes en herhaling — versterkt door verhalen die gedrag herkenbaar en toepasbaar maken.",
+  
+  highlight: ""
+},
+
     {
       id: "schoolvakken",
       title: "Hoe weet ik welke schoolvakken ik moet aanbieden?",
-      content: "Je hoeft niet zelf uit te zoeken wat een kind normaal leert. Er zijn twee duidelijke bronnen: SLO (https://www.slo.nl/thema/meer/jonge-kind/doelen-jonge-kind/) - hier zie je per leeftijd welke onderwerpen vaak worden aangeboden in het basisonderwijs. En het boek 'Van kerndoel tot referentieniveau' van auteur Marielle van der Stap - dit boek laat per groep en per vak zien hoe de leerstof oploopt. Overzichtelijk, praktisch en fijn als richtlijn.",
-      highlight: "Met deze twee bronnen krijg je helder wat er onder 'schoolse basis' valt. SLO:"
-    },
+  content:
+    "Wil je weten wat kinderen in Nederland meestal leren op de basisschool? De kerndoelen van SLO geven per leeftijd en per leergebied een helder overzicht van onderwerpen zoals taal, rekenen en wereldoriëntatie.<br><br>" +
+
+    "Je gebruikt deze informatie als richting: jij bepaalt welke vakken je thuis aanbiedt en in welk tempo dat past bij jullie gezin.<br><br>" +
+
+    "<strong>Je bent niet gebonden aan het Nederlandse curriculum</strong><br>" +
+    "Thuisonderwijs geeft ruimte om een curriculum te kiezen dat bij jullie past. Je kunt:<br>" +
+    "• de Nederlandse kerndoelen volgen<br>" +
+    "• kiezen voor een buitenlands curriculum, zoals het UK-curriculum, US-curriculum of het internationale IB-programma<br><br>" +
+
+    "Welke keuze je ook maakt: het is belangrijk om de ontwikkeling van je kind goed bij te houden. Dat helpt wanneer je kind later wil:<br>" +
+    "• instromen in de middelbare school<br>" +
+    "• een eindtoets of Cito maken<br>" +
+    "• toewerken naar het staatsexamen<br><br>" +
+
+    "Met een helder plan weet je waar je kind staat en blijven verschillende routes open.",
+  
+  highlight:
+    "<strong>Handige bronnen:</strong><br>" +
+    "• Huidige SLO-kerndoelen:<br>" +
+    "<a href='https://www.slo.nl/thema/meer/jonge-kind/doelen-jonge-kind/' target='_blank'>Bekijk de kerndoelen</a><br><br>" +
+    "• Vernieuwing kerndoelen (2025 – conceptfase):<br>" +
+    "<a href='https://www.slo.nl/thema/meer/actualisatie-kerndoelen-examenprogramma/actualisatie-kerndoelen/' target='_blank'>Meer over de actualisatie</a>"
+},
+
     {
       id: "dagelijks",
       title: "Vaardigheden uit het dagelijks leven",
-      content: "Kinderen leren veel door mee te doen met wat er thuis gebeurt: aankleden, meehelpen, kleine taken afronden, samenwerken en zelf dingen proberen. Simpele, echte taken die vanzelf concentratie, zelfstandigheid en verantwoordelijkheid opbouwen, zonder werkboek.",
-      highlight: "Echte taken opbouwen concentratie en zelfstandigheid."
-    },
+  content:
+    "Kinderen leren niet alleen uit boeken. Veel belangrijke vaardigheden ontwikkelen ze in het dagelijks leven, door mee te draaien in het gezin.<br><br>" +
+    "Bij eenvoudige taken zoals aankleden, tafel dekken, iets opruimen, samenwerken of zelf iets proberen, oefent een kind automatisch vaardigheden zoals concentratie, zelfstandigheid en verantwoordelijkheid.<br><br>" +
+    "Deze praktische ervaringen vormen een natuurlijke basis voor schoolse taken en horen net zo goed bij 'wat er te leren is' binnen thuisonderwijs.",
+  
+  highlight: ""
+},
 
 
 
