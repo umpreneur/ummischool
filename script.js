@@ -298,6 +298,67 @@ function renderWaarBeginIkPage() {
       content: "Thuisonderwijs gaat om drie dingen: kennis, vaardigheden en waarden. Je kiest bewust wat je aanbiedt, zodat je kind groeit in gedrag en praktische schoolse vaardigheden. Je hoeft niets te raden.",
       highlight: "Je kiest bewust wat je aanbiedt voor groei."
     },
+ {
+      id: "leren",
+      title: "Wat is er te leren?",
+  content:
+    "Thuisonderwijs draait om drie onderdelen: kennis, vaardigheden en waarden.<br>" +
+    "Het gaat niet alleen om wat je kind moet <em>weten</em>, maar ook om wat het moet <em>kunnen</em> en <em>wie het wordt</em>.<br><br>" +
+
+    "Binnen thuisonderwijs leren kinderen onder andere:<br>" +
+    "• Qur’an en (fusha) Arabisch<br>" +
+    "• Adab, akhlaaq en karaktervorming<br>" +
+    "• Schoolvakken zoals taal, rekenen en wereldoriëntatie<br>" +
+    "• Vaardigheden uit het dagelijks leven, zoals zelfstandigheid en verantwoordelijkheid<br><br>" +
+
+    "In de onderdelen hieronder lees je per thema wat je kind leert en hoe je dat thuis kunt vormgeven.",
+  
+  highlight: ""
+},
+
+    {
+      id: "quran",
+      title: "Qur'an en (fusha) Arabisch",
+      content: "Voor veel gezinnen is dit de basis. Hoe eerder een kind Qur'an hoort en de klanken van het Arabisch leert kennen, hoe natuurlijker het lezen en memoriseren gaat. Dit kan je zelf begeleiden of via een docent; belangrijk is dat het consequent een plek krijgt in het dagelijkse ritme.",
+      highlight: "Belangrijk is dat het consequent een plek krijgt in het dagelijkse ritme."
+    },
+    {
+      id: "adab",
+      title: "Adab en Akhlaaq",
+      content: "Goed gedrag groeit door dagelijkse gewoontes, niet door lange lessen. Kinderen leren door: verhalen, voorbeeld, herhaling en duidelijke grenzen. Boeken over de profeten en verhalen met islamitische normen en waarden helpen om gedrag begrijpelijk en herkenbaar te maken.",
+      highlight: "Goed gedrag groeit door dagelijkse gewoontes, niet door lange lessen."
+    },
+    {
+      id: "schoolvakken",
+      title: "Hoe weet ik welke schoolvakken ik moet aanbieden?",
+      content: "Je hoeft niet zelf uit te zoeken wat een kind normaal leert. Er zijn twee duidelijke bronnen: SLO (https://www.slo.nl/thema/meer/jonge-kind/doelen-jonge-kind/) - hier zie je per leeftijd welke onderwerpen vaak worden aangeboden in het basisonderwijs. En het boek 'Van kerndoel tot referentieniveau' van auteur Marielle van der Stap - dit boek laat per groep en per vak zien hoe de leerstof oploopt. Overzichtelijk, praktisch en fijn als richtlijn.",
+      highlight: "Met deze twee bronnen krijg je helder wat er onder 'schoolse basis' valt. SLO:"
+    },
+    {
+      id: "dagelijks",
+      title: "Vaardigheden uit het dagelijks leven",
+      content: "Kinderen leren veel door mee te doen met wat er thuis gebeurt: aankleden, meehelpen, kleine taken afronden, samenwerken en zelf dingen proberen. Simpele, echte taken die vanzelf concentratie, zelfstandigheid en verantwoordelijkheid opbouwen, zonder werkboek.",
+      highlight: "Echte taken opbouwen concentratie en zelfstandigheid."
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     
     {
       id: "methode",
