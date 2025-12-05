@@ -273,13 +273,13 @@ function renderWaarBeginIkPage() {
 
     "Als je dat weet, wordt kiezen eenvoudiger. Je doet alleen wat echt bij jullie gezin past.<br><br>" +
 
-    "<strong>Denk verder dan vandaag:</strong><br>" +
-    "Het helpt om even stil te staan bij vragen zoals:<br>" +
-    "• Welke waarden wil je meegeven?<br>" +
-    "• Hoe ziet jullie leven er over vijf à tien jaar uit?<br>" +
-    "• Waar wonen jullie dan?<br>" +
-    "• Welke talen en vaardigheden horen bij die toekomst?<br>" +
-    "• Welke methode past bij jouw kinderen?<br><br>" +
+   "<strong>Denk verder dan vandaag:</strong><br>" +
+"Hier zijn vragen die helpen om richting te bepalen:<br>" +
+"• Welke waarden willen we meegeven?<br>" +
+"• Hoe ziet ons gezin er over vijf à tien jaar uit?<br>" +
+"• Waar wonen we dan waarschijnlijk?<br>" +
+"• Welke talen en vaardigheden horen bij die toekomst?<br>" +
+"• Welke manier van leren past bij onze kinderen?" +
 
     "Deze vragen geven je een eerste richting om van daaruit keuzes te maken.<br><br>" +
 
