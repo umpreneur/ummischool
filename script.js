@@ -265,32 +265,31 @@ function renderWatIsUmmiPage() {
 function renderWaarBeginIkPage() {
   const steps = [
     {
-      id: "intentie",
+  id: "intentie",
   title: "Visie",
-  content: "Thuisonderwijs begint niet met boeken, methodes of schema’s.<br>" +
-     "Het begint met <strong>intentie en richting</strong>.<br><br>" +
+  content:
+    "Thuisonderwijs begint niet bij boeken, maar bij één vraag:<br>" +
+    "<strong>wat hebben jouw kinderen nodig voor hun toekomst?</strong><br><br>" +
 
-        "Je kiest deze weg omdat je je kinderen wilt laten opgroeien en leren op een manier die past bij jullie waarden, overtuigingen en toekomstbeeld. Wanneer het waarom helder is, wordt het hoe vanzelf overzichtelijker.<br><br>" +
+    "Als je dat weet, wordt kiezen eenvoudiger. Je doet alleen wat bij jullie gezin past.<br><br>" +
 
-        "<strong>Denk verder dan vandaag:</strong><br>" +
-        "Voor je een leerroute of materialen kiest, helpt het om stil te staan bij een paar vragen:<br>" +
-        "• Welke waarden willen we onze kinderen meegeven?<br>" +
-        "• Hoe zien we ons gezin over vijf of tien jaar?<br>" +
-        "• Waar leven we dan? Blijven we hier of bereiden we ons voor op een toekomst elders?<br>" +
-        "• Welke talen, gewoontes en kennis zijn belangrijk voor die toekomst?<br>" +
-        "• Welke manier van leren ondersteunt dit het best?<br><br>" +
+    "<strong>Denk verder dan vandaag:</strong><br>" +
+    "• Welke waarden wil je meegeven?<br>" +
+    "• Hoe ziet jullie leven er over vijf à tien jaar uit?<br>" +
+    "• Waar wonen jullie dan?<br>" +
+    "• Welke talen en vaardigheden horen daarbij?<br>" +
+    "• Welke methode past bij jouw kinderen?<br><br>" +
 
-        "De antwoorden bieden helderheid. Ze laten meteen zien wat bij jullie past — en wat niet.<br><br>" +
+    "Deze antwoorden geven richting.<br><br>" +
 
-        "<strong>Doelen zonder druk:</strong><br>" +
-        "Thuisonderwijs vraagt geen perfectie. Het vraagt richting, rust en het vermogen om bij te sturen wanneer dat nodig is. Kleine, realistische stappen brengen meer op dan ingewikkelde plannen. Wat telt, is dat je weet waar je naartoe werkt.",
-      
-      highlight:
-        "<strong>Wil je praktisch aan de slag?</strong><br>" +
-        "Gebruik dan de handleiding van de NVVTO als hulpmiddel bij het schrijven van je plan:<br>" +
-        "<a href='https://www.thuisonderwijs.nl/wp-content/uploads/2023/09/Handleiding-schrijf-je-to-plan.pdf' target='_blank'>Download de NVVTO-handleiding</a>"
-    },
+    "<strong>Doelen zonder druk:</strong><br>" +
+    "Het hoeft niet perfect. Met kleine, bewuste stappen kom je ver.",
   
+  highlight:
+    "<strong>Praktisch aan de slag?</strong><br>" +
+    "Gebruik de NVVTO-handleiding om jouw plan te schrijven:<br>" +
+    "<a href='https://www.thuisonderwijs.nl/wp-content/uploads/2023/09/Handleiding-schrijf-je-to-plan.pdf' target='_blank'>Download de handleiding</a>"
+},
     {
       id: "leren",
       title: "Wat is er te leren?",
