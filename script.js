@@ -279,7 +279,7 @@ function renderWaarBeginIkPage() {
 "• Hoe ziet ons gezin er over vijf à tien jaar uit?<br>" +
 "• Waar wonen we dan waarschijnlijk?<br>" +
 "• Welke talen en vaardigheden horen bij die toekomst?<br>" +
-"• Welke manier van leren past bij onze kinderen?" +
+"• Welke manier van leren past bij onze kinderen?<br>" +
 
     "Deze vragen geven je een eerste richting om van daaruit keuzes te maken.<br><br>" +
 
