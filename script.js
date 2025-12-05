@@ -287,7 +287,7 @@ function renderWaarBeginIkPage() {
     "Het hoeft niet perfect. Thuisonderwijs groeit met jullie mee. Met kleine, bewuste stappen kom je al ver.",
   
   highlight:
-    "<strong>Praktisch aan de slag?</strong><br>" +
+    "Praktisch aan de slag?<br>" +
     "Gebruik de NVVTO-handleiding om jouw plan te schrijven:<br><br>" +
     "<a href='https://www.thuisonderwijs.nl/wp-content/uploads/2023/09/Handleiding-schrijf-je-to-plan.pdf' target='_blank'>Download de handleiding</a>"
 },
