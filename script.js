@@ -288,7 +288,7 @@ function renderWaarBeginIkPage() {
   
   highlight:
     "<strong>Praktisch aan de slag?</strong><br>" +
-    "Gebruik de NVVTO-handleiding om jouw plan te schrijven:<br>" +
+    "Gebruik de NVVTO-handleiding om jouw plan te schrijven:<br><br>" +
     "<a href='https://www.thuisonderwijs.nl/wp-content/uploads/2023/09/Handleiding-schrijf-je-to-plan.pdf' target='_blank'>Download de handleiding</a>"
 },
 
