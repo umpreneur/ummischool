@@ -267,7 +267,8 @@ function renderWaarBeginIkPage() {
     {
       id: "intentie",
   title: "Visie",
-  content: "Thuisonderwijs begint niet met boeken, methodes of schema’s. Het begint met <strong>intentie en richting</strong>.<br><br>" +
+  content: "Thuisonderwijs begint niet met boeken, methodes of schema’s.<br>" +
+     "Het begint met <strong>intentie en richting</strong>.<br><br>" +
 
         "Je kiest deze weg omdat je je kinderen wilt laten opgroeien en leren op een manier die past bij jullie waarden, overtuigingen en toekomstbeeld. Wanneer het waarom helder is, wordt het hoe vanzelf overzichtelijker.<br><br>" +
 
