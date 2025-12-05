@@ -264,32 +264,34 @@ function renderWatIsUmmiPage() {
 // Waar Begin Ik page
 function renderWaarBeginIkPage() {
   const steps = [
-    {
+   {
   id: "intentie",
   title: "Visie",
   content:
     "Thuisonderwijs begint niet bij boeken, maar bij één vraag:<br>" +
     "<strong>wat hebben jouw kinderen nodig voor hun toekomst?</strong><br><br>" +
 
-    "Als je dat weet, wordt kiezen eenvoudiger. Je doet alleen wat bij jullie gezin past.<br><br>" +
+    "Als je dat weet, wordt kiezen eenvoudiger. Je doet alleen wat echt bij jullie gezin past.<br><br>" +
 
     "<strong>Denk verder dan vandaag:</strong><br>" +
+    "Het helpt om even stil te staan bij vragen zoals:<br>" +
     "• Welke waarden wil je meegeven?<br>" +
     "• Hoe ziet jullie leven er over vijf à tien jaar uit?<br>" +
     "• Waar wonen jullie dan?<br>" +
-    "• Welke talen en vaardigheden horen daarbij?<br>" +
+    "• Welke talen en vaardigheden horen bij die toekomst?<br>" +
     "• Welke methode past bij jouw kinderen?<br><br>" +
 
-    "Deze antwoorden geven richting.<br><br>" +
+    "Deze vragen geven je een eerste richting om van daaruit keuzes te maken.<br><br>" +
 
     "<strong>Doelen zonder druk:</strong><br>" +
-    "Het hoeft niet perfect. Met kleine, bewuste stappen kom je ver.",
+    "Het hoeft niet perfect. Thuisonderwijs groeit met jullie mee. Met kleine, bewuste stappen kom je al ver.",
   
   highlight:
     "<strong>Praktisch aan de slag?</strong><br>" +
     "Gebruik de NVVTO-handleiding om jouw plan te schrijven:<br>" +
     "<a href='https://www.thuisonderwijs.nl/wp-content/uploads/2023/09/Handleiding-schrijf-je-to-plan.pdf' target='_blank'>Download de handleiding</a>"
 },
+
     {
       id: "leren",
       title: "Wat is er te leren?",
