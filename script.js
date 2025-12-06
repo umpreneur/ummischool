@@ -334,20 +334,18 @@ content:
       id: "adab",
       title: "Adab en Akhlaaq",
   content:
-    "Goed karakter ontstaat door de omgeving waarin een kind opgroeit: door wat het ziet, hoort en dagelijks herhaalt.<br><br>" +
+  "Adab en akhlaaq verwijzen naar het zichtbare gedrag en de innerlijke houding die een kind ontwikkelt in de dagelijkse omgang met anderen.<br>" +
+  "Binnen het islamitisch thuisonderwijs maken deze onderwerpen vaak onderdeel uit van de opvoeding en het leerproces.<br><br>" +
 
-    "<strong>Richtlijnen</strong><br>" +
-    "Vanuit Qur’an en Sunnah leert een kind welke houding past en hoe het met anderen omgaat. Verhalen uit de sirah, de profeten en de sahaba geven herkenbare voorbeelden om na te volgen.<br><br>" +
+  "<strong>Wat kinderen kunnen ontwikkelen:</strong><br>" +
+  "<ul style='margin: 0.5rem 0 1rem 1.2rem; padding: 0; line-height: 1.6;'>" +
+    "<li><strong>Adab</strong> zichtbaar gedrag, zoals respect, beleefdheid en zorg voor anderen</li>" +
+    "<li><strong>Akhlaaq</strong> — innerlijke eigenschappen, zoals eerlijkheid, zelfbeheersing en betrouwbaarheid</li>" +
+    "<li><strong>Karaktervorming</strong> — vaardigheden zoals doorzetten, verantwoordelijkheid nemen en omgaan met uitdagingen</li>" +
+  "</ul>" +
 
-    "<strong>Wat kinderen ontwikkelen:</strong><br>" +
-    "• adab: zichtbaar gedrag zoals respect, beleefdheid en zorg voor anderen<br>" +
-    "• akhlaaq: innerlijke eigenschappen zoals eerlijkheid, zelfbeheersing en betrouwbaarheid<br>" +
-    "• character building: doorzetten, verantwoordelijkheid nemen en omgaan met uitdagingen<br><br>" +
-
-    "Karakter groeit door voorbeeld, duidelijke gewoontes en herhaling — versterkt door verhalen die gedrag herkenbaar en toepasbaar maken.",
-  
-  highlight: ""
-},
+  "Verhalen uit de Qur’aan, sunnah en de geschiedenis van de profeten en sahaba worden daarbij regelmatig gebruikt om voorbeelden te bieden die aansluiten bij de belevingswereld van kinderen."
+}
 
     {
       id: "schoolvakken",
