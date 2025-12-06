@@ -361,11 +361,8 @@ content:
     "• kiezen voor een buitenlands curriculum, zoals het UK-curriculum, US-curriculum of het internationale IB-programma<br><br>" +
 
     "Welke keuze je ook maakt: het is belangrijk om de ontwikkeling van je kind goed bij te houden. Dat helpt wanneer je kind later wil:<br>" +
-    "• instromen in de middelbare school<br>" +
-    "• een eindtoets of Cito maken<br>" +
-    "• toewerken naar het staatsexamen<br><br>" +
 
-    "Met een helder plan weet je waar je kind staat en blijven verschillende routes open.",
+    "Welke keuze je ook maakt, het kan helpen om de ontwikkeling van je kind goed bij te houden. <br>Dat geeft overzicht wanneer je later wilt aansluiten bij vervolgonderwijs.",
   
   highlight:
     "<strong>Handige bronnen:</strong><br>" +
