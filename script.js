@@ -425,8 +425,14 @@ content:
     {
       id: "community",
       title: "Community",
-      content: "Waar vind je andere gezinnen? Via Facebook- en WhatsApp-groepen, sport, moskee, Qur'anlessen en speeltuinen. Wat if je niemand in jouw buurt vindt? Start zelf een WhatsAppgroep voor jouw wijk of stad. Begin klein: een buitendag, een speelafspraak of een ontmoeting voor zusters. Vaak sluiten er vanzelf gezinnen aan die hetzelfde zoeken. Zo groeit een kleine stap uit tot een vaste, hechte groep.\n\nWaarom community helpt: Je kind maakt vrienden, en jij hebt steun van ouders die ook thuisonderwijs geven. Het kost soms wat moeite om een netwerk op te bouwen, maar je zult blij zijn dat je het hebt gedaan — en je kinderen ook.",
-      highlight: "Je kind maakt vrienden en jij hebt steun van ouders die ook thuisonderwijs geven."
+      content: "Thuisonderwijs doe je als gezin, maar het kan prettig zijn om andere gezinnen te kennen die hetzelfde doen. " +
+  "Ouders vinden elkaar op verschillende manieren: via online groepen zoals Facebook of WhatsApp, of door elkaar te ontmoeten bij activiteiten in de buurt.<br><br>" +
+
+  "Soms wonen er weinig thuisonderwijzers in de directe omgeving. In dat geval starten sommige ouders zelf een kleine groep voor hun wijk of stad, zodat anderen hen makkelijker kunnen vinden. " +
+  "Zo ontstaan geleidelijk contacten en kunnen gezinnen kijken wat bij hen past.<br><br>" +
+
+  "Een netwerk kan behulpzaam zijn: kinderen ontmoeten andere kinderen, en ouders kunnen ervaringen delen met mensen die in een vergelijkbare situatie zitten. " +
+  "Hoe een community eruitziet en hoe groot die is, verschilt per gezin."
     },
     {
       id: "juridisch",
