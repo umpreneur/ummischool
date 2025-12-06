@@ -308,6 +308,8 @@ content:
 
   "In de volgende onderdelen lees je per thema wat deze onderdelen inhouden en hoe je ze thuis kunt vormgeven."
 
+    },
+
  {
       id: "quran",
       title: "Qur'an en (fusha) Arabisch",
