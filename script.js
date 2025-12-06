@@ -397,14 +397,16 @@ content:
 
   "<strong>Veelgebruikte methodes binnen thuisonderwijs zijn onder andere:</strong><br>" +
   "<ul style='margin: 0.5rem 0 1rem 1.2rem; padding: 0; line-height: 1.6;'>" +
-    "<li><strong>klassieke methode:</strong> Een aanpak die lijkt op hoe school werkt: vaste stappen, duidelijke opbouw en structuur. Dit betekent niet dat je één pakket hoeft te kopen; ouders kiezen hiervoor vaak verschillende boeken of materialen per vak.</li>" +
+    "<li><strong>klassieke methode:</strong> <br> Een aanpak die lijkt op hoe school werkt: vaste stappen, duidelijke opbouw en structuur. Dit betekent niet dat je één pakket hoeft te kopen; ouders kiezen hiervoor vaak verschillende boeken of materialen per vak.</li>" +
     "<li><strong>Charlotte Mason:<br></strong> Een methode waarbij kinderen leren met rijk geschreven, verhalende boeken (living books) in plaats van met traditionele schoolboeken. " +
 "Na het lezen vertellen ze in hun eigen woorden wat ze hebben onthouden (narrations). " +
 "De lessen zijn kort en afwisselend, en er is ruimte voor natuurstudie en het oefenen van goede gewoontes.</li>" +
     "<li><strong>Thematisch:</strong> <br> Een manier van werken waarbij één thema centraal staat. Soms worden meerdere vakken rond dat thema verbonden, " +
 "maar vaak gaat het om één vak of onderdeel, terwijl andere vakken gewoon apart worden behandeld. </li>" +
     "<li><strong>Montessori: </strong> <br>Elementen uit de Montessori-benadering toegepast in de thuissituatie</li>" +
-    "<li><strong>Mix: </strong> <br> een combinatie van verschillende aanpakken, per kind en per vak</li>" +
+    "<li><strong>Mix: </strong> <br> Veel gezinnen combineren elementen uit meerdere methodes. Zo kunnen ze bijvoorbeeld voor rekenen een gestructureerde aanpak gebruiken, " +
+"voor taal rijke boeken inzetten en voor wereldoriëntatie thematisch werken. De methode past zich aan per kind en per vak."
+</li>" +
   "</ul>" +
 
   "Elke methode legt andere accenten. Sommige gezinnen kiezen voor een duidelijke structuur, anderen werken meer vanuit interesses of thema’s. Veel thuisonderwijzers combineren verschillende elementen, afhankelijk van wat op dat moment bij hun kind past.<br><br>" +
