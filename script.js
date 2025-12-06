@@ -397,7 +397,7 @@ content:
 
   "<strong>Veelgebruikte methodes binnen thuisonderwijs zijn onder andere:</strong><br>" +
   "<ul style='margin: 0.5rem 0 1rem 1.2rem; padding: 0; line-height: 1.6;'>" +
-    "<li><strong>klassieke methode:</strong> een aanpak die lijkt op hoe school werkt: vaste stappen, duidelijke opbouw en structuur.<br> Dit betekent niet dat je één pakket hoeft te kopen; ouders kiezen hiervoor vaak verschillende boeken of materialen per vak.</li>" +
+    "<li><strong>klassieke methode:</strong> een aanpak die lijkt op hoe school werkt: vaste stappen, duidelijke opbouw en structuur. Dit betekent niet dat je één pakket hoeft te kopen; ouders kiezen hiervoor vaak verschillende boeken of materialen per vak.</li>" +
     "<li><strong>Charlotte Mason:</strong> leren met rijke boeken, korte lessen en aandacht voor natuur en kunst</li>" +
     "<li><strong>Thematisch:</strong> thematisch leren waarbij verschillende vakken rondom één onderwerp samenkomen</li>" +
     "<li><strong>project-based learning: </strong> leren via langere projecten, onderzoeken en maken</li>" +
