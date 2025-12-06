@@ -437,8 +437,18 @@ content:
     {
       id: "juridisch",
       title: "Juridisch: hoe regel ik een vrijstelling?",
-      content: "In Nederland geldt leerplicht, maar geen schoolplicht. Een kind moet leren, maar dat hoeft niet op school als je voldoet aan de voorwaarden voor vrijstelling (artikel 5b, richtingbezwaar). Dit betekent dat er geen school in de buurt is die past bij jullie levensovertuiging. Dit leg je uit in een brief aan de gemeente.\n\nWanneer dien je de vrijstelling in? Je levert de vrijstellingsbrief één maand voordat je kind leerplichtig wordt in. De vrijstelling geldt per kind, dus elk kind heeft een eigen brief nodig. Je bevestigt de vrijstelling elk jaar opnieuw. Bij verhuizing meld je de vrijstelling opnieuw bij je nieuwe gemeente.\n\nBelangrijk om te weten: Vrijstelling is een melding, geen aanvraag. Je vraagt geen toestemming, als je aan de voorwaarden voldoet en op tijd bent, is de vrijstelling van kracht. Je hoeft niet te wachten op goedkeuring.\n\nEen voorbeeldbrief en uitleg vind je hier: https://www.thuisonderwijs.nl/wettelijk/5onderb/",
-      highlight: "Vrijstelling is een melding, geen aanvraag. Voorbeeldbrief: https://www.thuisonderwijs.nl/wettelijk/5onderb/"
+      content:
+  "In Nederland geldt leerplicht, maar geen schoolplicht. Een kind moet leren, maar dat hoeft niet op school als je voldoet aan de voorwaarden voor vrijstelling (artikel 5b, richtingbezwaar). Dit betekent dat er geen school in de buurt is die past bij jullie levensovertuiging. Dit leg je uit in een brief aan de gemeente.<br><br>" +
+
+  "Wanneer dien je de vrijstelling in? Je levert de vrijstellingsbrief één maand voordat je kind leerplichtig wordt in. De vrijstelling geldt per kind, dus elk kind heeft een eigen brief nodig. Je bevestigt de vrijstelling elk jaar opnieuw. Bij verhuizing meld je de vrijstelling opnieuw bij je nieuwe gemeente.<br><br>" +
+
+  "Belangrijk om te weten: Vrijstelling is een melding, geen aanvraag. Je vraagt geen toestemming; als je aan de voorwaarden voldoet en op tijd bent, is de vrijstelling van kracht. Je hoeft niet te wachten op goedkeuring.",
+
+highlight:
+  "Praktische informatie:<br>" +
+  "Bekijk uitleg en een voorbeeldbrief:<br><br>" +
+  "<a href='https://www.thuisonderwijs.nl/wettelijk/5onderb/' target='_blank'>Voorbeeldbrief en juridische toelichting</a>"
+
     },
     
   ];
