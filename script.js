@@ -360,9 +360,7 @@ content:
     "• de Nederlandse kerndoelen volgen<br>" +
     "• kiezen voor een buitenlands curriculum, zoals het UK-curriculum, US-curriculum of het internationale IB-programma<br><br>" +
 
-    "Welke keuze je ook maakt: het is belangrijk om de ontwikkeling van je kind goed bij te houden. Dat helpt wanneer je kind later wil:<br>" +
-
-    "Welke keuze je ook maakt, het kan helpen om de ontwikkeling van je kind goed bij te houden. <br>Dat geeft overzicht wanneer je later wilt aansluiten bij vervolgonderwijs.",
+    "Welke keuze je ook maakt, het kan helpen om de ontwikkeling van je kind goed bij te houden. Dat geeft overzicht wanneer je later wilt aansluiten bij vervolgonderwijs.",
   
   highlight:
     "<strong>Handige bronnen:</strong><br>" +
