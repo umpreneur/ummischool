@@ -400,7 +400,7 @@ content:
     "<li><strong>klassieke methode:</strong> een aanpak die lijkt op hoe school werkt: vaste stappen, duidelijke opbouw en structuur. Dit betekent niet dat je één pakket hoeft te kopen; ouders kiezen hiervoor vaak verschillende boeken of materialen per vak.</li>" +
     "<li><strong>Charlotte Mason:</strong> een methode waarbij kinderen leren met rijk geschreven, verhalende boeken (living books) in plaats van met traditionele schoolboeken. " +
 "Na het lezen vertellen ze in hun eigen woorden wat ze hebben onthouden (narrations). " +
-"De lessen zijn kort en afwisselend, en er is ruimte voor natuurstudie en het oefenen van goede gewoontes."</li>" +
+"De lessen zijn kort en afwisselend, en er is ruimte voor natuurstudie en het oefenen van goede gewoontes.</li>" +
     "<li><strong>Thematisch:</strong> thematisch leren waarbij verschillende vakken rondom één onderwerp samenkomen</li>" +
     "<li><strong>Montessori: </strong> elementen uit de Montessori-benadering toegepast in de thuissituatie</li>" +
     "<li><strong>unschooling: </strong> leren vanuit interesses, zonder vaste lesprogramma’s</li>" +
