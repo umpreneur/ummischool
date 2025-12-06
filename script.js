@@ -293,19 +293,17 @@ content:
       id: "leren",
       title: "Wat is er te leren?",
 content:
-    "Thuisonderwijs draait om drie onderdelen: kennis, vaardigheden en waarden.<br>" +
-    "Het gaat niet alleen om wat je kind moet <em>weten</em>, maar ook om wat het moet <em>kunnen</em> en <em>wie het wordt</em>.<br><br>" +
+  "Thuisonderwijs binnen een islamitische context richt zich op drie gebieden: <strong>kennis, vaardigheden en waarden</strong>.<br>" +
+  "Het gaat niet alleen om wat je kind leert, maar ook om wie het wordt en welke kwaliteiten het ontwikkelt.<br><br>" +
 
-    "Binnen thuisonderwijs leren kinderen onder andere:<br>" +
-    "• Qur’an en (fusha) Arabisch<br>" +
-    "• Adab, akhlaaq en karaktervorming<br>" +
-    "• Schoolvakken zoals taal, rekenen en wereldoriëntatie<br>" +
-    "• Vaardigheden uit het dagelijks leven, zoals zelfstandigheid en verantwoordelijkheid<br><br>" +
+  "Kinderen leren onder andere:<br>" +
+  "• <strong>Qur’aan en (fusha) Arabisch</strong><br>" +
+  "• <strong>Adab en akhlaaq</strong> — islamitische manieren en karaktervorming<br>" +
+  "• <strong>Basisvakken</strong> zoals taal, rekenen en wereldoriëntatie<br>" +
+  "• <strong>Praktische vaardigheden</strong> zoals zelfstandigheid, verantwoordelijkheid en meedoen in het gezin<br><br>" +
 
-    "In de onderdelen hieronder lees je per thema wat je kind leert en hoe je dat thuis kunt vormgeven.",
-  
-  highlight: ""
-},
+  "In de volgende onderdelen lees je per thema wat je kind kan leren en hoe je dat thuis kunt vormgeven."
+    },
  {
       id: "quran",
       title: "Qur'an en (fusha) Arabisch",
