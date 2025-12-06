@@ -293,17 +293,21 @@ content:
       id: "leren",
       title: "Wat is er te leren?",
 content:
-  "Thuisonderwijs binnen een islamitische context richt zich op drie gebieden: <strong>kennis, vaardigheden en waarden</strong>.<br>" +
-  "Het gaat niet alleen om wat je kind leert, maar ook om wie het wordt en welke kwaliteiten het ontwikkelt.<br><br>" +
+  "Thuisonderwijs richt zich op drie gebieden: <strong>kennis, vaardigheden en waarden</strong>.<br>" +
+  "Het gaat niet alleen om wat je kind leert, maar ook om hoe het zich ontwikkelt als persoon — in gedrag, karakter en dagelijkse vaardigheden.<br>" +
+  "Wat je aanbiedt, verschilt per leeftijd en per kind; elk kind leert op zijn of haar eigen tempo.<br><br>" +
 
-  "Kinderen leren onder andere:<br>" +
-  "• <strong>Qur’aan en (fusha) Arabisch</strong><br>" +
-  "• <strong>Adab en akhlaaq</strong> — islamitische manieren en karaktervorming<br>" +
-  "• <strong>Basisvakken</strong> zoals taal, rekenen en wereldoriëntatie<br>" +
-  "• <strong>Praktische vaardigheden</strong> zoals zelfstandigheid, verantwoordelijkheid en meedoen in het gezin<br><br>" +
+  "In het islamitisch thuisonderwijs leren kinderen onder andere:<br>" +
+  "<ul style='margin: 0.5rem 0 1rem 1.2rem; padding: 0; line-height: 1.6;'>"+
+    "<li><strong>Qur’aan en (fusha) Arabisch</strong></li>" +
+    "<li><strong>Adab en akhlaaq</strong> — manieren, omgangsvormen en karaktervorming</li>" +
+    "<li><strong>Basisvakken</strong> zoals taal, rekenen en wereldoriëntatie</li>" +
+    "<li><strong>Lichaamsbeweging</strong> zoals sport, spelen en gezond bewegen</li>" +
+    "<li><strong>Praktische vaardigheden</strong> zoals zelfstandigheid, verantwoordelijkheid en meedoen binnen het gezin</li>" +
+  "</ul>" +
 
-  "In de volgende onderdelen lees je per thema wat je kind kan leren en hoe je dat thuis kunt vormgeven."
-    },
+  "In de volgende onderdelen lees je per thema wat deze onderdelen inhouden en hoe je ze thuis kunt vormgeven."
+
  {
       id: "quran",
       title: "Qur'an en (fusha) Arabisch",
