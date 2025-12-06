@@ -345,7 +345,7 @@ content:
   "</ul>" +
 
   "Verhalen uit de Qur’aan, sunnah en de geschiedenis van de profeten en sahaba worden daarbij regelmatig gebruikt om voorbeelden te bieden die aansluiten bij de belevingswereld van kinderen."
-}
+},
 
     {
       id: "schoolvakken",
