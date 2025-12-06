@@ -392,8 +392,24 @@ content:
     {
       id: "methode",
       title: "Welke methode past bij jullie?",
-      content: "Er is niet één juiste manier van thuisonderwijs. Elk gezin leert anders. Wat bij jullie past, hangt af van jullie overtuiging, doelen en ritme. Veelgebruikte methodes zijn: Schoolgericht/traditioneel (je volgt de vakken en niveaus van school), Thematisch leren (je kiest een onderwerp en leert daaromheen), Montessori-stijl (leren in eigen tempo met echte materialen), Charlotte Mason/living books (korte lessen, echte boeken, natuurstudie). Veel gezinnen mixen wat werkt: taal schoolgericht qua inhoud maar speels in praktijk, rekenen uit een boek maar Montessori-achtig toegepast, of thema's ontdekken via living books. Thuisonderwijs geeft ruimte om structuur en vrijheid te combineren.",
-      highlight: "Vrijheid in thuisonderwijs betekent bewust kiezen hoe je kind het best leert."
+content:
+  "Thuisonderwijzers gebruiken verschillende methodes om hun onderwijs vorm te geven. Er bestaat geen vaste of voorgeschreven aanpak; ieder gezin kiest wat aansluit bij hun kinderen, ritme en doelen.<br><br>" +
+
+  "<strong>Veelgebruikte methodes binnen thuisonderwijs zijn onder andere:</strong><br>" +
+  "<ul style='margin: 0.5rem 0 1rem 1.2rem; padding: 0; line-height: 1.6;'>" +
+    "<li><strong>klassieke methode</strong> — werken met vaste lespakketten en een duidelijk opgebouwde leerlijn</li>" +
+    "<li><strong>Charlotte Mason</strong> — leren met rijke boeken, korte lessen en aandacht voor natuur en kunst</li>" +
+    "<li><strong>unit studies</strong> — thematisch leren waarbij verschillende vakken rondom één onderwerp samenkomen</li>" +
+    "<li><strong>project-based learning</strong> — leren via langere projecten, onderzoeken en maken</li>" +
+    "<li><strong>Montessori-inspiratie</strong> — elementen uit de Montessori-benadering toegepast in de thuissituatie</li>" +
+    "<li><strong>unschooling / zelfgestuurd leren</strong> — leren vanuit interesses, zonder vaste lesprogramma’s</li>" +
+    "<li><strong>eclectisch</strong> — een combinatie van verschillende aanpakken, per kind en per vak</li>" +
+  "</ul>" +
+
+  "Elke methode legt andere accenten. Sommige gezinnen kiezen voor een duidelijke structuur, anderen werken meer vanuit interesses of thema’s. Veel thuisonderwijzers combineren verschillende elementen, afhankelijk van wat op dat moment bij hun kind past.<br><br>" +
+
+  "Door te experimenteren en te observeren wat werkt, ontstaat geleidelijk een manier van leren die aansluit bij jullie gezin."
+
     },
     {
       id: "dagritme",
