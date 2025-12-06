@@ -374,11 +374,18 @@ content:
       id: "dagelijks",
       title: "Vaardigheden uit het dagelijks leven",
   content:
-    "Kinderen leren niet alleen uit boeken. Veel belangrijke vaardigheden ontwikkelen ze in het dagelijks leven, door mee te draaien in het gezin.<br><br>" +
-    "Bij eenvoudige taken zoals aankleden, tafel dekken, iets opruimen, samenwerken of zelf iets proberen, oefent een kind automatisch vaardigheden zoals concentratie, zelfstandigheid en verantwoordelijkheid.<br><br>" +
-    "Deze praktische ervaringen vormen een natuurlijke basis voor schoolse taken en horen net zo goed bij 'wat er te leren is' binnen thuisonderwijs.",
-  
-  highlight: ""
+  "Kinderen ontwikkelen niet alleen kennis, maar ook verschillende vaardigheden in het dagelijks leven, thuis en in hun omgeving.<br>" +
+  "Tijdens alledaagse activiteiten — zoals aankleden, tafel dekken, opruimen, helpen, samenwerken of iets nieuws proberen — oefenen ze vaardigheden zoals:<br>" +
+
+  "<ul style='margin: 0.5rem 0 1rem 1.2rem; padding: 0; line-height: 1.6;'>" +
+    "<li><strong>zelfstandigheid</strong></li>" +
+    "<li><strong>verantwoordelijkheid</strong></li>" +
+    "<li><strong>probleemoplossend denken</strong></li>" +
+    "<li><strong>samenwerken</strong></li>" +
+  "</ul>" +
+
+  "Deze vaardigheden ondersteunen het schoolse leren en maken deel uit van wat kinderen binnen thuisonderwijs kunnen ontwikkelen."
+
 },
 
   
