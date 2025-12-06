@@ -392,6 +392,7 @@ content:
     {
       id: "methode",
       title: "Hoe kun je thuisonderwijs vormgeven?",
+       content:
 "<ul style='margin: 0.5rem 0 1rem 1.2rem; padding: 0; line-height: 1.6;'>" +
 
 "<li><strong>Klassieke methode:</strong><br>Een aanpak die lijkt op hoe school werkt: vaste stappen, duidelijke opbouw en structuur. Dit betekent niet dat je één pakket hoeft te kopen; ouders gebruiken hiervoor vaak verschillende boeken of materialen per vak.</li>" +
