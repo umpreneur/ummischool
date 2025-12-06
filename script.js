@@ -273,18 +273,15 @@ function renderWaarBeginIkPage() {
 
     "Als je dat weet, wordt kiezen eenvoudiger. Je doet alleen wat echt bij jullie gezin past.<br><br>" +
 
-   "<strong>Denk verder dan vandaag:</strong><br>" +
-"Hier zijn vragen die helpen om richting te bepalen:<br>" +
+   "<strong>Om richting te bepalen kun je jezelf de volgende vragen stellen:</strong><br>" +
 "• Welke waarden willen we meegeven?<br>" +
 "• Hoe ziet ons gezin er over vijf à tien jaar uit?<br>" +
 "• Waar wonen we dan waarschijnlijk?<br>" +
 "• Welke talen en vaardigheden horen bij die toekomst?<br>" +
 "• Welke manier van leren past bij onze kinderen?<br>" +
 
-    "Deze vragen geven je een eerste richting om van daaruit keuzes te maken.<br><br>" +
+    "Deze vragen geven helderheid over wat voor jullie belangrijk is en vormen een basis om verder op te bouwen.",
 
-    "<strong>Doelen zonder druk:</strong><br>" +
-    "Het hoeft niet perfect. Thuisonderwijs groeit met jullie mee. Met kleine, bewuste stappen kom je al ver.",
   
   highlight:
     "Praktisch aan de slag?<br>" +
