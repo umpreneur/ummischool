@@ -283,6 +283,8 @@ content:
   "</ul>" +
 
   "<i>Deze vragen geven helderheid over wat voor jullie belangrijk is en vormen een basis om verder op te bouwen.</i>",
+
+     highlight: "Praktisch aan de slag?<br>" + "Gebruik de NVVTO-handleiding om jouw plan te schrijven:<br><br>" + "<a href='https://www.thuisonderwijs.nl/wp-content/uploads/2023/09/Handleiding-schrijf-je-to-plan.pdf' target='_blank'>Download de handleiding</a>"
    },
 
     {
