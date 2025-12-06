@@ -363,7 +363,7 @@ content:
     "Welke keuze je ook maakt, het kan helpen om de ontwikkeling van je kind goed bij te houden. Dat geeft overzicht wanneer je later wilt aansluiten bij vervolgonderwijs.",
   
   highlight:
-    "<strong>Handige bronnen:</strong><br>" +
+    "<i>Handige bronnen:</i><br><br>" +
     "• Huidige SLO-kerndoelen:<br>" +
     "<a href='https://www.slo.nl/thema/meer/jonge-kind/doelen-jonge-kind/' target='_blank'>Bekijk de kerndoelen</a><br><br>" +
     "• Vernieuwing kerndoelen (2025 – conceptfase):<br>" +
