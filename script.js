@@ -405,8 +405,7 @@ content:
 "maar vaak gaat het om één vak of onderdeel, terwijl andere vakken gewoon apart worden behandeld. </li>" +
     "<li><strong>Montessori: </strong> <br>Elementen uit de Montessori-benadering toegepast in de thuissituatie</li>" +
     "<li><strong>Mix: </strong> <br> Veel gezinnen combineren elementen uit meerdere methodes. Zo kunnen ze bijvoorbeeld voor rekenen een gestructureerde aanpak gebruiken, " +
-"voor taal rijke boeken inzetten en voor wereldoriëntatie thematisch werken. De methode past zich aan per kind en per vak.
-</li>" +
+"voor taal rijke boeken inzetten en voor wereldoriëntatie thematisch werken. De methode past zich aan per kind en per vak. </li>" +
   "</ul>" +
 
   "Elke methode legt andere accenten. Sommige gezinnen kiezen voor een duidelijke structuur, anderen werken meer vanuit interesses of thema’s. Veel thuisonderwijzers combineren verschillende elementen, afhankelijk van wat op dat moment bij hun kind past.<br><br>" +
