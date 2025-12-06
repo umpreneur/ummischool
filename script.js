@@ -413,8 +413,14 @@ content:
     {
       id: "dagritme",
       title: "Dagplanning, ritme en structuur",
-      content: "Thuisonderwijs werkt het beste met rust en duidelijkheid. Een herkenbare volgorde in de dag. Denk eerst na over: hoeveel dagen je wilt doceren, vaste momenten of verdeeld over de dag, hoe je buitentijd, huishouden en rust combineert. Een eenvoudige structuur geeft houvast voor ouder én kind.\n\nVoorbeld van een dagritme:\nOchtend: Ontbijt & gesprek (Hoe heb je geslapen?, dagen van de week, dagdelen, plannen voor de dag). Eén kernvak (bijv. Rekenen of Nederlands).\nMiddag: Buitentijd (wandelen, spelen, frisse lucht). Zelfstandig spel of een creatieve activiteit passend bij het thema.\nNamiddag: Korte reflectie (Wat vond je leuk vandaag?). Thema bespreken via voorlezen.\nAvond: Afsluiten met Qur'an en dua.\n\nTips: Gebruik de ochtend voor geconcentreerd leren. Plan de middag voor bewegen, buitentijd en ontmoeting. Werk met vaste ankerpunten (bijv. eten, Qur'an, buiten). Betrek kinderen bij dagelijkse taken, dat is óók onderwijs. Rust en herhaling werken beter dan druk en haast. Buitentijd is geen pauze: het is leren, reguleren en groeien.",
-      highlight: "Rust en herhaling werken beter dan druk en haast."
+      content: "Thuisonderwijs betekent niet dat je dezelfde tijden hoeft aan te houden als een schooldag. Je bent niet gebonden aan een vast rooster van 9:00 tot 14:30. Thuis leren werkt anders dan leren in een groep, waardoor kortere of flexibelere tijdsblokken voldoende kunnen zijn.<br><br>" +
+
+  "Hoeveel tijd er aan leren wordt besteed, verschilt per gezin en per kind. Sommige gezinnen kiezen voor één aaneengesloten periode op de dag, anderen verdelen het over meerdere momenten. Er zijn ook gezinnen die per dag bekijken wat haalbaar is, afhankelijk van hoe de dag verloopt.<br><br>" +
+
+  "Omdat kinderen thuis individueel kunnen werken en minder hoeven te wachten op anderen, kan de effectieve leertijd korter zijn dan in een groep. Het gaat daarbij niet om het vullen van uren, maar om momenten waarin kinderen aandachtig kunnen werken.<br><br>" +
+
+  "Wat structuur precies betekent, verschilt eveneens per gezin. Voor de één is dat een vaste volgorde in de dag, voor de ander terugkerende momenten die herkenning geven. Thuisonderwijs kan strak, flexibel of wisselend worden ingericht — er is geen vaste vorm die voor iedereen geldt."
+
     },
     {
       id: "community",
