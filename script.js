@@ -391,19 +391,19 @@ content:
   
     {
       id: "methode",
-      title: "Welke methode past bij jullie?",
+      title: "Hoe kun je thuisonderwijs vormgeven?",
 content:
   "Thuisonderwijzers gebruiken verschillende methodes om hun onderwijs vorm te geven. Er bestaat geen vaste of voorgeschreven aanpak; ieder gezin kiest wat aansluit bij hun kinderen, ritme en doelen.<br><br>" +
 
   "<strong>Veelgebruikte methodes binnen thuisonderwijs zijn onder andere:</strong><br>" +
   "<ul style='margin: 0.5rem 0 1rem 1.2rem; padding: 0; line-height: 1.6;'>" +
     "<li><strong>klassieke methode:</strong> een aanpak die lijkt op hoe school werkt: vaste stappen, duidelijke opbouw en structuur.<br> Dit betekent niet dat je één pakket hoeft te kopen; ouders kiezen hiervoor vaak verschillende boeken of materialen per vak.</li>" +
-    "<li><strong>Charlotte Mason</strong> leren met rijke boeken, korte lessen en aandacht voor natuur en kunst</li>" +
-    "<li><strong>Thema's</strong> thematisch leren waarbij verschillende vakken rondom één onderwerp samenkomen</li>" +
+    "<li><strong>Charlotte Mason:</strong> leren met rijke boeken, korte lessen en aandacht voor natuur en kunst</li>" +
+    "<li><strong>Thematisch:</strong> thematisch leren waarbij verschillende vakken rondom één onderwerp samenkomen</li>" +
     "<li><strong>project-based learning: </strong> leren via langere projecten, onderzoeken en maken</li>" +
     "<li><strong>Montessori-inspiratie: </strong> elementen uit de Montessori-benadering toegepast in de thuissituatie</li>" +
     "<li><strong>unschooling: </strong> leren vanuit interesses, zonder vaste lesprogramma’s</li>" +
-    "<li><strong>eclectisch</strong> — een combinatie van verschillende aanpakken, per kind en per vak</li>" +
+    "<li><strong>eclectisch: </strong> — een combinatie van verschillende aanpakken, per kind en per vak</li>" +
   "</ul>" +
 
   "Elke methode legt andere accenten. Sommige gezinnen kiezen voor een duidelijke structuur, anderen werken meer vanuit interesses of thema’s. Veel thuisonderwijzers combineren verschillende elementen, afhankelijk van wat op dat moment bij hun kind past.<br><br>" +
