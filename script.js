@@ -278,9 +278,9 @@ function renderWaarBeginIkPage() {
 "• Hoe ziet ons gezin er over vijf à tien jaar uit?<br>" +
 "• Waar wonen we dan waarschijnlijk?<br>" +
 "• Welke talen en vaardigheden horen bij die toekomst?<br>" +
-"• Welke manier van leren past bij onze kinderen?<br>" +
+"• Welke manier van leren past bij onze kinderen?<br><br>" +
 
-    "Deze vragen geven helderheid over wat voor jullie belangrijk is en vormen een basis om verder op te bouwen.",
+    "<i>Deze vragen geven helderheid over wat voor jullie belangrijk is en vormen een basis om verder op te bouwen.</i>",
 
   
   highlight:
