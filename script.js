@@ -314,15 +314,18 @@ content:
       id: "quran",
       title: "Qur'an en (fusha) Arabisch",
   content:
-    "Binnen thuisonderwijs vormt Qur’an en Arabisch voor veel gezinnen een vast leergebied. Kinderen werken hierbij aan:<br><br>" +
-    "• het herkennen van de klanken en het ritme van de Qur’an<br>" +
-    "• het lezen van Arabische letters in verschillende schrijfvormen<br>" +
-    "• correcte uitspraak volgens de basisregels van tajwied<br>" +
-    "• vloeiend reciteren en het stapsgewijs memoriseren van Qur’an<br>" +
-    "• een eerste basis in fusha-Arabisch, zoals eenvoudige woorden en zinnen<br><br>" +
-    "Je kunt dit zelf aanbieden of met een docent. Het belangrijkste is dat het regelmatig en gestructureerd terugkomt.",
-  
-  highlight: ""
+  "Binnen het islamitisch thuisonderwijs vormt <strong>Qur’aan en Arabisch</strong> voor veel gezinnen een vast leergebied.<br>" +
+  "Kinderen werken hierbij — afhankelijk van hun leeftijd en niveau — aan:<br>" +
+
+  "<ul style='margin: 0.5rem 0 1rem 1.2rem; padding: 0; line-height: 1.6;'>" +
+    "<li>het herkennen van klanken</li>" +
+    "<li>het lezen van Arabische letters in verschillende schrijfvormen</li>" +
+    "<li>correcte uitspraak volgens de basisregels van <strong>tajwied</strong></li>" +
+    "<li>vloeiend reciteren en het stapsgewijs memoriseren van Qur’aan</li>" +
+    "<li>de Arabische taal (woordenschat, zinsopbouw en eenvoudige teksten)</li>" +
+  "</ul>" +
+
+  "Dit kun je zelf aanbieden, eventueel met hulp van een docent."
 },
 
 
@@ -385,25 +388,7 @@ content:
   highlight: ""
 },
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
+  
     {
       id: "methode",
       title: "Welke methode past bij jullie?",
