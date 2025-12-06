@@ -397,12 +397,12 @@ content:
 
   "<strong>Veelgebruikte methodes binnen thuisonderwijs zijn onder andere:</strong><br>" +
   "<ul style='margin: 0.5rem 0 1rem 1.2rem; padding: 0; line-height: 1.6;'>" +
-    "<li><strong>klassieke methode</strong>een aanpak die lijkt op hoe school werkt: vaste stappen, duidelijke opbouw en structuur.<br> Dit betekent niet dat je één pakket hoeft te kopen; ouders kiezen hiervoor vaak verschillende boeken of materialen per vak.</li>" +
-    "<li><strong>Charlotte Mason</strong> — leren met rijke boeken, korte lessen en aandacht voor natuur en kunst</li>" +
-    "<li><strong>unit studies</strong> — thematisch leren waarbij verschillende vakken rondom één onderwerp samenkomen</li>" +
-    "<li><strong>project-based learning</strong> — leren via langere projecten, onderzoeken en maken</li>" +
-    "<li><strong>Montessori-inspiratie</strong> — elementen uit de Montessori-benadering toegepast in de thuissituatie</li>" +
-    "<li><strong>unschooling / zelfgestuurd leren</strong> — leren vanuit interesses, zonder vaste lesprogramma’s</li>" +
+    "<li><strong>klassieke methode:</strong> een aanpak die lijkt op hoe school werkt: vaste stappen, duidelijke opbouw en structuur.<br> Dit betekent niet dat je één pakket hoeft te kopen; ouders kiezen hiervoor vaak verschillende boeken of materialen per vak.</li>" +
+    "<li><strong>Charlotte Mason</strong> leren met rijke boeken, korte lessen en aandacht voor natuur en kunst</li>" +
+    "<li><strong>Thema's</strong> thematisch leren waarbij verschillende vakken rondom één onderwerp samenkomen</li>" +
+    "<li><strong>project-based learning: </strong> leren via langere projecten, onderzoeken en maken</li>" +
+    "<li><strong>Montessori-inspiratie: </strong> elementen uit de Montessori-benadering toegepast in de thuissituatie</li>" +
+    "<li><strong>unschooling: </strong> leren vanuit interesses, zonder vaste lesprogramma’s</li>" +
     "<li><strong>eclectisch</strong> — een combinatie van verschillende aanpakken, per kind en per vak</li>" +
   "</ul>" +
 
