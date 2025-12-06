@@ -306,7 +306,7 @@ content:
     "<li><strong>Praktische vaardigheden</strong> zoals zelfstandigheid, verantwoordelijkheid en meedoen binnen het gezin</li>" +
   "</ul>" +
 
-  "In de volgende onderdelen lees je per thema wat deze onderdelen inhouden en hoe je ze thuis kunt vormgeven."
+  "In de volgende onderdelen lees je per thema wat deze onderdelen inhouden."
 
     },
 
