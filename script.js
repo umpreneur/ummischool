@@ -269,7 +269,7 @@ function renderWaarBeginIkPage() {
   title: "Visie",
 content:
  "Thuisonderwijs begint niet bij boeken, maar bij één vraag:<br>" +
-"<strong>Wat hebben jouw kinderen nodig voor hun toekomst?</strong><br><br>" +
+"<strong>Wat hebben jouw kinderen nodig voor hun toekomst?</strong><br>" +
 "Als je dat helder hebt, ontstaat er vanzelf een richting<br>" +
 "waarin je een manier van leren kunt opbouwen die echt bij jullie gezin aansluit."+
 
