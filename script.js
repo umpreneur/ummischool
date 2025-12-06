@@ -398,12 +398,13 @@ content:
   "<strong>Veelgebruikte methodes binnen thuisonderwijs zijn onder andere:</strong><br>" +
   "<ul style='margin: 0.5rem 0 1rem 1.2rem; padding: 0; line-height: 1.6;'>" +
     "<li><strong>klassieke methode:</strong> een aanpak die lijkt op hoe school werkt: vaste stappen, duidelijke opbouw en structuur. Dit betekent niet dat je één pakket hoeft te kopen; ouders kiezen hiervoor vaak verschillende boeken of materialen per vak.</li>" +
-    "<li><strong>Charlotte Mason:</strong> leren met rijke boeken, korte lessen en aandacht voor natuur en kunst</li>" +
+    "<li><strong>Charlotte Mason:</strong> een methode waarbij kinderen leren met rijk geschreven, verhalende boeken (living books) in plaats van met traditionele schoolboeken. " +
+"Na het lezen vertellen ze in hun eigen woorden wat ze hebben onthouden (narrations). " +
+"De lessen zijn kort en afwisselend, en er is ruimte voor natuurstudie en het oefenen van goede gewoontes."</li>" +
     "<li><strong>Thematisch:</strong> thematisch leren waarbij verschillende vakken rondom één onderwerp samenkomen</li>" +
-    "<li><strong>project-based learning: </strong> leren via langere projecten, onderzoeken en maken</li>" +
-    "<li><strong>Montessori-inspiratie: </strong> elementen uit de Montessori-benadering toegepast in de thuissituatie</li>" +
+    "<li><strong>Montessori: </strong> elementen uit de Montessori-benadering toegepast in de thuissituatie</li>" +
     "<li><strong>unschooling: </strong> leren vanuit interesses, zonder vaste lesprogramma’s</li>" +
-    "<li><strong>eclectisch: </strong> — een combinatie van verschillende aanpakken, per kind en per vak</li>" +
+    "<li><strong>Mix: </strong> — een combinatie van verschillende aanpakken, per kind en per vak</li>" +
   "</ul>" +
 
   "Elke methode legt andere accenten. Sommige gezinnen kiezen voor een duidelijke structuur, anderen werken meer vanuit interesses of thema’s. Veel thuisonderwijzers combineren verschillende elementen, afhankelijk van wat op dat moment bij hun kind past.<br><br>" +
