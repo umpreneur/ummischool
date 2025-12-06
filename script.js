@@ -267,27 +267,23 @@ function renderWaarBeginIkPage() {
    {
   id: "intentie",
   title: "Visie",
-  content:
-    "Thuisonderwijs begint niet bij boeken, maar bij één vraag:<br>" +
-    "<strong>Wat hebben jouw kinderen nodig voor hun toekomst?</strong><br><br>" +
+content:
+  "Thuisonderwijs begint niet bij boeken, maar bij één vraag:<br>" +
+  "<span style='font-size:1.15rem; font-weight:700; color:#4a2f18;'>Wat hebben jouw kinderen nodig voor hun toekomst?</span><br><br>" +
 
-    "Als je dat weet, wordt kiezen eenvoudiger. Je doet alleen wat echt bij jullie gezin past.<br><br>" +
+  "Als je dat weet, wordt kiezen eenvoudiger. Je doet alleen wat echt bij jullie gezin past.<br><br>" +
 
-   "<strong>Om richting te bepalen kun je jezelf de volgende vragen stellen:</strong><br>" +
-"• Welke waarden willen we meegeven?<br>" +
-"• Hoe ziet ons gezin er over vijf à tien jaar uit?<br>" +
-"• Waar wonen we dan waarschijnlijk?<br>" +
-"• Welke talen en vaardigheden horen bij die toekomst?<br>" +
-"• Welke manier van leren past bij onze kinderen?<br><br>" +
+  "<strong>Om richting te bepalen kun je jezelf de volgende vragen stellen:</strong><br>" +
+  "<ul style='margin:0.5rem 0 1rem 1rem; padding:0; line-height:1.5;'>"+
+    "<li><strong>Welke waarden</strong> willen we meegeven?</li>" +
+    "<li>Hoe ziet ons gezin er over <em>vijf à tien jaar</em> uit?</li>" +
+    "<li>Waar wonen we dan waarschijnlijk?</li>" +
+    "<li>Welke <strong>talen en vaardigheden</strong> horen bij die toekomst?</li>" +
+    "<li>Welke manier van leren past bij <em>onze kinderen</em>?</li>" +
+  "</ul>" +
 
-    "<i>Deze vragen geven helderheid over wat voor jullie belangrijk is en vormen een basis om verder op te bouwen.</i>",
-
-  
-  highlight:
-    "Praktisch aan de slag?<br>" +
-    "Gebruik de NVVTO-handleiding om jouw plan te schrijven:<br><br>" +
-    "<a href='https://www.thuisonderwijs.nl/wp-content/uploads/2023/09/Handleiding-schrijf-je-to-plan.pdf' target='_blank'>Download de handleiding</a>"
-},
+  "<i>Deze vragen geven helderheid over wat voor jullie belangrijk is en vormen een basis om verder op te bouwen.</i>",
+   },
 
     {
       id: "leren",
