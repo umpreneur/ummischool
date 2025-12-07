@@ -394,15 +394,15 @@ content:
 "<strong>Veelgebruikte methodes binnen thuisonderwijs zijn onder andere:</strong><br><br>" +
         "<ul style='margin: 0.5rem 0 1rem 1.2rem; padding: 0; line-height: 1.6;'>" +
 
-"<li><strong>Klassieke methode:</strong><br>Een aanpak die lijkt op hoe school werkt: vaste stappen, duidelijke opbouw en structuur. Dit betekent niet dat je één pakket hoeft te kopen; ouders gebruiken hiervoor vaak verschillende boeken of materialen per vak.</li>" +
+"<li><strong>Klassieke methode:</strong><br>Een aanpak die lijkt op hoe school werkt: vaste stappen, duidelijke opbouw en structuur. Dit betekent niet dat je één pakket hoeft te kopen; ouders gebruiken hiervoor vaak verschillende boeken of materialen per vak.</li><br>" +
 
-"<li><strong>Charlotte Mason:</strong><br>Een methode waarbij kinderen leren met rijk geschreven, verhalende boeken (living books) in plaats van met traditionele schoolboeken. Na het lezen vertellen ze in hun eigen woorden wat ze hebben onthouden (narrations). De lessen zijn kort en afwisselend, en er is ruimte voor natuurstudie en het oefenen van goede gewoontes.</li>" +
+"<li><strong>Charlotte Mason:</strong><br>Een methode waarbij kinderen leren met rijk geschreven, verhalende boeken (living books) in plaats van met traditionele schoolboeken. Na het lezen vertellen ze in hun eigen woorden wat ze hebben onthouden (narrations). De lessen zijn kort en afwisselend, en er is ruimte voor natuurstudie en het oefenen van goede gewoontes.</li><br>" +
 
-"<li><strong>Thematisch:</strong><br>Een manier van werken waarbij één thema centraal staat. Soms worden meerdere vakken rond dat thema verbonden, maar vaak gaat het om één vak of onderdeel, terwijl andere vakken gewoon apart worden behandeld.</li>" +
+"<li><strong>Thematisch:</strong><br>Een manier van werken waarbij één thema centraal staat. Soms worden meerdere vakken rond dat thema verbonden, maar vaak gaat het om één vak of onderdeel, terwijl andere vakken gewoon apart worden behandeld.</li><br>" +
 
-"<li><strong>Montessori:</strong><br>Elementen uit de Montessori-benadering toegepast in de thuissituatie, met aandacht voor zelfstandig werken en concreet leermateriaal.</li>" +
+"<li><strong>Montessori:</strong><br>Elementen uit de Montessori-benadering toegepast in de thuissituatie, met aandacht voor zelfstandig werken en concreet leermateriaal.</li><br>" +
 
-"<li><strong>Mix:</strong><br>Veel gezinnen combineren elementen uit meerdere methodes. Zo kunnen ze bijvoorbeeld voor rekenen een gestructureerde aanpak gebruiken, voor taal rijke boeken inzetten en voor wereldoriëntatie thematisch werken. De methode past zich aan per kind en per vak.</li>" +
+"<li><strong>Mix:</strong><br>Veel gezinnen combineren elementen uit meerdere methodes. Zo kunnen ze bijvoorbeeld voor rekenen een gestructureerde aanpak gebruiken, voor taal rijke boeken inzetten en voor wereldoriëntatie thematisch werken. De methode past zich aan per kind en per vak.</li><br>" +
 
 "</ul>"
 
