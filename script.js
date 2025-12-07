@@ -305,8 +305,7 @@ content:
   "</ul>" +
 
   "In de volgende onderdelen lees je per thema wat deze onderdelen inhouden.",
-       highlight: null
-
+     highlight: ""   // ← lege string = GEEN highlight
     },
 
  {
