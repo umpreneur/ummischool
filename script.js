@@ -314,7 +314,7 @@ content:
   content:
   "Binnen het islamitisch thuisonderwijs vormt <strong>Qur’aan en Arabisch</strong> voor veel gezinnen een belangrijk leergebied.<br><br>" +
     
-  "<strong>Wat kinderen hierin leren, verschilt per leeftijd en niveau. Denk aan:</strong>" +
+  "<strong>Wat kinderen hierin leren, verschilt per leeftijd en niveau, denk aan:</strong>" +
   "<ul style='margin: 0.5rem 0 1rem 1.2rem; padding: 0; line-height: 1.6;'>" +
     "<li>het herkennen van klanken</li>" +
     "<li>het lezen van Arabische letters in verschillende schrijfvormen</li>" +
@@ -342,7 +342,7 @@ content:
     "<li><strong>Karaktervorming:</strong> vaardigheden zoals doorzetten, verantwoordelijkheid nemen en omgaan met uitdagingen</li>" +
   "</ul>" +
 
-  "Verhalen uit de Qur’aan, sunnah en de geschiedenis van de profeten en sahaba worden daarbij regelmatig gebruikt om voorbeelden te bieden die aansluiten bij de belevingswereld van kinderen."
+  "Verhalen uit de Qur’aan, sunnah en de geschiedenis van de profeten en sahaba worden gebruikt om kinderen te inspireren en te vormen, en hen voorbeelden te geven die richting en betekenis bieden."
 },
 
     {
