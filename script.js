@@ -273,8 +273,6 @@ content:
   "Als je dat weet, wordt kiezen eenvoudiger. Je doet alleen wat echt bij jullie gezin past.<br>" +
 "Als je dat helder hebt, ontstaat er vanzelf een richting waarin je een manier van leren kunt opbouwen die echt bij jullie gezin aansluit.<br><br>"+
 
-  "Als je dat weet, wordt kiezen eenvoudiger. Je doet alleen wat echt bij jullie gezin past.<br><br>" +
-
   "<strong>Om richting te bepalen kun je jezelf de volgende vragen stellen:</strong><br>" +
   "<ul style='margin:0.5rem 0 1rem 1rem; padding:0; line-height:1.5;'>"+
     "<li><strong>Welke waarden</strong> willen we meegeven?</li>" +
