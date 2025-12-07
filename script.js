@@ -434,11 +434,11 @@ content:
 
   "Wanneer dien je de vrijstelling in? Je levert de vrijstellingsbrief één maand voordat je kind leerplichtig wordt in. De vrijstelling geldt per kind, dus elk kind heeft een eigen brief nodig. Je bevestigt de vrijstelling elk jaar opnieuw. Bij verhuizing meld je de vrijstelling opnieuw bij je nieuwe gemeente.<br><br>" +
 
-  "Belangrijk om te weten: Vrijstelling is een melding, geen aanvraag. Je vraagt geen toestemming; als je aan de voorwaarden voldoet en op tijd bent, is de vrijstelling van kracht. Je hoeft niet te wachten op goedkeuring.",
+  "<strong> <i>Belangrijk om te weten: Vrijstelling is een melding, geen aanvraag. Je vraagt geen toestemming; als je aan de voorwaarden voldoet en op tijd bent, is de vrijstelling van kracht. Je hoeft niet te wachten op goedkeuring.</i></strong>",
 
 highlight:
   "Praktische informatie:<br>" +
-  "Bekijk uitleg en een voorbeeldbrief:<br><br>" +
+  "Uitleg over artikel 5 onder b van de Leerplichtwet (richtingbezwaar):<br><br>" +
   "<a href='https://www.thuisonderwijs.nl/wettelijk/5onderb/' target='_blank'>Voorbeeldbrief en juridische toelichting</a>"
 
     },
