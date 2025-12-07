@@ -421,7 +421,7 @@ content:
       title: "Community",
       content:"Thuisonderwijs doe je als gezin, maar het kan fijn zijn om andere gezinnen te kennen die dezelfde keuze hebben gemaakt. Veel ouders vinden elkaar via online groepen of door elkaar te ontmoeten bij activiteiten in de buurt.<br><br>" +
 
-"Niet overal wonen thuisonderwijzers vlakbij. Als je merkt dat je contact mist, kun je — als je dat prettig vindt — zelf een oproep plaatsen of een klein groepje starten. Soms sluiten daar later andere gezinnen bij aan, en groeit er stap voor stap een netwerk.<br><br>" +
+"Niet overal wonen thuisonderwijzers vlakbij. Als je merkt dat je contact mist, kun je als je dat prettig vindt zelf een oproep plaatsen of een klein groepje starten. Soms sluiten daar later andere gezinnen bij aan, en groeit er stap voor stap een netwerk.<br><br>" +
 
 "Zo’n netwerk kan veel betekenen: kinderen maken nieuwe vrienden en delen mooie ervaringen, en ouders kunnen vragen stellen, ideeën uitwisselen en zich gesteund voelen. Het is geen voorwaarde om met thuisonderwijs te kunnen beginnen, maar het kan wel helpen. Hoe een community eruitziet, verschilt per gezin; er is geen vaste vorm waar je aan moet voldoen."
 
