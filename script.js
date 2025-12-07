@@ -411,13 +411,9 @@ content:
     {
       id: "dagritme",
       title: "Dagplanning, ritme en structuur",
-      content: "Thuisonderwijs betekent niet dat je dezelfde tijden hoeft aan te houden als een schooldag. Je bent niet gebonden aan een vast rooster van 9:00 tot 14:30. Thuis leren werkt anders dan leren in een groep, waardoor kortere of flexibelere tijdsblokken voldoende kunnen zijn.<br><br>" +
+      content: "Thuisonderwijs hoeft niet hetzelfde ritme te volgen als een schooldag. Omdat kinderen individueel werken en niet hoeven te wachten op anderen, kan de leertijd korter en flexibeler zijn. Sommige gezinnen kiezen voor één blok per dag, anderen verdelen het over meerdere momenten of passen het ritme aan per dag. Het helpt daarbij om eerst te bepalen wat je wilt aanbieden en dit vervolgens logisch over de dag of week te verdelen.<br><br>" +
 
-  "Hoeveel tijd er aan leren wordt besteed, verschilt per gezin en per kind. Sommige gezinnen kiezen voor één aaneengesloten periode op de dag, anderen verdelen het over meerdere momenten. Er zijn ook gezinnen die per dag bekijken wat haalbaar is, afhankelijk van hoe de dag verloopt.<br><br>" +
-
-  "Omdat kinderen thuis individueel kunnen werken en minder hoeven te wachten op anderen, kan de effectieve leertijd korter zijn dan in een groep. Het gaat daarbij niet om het vullen van uren, maar om momenten waarin kinderen aandachtig kunnen werken.<br><br>" +
-
-  "Wat structuur precies betekent, verschilt eveneens per gezin. Voor de één is dat een vaste volgorde in de dag, voor de ander terugkerende momenten die herkenning geven. Thuisonderwijs kan strak, flexibel of wisselend worden ingericht — er is geen vaste vorm die voor iedereen geldt."
+"Hoe je structuur vormgeeft, verschilt per gezin: voor de één is dat een vaste volgorde in de dag, voor de ander herkenbare momenten die houvast bieden. Thuisonderwijs kan strak, flexibel of wisselend worden ingericht — wat werkt, hangt af van jouw gezin."
 
     },
     {
