@@ -419,7 +419,7 @@ content:
     {
       id: "community",
       title: "Community",
-      content:"Thuisonderwijs wordt door ouders georganiseerd, maar in de praktijk ziet het er heel verschillend uit. Sommige gezinnen leren vooral binnen het eigen gezin, anderen vormen samen een klein klasje, spreken af in groepjes of huren samen een docent in. Daarom kan het waardevol zijn om contact te hebben met andere gezinnen die op een vergelijkbare manier thuisonderwijs vormgeven. Ouders vinden elkaar vaak via online groepen of door elkaar te ontmoeten bij activiteiten in de buurt.<br><br>" +
+      content:"Hoe thuisonderwijs eruitziet, verschilt sterk per gezin. Sommige gezinnen leren vooral binnen het eigen gezin, anderen vormen samen een klein klasje, spreken af in groepjes of huren samen een docent in. Daarom kan het waardevol zijn om contact te hebben met andere gezinnen die op een vergelijkbare manier thuisonderwijs vormgeven. Ouders vinden elkaar vaak via online groepen of door elkaar te ontmoeten bij activiteiten in de buurt.<br><br>" +
 
 "Niet overal wonen thuisonderwijzers vlakbij. Als je merkt dat je contact mist, kun je — als je dat prettig vindt — zelf een oproep plaatsen of een klein groepje starten. Soms sluiten daar later andere gezinnen bij aan, en groeit er stap voor stap een netwerk.<br><br>" +
 
