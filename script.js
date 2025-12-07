@@ -313,7 +313,7 @@ content:
       title: "Qur'an en (fusha) Arabisch",
   content:
   "Binnen het islamitisch thuisonderwijs vormt <strong>Qur’aan en Arabisch</strong> voor veel gezinnen een vast leergebied.<br>" +
-  "Kinderen werken hierbij aan (afhankelijk van hun leeftijd en niveau):<br>" +
+  "Wat kinderen leren, verschilt per leeftijd en niveau.:<br>" +
 
   "<ul style='margin: 0.5rem 0 1rem 1.2rem; padding: 0; line-height: 1.6;'>" +
     "<li>het herkennen van klanken</li>" +
