@@ -349,8 +349,8 @@ content:
       id: "schoolvakken",
       title: "Hoe weet ik welke schoolvakken ik moet aanbieden?",
   content:
-    "Wil je weten wat kinderen in Nederland meestal leren op de basisschool? De kerndoelen van SLO geven per leeftijd en per leergebied een helder overzicht van onderwerpen zoals taal, rekenen en wereldoriëntatie.<br><br>" +
-
+    "<i>Wil je weten wat kinderen in Nederland meestal leren op de basisschool? </i><br>" 
+    "De kerndoelen van SLO geven per leeftijd en per leergebied een helder overzicht van onderwerpen zoals taal, rekenen en wereldoriëntatie.<br>" +
     "Je gebruikt deze informatie als richting: jij bepaalt welke vakken je thuis aanbiedt en in welk tempo dat past bij jullie gezin.<br><br>" +
 
     "<strong>Je bent niet gebonden aan het Nederlandse curriculum</strong><br>" +
