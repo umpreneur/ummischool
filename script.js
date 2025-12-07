@@ -419,11 +419,11 @@ content:
     {
       id: "community",
       title: "Community",
-      content:"Thuisonderwijs doe je als gezin, maar het kan fijn zijn om andere gezinnen te kennen die dezelfde keuze hebben gemaakt. Veel ouders vinden elkaar via online groepen of door elkaar te ontmoeten bij activiteiten in de buurt.<br><br>" +
+      content:"Thuisonderwijs wordt door ouders georganiseerd, maar in de praktijk ziet het er heel verschillend uit. Sommige gezinnen leren vooral binnen het eigen gezin, anderen vormen samen een klein klasje, spreken af in groepjes of huren samen een docent in. Daarom kan het waardevol zijn om contact te hebben met andere gezinnen die op een vergelijkbare manier thuisonderwijs vormgeven. Ouders vinden elkaar vaak via online groepen of door elkaar te ontmoeten bij activiteiten in de buurt.<br><br>" +
 
-"Niet overal wonen thuisonderwijzers vlakbij. Als je merkt dat je contact mist, kun je als je dat prettig vindt zelf een oproep plaatsen of een klein groepje starten. Soms sluiten daar later andere gezinnen bij aan, en groeit er stap voor stap een netwerk.<br><br>" +
+"Niet overal wonen thuisonderwijzers vlakbij. Als je merkt dat je contact mist, kun je — als je dat prettig vindt — zelf een oproep plaatsen of een klein groepje starten. Soms sluiten daar later andere gezinnen bij aan, en groeit er stap voor stap een netwerk.<br><br>" +
 
-"Zo’n netwerk kan veel betekenen: kinderen maken nieuwe vrienden en delen mooie ervaringen, en ouders kunnen vragen stellen, ideeën uitwisselen en zich gesteund voelen. Het is geen voorwaarde om met thuisonderwijs te kunnen beginnen, maar het kan wel helpen. Hoe een community eruitziet, verschilt per gezin; er is geen vaste vorm waar je aan moet voldoen."
+"Zo’n netwerk kan veel betekenen: kinderen maken nieuwe vrienden en delen mooie ervaringen, en ouders kunnen vragen stellen, ideeën uitwisselen en zich gesteund voelen. Het is geen voorwaarde om met thuisonderwijs te kunnen beginnen, maar het kan wel helpen. Hoe een community eruitziet, verschilt per gezin; dat kan klein en informeel zijn of juist groter en actiever — er is geen vaste vorm waar je aan moet voldoen."
 
     },
     {
