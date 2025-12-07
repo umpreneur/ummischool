@@ -373,7 +373,7 @@ content:
       title: "Vaardigheden uit het dagelijks leven",
   content:
   "Kinderen ontwikkelen niet alleen kennis, maar ook verschillende vaardigheden in het dagelijks leven, thuis en in hun omgeving.<br>" +
-  "Tijdens alledaagse activiteiten — zoals aankleden, tafel dekken, opruimen, helpen, samenwerken of iets nieuws proberen — oefenen ze vaardigheden zoals:<br>" +
+  "Tijdens alledaagse activiteiten zoals aankleden, tafel dekken, opruimen, helpen, samenwerken of iets nieuws proberen oefenen ze vaardigheden zoals:<br>" +
 
   "<ul style='margin: 0.5rem 0 1rem 1.2rem; padding: 0; line-height: 1.6;'>" +
     "<li><strong>zelfstandigheid</strong></li>" +
