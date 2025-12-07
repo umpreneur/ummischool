@@ -540,7 +540,9 @@ function renderFaqPage() {
       </button>
       <div class="faq-content" data-testid="text-faq-${item.id}">
         <p>${item.main}</p>
-        ${item.highlight ? `<div class="faq-highlight-quote">${item.highlight}</div>` : ''}
+
+${item.highlight && item.highlight.trim() !== "" ? `<div class="faq-highlight-quote">${item.highlight}</div>`  : ''}
+        
       </div>
     </div>
   `).join('');
