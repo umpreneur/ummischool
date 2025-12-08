@@ -457,7 +457,10 @@ highlight:
       </button>
       <div class="faq-content" data-testid="text-stap-${step.id}">
         <p>${step.content}</p>
-        <div class="faq-highlight-quote">${step.highlight}</div>
+       ${step.highlight && step.highlight.trim() !== ""
+  ? `<div class="faq-highlight-quote">${step.highlight}</div>`
+  : ""
+}
       </div>
     </div>
   `).join('');
