@@ -199,7 +199,7 @@ function renderHeader() {
   return `
     <header>
       <div class="header-container">
-        <div class="logo-brand" data-testid="link-logo">UmmiSchool</div>
+        <div class="logo-brand" data-testid="link-logo">Thuisonderwijsinfo</div>
         <button class="hamburger-btn" id="hamburger-btn" data-testid="button-hamburger">
           <span></span>
           <span></span>
