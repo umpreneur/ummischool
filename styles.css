@@ -256,10 +256,7 @@ main {
   font-size: 2.5rem;
 }
 
-.logo-image {
-  height: 40px;
-  width: auto;
-}
+
 
 .contact-subtitle {
   font-size: 1rem;
@@ -1403,4 +1400,25 @@ footer a:hover {
 [data-loading="true"] {
   opacity: 0.6;
   pointer-events: none;
+}
+
+
+/* default (voor tablet/mobiel) */
+.logo-image {
+  height: 40px;
+  width: auto;
+}
+
+/* groter logo op laptop/desktop */
+@media (min-width: 768px) {
+  .logo-image {
+    height: 50px;
+  }
+}
+
+/* optioneel: klein logo op kleine telefoons */
+@media (max-width: 480px) {
+  .logo-image {
+    height: 34px;
+  }
 }
