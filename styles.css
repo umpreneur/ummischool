@@ -1405,14 +1405,14 @@ footer a:hover {
 
 /* default (voor tablet/mobiel) */
 .logo-image {
-  height: 40px;
+  height:60px;
   width: auto;
 }
 
 /* groter logo op laptop/desktop */
 @media (min-width: 768px) {
   .logo-image {
-    height: 100px;
+    height: 50px;
   }
 }
 
