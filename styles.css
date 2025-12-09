@@ -1419,6 +1419,6 @@ footer a:hover {
 /* optioneel: klein logo op kleine telefoons */
 @media (max-width: 480px) {
   .logo-image {
-    height: 34px;
+    height: 50px;
   }
 }
