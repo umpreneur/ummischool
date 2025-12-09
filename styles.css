@@ -57,7 +57,18 @@ header {
   justify-content: space-between;
   align-items: center;
 }
+.logo-brand {
 
+  letter-spacing: 0.02em;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  padding: 0.25rem 0;
+}
+
+.logo-brand:hover {
+  color: var(--color-accent);
+  
+}
 
 
 nav {
