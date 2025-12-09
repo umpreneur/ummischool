@@ -1412,7 +1412,7 @@ footer a:hover {
 /* groter logo op laptop/desktop */
 @media (min-width: 768px) {
   .logo-image {
-    height: 50px;
+    height: 100px;
   }
 }
 
