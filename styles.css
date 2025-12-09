@@ -69,7 +69,23 @@ header {
   color: var(--color-accent);
   
 }
+/* Zorg dat logo en hamburger exact op dezelfde lijn staan */
+.header-container {
+  display: flex;
+  align-items: center;
+}
 
+/* Logo optisch gelijk trekken met de hamburger (2–3px tunen) */
+.logo-image {
+  margin-top: -3px; 
+  display: block;
+}
+
+/* Hamburger zelf netjes centreren */
+.hamburger-btn {
+  display: flex;
+  align-items: center;
+}
 
 nav {
   display: flex;
