@@ -222,7 +222,7 @@ function renderHomePage() {
   return `
     <div id="page-home" class="page active">
       <div class="home-hero">
-        <h1 class="home-title" data-testid="text-home-title">Thuisonderwijs</h1>
+        <h1 class="home-title" data-testid="text-home-title">Thuisonderwijsinfo</h1>
         <button class="btn-primary" data-page="waar-begin-ik" data-testid="button-waar-begin-ik-home">Waar Begin Ik?</button>
       </div>
     </div>
