@@ -58,22 +58,7 @@ header {
   align-items: center;
 }
 
-.logo-brand {
-  font-family: var(--font-serif);
-  font-size: 1.5rem;
-  font-weight: 700;
-  color: var(--color-logo);
-  letter-spacing: 0.02em;
-  cursor: pointer;
-  transition: all 0.2s ease;
-  padding: 0.25rem 0;
-  border-bottom: 2px solid transparent;
-}
 
-.logo-brand:hover {
-  color: var(--color-accent);
-  border-bottom-color: var(--color-accent);
-}
 
 nav {
   display: flex;
