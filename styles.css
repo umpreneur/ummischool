@@ -1419,6 +1419,6 @@ footer a:hover {
 /* Kleine telefoons */
 @media (max-width: 480px) {
   .logo-image {
-    height:70px;
+    height:50px;
   }
 }
