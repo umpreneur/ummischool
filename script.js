@@ -200,7 +200,7 @@ function renderHeader() {
     <header>
       <div class="header-container">
 <div class="logo-brand" data-testid="link-logo">
-  <img src="favicon.png" alt="Thuisonderwijsinfo logo" class="logo-image" />
+  <img src="faviconlogo.png" alt="Thuisonderwijsinfo logo" class="logo-image" />
 </div>
         <button class="hamburger-btn" id="hamburger-btn" data-testid="button-hamburger">
           <span></span>
