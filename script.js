@@ -554,7 +554,7 @@ ${item.highlight && item.highlight.trim() !== ""
     <div id="page-faq" class="page">
       <div style="text-align: center; margin-bottom: 3rem;">
         <h1 class="page-title" data-testid="text-faq-title">Ik Twijfel!</h1>
-        <p class="faq-subtitle" data-testid="text-faq-subtitle">Twijfels horen erbij. Thuisonderwijs is geen klusje dat je 'even tussendoor' doet. Veel ouders zitten met dezelfde vragen. Bi idhnillaah vind je in de antwoorden hieronder helderheid en rust.</p>
+        <p class="faq-subtitle" data-testid="text-faq-subtitle">Twijfels horen erbij. Thuisonderwijs is geen klusje dat je 'even tussendoor' doet. Veel ouders zitten met dezelfde vragen.In sha Allah vind je in de antwoorden hieronder helderheid en rust.</p>
       </div>
       <div class="faq-section">
         ${itemsHtml}
