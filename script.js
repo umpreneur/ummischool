@@ -471,7 +471,7 @@ highlight:
     <div id="page-waar-begin-ik" class="page">
       <div style="text-align: center; margin-bottom: 3rem;">
         <h1 class="page-title" data-testid="text-waar-begin-ik-title">Waar Begin Ik?</h1>
-        <p class="faq-subtitle" data-testid="text-waar-begin-ik-subtitle">Je hebt besloten om voor thuisonderwijs te gaan — Allāhumma bārik. Moge Allah jullie hierin bijstaan. En nu? Waar begin je eigenlijk? In shā' Allāh vind je hieronder een helder beginpunt.</p>
+        <p class="faq-subtitle" data-testid="text-waar-begin-ik-subtitle">Je hebt besloten om voor thuisonderwijs te gaan. Allahumma bārik! Moge Allah jullie hierin bijstaan. En nu? Waar begin je eigenlijk? In sha Allah vind je hieronder een helder beginpunt.</p>
       </div>
       <div class="faq-section">
         ${stepsHtml}
