@@ -170,7 +170,7 @@ nav a.active {
 
 /* Main Content */
 main {
-  margin-top: 5rem;
+ margin-top: 7rem; 
   min-height: calc(100vh - 5rem);
   display: flex;
   flex-direction: column;
