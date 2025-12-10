@@ -495,8 +495,7 @@ function renderBlogPage() {
     <div id="page-blog" class="page">
       <div style="text-align: center; margin-bottom: 3rem;">
         <h1 class="page-title" data-testid="text-blog-page-title">Blog</h1>
-        <p class="faq-subtitle" data-testid="text-blog-subtitle">
-        <p class="faq-subtitle" data-testid="text-blog-subtitle"> </p>  </div>
+        <p class="faq-subtitle" data-testid="text-blog-subtitle"></div>
       <div class="blog-stack">
         ${cardsHtml}
       </div>
