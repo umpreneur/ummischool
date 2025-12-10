@@ -496,11 +496,7 @@ function renderBlogPage() {
       <div style="text-align: center; margin-bottom: 3rem;">
         <h1 class="page-title" data-testid="text-blog-page-title">Blog</h1>
         <p class="faq-subtitle" data-testid="text-blog-subtitle">
-        <p class="faq-subtitle" data-testid="text-blog-subtitle">
-  Assalamu alaikum, welkom op mijn blog.<br><br>
-  Ik heb deze website gemaakt omdat thuisonderwijs in het begin groot en onduidelijk kan voelen. Hier vind je een rustige plek met duidelijke informatie, zodat je in je eigen tempo kunt ontdekken wat bij jullie past.<br><br>
-  Wil je een gastblog schrijven over jouw kijk op thuisonderwijs? Dan hoor ik graag van je.
-</p>  </div>
+        <p class="faq-subtitle" data-testid="text-blog-subtitle"> </p>  </div>
       <div class="blog-stack">
         ${cardsHtml}
       </div>
