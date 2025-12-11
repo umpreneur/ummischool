@@ -198,7 +198,7 @@ function renderHeader() {
     <header>
       <div class="header-container">
 <div class="logo-brand" data-testid="link-logo">
-  <img src="ChatGPT_Image_11_dec_2025__21_29_59-removebg-preview.png" alt="Thuisonderwijsinfo logo" class="logo-image" />
+  <img src="favicon-512.png" alt="Thuisonderwijsinfo logo" class="logo-image" />
 </div>
         <button class="hamburger-btn" id="hamburger-btn" data-testid="button-hamburger">
           <span></span>
