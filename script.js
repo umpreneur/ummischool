@@ -803,35 +803,19 @@ function showBlogPost(slug) {
 
 // Toggle FAQ
 function toggleFaq(id, item) {
-  const wasOpen = expandedFaq === id;
-
-  if (wasOpen) {
-    // Sluiten
+  if (expandedFaq === id) {
+    // Close
     item.classList.remove('open');
     expandedFaq = null;
   } else {
-    // Vorige sluiten
+    // Close previous
     if (expandedFaq) {
       const prevItem = document.querySelector(`[data-faq-id="${expandedFaq}"]`);
       if (prevItem) prevItem.classList.remove('open');
     }
-
-    // Deze openen
+    // Open new
     item.classList.add('open');
     expandedFaq = id;
-
-    // --- Scroll fix tegen verspringen ---
-    setTimeout(() => {
-      const headerOffset = 90; // ruimte voor vaste header
-      const rect = item.getBoundingClientRect();
-      const offsetTop = window.pageYOffset + rect.top - headerOffset;
-
-      window.scrollTo({
-        top: offsetTop,
-        behavior: 'smooth'
-      });
-    }, 50);
-    // -----------------------------------
   }
 }
 
