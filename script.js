@@ -276,10 +276,10 @@ content:
   "<strong>Om richting te bepalen kun je jezelf de volgende vragen stellen:</strong><br>" +
   "<ul style='margin:0.5rem 0 1rem 1rem; padding:0; line-height:1.5;'>"+
     "<li><strong>Welke waarden</strong> willen we meegeven?</li>" +
-    "<li>Hoe ziet ons gezin er over <em>vijf à tien jaar</em> uit?</li>" +
+    "<li>Hoe ziet ons gezin er over vijf à tien jaar uit?</li>" +
     "<li>Waar wonen we dan waarschijnlijk?</li>" +
     "<li>Welke <strong>talen en vaardigheden</strong> horen bij die toekomst?</li>" +
-    "<li>Welke manier van leren past bij <em>onze kinderen</em>?</li>" +
+    "<li>Welke manier van leren past bij onze kinderen?</li>" +
   "</ul>" +
 
   "Deze vragen geven helderheid over wat voor jullie belangrijk is en vormen een basis om verder op te bouwen.",
