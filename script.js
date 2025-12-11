@@ -495,7 +495,12 @@ function renderBlogPage() {
     <div id="page-blog" class="page">
       <div style="text-align: center; margin-bottom: 3rem;">
         <h1 class="page-title" data-testid="text-blog-page-title">Blog</h1>
-        <p class="faq-subtitle" data-testid="text-blog-subtitle"></div>
+        <p class="faq-subtitle" data-testid="text-blog-subtitle">
+        "Thuisonderwijs is een unieke reis, en jouw ervaring kan een ander enorm helpen."<br>"
+Heb je iets waardevols geleerd, meegemaakt of ontdekt?
+Schrijf jouw verhaal en stuur het in.
+Jouw woorden kunnen het verschil maken. </p>
+        </div>
       <div class="blog-stack">
         ${cardsHtml}
       </div>
@@ -505,21 +510,23 @@ function renderBlogPage() {
 
 // Blog post page
 function renderBlogPostPage() {
-  return `
-    <div id="page-post" class="page">
-      <div style="text-align: left; margin-bottom: 2rem;">
-        <button class="btn-secondary" data-page="blog" data-testid="button-back-to-blog">← Terug naar Blog</button>
-      </div>
-      <div class="blog-post">
-        <img id="post-header-image" data-testid="img-post-header" alt="" class="blog-post-header-image" />
-        <div class="blog-post-header">
-          <h1 class="blog-post-title" data-testid="text-post-title" id="post-title"></h1>
-          <p class="blog-post-meta" data-testid="text-post-date" id="post-date"></p>
-        </div>
-        <div class="blog-post-content" id="post-body" data-testid="text-post-content"></div>
-      </div>
+return `
+  <div id="page-blog" class="page">
+    <div style="text-align: center; margin-bottom: 3rem;">
+      <h1 class="page-title" data-testid="text-blog-page-title">Blog</h1>
+      <p class="faq-subtitle" data-testid="text-blog-subtitle">
+        Thuisonderwijs is een unieke reis, en jouw ervaring kan een ander enorm helpen.<br>
+        Heb je iets waardevols geleerd, meegemaakt of ontdekt?<br>
+        <strong>Schrijf jouw verhaal en stuur het in.</strong><br>
+        Jouw woorden kunnen het verschil maken.
+      </p>
     </div>
-  `;
+
+    <div class="blog-stack">
+      ${cardsHtml}
+    </div>
+  </div>
+`;
 }
 
 // FAQ page
