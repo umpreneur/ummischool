@@ -589,6 +589,7 @@ font-size: 1rem;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
   border: 1.5px solid var(--color-border);
   transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    overflow-anchor: none;
 }
 
 .faq-item:hover {
