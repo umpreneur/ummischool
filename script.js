@@ -490,18 +490,21 @@ function renderBlogPage() {
       </div>
     </a>
   `).join('');
-return 
-  <div id="page-blog" class="page"> <div style="text-align: center; margin-bottom: 3rem;"> 
-  <h1 class="page-title" data-testid="text-blog-page-title">Blog</h1>
-  <p class="faq-subtitle" data-testid="text-blog-subtitle">
-        Thuisonderwijs is een unieke reis, en jouw ervaring kan een ander enorm helpen.<br>
-        Heb je iets waardevols geleerd, meegemaakt of ontdekt?<br>
-        <strong>Schrijf jouw verhaal en stuur het in.</strong><br>
-        Jouw woorden kunnen het verschil maken.</p>
-        </div> <div class="blog-stack"> ${cardsHtml} </div> </div>
-          
-          ; }
-
+ return `
+    <div id="page-blog" class="page">
+      <div style="text-align: center; margin-bottom: 3rem;">
+        <h1 class="page-title" data-testid="text-blog-page-title">Blog</h1>
+        <p class="faq-subtitle" data-testid="text-blog-subtitle">Deze blog is er om ouders te ondersteunen en een realistisch beeld te geven van thuisonderwijs.<br>
+Thuisonderwijs is een unieke reis, en ook jouw ervaring kan een ander enorm helpen.<br>
+Heb je iets waardevols geleerd, meegemaakt of ontdekt?<br>
+Schrijf jouw verhaal en stuur het in als gastblog.<br></p>
+      </div>
+      <div class="blog-stack">
+        ${cardsHtml}
+      </div>
+    </div>
+  `;
+}
 
 
 
