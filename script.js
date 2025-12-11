@@ -490,6 +490,7 @@ function renderBlogPage() {
       </div>
     </a>
   `).join('');
+  
  return `
     <div id="page-blog" class="page">
       <div style="text-align: center; margin-bottom: 3rem;">
