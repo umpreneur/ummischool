@@ -478,34 +478,7 @@ highlight:
   `;
 }
 
-// Blog page
-function renderBlogPage() {
-  const cardsHtml = blogPreviews.map(post => `
-    <a class="blog-card" data-blog-slug="${post.slug}" data-testid="card-blog-${post.id}">
-      <img src="${post.thumbnailUrl}" alt="${post.title}" class="blog-card-image" data-testid="img-blog-${post.id}" />
-      <div class="blog-card-content">
-        <h3 data-testid="text-blog-title-${post.id}">${post.title}</h3>
-        <p data-testid="text-blog-excerpt-${post.id}">${post.excerpt}</p>
-        <span class="blog-card-link" data-testid="link-read-more-${post.id}">Lees verder →</span>
-      </div>
-    </a>
-  `).join('');
-  
- return `
-    <div id="page-blog" class="page">
-      <div style="text-align: center; margin-bottom: 3rem;">
-        <h1 class="page-title" data-testid="text-blog-page-title">Blog</h1>
-        <p class="faq-subtitle" data-testid="text-blog-subtitle">Deze blog is er om ouders te ondersteunen en een realistisch beeld te geven van thuisonderwijs.<br>
-Thuisonderwijs is een unieke reis, en ook jouw ervaring kan een ander enorm helpen.<br>
-Heb je iets waardevols geleerd, meegemaakt of ontdekt?<br>
-Schrijf jouw verhaal en stuur het in als gastblog.<br></p>
-      </div>
-      <div class="blog-stack">
-        ${cardsHtml}
-      </div>
-    </div>
-  `;
-}
+
 
 
 
@@ -514,24 +487,23 @@ Schrijf jouw verhaal en stuur het in als gastblog.<br></p>
 
 // Blog post page
 function renderBlogPostPage() {
-return `
-  <div id="page-blog" class="page">
-    <div style="text-align: center; margin-bottom: 3rem;">
-      <h1 class="page-title" data-testid="text-blog-page-title">Blog</h1>
-      <p class="faq-subtitle" data-testid="text-blog-subtitle">
-        Thuisonderwijs is een unieke reis, en jouw ervaring kan een ander enorm helpen.<br>
-        Heb je iets waardevols geleerd, meegemaakt of ontdekt?<br>
-        <strong>Schrijf jouw verhaal en stuur het in.</strong><br>
-        Jouw woorden kunnen het verschil maken.
-      </p>
+  return `
+    <div id="page-post" class="page">
+      <div style="text-align: left; margin-bottom: 2rem;">
+        <button class="btn-secondary" data-page="blog" data-testid="button-back-to-blog">← Terug naar Blog</button>
+      </div>
+      <div class="blog-post">
+        <img id="post-header-image" data-testid="img-post-header" alt="" class="blog-post-header-image" />
+        <div class="blog-post-header">
+          <h1 class="blog-post-title" data-testid="text-post-title" id="post-title"></h1>
+          <p class="blog-post-meta" data-testid="text-post-date" id="post-date"></p>
+        </div>
+        <div class="blog-post-content" id="post-body" data-testid="text-post-content"></div>
+      </div>
     </div>
-
-    <div class="blog-stack">
-      ${cardsHtml}
-    </div>
-  </div>
-`;
+  `;
 }
+
 
 // FAQ page
 function renderFaqPage() {
