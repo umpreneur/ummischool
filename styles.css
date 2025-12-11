@@ -562,7 +562,7 @@ font-size: 1rem;
 
 /* Accordion/FAQ */
 .faq-subtitle {
-  font-size: 1.15rem;
+  font-size: 1rem;
   color: var(--color-text);
   line-height: 1.8;
   max-width: 700px;
