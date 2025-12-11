@@ -495,10 +495,11 @@ function renderBlogPage() {
     <div id="page-blog" class="page">
       <div style="text-align: center; margin-bottom: 3rem;">
         <h1 class="page-title" data-testid="text-blog-page-title">Blog</h1>
-        <p class="faq-subtitle" data-testid="text-blog-subtitle">Deze blog is er om ouders te ondersteunen en een realistisch beeld te geven van thuisonderwijs.<br>
-Thuisonderwijs is een unieke reis, en ook jouw ervaring kan een ander enorm helpen.<br>
-Heb je iets waardevols geleerd, meegemaakt of ontdekt?<br>
-Schrijf jouw verhaal en stuur het in als gastblog — voor women only.</p>
+        <p class="faq-subtitle" data-testid="text-blog-subtitle">   <strong>Deze blog is er om ouders te ondersteunen en een eerlijk, herkenbaar beeld te geven van thuisonderwijs.</strong><br><br>
+  Thuisonderwijs is een unieke reis en jouw ervaring kan voor een ander van grote waarde zijn.<br><br>
+  Heb je iets bijzonders geleerd, meegemaakt of ontdekt?<br>
+  <strong>Stuur jouw verhaal in als gastblog (women only) en inspireer andere moeders op hun pad.</strong>
+</p></p>
       </div>
       <div class="blog-stack">
         ${cardsHtml}
