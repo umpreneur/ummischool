@@ -282,7 +282,7 @@ content:
     "<li>Welke manier van leren past bij <em>onze kinderen</em>?</li>" +
   "</ul>" +
 
-  "<i>Deze vragen geven helderheid over wat voor jullie belangrijk is en vormen een basis om verder op te bouwen.</i>",
+  "Deze vragen geven helderheid over wat voor jullie belangrijk is en vormen een basis om verder op te bouwen.",
 
      highlight: "Praktisch aan de slag?<br>" + "Gebruik de NVVTO-handleiding om jouw plan te schrijven:<br><br>" + "<a href='https://www.thuisonderwijs.nl/wp-content/uploads/2023/09/Handleiding-schrijf-je-to-plan.pdf' target='_blank'>Download de handleiding</a>"
    },
@@ -323,7 +323,7 @@ content:
     "<li>de Arabische taal (woordenschat, zinsopbouw en eenvoudige teksten)</li>" +
   "</ul>" +
 
-  "<i>Dit kun je zelf aanbieden, eventueel met hulp van een docent.</i>"
+  "Dit kun je zelf aanbieden, eventueel met hulp van een docent."
 },
 
 
@@ -434,7 +434,7 @@ content:
 
   "Wanneer dien je de vrijstelling in? Je levert de vrijstellingsbrief één maand voordat je kind leerplichtig wordt in. De vrijstelling geldt per kind, dus elk kind heeft een eigen brief nodig. Je bevestigt de vrijstelling elk jaar opnieuw. Bij verhuizing meld je de vrijstelling opnieuw bij je nieuwe gemeente.<br><br>" +
 
-  "<strong> <i>Belangrijk om te weten: Vrijstelling is een melding, geen aanvraag. Je vraagt geen toestemming; als je aan de voorwaarden voldoet en op tijd bent, is de vrijstelling van kracht. Je hoeft niet te wachten op goedkeuring.</i></strong>",
+  "<strong> Belangrijk om te weten: Vrijstelling is een melding, geen aanvraag. Je vraagt geen toestemming; als je aan de voorwaarden voldoet en op tijd bent, is de vrijstelling van kracht. Je hoeft niet te wachten op goedkeuring.</strong>",
 
 highlight:
   "Praktische informatie:<br>" +
