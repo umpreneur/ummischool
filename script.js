@@ -483,28 +483,6 @@ highlight:
 
 
 
-
-
-// Blog post page
-function renderBlogPostPage() {
-  return `
-    <div id="page-post" class="page">
-      <div style="text-align: left; margin-bottom: 2rem;">
-        <button class="btn-secondary" data-page="blog" data-testid="button-back-to-blog">← Terug naar Blog</button>
-      </div>
-      <div class="blog-post">
-        <img id="post-header-image" data-testid="img-post-header" alt="" class="blog-post-header-image" />
-        <div class="blog-post-header">
-          <h1 class="blog-post-title" data-testid="text-post-title" id="post-title"></h1>
-          <p class="blog-post-meta" data-testid="text-post-date" id="post-date"></p>
-        </div>
-        <div class="blog-post-content" id="post-body" data-testid="text-post-content"></div>
-      </div>
-    </div>
-  `;
-}
-
-
 // FAQ page
 function renderFaqPage() {
   const itemsHtml = faqItems.map(item => `
@@ -523,8 +501,6 @@ ${item.highlight && item.highlight.trim() !== ""
   ? `<div class="faq-highlight-quote">${item.highlight}</div>` 
   : ""
 }
-
-
 
       </div>
     </div>
