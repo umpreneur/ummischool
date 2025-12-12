@@ -9,7 +9,17 @@ const blogPreviews = [
     imageUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
 
   },
+
+  {
+    id: "2",
+    title: "De meerderheid heeft geen gelijk",
+    excerpt: "In een tijd van likes, luidste meningen en populaire ‘waarheden’ herinnert de Qur’an ons eraan dat waarheid geen democratie is.",
+    slug: "De-meerderheid-heeft-geen-gelijk",
+    thumbnailUrl: "https://umpreneur.github.io/ummischool/blog2img.png",
+    imageUrl: "https://umpreneur.github.io/ummischool/blog2img.png",
+  },
 ];
+
 
 const blogContent = {
   "Zij-Legde-Het-Fundament": {
@@ -28,14 +38,35 @@ headerImageUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
     "Ze wisten niet wat hun kinderen later zouden worden. Ze werkten met oprechtheid, en Allah schonk groei aan wat zij in stilte neerlegden.",
     "Dat is het bijzondere aan hun nalatenschap: grootheid ontstaat vaak uit eenvoud. Een moeder die geeft, een kind dat groeit, een toekomst die doorwerkt.",
    "Je hoeft niet gezien te worden om blijvende invloed te hebben. Alles wat jij aan kennis, imaan en waarden meegeeft, kan verder reiken dan jouw leven, misschien verder dan je je nu kunt voorstellen.", 
-    {
-     type: "highlight", 
-      text: "Het begint bij een moeder zoals jij die in stilte het fundament legt, en in stilte beloond wordt."
-    },
+    {type: "highlight", 
+      text: "Het begint bij een moeder zoals jij die in stilte het fundament legt, en in stilte beloond wordt."},
     
   ]
   },
-  
+  "De-meerderheid-heeft-geen-gelijk": {
+    title: "De meerderheid heeft geen gelijk",
+    category: "Reflectie",
+    date: "2025-12-12",
+    headerImageUrl: "https://umpreneur.github.io/ummischool/blog2img.png",
+    imageUrl: "https://umpreneur.github.io/ummischool/blog2img.png",
+
+    content: [
+      "“En als jij de meeste mensen op aarde zou gehoorzamen, zouden zij jou doen afdwalen van het pad van Allah. Zij volgen slechts vermoedens en zij speculeren alleen maar.”<br/>(Qur’an 6:116)",
+      "We leven in het tijdperk van de meerderheid. De meeste likes. De luidste meningen. De populairste ‘waarheden’.",
+      "En toch waarschuwt Allah ons hier keihard: de meerderheid is geen maatstaf voor waarheid.",
+      "Deze ayah snijdt dwars door onze moderne illusies heen. Want hoe vaak laten we ons leiden door wat ‘normaal’ is? Door trends, door sociale druk, door wat iedereen zegt dat goed voelt? Allah noemt dat geen kennis. Hij noemt het vermoedens en giswerk.",
+      "“Zij volgen slechts aannames.”<br/>“Zij verzinnen.”",
+      "Dat is pijnlijk herkenbaar. Meningen worden feiten. Gevoelens worden wetten. En wie twijfelt, wordt weggezet als ouderwets, extremistisch of gewoon gek.",
+      {type: "highlight",
+        text: "Maar de Qur’an leert ons iets radicaals: waarheid is geen democratie."},
+      "De weg van Allah is zelden de weg van de massa. Het is een weg van bewust kiezen, van kennis boven gevoel, van openbaring boven opinie. Het vraagt moed om anders te zijn. Om niet mee te buigen. Om niet te verdwalen in het lawaai.",
+      "Deze ayah is geen uitnodiging tot arrogantie, maar tot wakker zijn. Niet alles wat vaak herhaald wordt, is waar. Niet alles wat normaal voelt, is juist. En niet iedereen die zeker klinkt, heeft kennis.",
+      "De vraag is dus niet: ‘Wat doen de meeste mensen?’",
+      {type: "highlight",
+        text: "Maar: ‘Waar leidt dit mij naartoe — dichter bij Allah, of verder van Hem?’"},
+      "Soms is het pad smal. Soms loop je alleen. Maar Allah herinnert ons hier: leiding komt niet van aantallen, maar van waarheid."
+    ]
+  }
 
 };
 const faqItems = [
