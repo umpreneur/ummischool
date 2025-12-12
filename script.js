@@ -5,17 +5,9 @@ const blogPreviews = [
   title: "Het Begint Altijd Bij Een Moeder",
   excerpt: "Grote geleerden begonnen nooit met hun eigen naam. Hun verhaal startte bij moeders die in stilte bouwden, dapper bleven en iets groots durfden te planten.",
   slug: "het-begint-altijd-bij-een-moeder",
+  thumbnail: "/images/mother-path-thumb.jpg",
   thumbnailUrl: "https://images.unsplash.com/photo-1522202176988-696ce0213ce0?w=300&h=200&fit=crop",
-  imageUrl: "https://images.unsplash.com/photo-1522202176988-696ce0213ce0?w=800&h=600&fit=crop",
 
-  },
-  {
-    id: "2",
-    title: "Dagstart",
-    excerpt: "Een dagstart is een kort en rustig moment waarop je samen de dag opent. Het is een bewust begin van de ochtend: eerst verbinding, daarna duidelijkheid over wat er komt.",
-    slug: "dagstart",
-    thumbnailUrl: "https://images.unsplash.com/photo-1507842621343-583f20270319?w=300&h=200&fit=crop",
-    imageUrl: "https://images.unsplash.com/photo-1507842621343-583f20270319?w=800&h=600&fit=crop",
   },
 ];
 
@@ -26,7 +18,6 @@ const blogContent = {
   category: "Reflectie",
   date: "2025-12-12",
   headerImageUrl: "https://images.unsplash.com/photo-1522202176988-696ce0213ce0?w=1200&h=500&fit=crop",
-  imageUrl: "https://images.unsplash.com/photo-1522202176988-696ce0213ce0?w=800&h=600&fit=crop",
   content: [
     "Het verhaal van grote geleerden begon nooit met hén. Niet met hun boeken, hun kennis of hun woorden. Het begon bij de vrouwen achter hen, moeders met moed, geduld en een doel dat verder reikte dan hun eigen gemak.",
     "De moeder van Imam Ahmad had weinig middelen, maar een helder hart: <strong><i>‘Mijn kind moet Allah leren kennen.’</i> </strong> Ze stond op in koude ochtenden, begeleidde hem richting kennis, zonder te beseffen dat haar stille inspanning generaties zou raken.",
@@ -44,20 +35,7 @@ const blogContent = {
   ]
   },
   
-  dagstart: {
-    title: "Dagstart",
-    category: "Praktisch",
-    date: "2024-11-10",
-    headerImageUrl: "https://images.unsplash.com/photo-1507842621343-583f20270319?w=1200&h=500&fit=crop",
-    imageUrl: "https://images.unsplash.com/photo-1507842621343-583f20270319?w=800&h=600&fit=crop",
-    content: [
-      "Een dagstart is een kort en rustig moment waarop je samen de dag opent. Het is een bewust begin van de ochtend: eerst verbinding, daarna duidelijkheid over wat er komt.",
-      "Bij ons begint de dag vaak met een kopje thee, een gesprek over hoe iedereen zich voelt, en een kort moment om stil te staan bij wat we die dag gaan doen. Soms lezen we een kort verhaal, soms kijken we samen naar buiten en praten we over het weer of de seizoenen.",
-      { type: "highlight", text: "Het hoeft niet lang te duren. Tien minuten is vaak genoeg. Het gaat om de intentie: we starten samen, we zijn even bij elkaar, en daarna gaan we aan de slag." },
-      "Deze dagstart geeft rust en richting. Het helpt kinderen om zich veilig en gezien te voelen voordat de dag echt begint. En het helpt ons als ouders om bewust aanwezig te zijn, in plaats van meteen in de hectiek te schieten.",
-      { type: "highlight", text: "Probeer het eens. Begin de dag samen, met rust en aandacht. Je zult merken dat de hele dag anders aanvoelt." },
-    ],
-  },
+
 };
 const faqItems = [
   {
