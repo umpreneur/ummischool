@@ -38,7 +38,7 @@ const blogContent = {
    "Je hoeft niet gezien te worden om blijvende invloed te hebben. Alles wat jij aan kennis, imaan en waarden meegeeft, kan verder reiken dan jouw leven, misschien verder dan je je nu kunt voorstellen.", 
     {
      type: "highlight", 
-      text: "Het begint bij een moeder zoals jij — die in stilte het fundament legt, en in stilte beloond wordt."
+      text: "Het begint bij een moeder zoals jij die in stilte het fundament legt, en in stilte beloond wordt."
     },
     
   ]
