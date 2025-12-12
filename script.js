@@ -29,7 +29,7 @@ const blogContent = {
   imageUrl: "https://images.unsplash.com/photo-1522202176988-696ce0213ce0?w=800&h=600&fit=crop",
   content: [
     "Het verhaal van grote geleerden begon nooit met hén. Niet met hun boeken, hun kennis of hun woorden. Het begon bij de vrouwen achter hen, moeders met moed, geduld en een doel dat verder reikte dan hun eigen gemak.",
-    "De moeder van Imam Ahmad had weinig middelen, maar een helder hart: <i>‘Mijn kind moet Allah leren kennen.’</i> Ze stond op in koude ochtenden, begeleidde hem richting kennis, zonder te beseffen dat haar stille inspanning generaties zou raken.",
+    "De moeder van Imam Ahmad had weinig middelen, maar een helder hart: <strong><i>‘Mijn kind moet Allah leren kennen.’</i> </strong> Ze stond op in koude ochtenden, begeleidde hem richting kennis, zonder te beseffen dat haar stille inspanning generaties zou raken.",
     "De moeder van Imam al-Bukhari bad nachtenlang voor haar zoon. Toen hij zijn zicht verloor, zocht ze geen oplossingen bij mensen, <strong>maar bij Allah.</strong> Haar dua werd de deur naar een toekomst die zij zelf nooit zou meemaken, maar waarvan de wereld tot vandaag profiteert.",
     "Deze vrouwen waren geen hoofdpersonen uit grote verhalen. Het waren gewone moeders die deden wat zij konden, op momenten waarop niemand keek, met harten die vastbesloten waren om iets goeds te planten in hun kinderen.",
     { type: "highlight", text: "Ze kregen geen erkenning, maar zij legden wel de eerste bouwstenen overtuiging, dua en liefde voor kennis." },
