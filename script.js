@@ -53,7 +53,7 @@ headerImageUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
     content: [
       "<strong><i>“En als jij de meeste mensen op aarde zou gehoorzamen, zouden zij jou doen afdwalen van het pad van Allah. Zij volgen slechts vermoedens en zij speculeren alleen maar.”(Qur’an 6:116) </i></strong>",
       "We leven in het tijdperk van de meerderheid. <br>De meeste likes. <br>De luidste meningen. <br>De populairste ‘waarheden’.",
-      "En waarschuwt Allah ons hier keihard voor: de meerderheid is geen maatstaf voor waarheid.",
+      "En Allah waarschuwt ons hier keihard voor: de meerderheid is geen maatstaf voor waarheid.",
       "Deze ayah snijdt dwars door onze moderne illusies heen. Want hoe vaak laten we ons leiden door wat ‘normaal’ is? Door trends, door sociale druk, door wat iedereen zegt dat goed voelt? Allah noemt dat geen kennis. Hij noemt het vermoedens en giswerk.",
       "“<strong><i>Zij volgen slechts aannames.</strong></i>”<br/>“<strong><i>Zij verzinnen.</strong></i>”",
       "Dat is pijnlijk herkenbaar. Meningen worden feiten. Gevoelens worden wetten. En wie twijfelt, wordt weggezet als ouderwets, extremistisch of gewoon gek.",
