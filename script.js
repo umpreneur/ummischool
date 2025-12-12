@@ -5,7 +5,9 @@ const blogPreviews = [
   title: "Het Begint Altijd Bij Een Moeder",
   excerpt: "Grote geleerden begonnen nooit met hun eigen naam. Hun verhaal startte bij moeders die in stilte bouwden, dapper bleven en iets groots durfden te planten.",
   slug: "het-begint-altijd-bij-een-moeder",
-  thumbnailUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
+       thumbnailUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
+    imageUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
+
 
 
   },
@@ -17,7 +19,9 @@ const blogContent = {
   title: "Het Begint Altijd Bij Een Moeder",
   category: "Reflectie",
   date: "2025-12-12",
-      thumbnailUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
+headerImageUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
+    imageUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
+    
   content: [
     "Het verhaal van grote geleerden begon nooit met hén. Niet met hun boeken, hun kennis of hun woorden. Het begon bij de vrouwen achter hen, moeders met moed, geduld en een doel dat verder reikte dan hun eigen gemak.",
     "De moeder van Imam Ahmad had weinig middelen, maar een helder hart: <strong><i>‘Mijn kind moet Allah leren kennen.’</i> </strong> Ze stond op in koude ochtenden, begeleidde hem richting kennis, zonder te beseffen dat haar stille inspanning generaties zou raken.",
