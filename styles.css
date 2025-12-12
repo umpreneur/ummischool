@@ -400,7 +400,7 @@ button, a.button {
   display: flex;
   flex-direction: column;
   gap: 2.5rem;
-  max-width: 900px;
+  max-width: 720px;
   margin: 0 auto;
 }
 
