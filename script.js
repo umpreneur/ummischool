@@ -12,7 +12,7 @@ const blogPreviews = [
 ];
 
 const blogContent = {
-  "Zij Legde Het Fundament": {
+  "Zij-Legde-Het-Fundament": {
   title: "Zij Legde Het Fundament",
   category: "Reflectie",
   date: "2025-12-12",
