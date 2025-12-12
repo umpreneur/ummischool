@@ -4,7 +4,7 @@ const blogPreviews = [
   id: "1",
   title: "Zij Legde Het Fundament",
   excerpt: "Grote geleerden begonnen nooit met hun eigen naam. Hun verhaal startte bij moeders die in stilte bouwden, dapper bleven en iets groots durfden te planten.",
-  slug: "het-begint-altijd-bij-een-moeder",
+  slug: "Zij-Legde-Het-Fundament",
        thumbnailUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
     imageUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
 
