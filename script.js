@@ -51,11 +51,11 @@ headerImageUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
     imageUrl: "https://umpreneur.github.io/ummischool/blog2img.png",
 
     content: [
-      "“En als jij de meeste mensen op aarde zou gehoorzamen, zouden zij jou doen afdwalen van het pad van Allah. Zij volgen slechts vermoedens en zij speculeren alleen maar.”<br/>(Qur’an 6:116)",
-      "We leven in het tijdperk van de meerderheid. De meeste likes. De luidste meningen. De populairste ‘waarheden’.",
-      "En toch waarschuwt Allah ons hier keihard: de meerderheid is geen maatstaf voor waarheid.",
+      "<strong><i>“En als jij de meeste mensen op aarde zou gehoorzamen, zouden zij jou doen afdwalen van het pad van Allah. Zij volgen slechts vermoedens en zij speculeren alleen maar.”(Qur’an 6:116) </i></strong>",
+      "We leven in het tijdperk van de meerderheid. <br>De meeste likes. <br>De luidste meningen. <br>De populairste ‘waarheden’.",
+      "En waarschuwt Allah ons hier keihard voor: de meerderheid is geen maatstaf voor waarheid.",
       "Deze ayah snijdt dwars door onze moderne illusies heen. Want hoe vaak laten we ons leiden door wat ‘normaal’ is? Door trends, door sociale druk, door wat iedereen zegt dat goed voelt? Allah noemt dat geen kennis. Hij noemt het vermoedens en giswerk.",
-      "“Zij volgen slechts aannames.”<br/>“Zij verzinnen.”",
+      "“<strong><i>Zij volgen slechts aannames.</strong></i>”<br/>“<strong><i>Zij verzinnen.</strong></i>”",
       "Dat is pijnlijk herkenbaar. Meningen worden feiten. Gevoelens worden wetten. En wie twijfelt, wordt weggezet als ouderwets, extremistisch of gewoon gek.",
       {type: "highlight",
         text: "Maar de Qur’an leert ons iets radicaals: waarheid is geen democratie."},
@@ -63,7 +63,7 @@ headerImageUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
       "Deze ayah is geen uitnodiging tot arrogantie, maar tot wakker zijn. Niet alles wat vaak herhaald wordt, is waar. Niet alles wat normaal voelt, is juist. En niet iedereen die zeker klinkt, heeft kennis.",
       "De vraag is dus niet: ‘Wat doen de meeste mensen?’",
       {type: "highlight",
-        text: "Maar: ‘Waar leidt dit mij naartoe — dichter bij Allah, of verder van Hem?’"},
+        text: "Maar: ‘Waar leidt dit mij naartoe dichter bij Allah, of verder van Hem?’"},
       "Soms is het pad smal. Soms loop je alleen. Maar Allah herinnert ons hier: leiding komt niet van aantallen, maar van waarheid."
     ]
   }
