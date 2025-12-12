@@ -2,7 +2,7 @@ const blogPreviews = [
   {
    
   id: "1",
-  title: "Het Begint Altijd Bij Een Moeder",
+  title: "Zij Legde Het Fundament",
   excerpt: "Grote geleerden begonnen nooit met hun eigen naam. Hun verhaal startte bij moeders die in stilte bouwden, dapper bleven en iets groots durfden te planten.",
   slug: "het-begint-altijd-bij-een-moeder",
        thumbnailUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
@@ -15,7 +15,7 @@ const blogPreviews = [
 
 const blogContent = {
   
-  "het-begint-altijd-bij-een-moeder": {
+  "Zij Legde Het Fundament": {
   title: "Het Begint Altijd Bij Een Moeder",
   category: "Reflectie",
   date: "2025-12-12",
