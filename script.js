@@ -496,8 +496,8 @@ function renderBlogPage() {
       <div style="text-align: center; margin-bottom: 3rem;">
         <h1 class="page-title" data-testid="text-blog-page-title">Blog</h1>
         <p class="faq-subtitle" data-testid="text-blog-subtitle">  Deze blog is er om ouders te ondersteunen in het geven en vormgeven van thuisonderwijs.
-  <strong>Thuisonderwijs is een unieke reis, en jouw ervaring kan een andere moeder écht helpen.</strong><br>
-  Draag bij en stuur je gastblog in (women only).
+Thuisonderwijs is een unieke reis, en jouw ervaring kan een andere moeder écht helpen.<br>
+  <strong>Draag bij en stuur je gastblog in (women only)</strong>.
 </p>
       </div>
       <div class="blog-stack">
