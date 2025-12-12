@@ -8,15 +8,12 @@ const blogPreviews = [
        thumbnailUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
     imageUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
 
-
-
   },
 ];
 
 const blogContent = {
-  
   "Zij Legde Het Fundament": {
-  title: "Het Begint Altijd Bij Een Moeder",
+  title: "Zij Legde Het Fundament",
   category: "Reflectie",
   date: "2025-12-12",
 headerImageUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
