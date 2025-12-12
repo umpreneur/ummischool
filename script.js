@@ -12,9 +12,9 @@ const blogPreviews = [
 
   {
     id: "2",
-    title: "De meerderheid heeft geen gelijk",
+    title: "Bewust Kiezen",
     excerpt: "In een tijd van likes, luidste meningen en populaire ‘waarheden’ herinnert de Qur’an ons eraan dat waarheid geen democratie is.",
-    slug: "De-meerderheid-heeft-geen-gelijk",
+    slug: "Bewust-Kiezen",
     thumbnailUrl: "https://umpreneur.github.io/ummischool/blog2img.png",
     imageUrl: "https://umpreneur.github.io/ummischool/blog2img.png",
   },
@@ -43,8 +43,8 @@ headerImageUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
     
   ]
   },
-  "De-meerderheid-heeft-geen-gelijk": {
-    title: "De meerderheid heeft geen gelijk",
+  "Bewust-Kiezen": {
+    title: "Bewust Kiezen",
     category: "Reflectie",
     date: "2025-12-12",
     headerImageUrl: "https://umpreneur.github.io/ummischool/blog2img.png",
