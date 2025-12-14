@@ -25,8 +25,6 @@ const blogPreviews = [
   excerpt:
     "Een dagstart is een moment om samen de dag te openen, verwachtingen af te stemmen en ruimte te geven aan wat nodig is op dat moment.",
   slug: "dagstart-in-thuisonderwijs",
-  thumbnailUrl: "https://umpreneur.github.io/ummischool/dagstart.png",
-  imageUrl: "https://umpreneur.github.io/ummischool/dagstart.png",
   },
 
 
@@ -79,14 +77,13 @@ headerImageUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
         text: "Maar: ‘Waar leidt dit mij naartoe dichter bij Allah, of verder van Hem?’"},
       "Soms is het pad smal. Soms loop je alleen. Maar Allah herinnert ons hier: leiding komt niet van aantallen, maar van waarheid."
     ]
-  }
+  },
 
      "Dagstart-in-thuisonderwijs": {
     title: "Dagstart in thuisonderwijs",
     category: "Reflectie",
     date: "2025-12-12",
-    headerImageUrl: "https://umpreneur.github.io/ummischool/blog2img.png",
-    imageUrl: "https://umpreneur.github.io/ummischool/blog2img.png",
+
  content: [
     "Een dagstart is een moment aan het begin van de dag om samen stil te staan bij <strong>wat er komt</strong> en <strong>hoe iedereen erbij zit</strong>. In verschillende vormen van onderwijs wordt dit gebruikt om de dag gezamenlijk te beginnen.",
     
@@ -124,7 +121,7 @@ headerImageUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
   ]
 
 
-}
+},
 
   
 };
