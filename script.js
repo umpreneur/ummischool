@@ -116,11 +116,10 @@ headerImageUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
 
 },
 
-    "dagafsluitings": {
+    "Dagafsluiting": {
     title: "dagafsluiting",
     category: "Reflectie",
     date: "2025-12-12",
-
 content: [
     "Een dagafsluiting is een moment aan het einde van de dag om samen stil te staan bij <strong>wat er is gebeurd</strong> en <strong>hoe de dag is ervaren</strong>. In veel gezinnen krijgt dit moment een vaste plek, bijvoorbeeld voor het slapen of tijdens het avondeten.",
 
