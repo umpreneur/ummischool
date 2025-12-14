@@ -18,6 +18,19 @@ const blogPreviews = [
     thumbnailUrl: "https://umpreneur.github.io/ummischool/blog2img.png",
     imageUrl: "https://umpreneur.github.io/ummischool/blog2img.png",
   },
+
+{
+  id: "3",
+  title: "Dagstart in thuisonderwijs",
+  excerpt:
+    "Een dagstart is een moment om samen de dag te openen, verwachtingen af te stemmen en ruimte te geven aan wat nodig is op dat moment.",
+  slug: "dagstart-in-thuisonderwijs",
+  thumbnailUrl: "https://umpreneur.github.io/ummischool/dagstart.png",
+  imageUrl: "https://umpreneur.github.io/ummischool/dagstart.png",
+  },
+
+
+  
 ];
 
 
@@ -68,6 +81,52 @@ headerImageUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
     ]
   }
 
+     "Dagstart-in-thuisonderwijs": {
+    title: "Dagstart in thuisonderwijs",
+    category: "Reflectie",
+    date: "2025-12-12",
+    headerImageUrl: "https://umpreneur.github.io/ummischool/blog2img.png",
+    imageUrl: "https://umpreneur.github.io/ummischool/blog2img.png",
+ content: [
+    "Een dagstart is een moment aan het begin van de dag om samen stil te staan bij <strong>wat er komt</strong> en <strong>hoe iedereen erbij zit</strong>. In verschillende vormen van onderwijs wordt dit gebruikt om de dag gezamenlijk te beginnen.",
+    
+    "Ook binnen thuisonderwijs kan een dagstart een plek hebben. Hoe dit moment eruitziet, ligt niet vast en verschilt per gezin en per kind.",
+
+    {
+      type: "highlight",
+      text:
+        "Een dagstart is geen vast format, maar een moment van afstemming dat meebeweegt met het gezin."
+    },
+
+    "Binnen thuisonderwijs bestaat een dagstart vaak uit het samen doornemen van wat er die dag op de planning staat, het geven van ruimte aan het kind om mee te denken en het kort aandacht hebben voor hoe iedereen zich op dat moment voelt.<br/>Dit kan op verschillende momenten van de dag gebeuren, bijvoorbeeld tijdens het ontbijt of later op de ochtend.",
+
+    "Tijdens een dagstart wordt de dag in grote of kleine lijnen besproken. Dat maakt duidelijk wat er ongeveer komt en in welke volgorde activiteiten plaatsvinden. Kinderen kunnen delen waar zij naar uitkijken, waar spanning zit of wat zij liever op een ander moment doen.",
+
+    {
+      type: "highlight",
+      text:
+        "Inspraak betekent dat een kind wordt gehoord, niet dat alles vastligt."
+    },
+
+    "Die inbreng kan, waar passend, worden meegenomen in hoe de dag verder verloopt.",
+
+    "Voor veel kinderen is het prettig om te weten hoe de dag eruitziet. De mate van detail verschilt per leeftijd. Voor jonge kinderen is een globaal overzicht vaak voldoende. Oudere kinderen hebben vaker baat bij een meer uitgewerkte planning, waarin duidelijk is wat wanneer gebeurt.",
+
+    {
+      type: "highlight",
+      text:
+        "Structuur kan er voor ieder kind anders uitzien."
+    },
+
+    "Een dagstart kan elke dag op hetzelfde moment plaatsvinden, maar dat hoeft niet. Het kan kort zijn of iets uitgebreider. Wat past, hangt samen met leeftijd, behoefte en de situatie van dat moment.",
+
+    "Binnen thuisonderwijs kan een dagstart helpen om samen <strong>doelen</strong> en <strong>verwachtingen</strong> voor de dag te bespreken. Dat geeft duidelijkheid voor zowel kind als ouder."
+  ]
+
+
+}
+
+  
 };
 const faqItems = [
   {
