@@ -38,7 +38,6 @@ const blogContent = {
   "Zij-Legde-Het-Fundament": {
   title: "Zij Legde Het Fundament",
   category: "Reflectie",
-  date: "2025-12-12",
 headerImageUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
     imageUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
     
@@ -59,7 +58,6 @@ headerImageUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
   "Bewust-Kiezen": {
     title: "Bewust Kiezen",
     category: "Reflectie",
-    date: "2025-12-12",
     headerImageUrl: "https://umpreneur.github.io/ummischool/blog2img.png",
     imageUrl: "https://umpreneur.github.io/ummischool/blog2img.png",
 
@@ -83,9 +81,7 @@ headerImageUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
 
      "dagstart-in-thuisonderwijs": {
     title: "Dagstart in thuisonderwijs",
-    category: "Reflectie",
-    date: "2025-12-12",
-
+       category: "Reflectie",
  content: [
     "Een dagstart is een moment aan het begin van de dag om samen stil te staan bij <strong>wat er komt</strong> en <strong>hoe iedereen erbij zit</strong>. In verschillende vormen van onderwijs wordt dit gebruikt om de dag gezamenlijk te beginnen.",
     "Ook binnen thuisonderwijs kan een dagstart een plek hebben. Hoe dit moment eruitziet, ligt niet vast en verschilt per gezin en per kind.",
@@ -119,7 +115,6 @@ headerImageUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
     "dagafsluiting": {
     title: "Dagafsluiting",
     category: "Reflectie",
-    date: "2025-12-12",
 content: [
     "Een dagafsluiting is een moment aan het einde van de dag om samen stil te staan bij <strong>wat er is gebeurd</strong> en <strong>hoe de dag is ervaren</strong>. In veel gezinnen krijgt dit moment een vaste plek, bijvoorbeeld voor het slapen of tijdens het avondeten.",
     "Ook binnen thuisonderwijs kan een dagafsluiting een rol spelen. Hoe dit moment wordt ingevuld, verschilt per gezin en per kind.",
