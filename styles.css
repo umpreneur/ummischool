@@ -1443,16 +1443,35 @@ font-size: 1rem;
     max-width: 1200px; /* of 1100 / 1280 */
   }
 }
-
+/* Desktop blog layout: 2 groot boven, daarna 3 per rij */
 @media (min-width: 1025px) {
   .blog-stack {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(6, 1fr);
     gap: 2.5rem;
+    max-width: 1200px;
+    margin: 0 auto;
+    grid-auto-flow: row dense;
   }
 
+  /* Eerste twee blogs: groot */
   .blog-card:nth-child(1),
   .blog-card:nth-child(2) {
-    grid-column: span 2;
+    grid-column: span 3; /* 3 + 3 = 6 */
+  }
+
+  /* Alle volgende: 3 per rij */
+  .blog-card:nth-child(n+3) {
+    grid-column: span 2; /* 2 + 2 + 2 = 6 */
+  }
+
+  /* Afbeeldingshoogtes */
+  .blog-card:nth-child(1) .blog-card-image,
+  .blog-card:nth-child(2) .blog-card-image {
+    height: 320px;
+  }
+
+  .blog-card:nth-child(n+3) .blog-card-image {
+    height: 200px;
   }
 }
