@@ -1436,30 +1436,23 @@ font-size: 1rem;
   }
 }
 
-/* Desktop blog layout */
-@media (min-width: 1025px) {
-  .blog-stack {
-    display: grid;
-    grid-template-columns: repeat(6, 1fr);
-    gap: 2.5rem;
-    max-width: 1200px;
-  }
-}
 
-@media (min-width: 1025px) {
-  .blog-card:nth-child(1),
-  .blog-card:nth-child(2) {
-    grid-column: span 3; /* 3 + 3 = 6 */
-  }
-
-  .blog-card:nth-child(1) .blog-card-image,
-  .blog-card:nth-child(2) .blog-card-image {
-    height: 300px;
-  }
-}
 
 @media (min-width: 1025px) {
   .blog-stack {
     max-width: 1200px; /* of 1100 / 1280 */
+  }
+}
+
+@media (min-width: 1025px) {
+  .blog-stack {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2.5rem;
+  }
+
+  .blog-card:nth-child(1),
+  .blog-card:nth-child(2) {
+    grid-column: span 2;
   }
 }
