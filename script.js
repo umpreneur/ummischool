@@ -116,8 +116,8 @@ headerImageUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
 
 },
 
-    "Dagafsluiting": {
-    title: "dagafsluiting",
+    "dagafsluiting": {
+    title: "Dagafsluiting",
     category: "Reflectie",
     date: "2025-12-12",
 content: [
