@@ -122,44 +122,25 @@ headerImageUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
     date: "2025-12-12",
 content: [
     "Een dagafsluiting is een moment aan het einde van de dag om samen stil te staan bij <strong>wat er is gebeurd</strong> en <strong>hoe de dag is ervaren</strong>. In veel gezinnen krijgt dit moment een vaste plek, bijvoorbeeld voor het slapen of tijdens het avondeten.",
-
     "Ook binnen thuisonderwijs kan een dagafsluiting een rol spelen. Hoe dit moment wordt ingevuld, verschilt per gezin en per kind.",
-
-    {
-      type: "highlight",
+    {type: "highlight",
       text:
-        "Een dagafsluiting biedt ruimte om de dag af te ronden, zonder te beoordelen."
-    },
-
+        "Een dagafsluiting biedt ruimte om de dag af te ronden, zonder te beoordelen."},
     "Een dagafsluiting bestaat vaak uit eenvoudige vragen, zoals:<br/>wat heb je vandaag gedaan (ook als daar samen bij was),<br/>wat vond je leuk,<br/>wat vond je minder fijn,<br/>en wat heb je vandaag geleerd?<br/>Deze vragen helpen om de dag in woorden te brengen.",
-
     "Voor kinderen ondersteunt het terugvertellen van de dag de taalontwikkeling. Het helpt bij <strong>navertellen</strong>, het <strong>ordenen van gebeurtenissen</strong> en het benoemen van ervaringen, zowel positieve als lastige.",
-
-    {
-      type: "highlight",
+    {type: "highlight",
       text:
-        "Terugvertellen helpt een kind om ervaringen te verwerken en onder woorden te brengen."
-    },
-
+        "Terugvertellen helpt een kind om ervaringen te verwerken en onder woorden te brengen."},
     "Naast het terugkijken op gebeurtenissen is er ruimte om samen stil te staan bij wat de dag heeft geleerd. Dat kan gaan over iets nieuws dat is ontdekt, een inzicht dat is ontstaan of een moment waarop iets moeilijk was.<br/>Dit moment kan ook gebruikt worden voor het geven van <strong>complimenten</strong> of het delen van <strong>advies</strong>, zonder te beoordelen of eerdere situaties opnieuw op te halen.",
-
-    {
-      type: "highlight",
+    {type: "highlight",
       text:
-        "Complimenten en advies krijgen hier een plek, zonder oordeel."
-    },
-
+        "Complimenten en advies krijgen hier een plek, zonder oordeel."},
     "Binnen een dagafsluiting is er ruimte voor <strong>dankbaarheid</strong> en het <strong>erkennen van de zegeningen van Allah</strong>.",
-
     "Een dagafsluiting krijgt in veel gezinnen bewust een vaste plek in de dag. Die voorspelbaarheid kan rust geven en maakt het tot een herkenbaar moment van afronding.",
-
-    {
-      type: "highlight",
+    {type: "highlight",
       text:
-        "Een vaste dagafsluiting kan helpen om de dag met rust en aandacht af te sluiten."
-    },
-
-    "Een dagafsluiting is daarmee een manier om de dag samen af te sluiten, met aandacht voor wat is beleefd, gedeeld en geleerd."
+        "Een vaste dagafsluiting kan helpen om de dag met rust en aandacht af te sluiten."},
+    "Een dagafsluiting is daarmee een manier om de dag samen af te sluiten, met aandacht voor wat is beleefd, gedeeld en geleerd.",
   ]
  },
   
