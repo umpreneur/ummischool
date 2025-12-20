@@ -148,7 +148,7 @@ content: [
   ]
  },
 
-"Dagplanning": {
+"Thuisonderwijs-en-Dagplanning": {
  "title": "T.O. Dagplanning",
     category: "Reflectie",
   "content": [
