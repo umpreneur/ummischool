@@ -31,6 +31,15 @@ const blogPreviews = [
   thumbnailUrl: "https://umpreneur.github.io/ummischool/dayend.png",
   imageUrl: "https://umpreneur.github.io/ummischool/dayend.png",
 },
+  {
+  id: "5",
+  "title": "T.O. Dagplanning",
+  "excerpt": "Een rustige dag met vaste ritmes maakt thuisonderwijs helder, haalbaar en vol te houden. Geen strak schema, wel structuur die past bij jouw gezin en geloof.",
+  "slug": "Thuisonderwijs-en-Dagplanning",
+  "thumbnailUrl": "https://umpreneur.github.io/ummischool/blog5img.png",
+  "imageUrl": "https://umpreneur.github.io/ummischool/blog5img.png",
+  },
+  
 ];
 
 
