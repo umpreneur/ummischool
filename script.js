@@ -147,6 +147,47 @@ content: [
     "Een dagafsluiting is daarmee een manier om de dag samen af te sluiten, met aandacht voor wat is beleefd, gedeeld en geleerd.",
   ]
  },
+
+"Dagplanning": {
+ "title": "T.O. Dagplanning",
+    category: "Reflectie",
+  "content": [
+    "<strong><i>‘Structuur brengt rust, rust brengt ruimte om te leren.’</i></strong>",
+    "Thuisonderwijs loopt het best als de dag overzichtelijk is. Niet strak, maar wél duidelijk. Als je elke ochtend opnieuw moet bedenken wat er gaat gebeuren, geeft dat onrust — bij kinderen én bij ouders. Met een planning weet iedereen wat er bij de dag hoort.",
+    "Zo’n planning hoeft niet vol of ingewikkeld te zijn. Vaak is een eenvoudige, herkenbare volgorde al genoeg. Sommige momenten liggen vast, zoals opstaan, eten en slapen. Andere kunnen meebewegen. Het doel is niet om alles dicht te timmeren, maar om het leren een vaste plek te geven.",
+    "Regelmaat helpt daarbij. Niet door elke dag exact hetzelfde te doen, maar door dezelfde onderdelen steeds terug te laten komen. Wanneer ze precies plaatsvinden, mag per dag verschillen.",
+    { "type": "highlight", "text": "In moslimgezinnen geven de gebedstijden vanzelf ritme aan de dag. Ze brengen rust en verdelen de dag in overzichtelijke delen." },
+    "Leerblokken hoeven niet strak gepland. Ruimte voor pauzes en uitloop hoort erbij. Kinderen werken niet altijd in hetzelfde tempo. Een goede planning houdt daar rekening mee — zonder dat de dag zijn vorm verliest.",
+    "Wat telt, is dat de planning bij het gezin past en vol te houden is op de lange termijn. Rust, duidelijkheid en haalbaarheid maken het verschil.",
+    { "type": "highlight", "text": "Een rustige dag met vaste ritmes maakt thuisonderwijs helder, haalbaar en vol te houden." },
+    "Voor wie wil starten met een dagplanning: begin eenvoudig. Bouw op rond gebedstijden of vaste dagelijkse ankers zoals eten en slapen. Plan daar twee leerblokken omheen: taal/lezen en rekenen. Voeg buitenmomenten en rust in. Houd het licht, maar consequent.",
+    "Hieronder vind je een voorbeeld van een rustige thuisonderwijsdag. Deze indeling is een suggestie, geen regel. Pas aan naar je eigen situatie:",
+    "<ul>" +
+      "<li><strong>07:00</strong> – Ontbijt en dagstart</li>" +
+      "<li><strong>08:00</strong> – Opruimen, zelfzorg, praktische taken</li>" +
+      "<li><strong>09:00</strong> – Leerblok 1 + pauze</li>" +
+      "<li><strong>10:00</strong> – Vrij spel of praktische momenten (zoals koken, opruimen)</li>" +
+      "<li><strong>11:00</strong> – Leerblok 2 + pauze</li>" +
+      "<li><strong>12:00</strong> – Lunch en rust</li>" +
+      "<li><strong>Na Dhuhr</strong> – Buitenactiviteit</li>" +
+      "<li><strong>15:00</strong> – Fruitmoment + rustige activiteit (optioneel extra leerblok)</li>" +
+      "<li><strong>17:00</strong> – Avondeten + gezamenlijke afronding</li>" +
+      "<li><strong>19:00</strong> – Bedtijd (voor kinderen)</li>" +
+      "<li><strong>Na bedtijd</strong> – Korte planning voor morgen + voorbereiding + me-time</li>" +
+    "</ul>",
+    "Een dag hoeft niet vol te zitten om waardevol te zijn. Een rustige, duidelijke volgorde waarin leren een vaste plek heeft, is vaak precies wat nodig is.",
+    "Start eenvoudig. Herhaal. Pas aan. En vertrouw: kleine stappen maken groot verschil."
+  ]
+},
+
+
+
+
+
+
+
+
+  
   
 };
 const faqItems = [
