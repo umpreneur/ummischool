@@ -478,6 +478,18 @@ font-size: 1rem;
   transform: translateX(4px);
 }
 
+.blog-card-image {
+  width: 100%;
+  height: auto;   /* ✅ */
+  display: block;
+}
+
+
+
+
+
+
+
 /* Blog Post */
 .blog-post {
   background-color: var(--color-white);
@@ -1461,12 +1473,4 @@ font-size: 1rem;
   }
 
   /* Afbeeldingshoogtes */
-  .blog-card:nth-child(1) .blog-card-image,
-  .blog-card:nth-child(2) .blog-card-image {
-    height: 320px;
-  }
-
-  .blog-card:nth-child(n+3) .blog-card-image {
-    height: 200px;
-  }
 }
