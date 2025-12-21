@@ -1479,24 +1479,6 @@ font-size: 1rem;
 
   /* Afbeeldingshoogtes */
 }
-@media (max-width: 480px) {
 
-  /* 1️⃣ Container: bijna full width */
-  .container {
-    padding-left: 0.5rem;
-    padding-right: 0.5rem;
-  }
 
-  /* 2️⃣ Blog post: geen max-width, geen margins */
-  .blog-post {
-    max-width: 100%;
-    margin: 0;
-    border-radius: 0; /* optioneel, voelt app-achtig */
-  }
 
-  /* 3️⃣ Content: comfortabele maar brede tekst */
-  .blog-post-content {
-    padding-left: 0.75rem;
-    padding-right: 0.75rem;
-  }
-}
