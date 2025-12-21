@@ -424,12 +424,7 @@ button, a.button {
   border-color: var(--color-accent);
 }
 
-.blog-card-image {
-  width: 100%;
-  height: 100%;
-  object-fit: contain;
-  display: block;
-}
+
 
 .blog-card-content {
   padding: 2rem;
@@ -1225,9 +1220,6 @@ font-size: 1rem;
     overflow: hidden;
   }
   
-  .blog-card-image {
-    height: 150px;
-  }
   
   .blog-card-content {
     padding: 1.25rem;
