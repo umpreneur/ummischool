@@ -928,11 +928,6 @@ function showBlogPost(slug) {
 
   // Update post content
   document.getElementById('post-title').textContent = post.title;
-  document.getElementById('post-date').textContent = new Date(post.date).toLocaleDateString('nl-NL', {
-    year: 'numeric',
-    month: 'long',
-    day: 'numeric'
-  });
   document.getElementById('post-header-image').src = post.headerImageUrl;
   document.getElementById('post-header-image').alt = post.title;
   
