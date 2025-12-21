@@ -514,11 +514,13 @@ font-size: 1rem;
 
 .blog-post-header-image {
   width: 100%;
-  height: 450px;
-  object-fit: cover;
-  display: block;
-  border-radius: 12px 12px 0 0;
+  height: auto;          /* 👈 belangrijk */
+  max-height: 450px;     /* optioneel, voorkomt mega-hoge beelden */
+  object-fit: contain;  /* 👈 geen crop */
+  background-color: #f2f2f2;
 }
+
+
 
 .blog-post img {
   width: 100%;
