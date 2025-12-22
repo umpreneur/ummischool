@@ -30,8 +30,8 @@ const blogPreviews = [
   excerpt:
     "Een dagafsluiting is een moment om samen terug te kijken, ervaringen te delen en de dag bewust af te ronden.",
   slug: "dagafsluiting",
-  thumbnailUrl: "https://umpreneur.github.io/ummischool/dayend.png",
-  imageUrl: "https://umpreneur.github.io/ummischool/dayend.png",
+    thumbnailUrl: "https://umpreneur.github.io/ummischool/blog4img.png",
+    imageUrl: "https://umpreneur.github.io/ummischool/blog4img.png",
 },
   {
   id: "5",
@@ -128,6 +128,8 @@ headerImageUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
     "dagafsluiting": {
     title: "Dagafsluiting",
     category: "Reflectie",
+        headerImageUrl: "https://umpreneur.github.io/ummischool/blog4img.png",
+    imageUrl: "https://umpreneur.github.io/ummischool/blog4img.png",
 content: [
     "Een dagafsluiting is een moment aan het einde van de dag om samen stil te staan bij <strong>wat er is gebeurd</strong> en <strong>hoe de dag is ervaren</strong>. In veel gezinnen krijgt dit moment een vaste plek, bijvoorbeeld voor het slapen of tijdens het avondeten.",
     "Ook binnen thuisonderwijs kan een dagafsluiting een rol spelen. Hoe dit moment wordt ingevuld, verschilt per gezin en per kind.",
