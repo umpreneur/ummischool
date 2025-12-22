@@ -157,6 +157,8 @@ content: [
 "Thuisonderwijs-en-Dagplanning": {
  "title": "T.O. Dagplanning",
     category: "Reflectie",
+   headerImageUrl: "https://umpreneur.github.io/ummischool/blog5img.png",
+    imageUrl: "https://umpreneur.github.io/ummischool/blog5img.png",
   "content": [
     "<strong>Structuur brengt rust, rust brengt ruimte om te leren.</strong>",
     "Thuisonderwijs loopt het best als de dag overzichtelijk is. Niet strak, maar wél duidelijk. Als je elke ochtend opnieuw moet bedenken wat er gaat gebeuren, geeft dat onrust bij kinderen én bij ouders. Met een planning weet iedereen wat er bij de dag hoort.",
