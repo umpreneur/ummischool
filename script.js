@@ -178,7 +178,7 @@ content: [
 "Leerblok óf buitenactiviteit<br>" +
 "Lunch &amp; rust<br>" +
 "Buitenactiviteit óf leerblok<br>" +
-"Vrij spel<br><br>" +
+"Vrij spel<br>" +
 "<strong>17:00</strong> – Avondeten &amp; gezamenlijke afronding<br>" +
 "<strong>19:00</strong> – Bedtijd (voor kinderen)<br>" +
 "<strong>Na bedtijd</strong> – Korte planning voor morgen + voorbereiding + me-time"+
