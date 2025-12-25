@@ -97,7 +97,7 @@ headerImageUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
     imageUrl: "https://umpreneur.github.io/ummischool/blog3img.png",
  content: [
     "Een dagstart is een moment aan het begin van de dag om samen stil te staan bij <strong>wat er komt</strong> en <strong>hoe iedereen erbij zit</strong>. In verschillende vormen van onderwijs wordt dit gebruikt om de dag gezamenlijk te beginnen.",
-    "Ook binnen thuisonderwijs kan een dagstart een plek hebben. Hoe dit moment eruitziet, ligt niet vast en verschilt per gezin en per kind.",
+    "Ook binnen thuisonderwijs kan een dagstart een plek hebben. Hoe dit moment eruitziet, ligt niet vast en verschilt per gezin en per kind.Invullingen voor de dagstart vind je in een vervolgblog.(link)",
 
     {
       type: "highlight",
