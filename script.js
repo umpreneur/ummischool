@@ -173,7 +173,6 @@ content: [
     "Hieronder vind je een voorbeeld van een thuisonderwijsdag. Het is geen schema om letterlijk over te nemen", 
     "maar om een beeld te geven van hoe een dag met structuur eruit <strong> kan </strong> zien.",
     "Hoeveel leerblokken je gebruikt, wanneer je ze plant en hoe je de dag opbouwt, hangt af van je kind, je aanpak en jullie ritme.",
-    "<ul>" +
       "<strong>07:00</strong> – Ontbijt en dagstart" +
       "Opruimen, zelfzorg, praktische taken" +
       "Leerblok óf buitenactiviteit" +
