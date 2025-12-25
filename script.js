@@ -173,15 +173,16 @@ content: [
     "Hieronder vind je een voorbeeld van een thuisonderwijsdag. Het is geen schema om letterlijk over te nemen", 
     "maar om een beeld te geven van hoe een dag met structuur eruit <strong> kan </strong> zien.",
     "Hoeveel leerblokken je gebruikt, wanneer je ze plant en hoe je de dag opbouwt, hangt af van je kind, je aanpak en jullie ritme.",
-      "<strong>07:00</strong> – Ontbijt en dagstart" +
-      "Opruimen, zelfzorg, praktische taken" +
-      "Leerblok óf buitenactiviteit" +
-      "Lunch & rust" +
-      "Buitenactiviteit óf leerblok" +
-      "Vrij spel" +
-      "strong>17:00</strong> – Avondeten & gezamenlijke afronding" +
-      "<strong>19:00</strong> – Bedtijd (voor kinderen)" +
-      "<strong>Na bedtijd</strong> – Korte planning voor morgen + voorbereiding + me-time" +
+     "<strong>07:00</strong> – Ontbijt & dagstart<br>" +
+"Opruimen, zelfzorg, praktische taken<br>" +
+"Leerblok óf buitenactiviteit<br>" +
+"Lunch &amp; rust<br>" +
+"Buitenactiviteit óf leerblok<br>" +
+"Vrij spel<br><br>" +
+"<strong>17:00</strong> – Avondeten &amp; gezamenlijke afronding<br>" +
+"<strong>19:00</strong> – Bedtijd (voor kinderen)<br>" +
+"<strong>Na bedtijd</strong> – Korte planning voor morgen + voorbereiding + me-time"+
+
     "",
     "Een passende dagplanning vinden kost tijd. Het is vaak zoeken, proberen, bijstellen. Wat op papier goed lijkt, voelt in de praktijk soms anders.",
     "Daarom is het normaal om verschillende schema’s uit te testen voordat duidelijk wordt wat echt werkt in jullie situatie.",
