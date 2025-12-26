@@ -402,7 +402,7 @@ function renderHeader() {
         <nav id="mobile-nav">
           <a data-page="faq" class="nav-link" data-testid="link-nav-faq">Ik Twijfel!</a>
           <a data-page="waar-begin-ik" class="nav-link" data-testid="link-nav-waar-begin-ik">Waar Begin Ik?</a>
-           <a data-page="printables" class="nav-link" data-testid="link-nav-printables">Downloads</a>
+           <a data-page="printables" class="nav-link" data-testid="link-nav-printables">Printables</a>
 
           <a data-page="blog" class="nav-link" data-testid="link-nav-blog">Blog</a>
           <a data-page="contact" class="nav-link" data-testid="link-nav-contact">Contact</a>
