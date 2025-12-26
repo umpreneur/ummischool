@@ -206,16 +206,15 @@ content: [
     "Hoe dit gesprek eruitziet, hangt af van de leeftijd van je kind: bij jonge kinderen houd je het eenvoudig, bij oudere kinderen kun je wat verder praten. Door dit dagelijks te doen, ontstaat er structuur, vertrouwen en openheid.",
 
     "Na dit moment kun je, als dat past, kiezen voor een leermoment. Je staat dan kort stil bij vaste onderdelen, zoals de dag van de week, het dagdeel of het weer. Zo kun je het leren op een rustige manier verweven in de dagstart.",
-
-
   "<strong>Onderwerpen voor het leermoment</strong>" +
     "<ul>" +
       "<li>Dagen van de week</li>" +
-      "<li>Gisteren, vandaag, morgen, eergisteren en overmorgen</li>" +
-      "<li>Dagdelen (nacht, ochtend, middag, avond)</li>" +
-      "<li>Maanden en seizoenen</li>" +
+      "<li>Eergisteren, gisteren, vandaag, morgen en overmorgen</li>" +
+      "<li>Dagdelen</li>" +
+      "<li>Maanden</li>"+
+      "<li>Seizoenen</li>" +
       "<li>Het weer en passende kleding</li>" +
-      "<li>Tijd: nu, straks, later</li>" +
+      "<li>Tijdsaanduidingen</li>" +
       "<li>Klokkijken</li>" +
     "</ul><br>" +
   "<strong>Materialen die kunnen helpen</strong>" +
