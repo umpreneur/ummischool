@@ -245,6 +245,35 @@ main {
 .download-btn {
   margin-top: auto;
 }
+/* ===== DOWNLOADS DISABLED OVERLAY ===== */
+
+.download-card.is-disabled {
+  position: relative;
+  pointer-events: none;
+}
+
+.download-card.is-disabled::after {
+  content: "Binnenkort beschikbaar";
+  position: absolute;
+  inset: 0;
+  background: rgba(255, 255, 255, 0.75);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--font-serif);
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--color-text);
+  border-radius: 12px;
+  text-align: center;
+  padding: 1rem;
+}
+
+.download-card.is-disabled .download-btn {
+  opacity: 0.6;
+}
 
 /* ===== RESPONSIVE ===== */
 
