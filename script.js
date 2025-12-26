@@ -221,9 +221,9 @@ content: [
     "<ul>" +
       "<li><strong>Goula houten kalender:</strong> een educatieve houten kalender waarmee kinderen spelenderwijs inzicht krijgen in dag, datum, seizoen, weer en tijd.</li>" +
       "<li><strong>Hijri-kalender:</strong> eventueel online te downloaden</li>" +
-      "<li><strong>Whiteboard:</strong> een eenvoudig hulpmiddel voor overzicht</li>" +
-      "<li><strong>Dagritmekaarten:</strong> te downloaden via een aparte pagina</li>" +
-      "<li><strong>Kerndoeltrainer (A, B, C):</strong> voor klokkijken en kalender lezen</li>" +
+      "<li><strong>Whiteboard:</strong> Kan worden gebruikt worden om de dagplanning te visualiseren, dagdelen te ordenen en meer.</li>" +
+      "<li><strong>Dagritmekaarten:</strong> Je kunt dagritmekaarten gratis downloaden op (link)</li>" +
+      "<li><strong>Kerndoeltrainer (A, B, C):</strong> De Kerndoeltrainer (A, B, C) is een oefenmateriaal dat kinderen stap voor stap helpt bij het leren klokkijken en het lezen van de kalender.</li>" +
     "</ul><br>" +
     "Na het leermoment bespreek je samen de dag. Door dit verhalend te doen (<i>eerst dit, daarna dat</i>), help je je kind om overzicht te krijgen. Betrek je kind waar mogelijk bij kleine keuzes.",
     "Zorg ervoor dat de planning zichtbaar is: bij jonge kinderen eventueel per dagdeel, bij oudere kinderen voor de hele dag. Zo kan je kind steeds zien wat er komt.",
