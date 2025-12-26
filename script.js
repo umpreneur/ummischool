@@ -411,6 +411,37 @@ function renderHeader() {
   `;
 }
 
+
+function renderNav() {
+  const nav = document.createElement('header');
+  nav.innerHTML = `
+    <div class="header-container">
+      <div class="logo-brand" id="homeLink">Thuisonderwijs</div>
+      <nav class="nav">
+        <a href="#" data-page="home" class="nav-link">Home</a>
+        <a href="#" data-page="downloads" class="nav-link">Downloads</a>
+      </nav>
+    </div>
+  `;
+
+  app.appendChild(nav);
+
+  nav.addEventListener('click', (e) => {
+    if (e.target.dataset.page) {
+      e.preventDefault();
+      navigate(e.target.dataset.page);
+    }
+  });
+
+  document.getElementById('homeLink').onclick = () => navigate('home');
+}
+
+
+
+
+
+
+
 // Home page
 function renderHomePage() {
   return `
