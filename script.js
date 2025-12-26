@@ -419,7 +419,7 @@ function renderNav() {
       <div class="logo-brand" id="homeLink">Thuisonderwijs</div>
       <nav class="nav">
         <a href="#" data-page="home" class="nav-link">Home</a>
-        <a href="#" data-page="downloads" class="nav-link">Downloads</a>
+        <a href="#" data-page="printables" class="nav-link">printables</a>
       </nav>
     </div>
   `;
@@ -670,6 +670,67 @@ highlight:
     
   ];
 
+
+function renderPrintables() {
+  const main = document.createElement('main');
+  main.innerHTML = `
+    <div class="container">
+      <div class="page-header">
+        <h1 class="page-title">Printables</h1>
+        <p class="page-subtitle">
+          Gratis materialen en PDF’s ter ondersteuning van thuisonderwijs.
+        </p>
+      </div>
+
+      <div class="Printables-grid">
+        ${PrintablesData.map(item => `
+          <div class="Printables-card">
+            <div class="printables-card-image">
+              ${
+                item.image
+                  ? `<img src="${item.image}" alt="${item.title}" />`
+                  : `<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64"
+                      viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                      stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                      <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                      <polyline points="7 10 12 15 17 10"></polyline>
+                      <line x1="12" y1="15" x2="12" y2="3"></line>
+                    </svg>`
+              }
+            </div>
+
+            <div class="printables-card-content">
+              <h3 class="printables-card-title">${item.title}</h3>
+              <p class="printables-card-description">${item.description}</p>
+
+              ${
+                item.available
+                  ? `<a href="${item.url}" target="_blank" rel="noreferrer">
+                      <button class="btn-primary printables-btn">Download</button>
+                    </a>`
+                  : `<button class="btn-primary printables-btn" disabled>Binnenkort</button>`
+              }
+            </div>
+          </div>
+        `).join('')}
+      </div>
+    </div>
+  `;
+
+  app.appendChild(main);
+}
+
+
+
+
+
+
+
+
+
+
+
+  
   const stepsHtml = steps.map(step => `
     <div class="faq-item" data-faq-id="${step.id}" data-testid="card-stap-${step.id}">
       <button class="faq-button" data-testid="button-stap-${step.id}">
