@@ -249,16 +249,22 @@ main {
 
 .download-card.is-disabled {
   position: relative;
+  overflow: hidden;
   pointer-events: none;
 }
 
+/* Blur de inhoud van de kaart */
+.download-card.is-disabled > * {
+  filter: blur(4px);
+  opacity: 0.7;
+}
+
+/* Overlay tekst */
 .download-card.is-disabled::after {
   content: "Binnenkort beschikbaar";
   position: absolute;
   inset: 0;
   background: rgba(255, 255, 255, 0.75);
-  backdrop-filter: blur(6px);
-  -webkit-backdrop-filter: blur(6px);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -269,43 +275,12 @@ main {
   border-radius: 12px;
   text-align: center;
   padding: 1rem;
+  z-index: 2;
 }
 
 .download-card.is-disabled .download-btn {
   opacity: 0.6;
 }
-
-/* ===== RESPONSIVE ===== */
-
-@media (max-width: 1024px) {
-  .downloads-grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
-
-@media (max-width: 768px) {
-  .downloads-grid {
-    grid-template-columns: 1fr;
-  }
-
-  .download-card-image {
-    height: 200px;
-  }
-
-  .download-card-content {
-    padding: 1.5rem;
-  }
-
-  .download-card-title {
-    font-size: 1.15rem;
-  }
-
-  .download-card-description {
-    font-size: 0.9rem;
-  }
-}
-
-
 
 
 
