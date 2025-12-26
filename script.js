@@ -373,6 +373,7 @@ function renderApp() {
             ${renderHomePage()}
             ${renderWatIsUmmiPage()}
             ${renderWaarBeginIkPage()}
+            ${renderPrintablesPage()}
             ${renderBlogPage()}
             ${renderBlogPostPage()}
             ${renderFaqPage()}
@@ -401,8 +402,9 @@ function renderHeader() {
         <nav id="mobile-nav">
           <a data-page="faq" class="nav-link" data-testid="link-nav-faq">Ik Twijfel!</a>
           <a data-page="waar-begin-ik" class="nav-link" data-testid="link-nav-waar-begin-ik">Waar Begin Ik?</a>
+           <a data-page="printables" class="nav-link" data-testid="link-nav-printables">Downloads</a>
+
           <a data-page="blog" class="nav-link" data-testid="link-nav-blog">Blog</a>
-           <a data-page="Printables" class="nav-link" data-testid="link-nav-Printables">Printables</a>
           <a data-page="contact" class="nav-link" data-testid="link-nav-contact">Contact</a>
           <button data-page="wat-is-ummi" class="nav-btn-primary" data-testid="button-nav-wat-is-thuisonderwijs">Wat is Thuisonderwijs?</button>
         </nav>
@@ -410,37 +412,6 @@ function renderHeader() {
     </header>
   `;
 }
-
-
-function renderNav() {
-  const nav = document.createElement('header');
-  nav.innerHTML = `
-    <div class="header-container">
-      <div class="logo-brand" id="homeLink">Thuisonderwijs</div>
-      <nav class="nav">
-        <a href="#" data-page="home" class="nav-link">Home</a>
-        <a href="#" data-page="printables" class="nav-link">printables</a>
-      </nav>
-    </div>
-  `;
-
-  app.appendChild(nav);
-
-  nav.addEventListener('click', (e) => {
-    if (e.target.dataset.page) {
-      e.preventDefault();
-      navigate(e.target.dataset.page);
-    }
-  });
-
-  document.getElementById('homeLink').onclick = () => navigate('home');
-}
-
-
-
-
-
-
 
 // Home page
 function renderHomePage() {
@@ -670,87 +641,6 @@ highlight:
     
   ];
 
-
-function renderPrintables() {
-  const main = document.createElement('main');
-  main.innerHTML = `
-    <div class="container">
-      <div class="page-header">
-        <h1 class="page-title">Printables</h1>
-        <p class="page-subtitle">
-          Gratis materialen en PDF’s ter ondersteuning van thuisonderwijs.
-        </p>
-      </div>
-
-      <div class="Printables-grid">
-        ${PrintablesData.map(item => `
-          <div class="Printables-card">
-            <div class="printables-card-image">
-              ${
-                item.image
-                  ? `<img src="${item.image}" alt="${item.title}" />`
-                  : `<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64"
-                      viewBox="0 0 24 24" fill="none" stroke="currentColor"
-                      stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                      <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
-                      <polyline points="7 10 12 15 17 10"></polyline>
-                      <line x1="12" y1="15" x2="12" y2="3"></line>
-                    </svg>`
-              }
-            </div>
-
-            <div class="printables-card-content">
-              <h3 class="printables-card-title">${item.title}</h3>
-              <p class="printables-card-description">${item.description}</p>
-
-              ${
-                item.available
-                  ? `<a href="${item.url}" target="_blank" rel="noreferrer">
-                      <button class="btn-primary printables-btn">Download</button>
-                    </a>`
-                  : `<button class="btn-primary printables-btn" disabled>Binnenkort</button>`
-              }
-            </div>
-          </div>
-        `).join('')}
-      </div>
-    </div>
-  `;
-
-  app.appendChild(main);
-}
-
-
-const downloadsData = [
-  {
-    title: 'NVVTO Handleiding',
-    description: 'Handleiding om je eigen thuisonderwijsplan te schrijven.',
-    url: 'https://www.thuisonderwijs.nl/wp-content/uploads/2023/09/Handleiding-schrijf-je-to-plan.pdf',
-    available: true,
-    image: null
-  },
-  {
-    title: 'Dagritmekaarten',
-    description: 'Visuele kaarten om structuur aan de dag te geven.',
-    available: false,
-    image: null
-  },
-  {
-    title: 'Weekplanner',
-    description: 'Praktische weekplanner voor thuisonderwijs.',
-    available: false,
-    image: null
-  }
-];
-
-
-
-
-
-
-
-
-  
   const stepsHtml = steps.map(step => `
     <div class="faq-item" data-faq-id="${step.id}" data-testid="card-stap-${step.id}">
       <button class="faq-button" data-testid="button-stap-${step.id}">
@@ -1124,6 +1014,90 @@ function toggleFaq(id, item) {
     expandedFaq = id;
   }
 }
+
+// ===== PRINTABLES / DOWNLOADS PAGE (VOLLEDIG) =====
+
+// Data (sluit aan op je bestaande stijl)
+const printablesItems = [
+  {
+    title: "NVVTO Handleiding",
+    description: "Een handleiding om je eigen thuisonderwijs plan te schrijven.",
+    url: "https://www.thuisonderwijs.nl/wp-content/uploads/2023/09/Handleiding-schrijf-je-to-plan.pdf",
+    available: true
+  },
+  {
+    title: "Dagritmekaarten",
+    description: "Visuele kaarten om structuur aan de dag te geven voor jonge kinderen.",
+    available: false
+  },
+  {
+    title: "Weekplanner",
+    description: "Een praktische weekplanner om je thuisonderwijs week in te plannen.",
+    available: false
+  }
+];
+
+// Pagina render (SPA-proof)
+function renderPrintablesPage() {
+  return `
+    <div id="page-printables" class="page">
+      <div class="page-header">
+        <h1 class="page-title">Downloads</h1>
+        <p class="page-subtitle">
+          Hier vind je handige documenten en PDF’s die je gratis kunt downloaden
+          om je te ondersteunen bij het thuisonderwijs.
+        </p>
+      </div>
+
+      <div class="downloads-grid" id="printables-grid"></div>
+    </div>
+  `;
+}
+
+// Grid vullen
+function renderPrintablesGrid() {
+  const grid = document.getElementById('printables-grid');
+  if (!grid) return;
+
+  grid.innerHTML = printablesItems.map(item => `
+    <div class="download-card">
+      <div class="download-card-image">
+        <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64"
+          viewBox="0 0 24 24" fill="none" stroke="currentColor"
+          stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+          <polyline points="7 10 12 15 17 10"></polyline>
+          <line x1="12" y1="15" x2="12" y2="3"></line>
+        </svg>
+      </div>
+
+      <div class="download-card-content">
+        <h3 class="download-card-title">${item.title}</h3>
+        <p class="download-card-description">${item.description}</p>
+
+        ${
+          item.available
+            ? `<a href="${item.url}" target="_blank" rel="noreferrer">
+                <button class="btn-primary download-btn">Download</button>
+              </a>`
+            : `<button class="btn-primary download-btn" disabled>Binnenkort</button>`
+        }
+      </div>
+    </div>
+  `).join('');
+}
+
+// Hook in bestaande router zonder iets te breken
+const originalShowPage = window.showPage;
+
+window.showPage = function(page) {
+  originalShowPage(page);
+
+  if (page === 'printables') {
+    requestAnimationFrame(renderPrintablesGrid);
+  }
+};
+
 
 // Start app
 document.addEventListener('DOMContentLoaded', init);
