@@ -46,7 +46,7 @@ const blogPreviews = [
   title: "Inhoud dagstart",
   excerpt: "Hoe je de dag rustig begint met contact, structuur en ruimte voor leren binnen het thuisonderwijs.",
   slug: "Inhoud-dagstart",
-  thumbnailUrl: "https://umpreneur.github.io/ummischool/blog5img.png",
+  thumbnailUrl: "https://umpreneur.github.io/ummischool/blog6img.png",
   imageUrl: "https://umpreneur.github.io/ummischool/blog6img.png",
 },
 ];
@@ -198,8 +198,8 @@ content: [
 "Inhoud-dagstart": {
   title: "Inhoud dagstart",
   category: "Thuisonderwijs",
-  headerImageUrl: "https://umpreneur.github.io/ummischool/blog3img.png",
-  imageUrl: "https://umpreneur.github.io/ummischool/blog3img.png",
+  headerImageUrl: "https://umpreneur.github.io/ummischool/blog6img.png",
+  imageUrl: "https://umpreneur.github.io/ummischool/blog6img.png",
 
   content: [
     "Een dagstart begint met even samen zijn. Je gaat samen zitten en praat kort met elkaar. Door te praten leert je kind woorden geven aan wat het voelt en denkt, en aan wat de dag gaat brengen.",
