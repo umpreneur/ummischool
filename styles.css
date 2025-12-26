@@ -284,7 +284,9 @@ main {
 
 
 
-
+.download-card.is-disabled .download-card-image {
+  filter: blur(6px);
+}
 
 
 
