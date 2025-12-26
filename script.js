@@ -207,22 +207,29 @@ content: [
 
     "Na dit moment kun je, als dat past, kiezen voor een leermoment. Je staat dan kort stil bij vaste onderdelen, zoals de dag van de week, het dagdeel of het weer. Zo kun je het leren op een rustige manier verweven in de dagstart.",
 
-    "<strong>Onderwerpen voor het leermoment</strong>",
-    "Je hoeft niet alles tegelijk te doen. Begin met één onderdeel en breid uit als je kind eraan toe is. Denk bijvoorbeeld aan:",
-    "<strong>Dagen van de week</strong><br>" +
-    "<strong>Gisteren, vandaag, morgen, eergisteren en overmorgen</strong><br>" +
-    "<strong>Dagdelen (nacht, ochtend, middag, avond)</strong><br>" +
-    "<strong>Maanden en seizoenen</strong><br>" +
-    "<strong>Het weer en passende kleding</strong><br>" +
-    "<strong>Tijd: nu, straks, later</strong><br>" +
-    "<strong>Klokkijken</strong>",
+    "<ul>" +
+  "<li><strong>Onderwerpen voor het leermoment</strong>" +
+    "<ul>" +
+      "<li>Dagen van de week</li>" +
+      "<li>Gisteren, vandaag, morgen, eergisteren en overmorgen</li>" +
+      "<li>Dagdelen (nacht, ochtend, middag, avond)</li>" +
+      "<li>Maanden en seizoenen</li>" +
+      "<li>Het weer en passende kleding</li>" +
+      "<li>Tijd: nu, straks, later</li>" +
+      "<li>Klokkijken</li>" +
+    "</ul>" +
+  "</li>" +
 
-    "<strong>Materialen die kunnen helpen</strong>",
-    "<strong>Goula houten kalender</strong> – maakt dag, maand, tijd en seizoen zichtbaar<br>" +
-    "<strong>Hijri-kalender</strong> – eventueel online te downloaden<br>" +
-    "<strong>Whiteboard</strong> – een eenvoudig hulpmiddel voor overzicht<br>" +
-    "<strong>Dagritmekaarten</strong> – te downloaden via een aparte pagina<br>" +
-    "<strong>Kerndoeltrainer (A, B, C)</strong> – voor klokkijken en kalender lezen",
+  "<li><strong>Materialen die kunnen helpen</strong>" +
+    "<ul>" +
+      "<li><strong>Goula houten kalender</strong> – maakt dag, maand, tijd en seizoen zichtbaar</li>" +
+      "<li><strong>Hijri-kalender</strong> – eventueel online te downloaden</li>" +
+      "<li><strong>Whiteboard</strong> – een eenvoudig hulpmiddel voor overzicht</li>" +
+      "<li><strong>Dagritmekaarten</strong> – te downloaden via een aparte pagina</li>" +
+      "<li><strong>Kerndoeltrainer (A, B, C)</strong> – voor klokkijken en kalender lezen</li>" +
+    "</ul>" +
+  "</li>" +
+"</ul>";
 
     "Na het leermoment bespreek je samen de dag. Door dit verhalend te doen (<i>eerst dit, daarna dat</i>), help je je kind om overzicht te krijgen. Betrek je kind waar mogelijk bij kleine keuzes.",
     "Zorg ervoor dat de planning zichtbaar is: bij jonge kinderen eventueel per dagdeel, bij oudere kinderen voor de hele dag. Zo kan je kind steeds zien wat er komt.",
