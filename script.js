@@ -219,7 +219,6 @@ content: [
       "<li>Klokkijken</li>" +
     "</ul>" +
   "</li>" +
-
   "<li><strong>Materialen die kunnen helpen</strong>" +
     "<ul>" +
       "<li><strong>Goula houten kalender</strong> – maakt dag, maand, tijd en seizoen zichtbaar</li>" +
@@ -229,7 +228,7 @@ content: [
       "<li><strong>Kerndoeltrainer (A, B, C)</strong> – voor klokkijken en kalender lezen</li>" +
     "</ul>" +
   "</li>" +
-"</ul>";
+"</ul>"+
 
     "Na het leermoment bespreek je samen de dag. Door dit verhalend te doen (<i>eerst dit, daarna dat</i>), help je je kind om overzicht te krijgen. Betrek je kind waar mogelijk bij kleine keuzes.",
     "Zorg ervoor dat de planning zichtbaar is: bij jonge kinderen eventueel per dagdeel, bij oudere kinderen voor de hele dag. Zo kan je kind steeds zien wat er komt.",
