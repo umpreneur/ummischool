@@ -207,8 +207,8 @@ content: [
 
     "Na dit moment kun je, als dat past, kiezen voor een leermoment. Je staat dan kort stil bij vaste onderdelen, zoals de dag van de week, het dagdeel of het weer. Zo kun je het leren op een rustige manier verweven in de dagstart.",
 
-    "<ul>" +
-  "<li><strong>Onderwerpen voor het leermoment</strong>" +
+
+  "<strong>Onderwerpen voor het leermoment</strong>" +
     "<ul>" +
       "<li>Dagen van de week</li>" +
       "<li>Gisteren, vandaag, morgen, eergisteren en overmorgen</li>" +
@@ -218,18 +218,14 @@ content: [
       "<li>Tijd: nu, straks, later</li>" +
       "<li>Klokkijken</li>" +
     "</ul>" +
-  "</li>" +
-  "<li><strong>Materialen die kunnen helpen</strong>" +
+  "<strong>Materialen die kunnen helpen</strong>" +
     "<ul>" +
       "<li><strong>Goula houten kalender</strong> – maakt dag, maand, tijd en seizoen zichtbaar</li>" +
       "<li><strong>Hijri-kalender</strong> – eventueel online te downloaden</li>" +
       "<li><strong>Whiteboard</strong> – een eenvoudig hulpmiddel voor overzicht</li>" +
       "<li><strong>Dagritmekaarten</strong> – te downloaden via een aparte pagina</li>" +
       "<li><strong>Kerndoeltrainer (A, B, C)</strong> – voor klokkijken en kalender lezen</li>" +
-    "</ul>" +
-  "</li>" +
-"</ul>"+
-
+    "</ul><br>" +
     "Na het leermoment bespreek je samen de dag. Door dit verhalend te doen (<i>eerst dit, daarna dat</i>), help je je kind om overzicht te krijgen. Betrek je kind waar mogelijk bij kleine keuzes.",
     "Zorg ervoor dat de planning zichtbaar is: bij jonge kinderen eventueel per dagdeel, bij oudere kinderen voor de hele dag. Zo kan je kind steeds zien wat er komt.",
 
