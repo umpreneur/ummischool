@@ -217,7 +217,7 @@ content: [
       "<li>Het weer en passende kleding</li>" +
       "<li>Tijd: nu, straks, later</li>" +
       "<li>Klokkijken</li>" +
-    "</ul>" +
+    "</ul><br>" +
   "<strong>Materialen die kunnen helpen</strong>" +
     "<ul>" +
       "<li><strong>Goula houten kalender</strong> – maakt dag, maand, tijd en seizoen zichtbaar</li>" +
