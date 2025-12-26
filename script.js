@@ -721,7 +721,27 @@ function renderPrintables() {
 }
 
 
-
+const downloadsData = [
+  {
+    title: 'NVVTO Handleiding',
+    description: 'Handleiding om je eigen thuisonderwijsplan te schrijven.',
+    url: 'https://www.thuisonderwijs.nl/wp-content/uploads/2023/09/Handleiding-schrijf-je-to-plan.pdf',
+    available: true,
+    image: null
+  },
+  {
+    title: 'Dagritmekaarten',
+    description: 'Visuele kaarten om structuur aan de dag te geven.',
+    available: false,
+    image: null
+  },
+  {
+    title: 'Weekplanner',
+    description: 'Praktische weekplanner voor thuisonderwijs.',
+    available: false,
+    image: null
+  }
+];
 
 
 
