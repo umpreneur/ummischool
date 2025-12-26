@@ -203,10 +203,19 @@ content: [
   imageUrl: "https://umpreneur.github.io/ummischool/blog6img.png",
 
   content: [
-    "Een dagstart begint met even samen zijn. Je gaat samen zitten en praat kort met elkaar. Door te praten leert je kind woorden geven aan wat het voelt en denkt, en aan wat de dag gaat brengen.",
-    "Hoe dit gesprek eruitziet, hangt af van de leeftijd van je kind: bij jonge kinderen houd je het eenvoudig, bij oudere kinderen kun je wat verder praten. Door dit dagelijks te doen, ontstaat er structuur, vertrouwen en openheid.",
+    { type: "highlight",
+      text: "Een dagstart begint met even samen zijn." },
 
-    "Na dit moment kun je, als dat past, kiezen voor een leermoment. Je staat dan kort stil bij vaste onderdelen, zoals de dag van de week, het dagdeel of het weer. Zo kun je het leren op een rustige manier verweven in de dagstart.",
+    "Je gaat samen zitten en praat kort met elkaar. Door te praten leert je kind woorden geven aan wat het voelt en denkt, en aan wat de dag gaat brengen.",
+    "Hoe dit gesprek eruitziet, hangt af van de leeftijd van je kind: bij jonge kinderen houd je het eenvoudig, bij oudere kinderen kun je wat verder praten.",
+
+    { type: "highlight",
+      text: "Door dit dagelijks te doen, ontstaat er structuur, vertrouwen en openheid." },
+
+    "Na dit moment kun je, als dat past, kiezen voor een leermoment. Je staat dan kort stil bij vaste onderdelen, zoals de dag van de week, het dagdeel of het weer.",
+
+    { type: "highlight",
+      text: "Zo kun je het leren op een rustige manier verweven in de dagstart." },
 
     "<strong>Onderwerpen voor het leermoment</strong>",
     "Je hoeft niet alles tegelijk te doen. Begin met één onderdeel en breid uit als je kind eraan toe is. Denk bijvoorbeeld aan:",
@@ -227,12 +236,15 @@ content: [
     "Kerndoeltrainer (A, B, C) – voor klokkijken en kalender lezen",
 
     "Na het leermoment bespreek je samen de dag. Door dit verhalend te doen (<i>eerst dit, daarna dat</i>), help je je kind om overzicht te krijgen. Betrek je kind waar mogelijk bij kleine keuzes.",
-
     "Zorg ervoor dat de planning zichtbaar is: bij jonge kinderen eventueel per dagdeel, bij oudere kinderen voor de hele dag. Zo kan je kind steeds zien wat er komt.",
 
-    "Een dagstart hoeft niet perfect te zijn. Het gaat erom samen de dag te beginnen. Door klein te starten en rustig uit te breiden, groeit de dagstart mee met je kind en wordt het een vast onderdeel van jullie thuisonderwijs, <i>in shā’ Allāh</i>."
+    { type: "highlight",
+      text: "Een dagstart hoeft niet perfect te zijn. Het gaat erom samen de dag te beginnen." },
+
+    "Door klein te starten en rustig uit te breiden, groeit de dagstart mee met je kind en wordt het een vast onderdeel van jullie thuisonderwijs, <i>in shā’ Allāh</i>."
   ]
 },
+
 
 
 
