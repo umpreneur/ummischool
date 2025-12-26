@@ -225,8 +225,9 @@ content: [
       "<li><strong>Dagritmekaarten:</strong> Je kunt dagritmekaarten gratis downloaden op (link)</li>" +
       "<li><strong>Kerndoeltrainer (A, B, C):</strong> De Kerndoeltrainer (A, B, C) is een oefenmateriaal dat kinderen stap voor stap helpt bij het leren klokkijken en het lezen van de kalender.</li>" +
     "</ul><br>" +
-    "Na het leermoment bespreek je samen de dag. Door dit verhalend te doen (<i>eerst dit, daarna dat</i>), help je je kind om overzicht te krijgen. Betrek je kind waar mogelijk bij kleine keuzes.",
-    "Zorg ervoor dat de planning zichtbaar is: bij jonge kinderen eventueel per dagdeel, bij oudere kinderen voor de hele dag. Zo kan je kind steeds zien wat er komt.",
+"Na het leermoment bespreek je samen de dag; door dit verhalend te doen (<i>eerst dit, daarna dat</i>), help je je kind overzicht te krijgen en kun je dit ondersteunen door de planning te visualiseren met dagritmekaarten of een whiteboard, 
+  waarbij je je kind waar mogelijk betrekt bij kleine keuzes.",
+
 
     "Een dagstart hoeft niet perfect te zijn. Het gaat erom samen de dag te beginnen. Door klein te starten en rustig uit te breiden, groeit de dagstart mee met je kind en wordt het een vast onderdeel van jullie thuisonderwijs, <i>in shā’ Allāh</i>."
   ]
