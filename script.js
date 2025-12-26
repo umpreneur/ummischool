@@ -217,7 +217,7 @@ content: [
       "<li>Tijdsaanduidingen</li>" +
       "<li>Klokkijken</li>" +
     "</ul><br>" +
-  "<strong>Materialen die kunnen helpen</strong>" +
+  "<strong>Materialen die hierbij kunnen helpen</strong>" +
     "<ul>" +
       "<li><strong>Goula houten kalender</strong> – maakt dag, maand, tijd en seizoen zichtbaar</li>" +
       "<li><strong>Hijri-kalender</strong> – eventueel online te downloaden</li>" +
