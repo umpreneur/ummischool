@@ -1020,21 +1020,16 @@ function toggleFaq(id, item) {
 
 // Data (sluit aan op je bestaande stijl)
 const printablesItems = [
-  {
-    title: "NVVTO Handleiding",
-    description: "Een handleiding om je eigen thuisonderwijs plan te schrijven.",
-    url: "https://www.thuisonderwijs.nl/wp-content/uploads/2023/09/Handleiding-schrijf-je-to-plan.pdf",
-    available: true
-  },
+  
   {
     title: "Dagritmekaarten",
     description: "Visuele kaarten om structuur aan de dag te geven voor jonge kinderen.",
-    available: false
+    available: true
   },
   {
-    title: "Weekplanner",
-    description: "Een praktische weekplanner om je thuisonderwijs week in te plannen.",
-    available: false
+    title: "Salah tracker",
+    description: "Helpt een kind overzichtelijk bij te houden welke gebeden zijn verricht.",
+    available: True
   }
 ];
 
