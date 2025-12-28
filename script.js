@@ -1029,7 +1029,7 @@ const printablesItems = [
   {
     title: "Salahtracker",
     description: "Helpt een kind overzichtelijk bij te houden welke gebeden zijn verricht.",
-    available: True
+    available: true
   },
 ];
 
