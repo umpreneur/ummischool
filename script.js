@@ -1027,10 +1027,10 @@ const printablesItems = [
     available: true
   },
   {
-    title: "Salah tracker",
+    title: "Salahtracker",
     description: "Helpt een kind overzichtelijk bij te houden welke gebeden zijn verricht.",
     available: True
-  }
+  },
 ];
 
 // Pagina render (SPA-proof)
