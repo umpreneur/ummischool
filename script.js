@@ -1044,14 +1044,13 @@ const printablesItems = [
 ];
 // ========== RENDER PRINTABLES PAGE ==========
 function renderPrintablesPage() {
-  document.getElementById('app').innerHTML = `
+  return `
     <section class="section">
       <h1>Printables</h1>
       <p class="section-subtitle">Handige hulpmiddelen om mee te starten met thuisonderwijs.</p>
       <div id="printables-grid" class="printables-grid"></div>
     </section>
   `;
-  renderPrintablesGrid();
 }
 // ========== RENDER PRINTABLES GRID ==========
 function renderPrintablesGrid() {
