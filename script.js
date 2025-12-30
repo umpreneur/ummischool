@@ -401,13 +401,12 @@ function renderHeader() {
           <span></span>
         </button>
         <nav id="mobile-nav">
+        <button data-page="wat-is-ummi" class="nav-btn-primary" data-testid="button-nav-wat-is-thuisonderwijs">Wat is Thuisonderwijs?</button>
           <a data-page="faq" class="nav-link" data-testid="link-nav-faq">Ik Twijfel!</a>
           <a data-page="waar-begin-ik" class="nav-link" data-testid="link-nav-waar-begin-ik">Waar Begin Ik?</a>
            <a data-page="printables" class="nav-link" data-testid="link-nav-printables">Printables</a>
-
           <a data-page="blog" class="nav-link" data-testid="link-nav-blog">Blog</a>
           <a data-page="contact" class="nav-link" data-testid="link-nav-contact">Contact</a>
-          <button data-page="wat-is-ummi" class="nav-btn-primary" data-testid="button-nav-wat-is-thuisonderwijs">Wat is Thuisonderwijs?</button>
         </nav>
       </div>
     </header>
