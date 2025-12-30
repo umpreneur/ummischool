@@ -1024,64 +1024,74 @@ function toggleFaq(id, item) {
 const printablesItems = [
   {
     title: "Salahtracker",
-    description: "Een minimalistische weekplanner om je gebeden bij te houden. Print hem uit en hang hem op een zichtbare plek.",
-    imageUrl: "https://raw.githubusercontent.com/user/repo/main/salah-tracker.png",
+    description:
+      "Een minimalistische weekplanner om je gebeden bij te houden. Print hem uit en hang hem op een zichtbare plek.",
+    imageUrl: "https://umpreneur.github.io/ummischool/salahtracker.png",
     url: "https://example.com/salah-tracker.pdf",
     available: true
   },
   {
     title: "Dagplanning",
-    description: "Structuur voor je dag met deze handige planner. Inclusief ruimte voor dagstart en evaluatie.",
-    imageUrl: null,
+    description:
+      "Structuur voor je dag met deze handige planner. Inclusief ruimte voor dagstart en evaluatie.",
+    imageUrl: "https://umpreneur.github.io/ummischool/dagplanning.png",
     available: false
   },
   {
     title: "Beloningskaart",
-    description: "Motiveer je kinderen met deze leuke beloningskaart voor voltooide taken of goed gedrag.",
-    imageUrl: null,
+    description:
+      "Motiveer je kinderen met deze leuke beloningskaart voor voltooide taken of goed gedrag.",
+    imageUrl: "https://umpreneur.github.io/ummischool/beloningskaart.png",
     available: false
-  },
+  }
 ];
+
 // ========== RENDER PRINTABLES PAGE ==========
 function renderPrintablesPage() {
+  const cardsHtml = printablesItems
+    .map(
+      item => `
+        <div class="printables-card">
+          <img 
+            src="${item.imageUrl}" 
+            alt="${item.title}" 
+            class="printables-card-image"
+          />
+
+          <div class="printables-card-content">
+            <h3 class="printables-card-title">${item.title}</h3>
+            <p class="printables-description">${item.description}</p>
+
+            ${
+              item.available
+                ? `<a href="${item.url}" target="_blank" rel="noreferrer">
+                     <button class="btn-primary printables-btn">Download</button>
+                   </a>`
+                : `<button class="btn-primary printables-btn" disabled>
+                     Binnenkort
+                   </button>`
+            }
+          </div>
+        </div>
+      `
+    )
+    .join("");
+
   return `
-    <section class="section">
-      <h1>Printables</h1>
-      <p class="section-subtitle">Handige hulpmiddelen om mee te starten met thuisonderwijs.</p>
-      <div id="printables-grid" class="printables-grid"></div>
-    </section>
-  `;
-}
-// ========== RENDER PRINTABLES GRID ==========
-function renderPrintablesGrid() {
-  const grid = document.getElementById('printables-grid');
-  if (!grid) return;
-  grid.innerHTML = printablesItems.map(item => `
-    <div class="download-card">
-      <div class="download-card-image">
-        <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64"
-          viewBox="0 0 24 24" fill="none" stroke="currentColor"
-          stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-          <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
-          <polyline points="7 10 12 15 17 10"></polyline>
-          <line x1="12" y1="15" x2="12" y2="3"></line>
-        </svg>
+    <div id="page-printables" class="page">
+      <div style="text-align:center; margin-bottom:3rem;">
+        <h1 class="page-title">Printables</h1>
+        <p class="faq-subtitle">
+          Handige hulpmiddelen om structuur te brengen in jullie thuisonderwijs.
+        </p>
       </div>
-      <div class="download-card-content">
-        <h3 class="download-card-title">${item.title}</h3>
-        <p class="download-card-description">${item.description}</p>
-        ${
-          item.available
-            ? `<a href="${item.url}" target="_blank" rel="noreferrer">
-                <button class="btn-primary download-btn">Download</button>
-              </a>`
-            : `<button class="btn-primary download-btn" disabled>Binnenkort</button>`
-        }
+
+      <div class="printables-grid">
+        ${cardsHtml}
       </div>
     </div>
-  `).join('');
+  `;
 }
-
 
 // Start app
 document.addEventListener('DOMContentLoaded', init);
