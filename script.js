@@ -374,7 +374,7 @@ function renderApp() {
             ${renderHomePage()}
             ${renderWatIsUmmiPage()}
             ${renderWaarBeginIkPage()}
-            ${renderPrintablesPage()}
+            ${renderprintablesItems()}
             ${renderBlogPage()}
             ${renderBlogPostPage()}
             ${renderFaqPage()}
