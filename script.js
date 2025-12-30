@@ -194,19 +194,13 @@ content: [
   ]
 },
 
-"Inhoud-dagstart": {
-  title: "Inhoud dagstart",
-  category: "Thuisonderwijs",
-  headerImageUrl: "https://umpreneur.github.io/ummischool/blog6img.png",
-  imageUrl: "https://umpreneur.github.io/ummischool/blog6img.png",
-
-  content: [
+ content: [
     "Een dagstart begint met even samen zijn. Je gaat samen zitten en praat kort met elkaar. Door te praten leert je kind woorden geven aan wat het voelt en denkt, en aan wat de dag gaat brengen.",
-
+    
     "Hoe dit gesprek eruitziet, hangt af van de leeftijd van je kind: bij jonge kinderen houd je het eenvoudig, bij oudere kinderen kun je wat verder praten. Door dit dagelijks te doen, ontstaat er structuur, vertrouwen en openheid.",
-
+    
     "Na dit moment kun je, als dat past, kiezen voor een leermoment. Je staat dan kort stil bij vaste onderdelen, zoals de dag van de week, het dagdeel of het weer. Zo kun je het leren op een rustige manier verweven in de dagstart.",
-
+    
     { type: "heading", text: "Onderwerpen voor het leermoment" },
     {
       type: "list",
@@ -221,7 +215,7 @@ content: [
         "Klokkijken"
       ]
     },
-
+    
     { type: "heading", text: "Materialen die hierbij kunnen helpen" },
     {
       type: "list",
@@ -233,11 +227,11 @@ content: [
         "Kerndoeltrainer (A, B, C): De Kerndoeltrainer (A, B, C) is een oefenmateriaal dat kinderen stap voor stap helpt bij het leren klokkijken en het lezen van de kalender."
       ]
     },
-
+    
     "Na het leermoment bespreek je samen de dag; door dit verhalend te doen (eerst dit, daarna dat), help je je kind overzicht te krijgen en kun je dit ondersteunen door de planning te visualiseren met dagritmekaarten of een whiteboard, waarbij je je kind waar mogelijk betrekt bij kleine keuzes.",
-
-    {
-      type: "highlight",
+    
+    { 
+      type: "highlight", 
       text: "Een dagstart hoeft niet perfect te zijn. Het gaat erom samen de dag te beginnen. Door klein te starten en rustig uit te breiden, groeit de dagstart mee met je kind en wordt het een vast onderdeel van jullie thuisonderwijs, in shā' Allāh."
     }
   ]
