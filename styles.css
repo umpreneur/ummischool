@@ -206,7 +206,8 @@ main {
 /* Image — net als blog */
 .printables-card-image {
   width: 100%;
-  height: auto;
+  height: 220px;
+  object-fit: cover;   /* vult het vlak, snijdt randen af */
   display: block;
 }
 
