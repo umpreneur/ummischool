@@ -162,11 +162,11 @@ content: [
  },
 
 "Thuisonderwijs-en-Dagplanning": {
- "title": "T.O. Dagplanning",
+ title: "T.O. Dagplanning",
     category: "Reflectie",
    headerImageUrl: "https://umpreneur.github.io/ummischool/blog5img.png",
     imageUrl: "https://umpreneur.github.io/ummischool/blog5img.png",
-  "content": [
+  content: [
     "<strong>Structuur brengt rust, rust brengt ruimte om te leren.</strong>",
     "Thuisonderwijs loopt het best als de dag overzichtelijk is. Niet strak, maar wél duidelijk. Als je elke ochtend opnieuw moet bedenken wat er gaat gebeuren, geeft dat onrust bij kinderen én bij ouders. Met een planning weet iedereen wat er bij de dag hoort.",
     "Zo’n planning hoeft niet vol of ingewikkeld te zijn. Vaak is een eenvoudige, herkenbare volgorde al genoeg. Sommige momenten liggen vast, zoals opstaan, eten en slapen. Andere kunnen meebewegen. Het doel is niet om alles dicht te timmeren, maar om het leren een vaste plek te geven.",
@@ -193,6 +193,9 @@ content: [
 "Ritme ontstaat door herhaling, maar groei komt vaak juist door aan te passen. Geef jezelf de ruimte om te finetunen tot er een dagritme ontstaat dat rust brengt, helder is en bij jullie leven past.",
   ]
 },
+
+
+
 
 "Inhoud-dagstart": {
   title: "Inhoud dagstart",
