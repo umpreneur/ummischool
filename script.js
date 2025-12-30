@@ -200,48 +200,43 @@ content: [
   headerImageUrl: "https://umpreneur.github.io/ummischool/blog6img.png",
   imageUrl: "https://umpreneur.github.io/ummischool/blog6img.png",
  content: [
-    "Een dagstart begint met even samen zijn. Je gaat samen zitten en praat kort met elkaar. Door te praten leert je kind woorden geven aan wat het voelt en denkt, en aan wat de dag gaat brengen.",
-    
-    "Hoe dit gesprek eruitziet, hangt af van de leeftijd van je kind: bij jonge kinderen houd je het eenvoudig, bij oudere kinderen kun je wat verder praten. Door dit dagelijks te doen, ontstaat er structuur, vertrouwen en openheid.",
-    
-    "Na dit moment kun je, als dat past, kiezen voor een leermoment. Je staat dan kort stil bij vaste onderdelen, zoals de dag van de week, het dagdeel of het weer. Zo kun je het leren op een rustige manier verweven in de dagstart.",
-    
-    { type: "heading", text: "Onderwerpen voor het leermoment" },
-    {
-      type: "list",
-      items: [
-        "Dagen van de week",
-        "Eergisteren, gisteren, vandaag, morgen en overmorgen",
-        "Dagdelen",
-        "Maanden",
-        "Seizoenen",
-        "Het weer en passende kleding",
-        "Tijdsaanduidingen",
-        "Klokkijken"
-      ]
-    },
-    
-    { type: "heading", text: "Materialen die hierbij kunnen helpen" },
-    {
-      type: "list",
-      items: [
-        "Goula houten kalender: een educatieve houten kalender waarmee kinderen spelenderwijs inzicht krijgen in dag, datum, seizoen, weer en tijd.",
-        "Hijri-kalender: eventueel online te downloaden",
-        "Whiteboard: Kan worden gebruikt worden om de dagplanning te visualiseren, dagdelen te ordenen en meer.",
-        "Dagritmekaarten: Je kunt dagritmekaarten gratis downloaden op (link)",
-        "Kerndoeltrainer (A, B, C): De Kerndoeltrainer (A, B, C) is een oefenmateriaal dat kinderen stap voor stap helpt bij het leren klokkijken en het lezen van de kalender."
-      ]
-    },
-    
-    "Na het leermoment bespreek je samen de dag; door dit verhalend te doen (eerst dit, daarna dat), help je je kind overzicht te krijgen en kun je dit ondersteunen door de planning te visualiseren met dagritmekaarten of een whiteboard, waarbij je je kind waar mogelijk betrekt bij kleine keuzes.",
-    
-    { 
-      type: "highlight", 
-      text: "Een dagstart hoeft niet perfect te zijn. Het gaat erom samen de dag te beginnen. Door klein te starten en rustig uit te breiden, groeit de dagstart mee met je kind en wordt het een vast onderdeel van jullie thuisonderwijs, in shā' Allāh."
-    }
-  ]
-},
+  "Een dagstart begint met even samen zijn. Je gaat samen zitten en praat kort met elkaar. Door te praten leert je kind woorden geven aan wat het voelt en denkt, en aan wat de dag gaat brengen.",
 
+  "Hoe dit gesprek eruitziet, hangt af van de leeftijd van je kind: bij jonge kinderen houd je het eenvoudig, bij oudere kinderen kun je wat verder praten. Door dit dagelijks te doen, ontstaat er structuur, vertrouwen en openheid.",
+
+  "Na dit moment kun je, als dat past, kiezen voor een leermoment. Je staat dan kort stil bij vaste onderdelen, zoals de dag van de week, het dagdeel of het weer. Zo kun je het leren op een rustige manier verweven in de dagstart.",
+
+  "<strong>Onderwerpen voor het leermoment</strong>",
+
+  "<ul>" +
+    "<li>Dagen van de week</li>" +
+    "<li>Eergisteren, gisteren, vandaag, morgen en overmorgen</li>" +
+    "<li>Dagdelen</li>" +
+    "<li>Maanden</li>" +
+    "<li>Seizoenen</li>" +
+    "<li>Het weer en passende kleding</li>" +
+    "<li>Tijdsaanduidingen</li>" +
+    "<li>Klokkijken</li>" +
+  "</ul>",
+
+  "<strong>Materialen die hierbij kunnen helpen</strong>",
+
+  "<ul>" +
+    "<li>Goula houten kalender: een educatieve houten kalender waarmee kinderen spelenderwijs inzicht krijgen in dag, datum, seizoen, weer en tijd.</li>" +
+    "<li>Hijri-kalender: eventueel online te downloaden</li>" +
+    "<li>Whiteboard: Kan worden gebruikt om de dagplanning te visualiseren, dagdelen te ordenen en meer.</li>" +
+    "<li>Dagritmekaarten: Je kunt dagritmekaarten gratis downloaden op (link)</li>" +
+    "<li>Kerndoeltrainer (A, B, C): oefenmateriaal voor klokkijken en kalenderbegrip.</li>" +
+  "</ul>",
+
+  "Na het leermoment bespreek je samen de dag; door dit verhalend te doen (eerst dit, daarna dat), help je je kind overzicht te krijgen en kun je dit ondersteunen door de planning te visualiseren met dagritmekaarten of een whiteboard, waarbij je je kind waar mogelijk betrekt bij kleine keuzes.",
+
+  {
+    type: "highlight",
+    text: "Een dagstart hoeft niet perfect te zijn. Het gaat erom samen de dag te beginnen. Door klein te starten en rustig uit te breiden, groeit de dagstart mee met je kind en wordt het een vast onderdeel van jullie thuisonderwijs, in shā' Allāh."
+  }
+]
+  },
   
   
 };
