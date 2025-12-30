@@ -10,7 +10,7 @@ const blogPreviews = [
   {
     id: "2",
     title: "Bewust Kiezen",
-    excerpt: "In een tijd van likes, luidste meningen en populaire 'waarheden' herinnert de Qur'an ons eraan dat waarheid geen democratie is.",
+    excerpt: "In een tijd van likes, luidste meningen en populaire ‘waarheden’ herinnert de Qur’an ons eraan dat waarheid geen democratie is.",
     slug: "Bewust-Kiezen",
     thumbnailUrl: "https://umpreneur.github.io/ummischool/blog2img.png",
     imageUrl: "https://umpreneur.github.io/ummischool/blog2img.png",
@@ -51,27 +51,6 @@ const blogPreviews = [
 },
 ];
 
-const printablesItems = [
-  {
-    title: "Salahtracker",
-    description: "Een minimalistische weekplanner om je gebeden bij te houden. Print hem uit en hang hem op een zichtbare plek.",
-    imageUrl: "https://raw.githubusercontent.com/user/repo/main/salah-tracker.png",
-    url: "https://example.com/salah-tracker.pdf",
-    available: true
-  },
-  {
-    title: "Dagplanning",
-    description: "Structuur voor je dag met deze handige planner. Inclusief ruimte voor dagstart en evaluatie.",
-    imageUrl: null,
-    available: false
-  },
-  {
-    title: "Beloningskaart",
-    description: "Motiveer je kinderen met deze leuke beloningskaart voor voltooide taken of goed gedrag.",
-    imageUrl: null,
-    available: false
-  },
-];
 
 const blogContent = {
   "Zij-Legde-Het-Fundament": {
@@ -82,74 +61,97 @@ headerImageUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
     
   content: [
     "Het verhaal van grote geleerden begon nooit met hén. Niet met hun boeken, hun kennis of hun woorden. Het begon bij de vrouwen achter hen, moeders met moed, geduld en een doel dat verder reikte dan hun eigen gemak.",
-    "De moeder van Imam Ahmad had weinig middelen, maar een helder hart: <strong><i>'Mijn kind moet Allah leren kennen.'</i> </strong> Ze stond op in koude ochtenden, begeleidde hem richting kennis, zonder te beseffen dat haar stille inspanning generaties zou raken.",
+    "De moeder van Imam Ahmad had weinig middelen, maar een helder hart: <strong><i>‘Mijn kind moet Allah leren kennen.’</i> </strong> Ze stond op in koude ochtenden, begeleidde hem richting kennis, zonder te beseffen dat haar stille inspanning generaties zou raken.",
     "De moeder van Imam al-Bukhari bad nachtenlang voor haar zoon. Toen hij zijn zicht verloor, zocht ze geen oplossingen bij mensen, <strong>maar bij Allah.</strong> Haar dua werd de deur naar een toekomst die zij zelf nooit zou meemaken, maar waarvan de wereld tot vandaag profiteert.",
     "Deze vrouwen waren geen hoofdpersonen uit grote verhalen. Het waren gewone moeders die deden wat zij konden, op momenten waarop niemand keek, met harten die vastbesloten waren om iets goeds te planten in hun kinderen.",
     { type: "highlight", text: "Ze kregen geen erkenning, maar zij legden wel de eerste bouwstenen overtuiging, dua en liefde voor kennis." },
     "Ze wisten niet wat hun kinderen later zouden worden. Ze werkten met oprechtheid, en Allah schonk groei aan wat zij in stilte neerlegden.",
     "Dat is het bijzondere aan hun nalatenschap: grootheid ontstaat vaak uit eenvoud. Een moeder die geeft, een kind dat groeit, een toekomst die doorwerkt.",
-    "Als je nu staat met jouw kind, met vragen over wat je moet doen, herken je misschien iets van deze moeders. De onzekerheid. De twijfel of je genoeg doet. De droom die je voor je kind hebt.",
-    { type: "highlight", text: "Jij bent niet minder. Jouw poging telt. Jouw dua voor je kind bereikt Allah." },
-    "Omdat je huisdrage van je kind, van je gezin, van de toekomst.",
+   "Je hoeft niet gezien te worden om blijvende invloed te hebben. Alles wat jij aan kennis, imaan en waarden meegeeft, kan verder reiken dan jouw leven, misschien verder dan je je nu kunt voorstellen.", 
+    {type: "highlight", 
+      text: "Het begint bij een moeder zoals jij die in stilte het fundament legt, en in stilte beloond wordt."},
+    
   ]
- },
+  },
+  "Bewust-Kiezen": {
+    title: "Bewust Kiezen",
+    category: "Reflectie",
+    headerImageUrl: "https://umpreneur.github.io/ummischool/blog2img.png",
+    imageUrl: "https://umpreneur.github.io/ummischool/blog2img.png",
 
-"Bewust-Kiezen": {
-  title: "Bewust Kiezen",
-  category: "Reflectie",
-  headerImageUrl: "https://umpreneur.github.io/ummischool/blog2img.png",
-  imageUrl: "https://umpreneur.github.io/ummischool/blog2img.png",
-  content: [
-    "In een tijd van likes, luidste meningen en populaire 'waarheden' herinnert de Qur'an ons eraan dat waarheid geen democratie is. Waarheid is onveranderlijk, onafhankelijk van hoeveel mensen er in geloven.",
-    "<strong>Maar hoe zorg je ervoor dat je kind begrijpt wat waar is?</strong>",
-    "Het begint met jezelf afvragen: <strong>Wat wil ik dat mijn kind weet? Niet wat 'hoort' te weten, niet wat anderen vinden dat belangrijk is, maar wat wíj als gezin waardevol vinden?</strong>",
-    "In scholen wordt veel onderwezen. Veel kennis wordt meegegeven. Maar niet alles wat onderwezen wordt, is wat jij voor jouw kind belang hebt. Sommige dingen zijn onmisbaar. Andere dingen passen niet bij wat je jezelf opgesteld hebt.",
-    "Dit is het voordeel van thuisonderwijs: je mag jezelf afvragen wat je kind nodig heeft.",
-    { type: "highlight", text: "Je mag bewust kiezen wat je onderwijst en hoe je het doet. Je mag ruimte geven aan wat jíj belangrijk vindt." },
-    "Dat kan geloof zijn. Dat kan critisch denken zijn. Dat kan praktische weerbaarheid zijn. Dat kunnen waarden zijn die verder gaan dan schoolcijfers.",
-    "De Qur'an zegt dat Allah van degenen houdt die bewust kiezen. Die niet blind volgen, die nicht meedraaien met de stroom, maar die nadenken en kiezen.",
-    "Wanneer je thuisonderwijs begint, begin je automatisch met die keuze: je weigert blindelings te volgen. Je vraagt jezelf af: Wat is het beste voor mijn kind?",
-    "Dat is een serieuze verantwoordelijkheid. Maar het is ook een voordeel. Je bent niet afhankelijk van wat een systeem bepaalt. Je mag en je kunt nadenken.",
-    { type: "highlight", text: "Thuisonderwijs vraagt meer van je. Maar het geeft je ook meer ruimte om bewust te kiezen en naar je kind toe te groeien." },
+    content: [
+      "<strong><i>“En als jij de meeste mensen op aarde zou gehoorzamen, zouden zij jou doen afdwalen van het pad van Allah. Zij volgen slechts vermoedens en zij speculeren alleen maar.”(Qur’an 6:116) </i></strong>",
+      "We leven in het tijdperk van de meerderheid. <br>De meeste likes. <br>De luidste meningen. <br>De populairste ‘waarheden’.",
+      "En Allah waarschuwt ons hier keihard voor: de meerderheid is geen maatstaf voor waarheid.",
+      "Deze ayah snijdt dwars door onze moderne illusies heen. Want hoe vaak laten we ons leiden door wat ‘normaal’ is? Door trends, door sociale druk, door wat iedereen zegt dat goed voelt? Allah noemt dat geen kennis. Hij noemt het vermoedens en giswerk.",
+      "“<strong><i>Zij volgen slechts aannames.</strong></i>”<br/>“<strong><i>Zij verzinnen.</strong></i>”",
+      "Dat is pijnlijk herkenbaar. Meningen worden feiten. Gevoelens worden wetten. En wie twijfelt, wordt weggezet als ouderwets, extremistisch of gewoon gek.",
+      {type: "highlight",
+        text: "Maar de Qur’an leert ons iets radicaals: Waarheid buigt niet."},
+      "De weg van Allah is zelden de weg van de massa. Het is een weg van bewust kiezen, van kennis boven gevoel, van openbaring boven opinie. Het vraagt moed om anders te zijn. Om niet mee te buigen. Om niet te verdwalen in het lawaai.",
+      "Deze ayah is geen uitnodiging tot arrogantie, maar tot wakker zijn. Niet alles wat vaak herhaald wordt, is waar. Niet alles wat normaal voelt, is juist. En niet iedereen die zeker klinkt, heeft kennis.",
+      "De vraag is dus niet: ‘Wat doen de meeste mensen?’",
+      {type: "highlight",
+        text: "Maar: ‘Waar leidt dit mij naartoe dichter bij Allah, of verder van Hem?’"},
+      "Soms is het pad smal. Soms loop je alleen. Maar Allah herinnert ons hier: leiding komt niet van aantallen, maar van waarheid."
+    ]
+  },
+
+     "Waarom-een-dagstart?": {
+    title: "Waarom een dagstart?",
+       category: "Reflectie",
+       headerImageUrl: "https://umpreneur.github.io/ummischool/blog3img.png",
+    imageUrl: "https://umpreneur.github.io/ummischool/blog3img.png",
+ content: [
+    "Een dagstart is een moment aan het begin van de dag om samen stil te staan bij <strong>wat er komt</strong> en <strong>hoe iedereen erbij zit</strong>. In verschillende vormen van onderwijs wordt dit gebruikt om de dag gezamenlijk te beginnen.",
+    "Ook binnen thuisonderwijs kan een dagstart een plek hebben. Hoe dit moment eruitziet, ligt niet vast en verschilt per gezin en per kind.Invullingen voor de dagstart vind je in een vervolgblog.(link)",
+
+    {
+      type: "highlight",
+      text:
+        "Een dagstart is geen vast format, maar een moment van afstemming dat meebeweegt met het gezin."
+    },
+    "Binnen thuisonderwijs bestaat een dagstart vaak uit het samen doornemen van wat er die dag op de planning staat, het geven van ruimte aan het kind om mee te denken en het kort aandacht hebben voor hoe iedereen zich op dat moment voelt.<br/>Dit kan op verschillende momenten van de dag gebeuren, bijvoorbeeld tijdens het ontbijt of later op de ochtend.",
+    "Tijdens een dagstart wordt de dag in grote of kleine lijnen besproken. Dat maakt duidelijk wat er ongeveer komt en in welke volgorde activiteiten plaatsvinden. Kinderen kunnen delen waar zij naar uitkijken, waar spanning zit of wat zij liever op een ander moment doen.",
+    {
+      type: "highlight",
+      text:
+        "Inspraak betekent dat een kind wordt gehoord, niet dat alles vastligt."
+    },
+    "Die inbreng kan, waar passend, worden meegenomen in hoe de dag verder verloopt.",
+    "Voor veel kinderen is het prettig om te weten hoe de dag eruitziet. De mate van detail verschilt per leeftijd. Voor jonge kinderen is een globaal overzicht vaak voldoende. Oudere kinderen hebben vaker baat bij een meer uitgewerkte planning, waarin duidelijk is wat wanneer gebeurt.",
+    {
+      type: "highlight",
+      text:
+        "Structuur kan er voor ieder kind anders uitzien."
+    },
+    "Een dagstart kan elke dag op hetzelfde moment plaatsvinden, maar dat hoeft niet. Het kan kort zijn of iets uitgebreider. Wat past, hangt samen met leeftijd, behoefte en de situatie van dat moment.",
+    "Binnen thuisonderwijs kan een dagstart helpen om samen <strong>doelen</strong> en <strong>verwachtingen</strong> voor de dag te bespreken. Dat geeft duidelijkheid voor zowel kind als ouder."
   ]
+
+
 },
 
-"Waarom-een-dagstart?": {
-  title: "Waarom een dagstart?",
-  category: "Thuisonderwijs",
-  headerImageUrl: "https://umpreneur.github.io/ummischool/blog3img.png",
-  imageUrl: "https://umpreneur.github.io/ummischool/blog3img.png",
-  content: [
-    "Veel gezinnen die thuisonderwijs doen, hebben dezelfde ervaring: als je de dag voorbij laat gaan zonder echt moment van 'start', voelt de dag chaotisch. Iedereen doet z'n eigen ding. Kinderen voelen zich niet gezien. Ouders voelen zich overbelast.",
-    "Daarom help een dagstart. Het is niet meer dan 10-15 minuten, maar het maakt verschil.",
-    "<strong>Wat is een dagstart?</strong>",
-    "Een dagstart is een moment waarop het hele gezin samen aanwezig is, voor de dag begint. Je zit een moment bij elkaar. Je praat erover wat vandaag op het programma staat. Je steunt elkaar. En je vraagt Allah om hulp.",
-    "Dat klinkt eenvoudig. En dat is het ook. Er hoeft niets ingewikkelds te gebeuren.",
-    "Een dagstart kan bestaan uit:",
-    "<strong>• Contact:</strong> Even zien dat je elkaar ziet. Kinderen voelen dat ze belangrijk zijn.",
-    "<strong>• Structuur:</strong> De dag krijgt inhoud. Iedereen weet waar de dag uit bestaat.",
-    "<strong>• Dua:</strong> Je vraagt Allah om hulp. Dat geeft vertrouwen.",
-    { type: "highlight", text: "Een dagstart is dus eigenlijk een moment van bezinning, contact en voorbereiding op het leren dat gaat komen." },
-    "Het effect is groter dan je zou denken. Wanneer kinderen voelen dat ze gezien worden, dat er aandacht voor hen is, werken ze beter mee. Ze zijn rustiger. Ze concentreren zich beter.",
-    "En voor jezelf als ouder: een dagstart helpt je ook. Je start bewust. Je hebt één moment om het even voor jezelf helder te krijgen. Wat ga ik vandaag doen? Wat verwacht ik van mijn kinderen? Welke hulp vraag ik aan Allah?",
-    "Een dagstart is zo effectief omdat het simpel is, omdat het dagelijks terugkomt en omdat het op die kleine momenten ingaat.",
-    { type: "highlight", text: "Een dagstart geeft rust, duidelijkheid en een bewust begin van de dag." },
-  ]
-},
-
-"dagafsluiting": {
-  title: "Dagafsluiting",
-  category: "Thuisonderwijs",
-  headerImageUrl: "https://umpreneur.github.io/ummischool/blog4img.png",
-  imageUrl: "https://umpreneur.github.io/ummischool/blog4img.png",
-  content: [
-    "Net zoals een dagstart belangrijk is, is ook een afsluiting van belang. Dit is een moment waarin de dag samenvat en waarin je teruglbikt op wat voorbij is.",
-    "Niet omdat je alles hebt afgevinkt op een checklist, maar omdat je même afsluit wat nodig was af te sluiten.",
-    "<strong>Wat gebeurt er in een dagafsluiting?</strong>",
-    "Eigenlijk hetzelfde als een dagstart, maar dan in omgekeerde volgorde:",
-    "<strong>• Teruglblik:</strong> Wat hebben we vandaag gedaan? Wat was goed? Wat was moeilijk?",
-    "<strong>• Dankbaarheid:</strong> Waarvan zijn we blij? Wat zijn we dankbaar?",
-    "<strong>• Contact:</strong> Even aandacht voor elkaar, voor wat voorbij is gegaan.",
+    "dagafsluiting": {
+    title: "Dagafsluiting",
+    category: "Reflectie",
+        headerImageUrl: "https://umpreneur.github.io/ummischool/blog4img.png",
+    imageUrl: "https://umpreneur.github.io/ummischool/blog4img.png",
+content: [
+    "Een dagafsluiting is een moment aan het einde van de dag om samen stil te staan bij <strong>wat er is gebeurd</strong> en <strong>hoe de dag is ervaren</strong>. In veel gezinnen krijgt dit moment een vaste plek, bijvoorbeeld voor het slapen of tijdens het avondeten.",
+    "Ook binnen thuisonderwijs kan een dagafsluiting een rol spelen. Hoe dit moment wordt ingevuld, verschilt per gezin en per kind.",
+    {type: "highlight",
+      text:
+        "Een dagafsluiting biedt ruimte om de dag af te ronden, zonder te beoordelen."},
+    "Een dagafsluiting bestaat vaak uit eenvoudige vragen, zoals:<br/>wat heb je vandaag gedaan (ook als daar samen bij was),<br/>wat vond je leuk,<br/>wat vond je minder fijn,<br/>en wat heb je vandaag geleerd?<br/>Deze vragen helpen om de dag in woorden te brengen.",
+    "Voor kinderen ondersteunt het terugvertellen van de dag de taalontwikkeling. Het helpt bij <strong>navertellen</strong>, het <strong>ordenen van gebeurtenissen</strong> en het benoemen van ervaringen, zowel positieve als lastige.",
+    {type: "highlight",
+      text:
+        "Terugvertellen helpt een kind om ervaringen te verwerken en onder woorden te brengen."},
+    "Naast het terugkijken op gebeurtenissen is er ruimte om samen stil te staan bij wat de dag heeft geleerd. Dat kan gaan over iets nieuws dat is ontdekt, een inzicht dat is ontstaan of een moment waarop iets moeilijk was.<br/>Dit moment kan ook gebruikt worden voor het geven van <strong>complimenten</strong> of het delen van <strong>advies</strong>, zonder te beoordelen of eerdere situaties opnieuw op te halen.",
+    {type: "highlight",
+      text:
+        "Complimenten en advies krijgen hier een plek, zonder oordeel."},
     "Binnen een dagafsluiting is er ruimte voor <strong>dankbaarheid</strong> en het <strong>erkennen van de zegeningen van Allah</strong>.",
     "Een dagafsluiting krijgt in veel gezinnen bewust een vaste plek in de dag. Die voorspelbaarheid kan rust geven en maakt het tot een herkenbaar moment van afronding.",
     {type: "highlight",
@@ -167,7 +169,7 @@ headerImageUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
   "content": [
     "<strong>Structuur brengt rust, rust brengt ruimte om te leren.</strong>",
     "Thuisonderwijs loopt het best als de dag overzichtelijk is. Niet strak, maar wél duidelijk. Als je elke ochtend opnieuw moet bedenken wat er gaat gebeuren, geeft dat onrust bij kinderen én bij ouders. Met een planning weet iedereen wat er bij de dag hoort.",
-    "Zo'n planning hoeft niet vol of ingewikkeld te zijn. Vaak is een eenvoudige, herkenbare volgorde al genoeg. Sommige momenten liggen vast, zoals opstaan, eten en slapen. Andere kunnen meebewegen. Het doel is niet om alles dicht te timmeren, maar om het leren een vaste plek te geven.",
+    "Zo’n planning hoeft niet vol of ingewikkeld te zijn. Vaak is een eenvoudige, herkenbare volgorde al genoeg. Sommige momenten liggen vast, zoals opstaan, eten en slapen. Andere kunnen meebewegen. Het doel is niet om alles dicht te timmeren, maar om het leren een vaste plek te geven.",
     "Regelmaat helpt daarbij. Niet door elke dag exact hetzelfde te doen, maar door dezelfde onderdelen steeds terug te laten komen. Wanneer ze precies plaatsvinden, mag per dag verschillen.",
     { "type": "highlight", "text": "De gebedstijden brengen vanzelf ritme in de dag. Ze verdelen de dag op een rustige manier en bieden houvast voor een praktische planning." },
     "Leerblokken hoeven niet strak gepland. Ruimte voor pauzes en uitloop hoort erbij. Kinderen werken niet altijd in hetzelfde tempo. Een goede planning houdt daar rekening mee zonder dat de dag zijn vorm verliest.",
@@ -176,7 +178,7 @@ headerImageUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
     "Voor wie wil starten met een dagplanning: bouw structuur rond de gebedstijden of andere vaste momenten van de dag. Plan duidelijke leerblokken, afgewisseld met tijd voor rust en beweging. Herhaling en ritme zorgen ervoor dat leren echt onderdeel wordt van het dagelijks leven.",
     "Hieronder vind je een voorbeeld van een thuisonderwijsdag. Het is geen schema om letterlijk over te nemen, maar om een beeld te geven van hoe een dag met structuur eruit <strong> kan </strong> zien.",
     "Hoeveel leerblokken je gebruikt, wanneer je ze plant en hoe je de dag opbouwt, hangt af van je kind, je aanpak en jullie ritme.",
-    "<strong>07:00</strong> – Ontbijt & dagstart<br>" +
+     "<strong>07:00</strong> – Ontbijt & dagstart<br>" +
 "Opruimen, zelfzorg, praktische taken<br>" +
 "Leerblok óf buitenactiviteit<br>" +
 "Lunch &amp; rust<br>" +
@@ -188,7 +190,7 @@ headerImageUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
 
     "",
     "Een passende dagplanning vinden kost tijd. Het is vaak zoeken, proberen, bijstellen. Wat op papier goed lijkt, voelt in de praktijk soms anders.",
-    "Daarom is het normaal om verschillende schema's uit te testen voordat duidelijk wordt wat echt werkt in jullie situatie.",
+    "Daarom is het normaal om verschillende schema’s uit te testen voordat duidelijk wordt wat echt werkt in jullie situatie.",
 "Ritme ontstaat door herhaling, maar groei komt vaak juist door aan te passen. Geef jezelf de ruimte om te finetunen tot er een dagritme ontstaat dat rust brengt, helder is en bij jullie leven past.",
   ]
 },
@@ -198,71 +200,62 @@ headerImageUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
   category: "Thuisonderwijs",
   headerImageUrl: "https://umpreneur.github.io/ummischool/blog6img.png",
   imageUrl: "https://umpreneur.github.io/ummischool/blog6img.png",
+
   content: [
-    "Waar bestaat een dagstart eigenlijk uit? Hoe lang duurt het? Wat zeg je? ",
-    "<strong>Een dagstart in jouw gezin kan heel anders eruit zien dan in een ander gezin.</strong> Wat telt, is dat het voor jou voelt als een moment van contact, structuur en dua.",
-    "<strong>Mogelijkheden voor een dagstart:</strong>",
-    "<strong>1. Contact (5 min)</strong>",
-    "Dit kan simpel: je zit even bij elkaar, je groet elkaar, je vraagt hoe het gaat. Voor jongere kinderen: je kun je kind even knuffelen, oogcontact maken. Dit is niet overdreven, het is echt belangrijk. Kinderen die zich gezien voelen, bouwen sneller mee.",
-    "<strong>2. Qur'an (5 min)</strong>",
-    "Dit hoeft niet lang. Je kunt één vers lezen. Je kind een vers horen voordragen. Je kunt erover spreken: wat zegt Allah ons hierin? Het hoeft niet theologisch ingewikkeld. Het gaat erom dat Qur'an een plaats heeft in het begin van de dag.",
-    "<strong>3. Dagplanning uitspreken (3 min)</strong>",
-    "Je zegt wat er op het programma staat. 'Vandaag gaan we dit doen, dan dat, dan dat.' Niet als straf of als iets zwaars, maar als iets waar je samen naar toewerkt.",
-    "Voor jongere kinderen kun je het visueel maken: een plaatje, een symbool.",
-    "<strong>4. Dua (3 min)</strong>",
-    "Dit is het moment waar het om gaat: je vraagt Allah om hulp, wijsheid, geduld, inzicht. Zowel voor jezelf als voor je kind(eren). Dit hoeft niet lang, het mag zelf heel kort. Wat telt: je spreekt het uit en je kind hoort dat je om hulp vraagt.",
-    "De dua kan zijn:",
-    "– Voor jezelf: 'Allah, geef mij geduld en wijsheid vandaag.'",
-    "– Voor je kind: 'Allah, geef mijn kind een rustgeluid moment en helpen om te leren.'",
-    "– Voor jezelf en je kind: 'Allah, zegen onze dag en geef ons contact met elkaar.'",
-    "Je hoeft geen perfecte dua's te spreken. Je mag in je eigen woorden spreken.",
-    "<strong>5. Motivatie (2 min)</strong>",
-    "Dit is optioneel, maar kan helpen: je geeft een klein iets mee. Een vermoedenis, een gedachte, een uitdaging voor de dag.",
-    "Bijvoorbeeld:",
-    "– 'Vandaag proberen we geduldig te zijn met elkaar.'",
-    "– 'Laten we kijken hoeveel plezier we in het leren kunnen vinden.'",
-    "– 'We beloven elkaar vandaag één ding goed te doen.'",
-    "<strong>Praktische tips:</strong>",
-    "– <strong>Vaste plek:</strong> Altijd op dezelfde plek (tafel, mat, bank). Dit helpt met voorspelbaarheid.",
-    "– <strong>Vaste tijd:</strong> Direct na het ontbijt, of als iedereen wakker is. Niet tussendoor.",
-    "– <strong>Rustig:</strong> Geen haastigheid. Dit is jouw moment.",
-    "– <strong>Kort:</strong> Beter 10 minuten waarvan alles aanwezig is dan 30 minuten waarvan kinderen onrustig zijn.",
-    "– <strong>Afhankelijk van leeftijd:</strong> Met kleintjes anders dan met oudere kinderen.",
-    "<strong>Wat als je kind niet wil meedoen?</strong>",
-    "Dat is normaal. Dwing niet. Maar wees consistent. Je doet het elke dag. Na enkele weken kan je kind uitnodigen om mee te doen. 'Zul je erbij zitten?' in plaats van dwang. Veel kinderen sluiten na een paar weken aan, omdat ze zien dat dit een belangrijk moment is.",
-    "<strong>Wat als je vergeet?</strong>",
-    "Dan laat je het. Je begint morgen opnieuw. Geen stress. Het gaat erom dat het een gewoonte wordt, niet dat het perfect is.",
-    "<strong>Het doel is niet een liturgie:</strong> Het doel is dat je kind merkt dat je dag met contact en bewustzijn begint. Dat wij als gezin samen een moment hebben. Dat we om Allah's hulp vragen.",
-    "Alles anderen is secundair.",
+    "Een dagstart begint met even samen zijn. Je gaat samen zitten en praat kort met elkaar. Door te praten leert je kind woorden geven aan wat het voelt en denkt, en aan wat de dag gaat brengen.",
+    "Hoe dit gesprek eruitziet, hangt af van de leeftijd van je kind: bij jonge kinderen houd je het eenvoudig, bij oudere kinderen kun je wat verder praten. Door dit dagelijks te doen, ontstaat er structuur, vertrouwen en openheid.",
+
+    "Na dit moment kun je, als dat past, kiezen voor een leermoment. Je staat dan kort stil bij vaste onderdelen, zoals de dag van de week, het dagdeel of het weer. Zo kun je het leren op een rustige manier verweven in de dagstart.",
+  "<strong>Onderwerpen voor het leermoment</strong>" +
+    "<ul>" +
+      "<li>Dagen van de week</li>" +
+      "<li>Eergisteren, gisteren, vandaag, morgen en overmorgen</li>" +
+      "<li>Dagdelen</li>" +
+      "<li>Maanden</li>"+
+      "<li>Seizoenen</li>" +
+      "<li>Het weer en passende kleding</li>" +
+      "<li>Tijdsaanduidingen</li>" +
+      "<li>Klokkijken</li>" +
+    "</ul><br>" +
+  "<strong>Materialen die hierbij kunnen helpen</strong>" +
+    "<ul>" +
+      "<li><strong>Goula houten kalender:</strong> een educatieve houten kalender waarmee kinderen spelenderwijs inzicht krijgen in dag, datum, seizoen, weer en tijd.</li>" +
+      "<li><strong>Hijri-kalender:</strong> eventueel online te downloaden</li>" +
+      "<li><strong>Whiteboard:</strong> Kan worden gebruikt worden om de dagplanning te visualiseren, dagdelen te ordenen en meer.</li>" +
+      "<li><strong>Dagritmekaarten:</strong> Je kunt dagritmekaarten gratis downloaden op (link)</li>" +
+      "<li><strong>Kerndoeltrainer (A, B, C):</strong> De Kerndoeltrainer (A, B, C) is een oefenmateriaal dat kinderen stap voor stap helpt bij het leren klokkijken en het lezen van de kalender.</li>" +
+    "</ul><br>" +
+"Na het leermoment bespreek je samen de dag; door dit verhalend te doen (<i>eerst dit, daarna dat</i>), help je je kind overzicht te krijgen en kun je dit ondersteunen door de planning te visualiseren met dagritmekaarten of een whiteboard, waarbij je je kind waar mogelijk betrekt bij kleine keuzes."+
+
+
+    "Een dagstart hoeft niet perfect te zijn. Het gaat erom samen de dag te beginnen. Door klein te starten en rustig uit te breiden, groeit de dagstart mee met je kind en wordt het een vast onderdeel van jullie thuisonderwijs, <i>in shā’ Allāh</i>.",
   ]
 },
-};
 
-const faqContent = [
+
+
+
+
+
+
+  
+  
+};
+const faqItems = [
   {
-    id: "wettelijk",
-    question: "Is thuisonderwijs wettelijk toegestaan?",
-    main: "In Nederland mag je je kind thuis onderwijs geven. De wet zegt dat onderwijs verplicht is, maar niet dat het op school moet zijn. Je moet wel vrijstelling aanvragen van leerplicht. Dit verschilt per gemeente. In veel gemeenten wordt dit toegestaan. In sommige gemeenten vraagt men meer onderbouwing. Zelf onderwijs geven mogen is niet hetzelfde als dat je het zonder meer mag doen – dus voordien goed informeren hoe het in jouw gemeente geregeld is.",
+    id: "leraar",
+    question: "Ik ben geen lerares. Kan ik dit wel?",
+    main: "Ja, dat kan. Veel ouders zonder lerarendiploma zijn je al voorgegaan. Het vraagt inzet: informatie opzoeken en werken met betrouwbaar materiaal. Met boeken, lesmateriaal en online uitleg kom je ver, en voor lastige vakken kun je altijd extra hulp of deelnemen aan gezamenlijke lessen met andere gezinnen.",
   },
   {
-    id: "inspectie",
-    question: "Wordt je gecontroleerd door de inspectie?",
-    main: "Dit is per gemeente verschillend. In veel gemeenten voert de inspectie geen controles uit bij gezinnen met vrijstelling. In sommige gemeenten word je wel eens bezocht. Als je bevorder wat de gemeente vraagt (de leerplicht wordt waargemaakt thuis), hoef je je over het algemeen niet ongerust te zijn. Het gaat erom dat je kind onderwezen wordt, niet om hoeveel tests het aflegt.",
+    id: "tekort",
+    question: "Doe ik mijn kind niet tekort?",
+    main: "Niet wanneer je betrokken blijft en bereid bent om te leren als ouder. Thuisonderwijs is een bewuste keuze, geen gok. Als je openstaat voor groei, hulp zoekt wanneer dat nodig is en zorgt voor een veilige, liefdevolle omgeving, krijgt je kind een stevige basis.",
   },
   {
-    id: "examen",
-    question: "Moet je kind examen doen?",
-    main: "Niet automatisch. Dat hangt van je gemeente af en ook van hoe lang je kind al thuis onderwezen wordt. Als je van plan bent je kind later terug naar school te sturen, kan het handig zijn om regelmatig tussentijdse toetsen te doen. Maar voor thuisonderwijs zelf is dit niet verplicht.",
-  },
-  {
-    id: "materialen",
-    question: "Welk lesmateriaal moet je gebruiken?",
-    main: "Je bent vrij om zelf te kiezen welke lesmaterialen je wilt gebruiken. Veel gezinnen kiest voor bestaande methodes (zoals boeken van uitgeverijen), anderen stellen hun eigen materiaal samen, met hulp van het internet of andere bronnen. Het enige wat telt: je kind moet de basisvakken onder de knie krijgen.",
-  },
-  {
-    id: "basisvakken",
-    question: "Welke vakken zijn verplicht?",
-    main: "Dit staat niet precies in de wet, maar het 'inspectiehandboek' meldt vakken als nederlands, rekenen, aardrijkskunde, geschiedenis, natuurkunde en maatschappijleer. Maar elk gezin geeft hier soms een eigen invulling aan. Als je goed onderbouwing geeft waarom je bepaalde accenten zet, accepteert de inspectie dit ook.",
+    id: "familie",
+    question: "Wat als mensen in mijn omgeving het niet begrijpen?",
+    main: "Je kunt uitleggen hoe jij ernaar kijkt, maar je hoeft niet iedereen te overtuigen. Niet iedereen zal het meteen begrijpen, en dat kan soms lastig zijn. Uiteindelijk beslis jij wat het beste past bij jouw gezin.",
   },
   {
     id: "partner",
@@ -315,261 +308,747 @@ const watIsItems = [
   {
     id: "nederland",
     title: "Mag thuisonderwijs in Nederland?",
-    content: "Ja, in Nederland mag thuisonderwijs. Je moet wel vrijstelling aanvragen van de leerplicht. Dit werkt per gemeente anders. In veel gemeenten wordt dit toegestaan.",
+    content: "Thuisonderwijs kan in Nederland alleen in bepaalde situaties. Ouders kunnen bij de gemeente melden dat hun kind niet naar school gaat, bijvoorbeeld vanwege hun levensovertuiging, medische of psychische redenen, of omdat het gezin geen vaste woonplek heeft.",
   },
   {
-    id: "waarom",
-    title: "Waarom kiezen ouders voor thuisonderwijs?",
-    content: "Redenen variëren per gezin. Sommigen kiezen voor thuisonderwijs vanuit geloof. Anderen omdat hun kind beter tot zijn recht komt thuis. Weer anderen om praktische redenen. Het belangrijkste is dat het bij jouw gezin en jouw kind past.",
+    id: "sociale",
+    title: "Hoe zien sociale contacten eruit bij thuisonderwijs?",
+    content: "Kinderen ontmoeten anderen via sport, speelplaatsen, uitstapjes, familie, vrienden of thuisonderwijsgroepen. Hoe dit wordt ingevuld verschilt per gezin.",
+  },
+  {
+    id: "mogelijkheden",
+    title: "Welke mogelijkheden hebben kinderen later?",
+    content: "Thuisonderwijsleerlingen kunnen vervolgonderwijs instromen via staatsexamens of andere trajecten. De weg is soms anders dan op school, maar uiteindelijk kunnen ze dezelfde diploma's behalen.",
+  },
+  {
+    id: "kosten",
+    title: "Wat kost thuisonderwijs?",
+    content: "Ouders betalen zelf voor materialen, activiteiten en examens. Tegelijk zijn er veel gratis of goedkope opties. Zo kan elk gezin de kosten op een eigen manier vormgeven.",
   },
 ];
 
+// Page state
+let currentPage = 'home';
+let expandedFaq = null;
+let mobileMenuOpen = false;
+
+// Toggle mobile menu
+function toggleMobileMenu() {
+  mobileMenuOpen = !mobileMenuOpen;
+  const nav = document.getElementById('mobile-nav');
+  const hamburger = document.getElementById('hamburger-btn');
+  
+  if (mobileMenuOpen) {
+    nav.classList.add('active');
+    hamburger.classList.add('active');
+  } else {
+    nav.classList.remove('active');
+    hamburger.classList.remove('active');
+  }
+}
+
+// Close mobile menu
+function closeMobileMenu() {
+  mobileMenuOpen = false;
+  const nav = document.getElementById('mobile-nav');
+  const hamburger = document.getElementById('hamburger-btn');
+  nav.classList.remove('active');
+  hamburger.classList.remove('active');
+}
+
+// Initialize app
 function init() {
-  setupThemeToggle();
-  setupRouting();
-  setupMobileNav();
+  renderApp();
+  attachEventListeners();
 }
 
-function setupThemeToggle() {
-  const toggleBtn = document.getElementById('theme-toggle');
-  if (!toggleBtn) return;
-
-  const html = document.documentElement;
-  const savedTheme = localStorage.getItem('theme') || 'dark';
-  html.setAttribute('data-theme', savedTheme);
-
-  toggleBtn.addEventListener('click', () => {
-    const currentTheme = html.getAttribute('data-theme');
-    const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
-    html.setAttribute('data-theme', newTheme);
-    localStorage.setItem('theme', newTheme);
-  });
+// Render main app structure
+function renderApp() {
+  const app = document.getElementById('app');
+  app.innerHTML = `
+    <div class="app-wrapper">
+      ${renderHeader()}
+      <main>
+        <div class="container">
+          <div id="pages">
+            ${renderHomePage()}
+            ${renderWatIsUmmiPage()}
+            ${renderWaarBeginIkPage()}
+            ${renderPrintablesPage()}
+            ${renderBlogPage()}
+            ${renderBlogPostPage()}
+            ${renderFaqPage()}
+            ${renderContactPage()}
+          </div>
+        </div>
+      </main>
+      ${renderFooter()}
+    </div>
+  `;
 }
 
-function setupRouting() {
-  const navLinks = document.querySelectorAll('a[data-page]');
+// Header
+function renderHeader() {
+  return `
+    <header>
+      <div class="header-container">
+<div class="logo-brand" data-testid="link-logo">
+  <img src="favicon-512.png" alt="Thuisonderwijsinfo logo" class="logo-image" />
+</div>
+        <button class="hamburger-btn" id="hamburger-btn" data-testid="button-hamburger">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+        <nav id="mobile-nav">
+          <a data-page="faq" class="nav-link" data-testid="link-nav-faq">Ik Twijfel!</a>
+          <a data-page="waar-begin-ik" class="nav-link" data-testid="link-nav-waar-begin-ik">Waar Begin Ik?</a>
+           <a data-page="printables" class="nav-link" data-testid="link-nav-printables">Printables</a>
+
+          <a data-page="blog" class="nav-link" data-testid="link-nav-blog">Blog</a>
+          <a data-page="contact" class="nav-link" data-testid="link-nav-contact">Contact</a>
+          <button data-page="wat-is-ummi" class="nav-btn-primary" data-testid="button-nav-wat-is-thuisonderwijs">Wat is Thuisonderwijs?</button>
+        </nav>
+      </div>
+    </header>
+  `;
+}
+
+// Home page
+function renderHomePage() {
+  return `
+    <div id="page-home" class="page active">
+      <div class="home-hero">
+        <h1 class="home-title" data-testid="text-home-title">Thuisonderwijs</h1>
+        <button class="btn-primary" data-page="waar-begin-ik" data-testid="button-waar-begin-ik-home">Waar Begin Ik?</button>
+      </div>
+    </div>
+  `;
+}
+
+// Wat is Thuisonderwijs page
+function renderWatIsUmmiPage() {
+  const itemsHtml = watIsItems.map(item => `
+    <div class="faq-item" data-faq-id="${item.id}" data-testid="card-thuisonderwijs-${item.id}">
+      <button class="faq-button" data-testid="button-thuisonderwijs-${item.id}">
+        <h3>${item.title}</h3>
+        <div class="faq-toggle">
+          <svg viewBox="0 0 24 24">
+            <path d="M12 4v16m8-8H4" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </div>
+      </button>
+      <div class="faq-content" data-testid="text-thuisonderwijs-${item.id}">
+        <p>${item.content}</p>
+        ${item.highlight ? `<div class="faq-highlight-quote">${item.highlight}</div>` : ''}
+      </div>
+    </div>
+  `).join('');
+
+  return `
+    <div id="page-wat-is-ummi" class="page">
+      <div style="text-align: center; margin-bottom: 3rem;">
+        <h1 class="page-title" data-testid="text-wat-is-thuisonderwijs-title">Wat is Thuisonderwijs?</h1>
+        <p class="faq-subtitle" data-testid="text-wat-is-thuisonderwijs-subtitle">Steeds meer gezinnen kiezen in Nederland voor thuisonderwijs. Misschien ben je benieuwd wat dat precies inhoudt. Hieronder leggen we het uit, zodat je een goed beeld krijgt.</p>
+      </div>
+      <div class="faq-section">
+        ${itemsHtml}
+      </div>
+    </div>
+  `;
+}
+
+// Waar Begin Ik page
+function renderWaarBeginIkPage() {
+  const steps = [
+   {
+  id: "intentie",
+  title: "Visie",
+content:
+ "Thuisonderwijs begint niet bij boeken, maar bij één vraag:<br>" +
+"<strong>Wat hebben jouw kinderen nodig voor hun toekomst?</strong><br><br>" +
+  "Als je dat weet, wordt kiezen eenvoudiger. Je doet alleen wat echt bij jullie gezin past.<br>" +
+"Als je dat helder hebt, ontstaat er vanzelf een richting waarin je een manier van leren kunt opbouwen die echt bij jullie gezin aansluit.<br><br>"+
+
+  "<strong>Om richting te bepalen kun je jezelf de volgende vragen stellen:</strong><br>" +
+  "<ul style='margin:0.5rem 0 1rem 1rem; padding:0; line-height:1.5;'>"+
+    "<li><strong>Welke waarden</strong> willen we meegeven?</li>" +
+    "<li>Hoe ziet ons gezin er over vijf à tien jaar uit?</li>" +
+    "<li>Waar wonen we dan waarschijnlijk?</li>" +
+    "<li>Welke <strong>talen en vaardigheden</strong> horen bij die toekomst?</li>" +
+    "<li>Welke manier van leren past bij onze kinderen?</li>" +
+  "</ul>" +
+
+  "Deze vragen geven helderheid over wat voor jullie belangrijk is en vormen een basis om verder op te bouwen.",
+
+     highlight: "Praktisch aan de slag?<br>" + "Gebruik de NVVTO-handleiding om jouw plan te schrijven:<br><br>" + "<a href='https://www.thuisonderwijs.nl/wp-content/uploads/2023/09/Handleiding-schrijf-je-to-plan.pdf' target='_blank'>Download de handleiding</a>"
+   },
+
+    {
+      id: "leren",
+      title: "Wat is er te leren?",
+content:
+  "Thuisonderwijs richt zich op drie gebieden: <strong>kennis, vaardigheden en waarden</strong>.<br>" +
+  "Het gaat niet alleen om wat je kind leert, maar ook om hoe het zich ontwikkelt als persoon in gedrag, karakter en dagelijkse vaardigheden.<br>" +
+  "Wat je aanbiedt, verschilt per leeftijd en per kind; elk kind leert op zijn of haar eigen tempo.<br><br>" +
+
+  "In het islamitisch thuisonderwijs leren kinderen onder andere:<br>" +
+  "<ul style='margin: 0.5rem 0 1rem 1.2rem; padding: 0; line-height: 1.6;'>"+
+    "<li><strong>Qur’aan en (fusha) Arabisch</strong></li>" +
+    "<li><strong>Adab en akhlaaq:</strong> manieren, omgangsvormen en karaktervorming</li>" +
+    "<li><strong>Basisvakken</strong> zoals taal, rekenen </li>" +
+    "<li><strong>Lichaamsbeweging</strong> zoals sport</li>" +
+    "<li><strong>Praktische vaardigheden</strong> zoals zelfstandigheid, verantwoordelijkheid en meedoen binnen het gezin én in de samenleving.</li>" +
+  "</ul>" +
+
+  "In de volgende onderdelen lees je per thema wat deze onderdelen inhouden.",
+     highlight: ""   // ← lege string = GEEN highlight
+    },
+
+ {
+      id: "quran",
+      title: "Qur'an en (fusha) Arabisch",
+  content:
+  "Binnen het islamitisch thuisonderwijs vormt <strong>Qur’aan en Arabisch</strong> voor veel gezinnen een belangrijk leergebied.<br><br>" +
+    
+  "<strong>Wat kinderen hierin leren, verschilt per leeftijd en niveau, denk aan:</strong>" +
+  "<ul style='margin: 0.5rem 0 1rem 1.2rem; padding: 0; line-height: 1.6;'>" +
+    "<li>het herkennen van klanken</li>" +
+    "<li>het lezen van Arabische letters in verschillende schrijfvormen</li>" +
+    "<li>correcte uitspraak volgens de basisregels van <strong>tajwied</strong></li>" +
+    "<li>vloeiend reciteren en het stapsgewijs memoriseren van Qur’aan</li>" +
+    "<li>de Arabische taal (woordenschat, zinsopbouw en eenvoudige teksten)</li>" +
+  "</ul>" +
+
+  "Dit kun je zelf aanbieden, eventueel met hulp van een docent."
+},
+
+
+   
+    {
+      id: "adab",
+      title: "Adab en Akhlaaq",
+  content:
+  "Adab en akhlaaq verwijzen naar het zichtbare gedrag en de innerlijke houding die een kind ontwikkelt in de dagelijkse omgang met anderen.<br>" +
+  "Binnen het islamitisch thuisonderwijs maken deze onderwerpen vaak onderdeel uit van de opvoeding en het leerproces.<br><br>" +
+
+  "<strong>Wat kinderen kunnen ontwikkelen:</strong><br>" +
+  "<ul style='margin: 0.5rem 0 1rem 1.2rem; padding: 0; line-height: 1.6;'>" +
+    "<li><strong>Adab:</strong> zichtbaar gedrag, zoals respect, beleefdheid en zorg voor anderen</li>" +
+    "<li><strong>Akhlaaq:</strong> innerlijke eigenschappen, zoals eerlijkheid, zelfbeheersing en betrouwbaarheid</li>" +
+    "<li><strong>Karaktervorming:</strong> vaardigheden zoals doorzetten, verantwoordelijkheid nemen en omgaan met uitdagingen</li>" +
+  "</ul>" +
+
+  "Verhalen uit de Qur’aan, sunnah en de geschiedenis van de profeten en sahaba worden gebruikt om kinderen te inspireren en te vormen, en hen voorbeelden te geven die richting en betekenis bieden."
+},
+
+    {
+      id: "schoolvakken",
+      title: "Hoe weet ik welke schoolvakken ik moet aanbieden?",
+  content:
+    "Veel ouders vragen zich af wat kinderen in Nederland leren op de basisschool.<br>" +
+    "De kerndoelen van SLO geven per leeftijd en per leergebied een helder overzicht van onderwerpen zoals taal, rekenen en wereldoriëntatie.<br>" +
+    "Je gebruikt deze informatie als richting: jij bepaalt welke vakken je thuis aanbiedt en in welk tempo dat past bij jullie gezin.<br><br>" +
+
+    "<strong>Je bent niet gebonden aan het Nederlandse curriculum</strong><br>" +
+    "Thuisonderwijs geeft ruimte om een curriculum te kiezen dat bij jullie past. Je kunt:<br>" +
+    "• de Nederlandse kerndoelen volgen<br>" +
+    "• kiezen voor een buitenlands curriculum, zoals het UK-curriculum, US-curriculum of het internationale IB-programma<br><br>" +
+
+    "Welke keuze je ook maakt, het kan helpen om de ontwikkeling van je kind goed bij te houden. Dat geeft overzicht wanneer je later wilt aansluiten bij vervolgonderwijs.",
+  
+  highlight:
+    "<i>Handige bronnen:</i><br><br>" +
+    "• Huidige SLO-kerndoelen:<br>" +
+    "<a href='https://www.slo.nl/thema/meer/jonge-kind/doelen-jonge-kind/' target='_blank'>Bekijk de kerndoelen</a><br><br>" +
+    "• Vernieuwing kerndoelen (2025 – conceptfase):<br>" +
+    "<a href='https://www.slo.nl/thema/meer/actualisatie-kerndoelen-examenprogramma/actualisatie-kerndoelen/' target='_blank'>Meer over de actualisatie</a>"
+},
+
+    {
+      id: "dagelijks",
+      title: "Vaardigheden uit het dagelijks leven",
+  content:
+  "Kinderen ontwikkelen niet alleen kennis, maar ook verschillende vaardigheden in het dagelijks leven, thuis en in hun omgeving.<br>" +
+  "Tijdens alledaagse activiteiten zoals aankleden, tafel dekken, opruimen, helpen, samenwerken of iets nieuws proberen oefenen ze vaardigheden zoals:<br>" +
+
+  "<ul style='margin: 0.5rem 0 1rem 1.2rem; padding: 0; line-height: 1.6;'>" +
+    "<li><strong>zelfstandigheid</strong></li>" +
+    "<li><strong>verantwoordelijkheid</strong></li>" +
+    "<li><strong>probleemoplossend denken</strong></li>" +
+    "<li><strong>samenwerken</strong></li>" +
+  "</ul>" +
+
+  "Deze vaardigheden ondersteunen het schoolse leren en maken deel uit van wat kinderen binnen thuisonderwijs kunnen ontwikkelen."
+
+},
+
+  
+    {
+      id: "methode",
+      title: "Hoe kun je thuisonderwijs vormgeven?",
+      content: "Thuisonderwijzers gebruiken verschillende methodes om hun onderwijs vorm te geven. Er bestaat geen vaste of voorgeschreven aanpak; ieder gezin kiest wat aansluit bij hun kinderen, ritme en doelen.<br><br>" +
+"<strong>Veelgebruikte methodes binnen thuisonderwijs zijn onder andere:</strong>" +
+        "<ul style='margin: 0.5rem 0 1rem 1.2rem; padding: 0; line-height: 1.6;'>" +
+
+"<li><strong>Klassieke methode:</strong><br>Een aanpak die de structuur van school volgt: je werkt met vaste lesmomenten en een duidelijke leerlijn per vak, meestal met werkboeken of methodes. Je hoeft geen compleet pakket te kopen; veel ouders kiezen per vak wat het beste past bij hun kind.</li><br>" +
+
+"<li><strong>Charlotte Mason:</strong><br>Een methode waarbij kinderen leren met rijk geschreven, verhalende boeken (living books) in plaats van met traditionele schoolboeken. Na het lezen vertellen ze in hun eigen woorden wat ze hebben onthouden (narrations). De lessen zijn kort en afwisselend, en er is ruimte voor natuurstudie en het oefenen van goede gewoontes.</li><br>" +
+
+"<li><strong>Thematisch:</strong><br>Een manier van werken waarbij één thema centraal staat. Soms worden meerdere vakken rond dat thema verbonden, maar vaak gaat het om één vak of onderdeel, terwijl andere vakken gewoon apart worden behandeld.</li><br>" +
+
+"<li><strong>Montessori:</strong><br>Elementen uit de Montessori-benadering toegepast in de thuissituatie, met aandacht voor zelfstandig werken en concreet leermateriaal.</li><br>" +
+
+"<li><strong>Mix:</strong><br>Veel gezinnen combineren elementen uit meerdere methodes. Zo kunnen ze bijvoorbeeld voor rekenen een gestructureerde aanpak gebruiken, voor taal rijke boeken inzetten en voor wereldoriëntatie thematisch werken. De methode past zich aan per kind en per vak.</li><br>" +
+
+"</ul>"
+
+
+    },
+    {
+      id: "dagritme",
+      title: "Dagplanning, ritme en structuur",
+      content: "Thuisonderwijs hoeft niet hetzelfde ritme te volgen als een schooldag. Omdat kinderen individueel werken en niet hoeven te wachten op anderen, kan de leertijd korter en flexibeler zijn. Sommige gezinnen kiezen voor één blok per dag, anderen verdelen het over meerdere momenten of passen het ritme aan per dag. Het helpt daarbij om eerst te bepalen wat je wilt aanbieden en dit vervolgens logisch over de dag of week te verdelen.<br><br>" +
+
+"Hoe je structuur vormgeeft, verschilt per gezin: voor de één is dat een vaste volgorde in de dag, voor de ander herkenbare momenten die houvast bieden. Thuisonderwijs kan strak, flexibel of wisselend worden ingericht  wat werkt, hangt af van jouw gezin."
+
+    },
+    {
+      id: "community",
+      title: "Community",
+      content:"Hoe thuisonderwijs eruitziet, verschilt sterk per gezin. Sommige gezinnen leren vooral binnen het eigen gezin, anderen vormen samen een klein klasje, spreken af in groepjes of huren samen een docent in. Daarom kan het waardevol zijn om contact te hebben met andere gezinnen die op een vergelijkbare manier thuisonderwijs vormgeven. Ouders vinden elkaar vaak via online groepen of door elkaar te ontmoeten bij activiteiten in de buurt.<br><br>" +
+
+"Niet overal wonen thuisonderwijzers vlakbij. Als je merkt dat je contact mist, kun je als je dat prettig vindt zelf een oproep plaatsen of een klein groepje starten. Soms sluiten daar later andere gezinnen bij aan, en groeit er stap voor stap een netwerk.<br><br>" +
+
+"Zo’n netwerk kan veel betekenen: kinderen maken nieuwe vrienden en delen mooie ervaringen, en ouders kunnen vragen stellen, ideeën uitwisselen en zich gesteund voelen. Het is geen voorwaarde om met thuisonderwijs te kunnen beginnen, maar het kan wel helpen. Hoe een community eruitziet, verschilt per gezin; dat kan klein en informeel zijn of juist groter en actiever — er is geen vaste vorm waar je aan moet voldoen."
+
+    },
+    {
+      id: "juridisch",
+      title: "Juridisch: hoe regel ik een vrijstelling?",
+      content:
+  "In Nederland geldt leerplicht, maar geen schoolplicht. Een kind moet leren, maar dat hoeft niet op school als je voldoet aan de voorwaarden voor vrijstelling (artikel 5b, richtingbezwaar). Dit betekent dat er geen school in de buurt is die past bij jullie levensovertuiging. Dit leg je uit in een brief aan de gemeente.<br><br>" +
+
+  "Wanneer dien je de vrijstelling in? Je levert de vrijstellingsbrief één maand voordat je kind leerplichtig wordt in. De vrijstelling geldt per kind, dus elk kind heeft een eigen brief nodig. Je bevestigt de vrijstelling elk jaar opnieuw. Bij verhuizing meld je de vrijstelling opnieuw bij je nieuwe gemeente.<br><br>" +
+
+  "<strong> Belangrijk om te weten: Vrijstelling is een melding, geen aanvraag. Je vraagt geen toestemming; als je aan de voorwaarden voldoet en op tijd bent, is de vrijstelling van kracht. Je hoeft niet te wachten op goedkeuring.</strong>",
+
+highlight:
+  "Praktische informatie:<br>" +
+  "Uitleg over artikel 5 onder b van de Leerplichtwet (richtingbezwaar):<br><br>" +
+  "<a href='https://www.thuisonderwijs.nl/wettelijk/5onderb/' target='_blank'>Voorbeeldbrief en juridische toelichting</a>"
+
+    },
+    
+  ];
+
+  const stepsHtml = steps.map(step => `
+    <div class="faq-item" data-faq-id="${step.id}" data-testid="card-stap-${step.id}">
+      <button class="faq-button" data-testid="button-stap-${step.id}">
+        <h3>${step.title}</h3>
+        <div class="faq-toggle">
+          <svg viewBox="0 0 24 24">
+            <path d="M12 4v16m8-8H4" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </div>
+      </button>
+      <div class="faq-content" data-testid="text-stap-${step.id}">
+        <p>${step.content}</p>
+       ${step.highlight && step.highlight.trim() !== ""
+  ? `<div class="faq-highlight-quote">${step.highlight}</div>`
+  : ""
+}
+      </div>
+    </div>
+  `).join('');
+
+  return `
+    <div id="page-waar-begin-ik" class="page">
+      <div style="text-align: center; margin-bottom: 3rem;">
+        <h1 class="page-title" data-testid="text-waar-begin-ik-title">Waar Begin Ik?</h1>
+        <p class="faq-subtitle" data-testid="text-waar-begin-ik-subtitle">Je hebt besloten om voor thuisonderwijs te gaan. Allahumma barik! Moge Allah jullie hierin bijstaan. En nu? Waar begin je eigenlijk? In sha Allah vind je hieronder een helder beginpunt.</p>
+      </div>
+      <div class="faq-section">
+        ${stepsHtml}
+      </div>
+    </div>
+  `;
+}
+
+// Blog page
+function renderBlogPage() {
+  const cardsHtml = blogPreviews.map(post => `
+    <a class="blog-card" data-blog-slug="${post.slug}" data-testid="card-blog-${post.id}">
+      <img src="${post.thumbnailUrl}" alt="${post.title}" class="blog-card-image" data-testid="img-blog-${post.id}" />
+      <div class="blog-card-content">
+        <h3 data-testid="text-blog-title-${post.id}">${post.title}</h3>
+        <p data-testid="text-blog-excerpt-${post.id}">${post.excerpt}</p>
+        <span class="blog-card-link" data-testid="link-read-more-${post.id}">Lees verder →</span>
+      </div>
+    </a>
+  `).join('');
+
+  return `
+    <div id="page-blog" class="page">
+      <div style="text-align: center; margin-bottom: 3rem;">
+        <h1 class="page-title" data-testid="text-blog-page-title">Blog</h1>
+        <p class="faq-subtitle" data-testid="text-blog-subtitle">  Deze blog is er om ouders te ondersteunen bij het geven en vormgeven van thuisonderwijs.
+ Ik deel de leidraad die ik zelf miste niet als dé manier, maar als inspiratie om jouw eigen weg te kiezen.<br>
+  <strong>Draag bij en stuur je gastblog in (women only)</strong>.
+</p>
+      </div>
+      <div class="blog-stack">
+        ${cardsHtml}
+      </div>
+    </div>
+  `;
+}
+
+// Blog post page
+function renderBlogPostPage() {
+  return `
+    <div id="page-post" class="page">
+      <div style="text-align: left; margin-bottom: 2rem;">
+        <button class="btn-secondary" data-page="blog" data-testid="button-back-to-blog">← Terug naar Blog</button>
+      </div>
+      <div class="blog-post">
+        <img id="post-header-image" data-testid="img-post-header" alt="" class="blog-post-header-image" />
+        <div class="blog-post-header">
+          <h1 class="blog-post-title" data-testid="text-post-title" id="post-title"></h1>
+          <p class="blog-post-meta" data-testid="text-post-date" id="post-date"></p>
+        </div>
+        <div class="blog-post-content" id="post-body" data-testid="text-post-content"></div>
+      </div>
+    </div>
+  `;
+}
+
+
+
+
+// FAQ page
+function renderFaqPage() {
+  const itemsHtml = faqItems.map(item => `
+    <div class="faq-item" data-faq-id="${item.id}" data-testid="card-faq-${item.id}">
+      <button class="faq-button" data-testid="button-faq-${item.id}">
+        <h3>${item.question}</h3>
+        <div class="faq-toggle">
+          <svg viewBox="0 0 24 24">
+            <path d="M12 4v16m8-8H4" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </div>
+      </button>
+      <div class="faq-content" data-testid="text-faq-${item.id}">
+        <p>${item.main}</p>
+${item.highlight && item.highlight.trim() !== "" 
+  ? `<div class="faq-highlight-quote">${item.highlight}</div>` 
+  : ""
+}
+
+      </div>
+    </div>
+  `).join('');
+
+  return `
+    <div id="page-faq" class="page">
+      <div style="text-align: center; margin-bottom: 3rem;">
+        <h1 class="page-title" data-testid="text-faq-title">Ik Twijfel!</h1>
+        <p class="faq-subtitle" data-testid="text-faq-subtitle">Twijfels horen erbij. Thuisonderwijs is geen klusje dat je 'even tussendoor' doet. Veel ouders zitten met dezelfde vragen. In sha Allah vind je in de antwoorden hieronder helderheid en rust.</p>
+      </div>
+      <div class="faq-section">
+        ${itemsHtml}
+      </div>
+    </div>
+  `;
+}
+
+// Contact page
+function renderContactPage() {
+  return `
+    <div id="page-contact" class="page">
+      <div class="contact-header">
+        <h1 class="page-title" data-testid="text-contact-title">Contact</h1>
+        <p class="contact-subtitle" data-testid="text-contact-subtitle"><span class="highlight-accent">Altijd voor vragen</span></p>
+      </div>
+      <div class="contact-form-wrapper">
+        <form action="https://formspree.io/f/mldqgory" method="POST" data-testid="form-contact">
+          <div class="form-group">
+            <label data-testid="label-name">Naam *</label>
+            <input 
+              type="text" 
+              name="name" 
+              data-testid="input-name"
+              required
+            />
+          </div>
+          <div class="form-group">
+            <label data-testid="label-email">E-mail *</label>
+            <input 
+              type="email" 
+              name="email" 
+              data-testid="input-email"
+              required
+            />
+          </div>
+          <div class="form-group">
+            <label data-testid="label-subject">Onderwerp *</label>
+            <input 
+              type="text" 
+              name="subject" 
+              data-testid="input-subject"
+              required
+            />
+          </div>
+          <div class="form-group">
+            <label data-testid="label-message">Bericht *</label>
+            <textarea 
+              name="message" 
+              data-testid="textarea-message"
+              placeholder="Je bericht..."
+              rows="6"
+              required
+            ></textarea>
+          </div>
+          <div class="form-submit">
+            <button 
+              type="submit" 
+              class="btn-primary" 
+              data-testid="button-send-contact"
+            >
+              Verstuur bericht
+            </button>
+          </div>
+        </form>
+      </div>
+    </div>
+  `;
+}
+
+// Footer
+function renderFooter() {
+  return `
+    <footer data-testid="footer">
+      <p data-testid="text-footer-copyright">&copy; 2025 Thuisonderwijsinfo. Alle rechten voorbehouden.</p>
+    </footer>
+  `;
+}
+
+// Event listeners
+function attachEventListeners() {
+  // Hamburger menu toggle
+  const hamburgerBtn = document.getElementById('hamburger-btn');
+  if (hamburgerBtn) {
+    hamburgerBtn.addEventListener('click', toggleMobileMenu);
+  }
+  
+  // Close menu when navigation link is clicked
+  const navLinks = document.querySelectorAll('#mobile-nav .nav-link, #mobile-nav .nav-btn-primary');
   navLinks.forEach(link => {
+    link.addEventListener('click', closeMobileMenu);
+  });
+  
+  // Navigation
+  document.querySelectorAll('.nav-link').forEach(link => {
     link.addEventListener('click', (e) => {
       e.preventDefault();
-      const page = link.getAttribute('data-page');
-      showPage(page);
+      showPage(link.dataset.page);
+      resetAllFaq();
     });
   });
 
-  // Initial page
-  showPage('home');
-}
-
-function setupMobileNav() {
-  const burger = document.getElementById('burger-menu');
-  const nav = document.getElementById('mobile-nav');
-
-  if (!burger || !nav) return;
-
-  burger.addEventListener('click', () => {
-    nav.classList.toggle('active');
+  document.querySelectorAll('[data-page]').forEach(btn => {
+    if (!btn.classList.contains('nav-link') && btn.tagName !== 'A') {
+      btn.addEventListener('click', (e) => {
+        e.preventDefault();
+        showPage(btn.dataset.page);
+        resetAllFaq();
+      });
+    }
   });
 
-  document.querySelectorAll('#mobile-nav a[data-page]').forEach(link => {
-    link.addEventListener('click', () => {
-      nav.classList.remove('active');
+  // Blog cards
+  document.querySelectorAll('.blog-card').forEach(card => {
+    card.addEventListener('click', (e) => {
+      e.preventDefault();
+      const slug = card.dataset.blogSlug;
+      showBlogPost(slug);
     });
   });
-}
 
-function showPage(page) {
-  const container = document.getElementById('app');
-  if (!container) return;
+  // FAQ items
+  document.querySelectorAll('.faq-button').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const item = btn.closest('.faq-item');
+      const id = item.dataset.faqId;
+      toggleFaq(id, item);
+    });
+  });
 
-  // Clear previous content
-  container.innerHTML = '';
-
-  // Render page
-  switch (page) {
-    case 'home':
-      renderHomePage();
-      break;
-    case 'blog':
-      renderBlogPage();
-      break;
-    case 'faq':
-      renderFaqPage();
-      break;
-    case 'wat-is':
-      renderWatIsPage();
-      break;
-    case 'printables':
-      renderPrintablesPage();
-      break;
-    default:
-      renderBlogPost(page);
+  // Contact form submission
+  const contactForm = document.querySelector('form[data-testid="form-contact"]');
+  if (contactForm) {
+    contactForm.addEventListener('submit', (e) => {
+      e.preventDefault();
+      
+      const formData = new FormData(contactForm);
+      
+      fetch('https://formspree.io/f/mldqgory', {
+        method: 'POST',
+        body: formData,
+        headers: {
+          'Accept': 'application/json'
+        }
+      })
+      .then(response => {
+        if (response.ok) {
+          // Create and show success modal
+          const modal = document.createElement('div');
+          modal.className = 'success-modal';
+          modal.innerHTML = `
+            <div class="success-modal-content">
+              <div class="success-modal-icon">✓</div>
+              <h2>Bedankt!</h2>
+              <p>Je bericht is succesvol verzonden.</p>
+              <p class="success-modal-subtitle">We nemen snel contact op.</p>
+            </div>
+          `;
+          document.body.appendChild(modal);
+          
+          // Trigger animation
+          setTimeout(() => modal.classList.add('show'), 10);
+          
+          // Reset form
+          contactForm.reset();
+          
+          // Remove modal after 5 seconds
+          setTimeout(() => {
+            modal.classList.remove('show');
+            setTimeout(() => modal.remove(), 300);
+          }, 5000);
+        }
+      })
+      .catch(error => {
+        console.error('Error:', error);
+        alert('Er is een fout opgetreden. Probeer het later opnieuw.');
+      });
+    });
   }
 
-  // Scroll to top
+  // Logo brand home
+  document.querySelector('.logo-brand').addEventListener('click', (e) => {
+    e.preventDefault();
+    showPage('home');
+    resetAllFaq();
+  });
+}
+
+// Reset all FAQ items
+function resetAllFaq() {
+  document.querySelectorAll('.faq-item.open').forEach(item => {
+    item.classList.remove('open');
+  });
+  expandedFaq = null;
+}
+
+// Show page (exposed globally for inline onclick)
+window.showPage = function(page) {
+  // Hide all pages
+  document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
+  
+  // Show selected page
+  const pageEl = document.getElementById(`page-${page}`);
+  if (pageEl) pageEl.classList.add('active');
+  
+  // Update nav
+  document.querySelectorAll('.nav-link').forEach(link => link.classList.remove('active'));
+  const navLink = document.querySelector(`[data-page="${page}"]`);
+  if (navLink) navLink.classList.add('active');
+  
+  currentPage = page;
   window.scrollTo(0, 0);
 }
 
-function renderHomePage() {
-  document.getElementById('app').innerHTML = `
-    <section class="hero">
-      <h1>Thuisonderwijs met Geloof en Rust</h1>
-      <p>Onderwijzen vanuit jouw waarden, zonder jouw gezin uit het oog te verliezen.</p>
-      <button class="btn-primary" onclick="showPage('blog')">Verhalen & Inzichten</button>
-    </section>
-
-    <section class="section">
-      <h2>Waarom Thuisonderwijs?</h2>
-      <div class="cards">
-        <div class="card">
-          <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path></svg>
-          <h3>In Jouw Tempo</h3>
-          <p>Onderwijs dat aansluit bij hoe jouw kind leert, niet omgekeerd.</p>
-        </div>
-        <div class="card">
-          <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2m0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8m3.5-9c.83 0 1.5-.67 1.5-1.5S16.33 8 15.5 8 14 8.67 14 9.5s.67 1.5 1.5 1.5m-7 0c.83 0 1.5-.67 1.5-1.5S9.33 8 8.5 8 7 8.67 7 9.5 7.67 11 8.5 11m3.5 6.5c2.33 0 4.31-1.46 5.11-3.5H6.89c.8 2.04 2.78 3.5 5.11 3.5z"></path></svg>
-          <h3>Met Geloof</h3>
-          <p>Ruimte voor waarden en geloof in het leren van jouw kind.</p>
-        </div>
-        <div class="card">
-          <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M23 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path></svg>
-          <h3>Gezinstijd</h3>
-          <p>Leren gebeurt samen, niet naast elkaar.</p>
-        </div>
-      </div>
-    </section>
-
-    <section class="section">
-      <h2>Wat Vind Je Hier?</h2>
-      <div class="grid-2">
-        <a href="#" onclick="event.preventDefault(); showPage('blog')" class="section-card">
-          <h3>Verhalen & Reflecties</h3>
-          <p>Inzichten over het 'waarom' van thuisonderwijs en hoe je het aanpakt.</p>
-          <span class="arrow">→</span>
-        </a>
-        <a href="#" onclick="event.preventDefault(); showPage('wat-is')" class="section-card">
-          <h3>Wat Is Thuisonderwijs?</h3>
-          <p>Voor wie net begint of nog nadenkt: alles wat je moet weten.</p>
-          <span class="arrow">→</span>
-        </a>
-        <a href="#" onclick="event.preventDefault(); showPage('faq')" class="section-card">
-          <h3>Veelgestelde Vragen</h3>
-          <p>Van wettelijk tot praktisch: wat je over thuisonderwijs moet weten.</p>
-          <span class="arrow">→</span>
-        </a>
-        <a href="#" onclick="event.preventDefault(); showPage('printables')" class="section-card">
-          <h3>Printables</h3>
-          <p>Handige hulpmiddelen om mee te starten met thuisonderwijs.</p>
-          <span class="arrow">→</span>
-        </a>
-      </div>
-    </section>
-  `;
-}
-
-function renderBlogPage() {
-  document.getElementById('app').innerHTML = `
-    <section class="section">
-      <h1>Verhalen & Reflecties</h1>
-      <p class="section-subtitle">Inzichten over thuisonderwijs, geloof, structuur en groei.</p>
-
-      <div class="grid-3">
-        ${blogPreviews.map(blog => `
-          <div class="blog-card" onclick="showPage('${blog.slug}')">
-            <img src="${blog.thumbnailUrl}" alt="${blog.title}">
-            <h3>${blog.title}</h3>
-            <p>${blog.excerpt}</p>
-            <span class="category-badge">${blog.category}</span>
-          </div>
-        `).join('')}
-      </div>
-    </section>
-  `;
-}
-
-function renderBlogPost(slug) {
+// Show blog post
+function showBlogPost(slug) {
   const post = blogContent[slug];
   if (!post) {
-    showPage('blog');
+    console.error('Post not found:', slug);
     return;
   }
 
-  document.getElementById('app').innerHTML = `
-    <article class="blog-post">
-      <img src="${post.imageUrl}" alt="${post.title}" class="blog-post-image">
-      <div class="blog-post-content">
-        <span class="category-badge">${post.category}</span>
-        <h1>${post.title}</h1>
-        
-        <div class="blog-post-body">
-          ${post.content.map(block => {
-            if (typeof block === 'string') {
-              return `<p>${block}</p>`;
-            } else if (block.type === 'highlight') {
-              return `<blockquote class="highlight-block">${block.text}</blockquote>`;
-            }
-            return '';
-          }).join('')}
-        </div>
-      </div>
-      <button class="btn-secondary" onclick="showPage('blog')">← Terug naar alle verhalen</button>
-    </article>
-  `;
+  // Update post content
+  document.getElementById('post-title').textContent = post.title;
+  document.getElementById('post-header-image').src = post.headerImageUrl;
+  document.getElementById('post-header-image').alt = post.title;
+  
+  const postBody = document.getElementById('post-body');
+  postBody.innerHTML = post.content.map(p => {
+    if (typeof p === 'string') {
+      return `<p>${p}</p>`;
+    } else if (p.type === 'highlight') {
+      return `<div class="blog-highlight"><p>${p.text}</p></div>`;
+    }
+    return '';
+  }).join('');
+
+  // Show post page
+  document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
+  document.getElementById('page-post').classList.add('active');
+  
+  window.scrollTo(0, 0);
 }
 
-function renderFaqPage() {
-  document.getElementById('app').innerHTML = `
-    <section class="section">
-      <h1>Veelgestelde Vragen</h1>
-      <p class="section-subtitle">Vragen over wettelijk, praktisch en persoonlijk rond thuisonderwijs.</p>
-
-      <div class="faq-list">
-        ${faqContent.map(faq => `
-          <div class="faq-item">
-            <button class="faq-question" onclick="this.parentElement.classList.toggle('open')">
-              <span>${faq.question}</span>
-              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg>
-            </button>
-            <div class="faq-answer">
-              <p>${faq.main}</p>
-            </div>
-          </div>
-        `).join('')}
-      </div>
-    </section>
-  `;
+// Toggle FAQ
+function toggleFaq(id, item) {
+  if (expandedFaq === id) {
+    // Close
+    item.classList.remove('open');
+    expandedFaq = null;
+  } else {
+    // Close previous
+    if (expandedFaq) {
+      const prevItem = document.querySelector(`[data-faq-id="${expandedFaq}"]`);
+      if (prevItem) prevItem.classList.remove('open');
+    }
+    // Open new
+    item.classList.add('open');
+    expandedFaq = id;
+  }
 }
 
-function renderWatIsPage() {
-  document.getElementById('app').innerHTML = `
-    <section class="section">
-      <h1>Wat Is Thuisonderwijs?</h1>
-      <p class="section-subtitle">Voor wie net begint of nog nadenkt: alles wat je moet weten.</p>
+// ===== PRINTABLES / DOWNLOADS PAGE (VOLLEDIG) =====
 
-      <div class="grid-2">
-        ${watIsItems.map(item => `
-          <div class="info-card">
-            <h3>${item.title}</h3>
-            <p>${item.content}</p>
-          </div>
-        `).join('')}
-      </div>
-    </section>
-  `;
-}
+// Data (sluit aan op je bestaande stijl)
+  
+ const printablesItems = [
+  {
+    title: "Salahtracker",
+    description: "Een minimalistische weekplanner om je gebeden bij te houden. Print hem uit en hang hem op een zichtbare plek.",
+    imageUrl:  "https://umpreneur.github.io/ummischool/SalahTracker.png",
+    url: "https://umpreneur.github.io/ummischool/salahtracker.pdf",
+    available: true
+  },
 
+];
+
+// Pagina render (SPA-proof)
 function renderPrintablesPage() {
-  document.getElementById('app').innerHTML = `
-    <section class="section">
-      <h1>Printables</h1>
-      <p class="section-subtitle">Handige hulpmiddelen om mee te starten met thuisonderwijs.</p>
+  return `
+    <div id="page-printables" class="page">
+      <div class="page-header">
+        <h1 class="page-title">Downloads</h1>
+        <p class="page-subtitle">
+          Hier vind je handige documenten en PDF’s die je gratis kunt downloaden
+          om je te ondersteunen bij het thuisonderwijs.
+        </p>
+      </div>
 
-      <div id="printables-grid" class="printables-grid"></div>
-    </section>
+      <div class="downloads-grid" id="printables-grid"></div>
+    </div>
   `;
-
-  renderPrintablesGrid();
 }
 
+// Grid vullen
 function renderPrintablesGrid() {
   const grid = document.getElementById('printables-grid');
   if (!grid) return;
