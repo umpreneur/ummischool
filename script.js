@@ -1026,24 +1026,11 @@ const printablesItems = [
     title: "Salahtracker",
     description:
       "Een minimalistische weekplanner om je gebeden bij te houden. Print hem uit en hang hem op een zichtbare plek.",
-    imageUrl: "https://umpreneur.github.io/ummischool/salahtracker.png",
-    url: "https://example.com/salah-tracker.pdf",
+    imageUrl: "umpreneur/ummischool/blob/main/salahtracker.png",
+    url: "umpreneur/ummischool/blob/main/SalahTracker.pdf",
     available: true
   },
-  {
-    title: "Dagplanning",
-    description:
-      "Structuur voor je dag met deze handige planner. Inclusief ruimte voor dagstart en evaluatie.",
-    imageUrl: "https://umpreneur.github.io/ummischool/dagplanning.png",
-    available: false
-  },
-  {
-    title: "Beloningskaart",
-    description:
-      "Motiveer je kinderen met deze leuke beloningskaart voor voltooide taken of goed gedrag.",
-    imageUrl: "https://umpreneur.github.io/ummischool/beloningskaart.png",
-    available: false
-  }
+
 ];
 
 // ========== RENDER PRINTABLES PAGE ==========
