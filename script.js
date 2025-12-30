@@ -1020,39 +1020,43 @@ function toggleFaq(id, item) {
 
 // Data (sluit aan op je bestaande stijl)
   
- const printablesItems = [
+// ========== PRINTABLES DATA ==========
+const printablesItems = [
   {
     title: "Salahtracker",
     description: "Een minimalistische weekplanner om je gebeden bij te houden. Print hem uit en hang hem op een zichtbare plek.",
-    imageUrl:  "https://umpreneur.github.io/ummischool/SalahTracker.png",
-    url: "https://umpreneur.github.io/ummischool/salahtracker.pdf",
+    imageUrl: "https://raw.githubusercontent.com/user/repo/main/salah-tracker.png",
+    url: "https://example.com/salah-tracker.pdf",
     available: true
   },
-
+  {
+    title: "Dagplanning",
+    description: "Structuur voor je dag met deze handige planner. Inclusief ruimte voor dagstart en evaluatie.",
+    imageUrl: null,
+    available: false
+  },
+  {
+    title: "Beloningskaart",
+    description: "Motiveer je kinderen met deze leuke beloningskaart voor voltooide taken of goed gedrag.",
+    imageUrl: null,
+    available: false
+  },
 ];
-
-// Pagina render (SPA-proof)
+// ========== RENDER PRINTABLES PAGE ==========
 function renderPrintablesPage() {
-  return `
-    <div id="page-printables" class="page">
-      <div class="page-header">
-        <h1 class="page-title">Downloads</h1>
-        <p class="page-subtitle">
-          Hier vind je handige documenten en PDF’s die je gratis kunt downloaden
-          om je te ondersteunen bij het thuisonderwijs.
-        </p>
-      </div>
-
-      <div class="downloads-grid" id="printables-grid"></div>
-    </div>
+  document.getElementById('app').innerHTML = `
+    <section class="section">
+      <h1>Printables</h1>
+      <p class="section-subtitle">Handige hulpmiddelen om mee te starten met thuisonderwijs.</p>
+      <div id="printables-grid" class="printables-grid"></div>
+    </section>
   `;
+  renderPrintablesGrid();
 }
-
-// Grid vullen
+// ========== RENDER PRINTABLES GRID ==========
 function renderPrintablesGrid() {
   const grid = document.getElementById('printables-grid');
   if (!grid) return;
-
   grid.innerHTML = printablesItems.map(item => `
     <div class="download-card">
       <div class="download-card-image">
@@ -1064,11 +1068,9 @@ function renderPrintablesGrid() {
           <line x1="12" y1="15" x2="12" y2="3"></line>
         </svg>
       </div>
-
       <div class="download-card-content">
         <h3 class="download-card-title">${item.title}</h3>
         <p class="download-card-description">${item.description}</p>
-
         ${
           item.available
             ? `<a href="${item.url}" target="_blank" rel="noreferrer">
@@ -1080,17 +1082,6 @@ function renderPrintablesGrid() {
     </div>
   `).join('');
 }
-
-// Hook in bestaande router zonder iets te breken
-const originalShowPage = window.showPage;
-
-window.showPage = function(page) {
-  originalShowPage(page);
-
-  if (page === 'printables') {
-    requestAnimationFrame(renderPrintablesGrid);
-  }
-};
 
 
 // Start app
