@@ -188,7 +188,6 @@ content: [
 "<strong>19:00</strong> – Bedtijd (voor kinderen)<br>" +
 "<strong>Na bedtijd</strong> – Korte planning voor morgen + voorbereiding + me-time"+
 
-    "",
     "Een passende dagplanning vinden kost tijd. Het is vaak zoeken, proberen, bijstellen. Wat op papier goed lijkt, voelt in de praktijk soms anders.",
     "Daarom is het normaal om verschillende schema’s uit te testen voordat duidelijk wordt wat echt werkt in jullie situatie.",
 "Ritme ontstaat door herhaling, maar groei komt vaak juist door aan te passen. Geef jezelf de ruimte om te finetunen tot er een dagritme ontstaat dat rust brengt, helder is en bij jullie leven past.",
