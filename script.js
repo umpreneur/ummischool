@@ -1019,18 +1019,16 @@ function toggleFaq(id, item) {
 // ===== PRINTABLES / DOWNLOADS PAGE (VOLLEDIG) =====
 
 // Data (sluit aan op je bestaande stijl)
-const printablesItems = [
   
-  {
-    title: "Dagritmekaarten",
-    description: "Visuele kaarten om structuur aan de dag te geven voor jonge kinderen.",
-    available: true
-  },
+ const printablesItems = [
   {
     title: "Salahtracker",
-    description: "Helpt een kind overzichtelijk bij te houden welke gebeden zijn verricht.",
+    description: "Een minimalistische weekplanner om je gebeden bij te houden. Print hem uit en hang hem op een zichtbare plek.",
+    imageUrl:  "https://umpreneur.github.io/ummischool/SalahTracker.png",
+    url: "https://umpreneur.github.io/ummischool/salahtracker.pdf",
     available: true
   },
+
 ];
 
 // Pagina render (SPA-proof)
