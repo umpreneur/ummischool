@@ -177,9 +177,10 @@ main {
 }
 /* ===== PRINTABLES (BLOG STYLE) ===== */
 
+
 .printables-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 2.5rem;
   margin-top: 3rem;
 }
@@ -199,6 +200,8 @@ main {
   margin: 0 auto;
 }
 
+
+
 .printables-card:hover {
   transform: translateY(-4px);
   border-color: var(--color-accent);
@@ -208,9 +211,10 @@ main {
 /* Image — net als blog */
 .printables-card-image {
   width: 100%;
-  max-width: 240px;
-  height: auto;
-  margin: 1.75rem auto 0;
+  height: 200px;          /* vaste hoogte = volle kaartkop */
+  object-fit: contain;   /* hele printable zichtbaar */
+  background-color: #f4f2ee;
+  padding: 1rem;
   display: block;
 }
 
