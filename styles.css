@@ -180,16 +180,13 @@ main {
 .printables-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-  gap: 2rem;
+gap: 1.25rem; /* 👈 minder ruimte */
   max-width: 1100px;
   margin: 3rem auto 0;
   justify-items: center;
 }
 
-.printables-card {
-  width: 100%;
-  max-width: 360px; /* zodat ze niet mega breed worden */
-}
+
 /* Card */
 .printables-card {
   background-color: var(--color-white);
