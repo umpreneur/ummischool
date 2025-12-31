@@ -1027,7 +1027,7 @@ const printablesItems = [
     description:
       "Een minimalistische weekplanner om je gebeden bij te houden. Print hem uit en hang hem op een zichtbare plek.",
     imageUrl: "https://umpreneur.github.io/ummischool/SalahTracker.png",
-    url: "https://umpreneur.github.io/ummischool/SalahTracker.pdf",
+    url: "https://umpreneur.github.io/ummischool/Salahtracker.pdf",
     available: true
   },
 
