@@ -207,10 +207,10 @@ main {
 
 /* Image — net als blog */
 .printables-card-image {
-  max-width:  240px;   /* 👈 bepaalt hoe groot de preview is */
-  width: auto;
+  width: 100%;
+  max-width: 240px;
   height: auto;
-  margin: 1.5rem auto 0; /* centreert de image */
+  margin: 1.75rem auto 0;
   display: block;
 }
 
