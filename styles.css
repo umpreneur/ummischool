@@ -178,12 +178,17 @@ main {
 /* ===== PRINTABLES (BLOG STYLE) ===== */
 
 
-.printables-grid {
+printables-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fill, 320px);
   gap: 2rem;
-  max-width: 1100px;
-  margin: 3rem auto 0;
+  justify-content: center;
+  margin-top: 3rem;
+}
+@media (max-width: 500px) {
+  .printables-grid {
+    grid-template-columns: 1fr;
+  }
 }
 
 /* Card */
