@@ -181,8 +181,9 @@ main {
 .printables-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 2.5rem;
-  margin-top: 3rem;
+  gap: 2rem;
+  max-width: 1100px;
+  margin: 3rem auto 0;
 }
 
 /* Card */
