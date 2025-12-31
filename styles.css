@@ -207,13 +207,10 @@ main {
   border-color: var(--color-accent);
   box-shadow: 0 14px 30px rgba(0, 0, 0, 0.12);
 }
-
 .printables-card-image {
   width: 100%;
-  height: 260px;          /* 👈 was te klein, nu groter */
-  object-fit: contain;
-  background-color: #f4f2ee;
-  padding: 1.25rem;
+  height: 260px;          /* bepaalt hoe hoog de image-zone is */
+  object-fit: cover;     /* 👈 vult de card volledig */
   display: block;
 }
 
