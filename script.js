@@ -1030,6 +1030,14 @@ const printablesItems = [
     url: "https://umpreneur.github.io/ummischool/Salahtracker.pdf",
     available: true
   },
+   {
+    title: "Dagritmekaarten",
+    description:
+      "Een minimalistische weekplanner om je gebeden bij te houden. Print hem uit en hang hem op een zichtbare plek.",
+    imageUrl: "https://umpreneur.github.io/ummischool/Dagritmekaarten.png",
+    url: "https://umpreneur.github.io/ummischool/Dagritmekaarten.pdf",
+    available: true
+  },
 
 ];
 
