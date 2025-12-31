@@ -179,13 +179,16 @@ main {
 
 .printables-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-gap: .25rem; /* 👈 minder ruimte */
-  max-width: 1100px;
-  margin: 3rem auto 0;
-  justify-items: center;
+  grid-template-columns: repeat(auto-fill, 320px);
+  gap: 1.25rem;
+  justify-content: center;
+  margin-top: 3rem;
 }
-
+@media (max-width: 480px) {
+  .printables-grid {
+    grid-template-columns: 1fr;
+  }
+}
 
 /* Card */
 .printables-card {
@@ -197,12 +200,7 @@ gap: .25rem; /* 👈 minder ruimte */
   transition: all 0.35s cubic-bezier(0.4, 0, 0.2, 1);
   display: flex;
   flex-direction: column;
-  height: 100%;
-   max-width: 320px;   /* 👈 sleutelregel */
-  margin: 0 auto;
 }
-
-
 
 .printables-card:hover {
   transform: translateY(-4px);
