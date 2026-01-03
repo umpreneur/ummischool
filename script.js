@@ -1028,7 +1028,7 @@ const printablesItems = [
       "Een weekplanner voor kinderen om hun gebeden bij te houden.",
     imageUrl: "https://umpreneur.github.io/ummischool/SalahTracker.png",
     url: "https://umpreneur.github.io/ummischool/Salahtracker.pdf",
-    available: true
+    available: false
   },
    {
     title: "Dagritmekaarten",
@@ -1036,7 +1036,32 @@ const printablesItems = [
       "Visuele dagritmekaarten die kinderen helpen overzicht te krijgen in de dag.",
     imageUrl: "https://umpreneur.github.io/ummischool/Dagritmekaarten.png",
     url: "https://umpreneur.github.io/ummischool/Dagritmekaarten.pdf",
-    available: true
+    available: false
+  },
+  {
+    title: "Duakaarten",
+    description:
+      "NOg iets.",
+    imageUrl: "",
+    url: "",
+    available: false
+  },
+
+    {
+    title: "Emotiekaarten",
+    description:
+      "iets",
+    imageUrl: "",
+    url: "",
+    available: false
+  },
+      {
+    title: "Themaplanning",
+    description:
+      "iets",
+    imageUrl: "",
+    url: "",
+    available: false
   },
 
 ];
