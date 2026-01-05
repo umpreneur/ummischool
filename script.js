@@ -51,13 +51,13 @@ const blogPreviews = [
 },
 
   {
-  id: "4",
-  title: "Gemotiveerd leren thuis",
+  id: "7",
+  title: "Gemotiveerd leren",
   excerpt:
-    "Motivatie groeit niet door druk, maar door rust, duidelijkheid en betekenis. Wat helpt kinderen om leren van binnenuit te dragen?",
+    "Motivatie groeit niet door druk, maar door rust, duidelijkheid en betekenis.Tips voor gemotiveerd leren",
   slug: "gemotiveerd-leren-thuis",
-  thumbnailUrl: "https://umpreneur.github.io/ummischool/blog4img.png",
-  imageUrl: "https://umpreneur.github.io/ummischool/blog4img.png", 
+  thumbnailUrl: "",
+  imageUrl: "", 
   },
   
 ];
@@ -248,7 +248,74 @@ content: [
   }
 ]
   },
-  
+content: [
+    "Motivatie speelt een grote rol bij leren. Ze beïnvloedt of een kind zich kan concentreren, hoe het omgaat met moeite en of het blijft proberen wanneer iets niet meteen lukt.",
+    "Motivatie kan voortkomen uit interesse en betrokkenheid, maar ook uit afspraken, verwachtingen of doelen. In de praktijk lopen deze vormen vaak door elkaar.",
+
+    "Wanneer motivatie laag is, voelt leren stroef. Dat zie je terug in uitstel, weerstand of frustratie.",
+    { type: "highlight", text: "Dat is geen oordeel, maar een signaal dat er iets in de manier van leren niet goed aansluit." },
+    { type: "highlight", text: "Motivatie staat niet vast. Ze kan groeien." },
+
+    "<strong>Vroeg beginnen</strong>",
+    "Bij jonge kinderen (ongeveer 2–6 jaar) zijn de hersenen volop in ontwikkeling. Ze maken leerpaden aan — net als paadjes in een bos. Hoe vaker zo’n pad wordt gebruikt, hoe makkelijker het wordt.",
+    { type: "highlight", text: "Neuroplasticiteit betekent: de hersenen worden goed in wat ze vaak doen." },
+
+    "Wat helpt:<br>- dagelijks herhalen<br>- rustig tempo<br>- korte momenten",
+    "Zo wordt leren vertrouwd. Niet omdat kinderen meer moeten leren, maar omdat leren normaal voelt.",
+    { type: "highlight", text: "Later kost leren daardoor minder energie, ook wanneer het moeilijker wordt." },
+
+    "<strong>Structuur</strong>",
+    "Leren vraagt soms inspanning, en dat hoort erbij. Wat kinderen daarbij helpt, is duidelijkheid.",
+    "Wanneer leren een herkenbare plek heeft in de dag of week, weten ze waar ze aan toe zijn.",
+
+    "Belangrijk:<br>- vast moment<br>- duidelijke afspraak<br>- geen onderhandelen",
+    { type: "highlight", text: "Wat terugkomt, wordt onderdeel van het dagelijks leven." },
+
+    "<strong>Keuze</strong>",
+    "Structuur betekent niet dat kinderen niets te zeggen hebben. Juist binnen duidelijke kaders groeit motivatie.",
+    { type: "highlight", text: "Leren staat vast, maar de invulling kan meebewegen." },
+
+    "Bijvoorbeeld:<br>- boek kiezen<br>- volgorde kiezen<br>- plek kiezen",
+    "Het moment staat vast, de vorm mag meebewegen. Zo blijft leren duidelijk, maar voelt het niet opgelegd.",
+
+    "<strong>Vooruitgang</strong>",
+    "Motivatie groeit wanneer kinderen merken dat ze vooruitgaan. Dat lukt het best wanneer leren behapbaar blijft.",
+    "Denk aan:<br>- kleine stappen<br>- kort en regelmatig<br>- op tijd stoppen",
+    { type: "highlight", text: "Niet alles lukt meteen. Dat is geen fout — dat is leren." },
+    "Door ook teleurstelling mee te maken, leren kinderen omgaan met moeite.",
+
+    "<strong>Complimenten</strong>",
+    "Complimenten werken het sterkst wanneer ze gaan over inzet en volhouden, niet over slim zijn.",
+    { type: "highlight", text: "Zo leert een kind: ik groei door moeite te doen." },
+
+    "<strong>Belonen</strong>",
+    "Belonen is geen zwart-wit verhaal. Een compliment, erkenning of samen vieren kan juist verbinden.",
+    "Waar het om gaat, is dat leren niet alleen draait om wat je ervoor krijgt.",
+    "Blijf benoemen:<br>- wat geleerd is<br>- hoe gegroeid<br>- waarom waardevol",
+    { type: "highlight", text: "Zo blijft motivatie van binnenuit komen." },
+
+    "<strong>Betekenis</strong>",
+    "Leren krijgt meer diepte wanneer een kind begrijpt waarom iets belangrijk is. Dat hoeft niet ingewikkeld te zijn.",
+    { type: "highlight", text: "“Als je leert lezen, kun je straks zelf ontdekken wat je interessant vindt.”" },
+    "Zo wordt leren meer dan een taak.",
+
+    "<strong>Rolmodellen</strong>",
+    "Kinderen leren niet alleen door uitleg, maar vooral door na te doen. Ze kijken op naar voorbeelden en denken: zo wil ik zijn.",
+    "Net zoals sommige kinderen Spiderman willen zijn, kun je kinderen laten opkijken naar mensen voor wie kennis centraal stond.",
+    { type: "highlight", text: "Rolmodellen maken kennis aantrekkelijk: een kind gaat denken ‘zo wil ik zijn’." },
+
+    "Denk aan Abu Hurayra, bekend om zijn liefde voor kennis en toewijding aan leren, of Mu’adh ibn Jabal, die al jong bekendstond om zijn wijsheid en begrip.",
+    "Zulke verhalen laten zien dat leren niet alleen iets is wat je doet, maar iets wat je vormt.",
+
+    "<strong>Jij als voorbeeld</strong>",
+    "Het meest zichtbare rolmodel ben jij. Kinderen zien dagelijks hoe jij met leren omgaat. Of je leest, vragen stelt en nieuwsgierig blijft — of dat nu de Qur’an is of iets anders.",
+    { type: "highlight", text: "Zonder uitleg laat je zien: leren hoort bij het leven." },
+
+    "<strong>Tot slot</strong>",
+    { type: "highlight", text: "Gemotiveerd leren ontstaat niet door druk of trucjes, maar door rust, duidelijkheid en betekenis." },
+    "Wanneer leren een vaste plek krijgt, ruimte biedt binnen duidelijke kaders en verbonden is met betekenis en voorbeeldgedrag, wordt het iets vanzelfsprekends."
+  ]
+};
   
 };
 
