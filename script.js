@@ -301,7 +301,7 @@ content: [
 
     "<strong>Betekenis</strong>",
     "Leren krijgt meer diepte wanneer een kind begrijpt waarom iets belangrijk is. Dat hoeft niet ingewikkeld te zijn.",
-    "“Als je leert lezen, kun je straks zelf ontdekken wat je interessant vindt.”"
+    "“Als je leert lezen, kun je straks zelf ontdekken wat je interessant vindt.”",
     "Zo wordt leren meer dan een taak.",
 
     "<strong>Rolmodellen</strong>",
