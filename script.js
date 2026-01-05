@@ -49,6 +49,17 @@ const blogPreviews = [
   thumbnailUrl: "https://umpreneur.github.io/ummischool/blog6img.png",
   imageUrl: "https://umpreneur.github.io/ummischool/blog6img.png",
 },
+
+  {
+  id: "4",
+  title: "Gemotiveerd leren thuis",
+  excerpt:
+    "Motivatie groeit niet door druk, maar door rust, duidelijkheid en betekenis. Wat helpt kinderen om leren van binnenuit te dragen?",
+  slug: "gemotiveerd-leren-thuis",
+  thumbnailUrl: "https://umpreneur.github.io/ummischool/blog4img.png",
+  imageUrl: "https://umpreneur.github.io/ummischool/blog4img.png", 
+  },
+  
 ];
 
 
