@@ -1569,6 +1569,10 @@ font-size: 1rem;
   }
 
   /* Afbeeldingshoogtes */
-
+@media (min-width: 1025px) {
+  .blog-post {
+    max-width: 1000px;
+  }
+}
 
 
