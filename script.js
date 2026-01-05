@@ -208,8 +208,8 @@ content: [
   "Inhoud-dagstart": {
   title: "Inhoud dagstart",
   category: "Thuisonderwijs",
-  headerImageUrl: "https://umpreneur.github.io/ummischool/blog6img.png",
-  imageUrl: "https://umpreneur.github.io/ummischool/blog6img.png",
+  headerImageUrl: "",
+  imageUrl: "",
  content: [
   "Een dagstart begint met even samen zijn. Je gaat samen zitten en praat kort met elkaar. Door te praten leert je kind woorden geven aan wat het voelt en denkt, en aan wat de dag gaat brengen.",
 
@@ -248,6 +248,12 @@ content: [
   }
 ]
   },
+
+  "Gemotiveerd-leren-thuis": {
+  title: "Gemotiveerd leren thuis",
+  category: "Thuisonderwijs",
+  headerImageUrl: "https://umpreneur.github.io/ummischool/blog4img.png",
+  imageUrl: "https://umpreneur.github.io/ummischool/blog4img.png",
 content: [
     "Motivatie speelt een grote rol bij leren. Ze beïnvloedt of een kind zich kan concentreren, hoe het omgaat met moeite en of het blijft proberen wanneer iets niet meteen lukt.",
     "Motivatie kan voortkomen uit interesse en betrokkenheid, maar ook uit afspraken, verwachtingen of doelen. In de praktijk lopen deze vormen vaak door elkaar.",
@@ -315,7 +321,7 @@ content: [
     { type: "highlight", text: "Gemotiveerd leren ontstaat niet door druk of trucjes, maar door rust, duidelijkheid en betekenis." },
     "Wanneer leren een vaste plek krijgt, ruimte biedt binnen duidelijke kaders en verbonden is met betekenis en voorbeeldgedrag, wordt het iets vanzelfsprekends."
   ]
-};
+},
   
 };
 
