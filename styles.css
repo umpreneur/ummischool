@@ -1575,4 +1575,7 @@ font-size: 1rem;
   }
 }
 
+  .page.blog-page {
+  background-color: var(--color-white);
+}
 
