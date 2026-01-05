@@ -1569,13 +1569,24 @@ font-size: 1rem;
   }
 
   /* Afbeeldingshoogtes */
+
+
+ 
+.page.blog-page,
+.page.blog-page main {
+  background-color: var(--color-white);
+}
+
 @media (min-width: 1025px) {
   .blog-post {
     max-width: 1000px;
   }
 }
 
-  .page.blog-page {
-  background-color: var(--color-white);
+@media (max-width: 480px) {
+  .blog-post {
+    margin: 0;
+    max-width: 100%;
+    border-radius: 0;
+  }
 }
-
