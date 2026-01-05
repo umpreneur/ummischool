@@ -249,11 +249,11 @@ content: [
 ]
   },
 
-  "Gemotiveerd-leren-thuis": {
-  title: "Gemotiveerd leren thuis",
+  "gemotiveerd-leren-thuis": {
+  title: "Gemotiveerd leren",
   category: "Thuisonderwijs",
-  headerImageUrl: "https://umpreneur.github.io/ummischool/blog4img.png",
-  imageUrl: "https://umpreneur.github.io/ummischool/blog4img.png",
+  headerImageUrl: "",
+  imageUrl: "",
 content: [
     "Motivatie speelt een grote rol bij leren. Ze beïnvloedt of een kind zich kan concentreren, hoe het omgaat met moeite en of het blijft proberen wanneer iets niet meteen lukt.",
     "Motivatie kan voortkomen uit interesse en betrokkenheid, maar ook uit afspraken, verwachtingen of doelen. In de praktijk lopen deze vormen vaak door elkaar.",
