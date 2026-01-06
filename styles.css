@@ -1567,7 +1567,7 @@ font-size: 1rem;
   .blog-card:nth-child(n+3) {
     grid-column: span 2; /* 2 + 2 + 2 = 6 */
   }
-
+}
   /* Afbeeldingshoogtes */
 
 
