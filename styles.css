@@ -626,15 +626,21 @@ font-size: 1rem;
 
 .blog-post-header-image {
   width: 100%;
-  height: auto;
   max-height: 420px;
-  object-fit: contain;   /* HEEL belangrijk */
-  background-color: #f4f2ee;
+  object-fit: cover;      /* 👈 nu wél cover */
+  object-position: center;
   display: block;
+  border-radius: 12px 12px 0 0;
+  background-color: #f4f2ee;
 
 }
 
-
+@media (max-width: 480px) {
+  .blog-post-header-image {
+    max-height: 240px;
+    border-radius: 0;
+  }
+}
 
 
 
