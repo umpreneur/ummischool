@@ -625,14 +625,13 @@ font-size: 1rem;
 }
 
 .blog-post-header-image {
-.blog-post-header-image {
   width: 100%;
   height: auto;
   max-height: 420px;
   object-fit: contain;   /* HEEL belangrijk */
   background-color: #f4f2ee;
   display: block;
-}
+
 }
 
 
