@@ -626,14 +626,17 @@ font-size: 1rem;
 
 .blog-post-header-image {
   width: 100%;
-  max-height: 420px;
-  object-fit: contain;      /* niets wordt afgesneden */
-  object-position: center;
+  height: auto;
+  max-height: 360px;
+  object-fit: contain;
   display: block;
-  background-color: #f4f2ee; /* rustige rand */
-  padding: 1.5rem 0;        /* ademruimte boven/onder */
 
+  /* NIEUW */
+  background-color: transparent;
+  padding: 0;
+  margin: 0;  padding: 2rem 3rem 2.5rem; 
 }
+
 
 @media (max-width: 480px) {
   .blog-post-header-image {
