@@ -601,10 +601,11 @@ font-size: 1rem;
 }
 
 .blog-post-header {
-  padding: 4rem 3rem 3rem;
   text-align: center;
   background: linear-gradient(135deg, rgba(242, 242, 242, 0.5) 0%, rgba(255, 255, 255, 0) 100%);
   border-bottom: 2px solid var(--color-border);
+  padding: 2rem 3rem;
+  text-align: center;
 }
 
 .blog-post-title {
@@ -626,24 +627,17 @@ font-size: 1rem;
 
 .blog-post-header-image {
   width: 100%;
-  height: auto;
   max-height: 360px;
+  height: auto;
+
   object-fit: contain;
   display: block;
 
-  /* NIEUW */
+  margin: 0 auto;
   background-color: transparent;
-  padding: 0;
-  margin: 0;  padding: 2rem 3rem 2.5rem; 
 }
 
 
-@media (max-width: 480px) {
-  .blog-post-header-image {
-    max-height: 260px;
-    padding: 1rem 0;
-  }
-}
 
 
 
