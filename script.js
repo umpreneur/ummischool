@@ -56,8 +56,8 @@ const blogPreviews = [
   excerpt:
     "Motivatie groeit niet door druk, maar door rust, duidelijkheid en betekenis.Tips voor gemotiveerd leren",
   slug: "gemotiveerd-leren-thuis",
-  thumbnailUrl: "",
-  imageUrl: "", 
+  thumbnailUrl: "https://umpreneur.github.io/ummischool/blog2img7.png",
+    imageUrl: "https://umpreneur.github.io/ummischool//blog2img7.png",
   },
   
 ];
@@ -252,8 +252,9 @@ content: [
   "gemotiveerd-leren-thuis": {
   title: "Gemotiveerd leren",
   category: "Thuisonderwijs",
-  headerImageUrl: "",
-  imageUrl: "",
+  headerImageUrl: "https://umpreneur.github.io/ummischool/blog2img7.png",
+    imageUrl: "https://umpreneur.github.io/ummischool//blog2img7.png",
+
 content: [
     "Motivatie speelt een grote rol bij leren. Ze beïnvloedt of een kind zich kan concentreren, hoe het omgaat met moeite en of het blijft proberen wanneer iets niet meteen lukt.",
     "Vaak proberen we motivatie van buitenaf te sturen met afspraken, beloningen of verwachtingen. Dat kan tijdelijk helpen, maar leidt zelden tot echte betrokkenheid. Intrinsieke motivatie laat zich niet afdwingen.",
