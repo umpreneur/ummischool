@@ -576,9 +576,12 @@ font-size: 1rem;
 }
 
 .blog-card-image {
-  width: 100%;
-  height: auto;   /* ✅ */
+   width: 100%;
+  height: 260px;
+  object-fit: cover;      /* vult kaart mooi */
+  object-position: center;
   display: block;
+  background-color: #f4f2ee;
 }
 
 
