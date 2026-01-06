@@ -256,65 +256,39 @@ content: [
   imageUrl: "",
 content: [
     "Motivatie speelt een grote rol bij leren. Ze beïnvloedt of een kind zich kan concentreren, hoe het omgaat met moeite en of het blijft proberen wanneer iets niet meteen lukt.",
-
     "Vaak proberen we motivatie van buitenaf te sturen met afspraken, beloningen of verwachtingen. Dat kan tijdelijk helpen, maar leidt zelden tot echte betrokkenheid. Intrinsieke motivatie laat zich niet afdwingen.",
-
     "Ze groeit wanneer leren aansluit bij wat een kind aankan, begrijpt en als betekenisvol ervaart.",
-
     "Wanneer motivatie ontbreekt, verloopt leren vaak stroef. Dat zie je terug in uitstel, weerstand of frustratie. Dat is geen oordeel over het kind, maar een signaal dat de manier van leren niet goed aansluit bij wat het nodig heeft.",
-
     "<strong>Structuur en keuze</strong>",
-
     "Leren vraagt inspanning. Dat mag ook. Wat kinderen daarbij helpt, is duidelijkheid.",
-
     "Een vast leermoment geeft rust en voorkomt discussie. Geen onderhandelingen, wel heldere afspraken. Wat regelmatig terugkomt, wordt normaal en kost minder energie.",
-
     "Binnen die structuur is keuze belangrijk. Het leren zelf staat vast, maar de invulling mag meebewegen. Een kind kan bijvoorbeeld kiezen in welke volgorde het werkt of waar het gaat zitten.",
-
     "Zo ontstaat eigenaarschap zonder dat de kaders verdwijnen. Juist deze combinatie helpt intrinsieke motivatie groeien.",
-
     "<strong>Vooruitgang en feedback</strong>",
-
     "Motivatie groeit wanneer kinderen merken dat ze vooruitgaan. Dat gebeurt niet in grote sprongen, maar in kleine, overzichtelijke stappen.",
-
     {
       type: "highlight",
       text: "Niet alles hoeft meteen te lukken. Moeite en teleurstelling horen bij leren."
     },
-
     "Een kind dat leert omgaan met moeite, ontwikkelt veerkracht en doorzettingsvermogen.",
-
     "Complimenten werken het sterkst wanneer ze gericht zijn op inzet en volhouden, niet op slim zijn of snel resultaat.",
-
     "Belonen kan verbinden, zolang leren niet draait om wat je ervoor krijgt. Zodra de beloning het doel wordt, verdwijnt de motivatie die van binnenuit kwam.",
-
     "<strong>Betekenis</strong>",
-
     "Leren krijgt meer waarde wanneer een kind begrijpt waarom iets belangrijk is. Dat hoeft niet ingewikkeld te zijn.",
-
-    "“Als je leert lezen, kun je straks zelf ontdekken wat je interessant vindt.”",
-
+    "“Als je leert lezen, kun je zelf lezen wat jij leuk vindt.”",
     "Wanneer leren verbonden wordt aan betekenis, voelt het minder als een taak en meer als iets dat ergens toe leidt.",
-
     "<strong>Even dit</strong>",
-
     "Geen enkel kind is altijd gemotiveerd. Net als volwassenen hebben kinderen dagen waarop leren gewoon niet lukt.",
-
+    "Een keer geen zin of weerstand zegt op zichzelf weinig.",
     {
       type: "highlight",
-      text: "Een keer geen zin of weerstand zegt op zichzelf weinig."
+      text: "Intrinsieke motivatie gaat niet over altijd willen, maar over weer kunnen aanhaken wanneer de omstandigheden kloppen."
     },
 
-    "Intrinsieke motivatie gaat niet over altijd willen, maar over weer kunnen aanhaken wanneer de omstandigheden kloppen.",
-
     "<strong>Leren door voorbeeld</strong>",
-
     "Kinderen leren niet alleen door uitleg, maar vooral door wat zichtbaar is in hun omgeving. Wat zij dagelijks zien, bepaalt wat voor hen vanzelfsprekend wordt.",
-
     "Rolmodellen zijn niet altijd vanzelf aanwezig. Als leren of nieuwsgierigheid weinig zichtbaar is, ontstaat bewondering voor kennis niet automatisch.",
-
     "Verhalen over mensen voor wie kennis centraal stond, kunnen richting geven. Denk aan Abu Hurayra, bekend om zijn liefde voor kennis, of Mu’adh ibn Jabal, die al jong bekendstond om zijn wijsheid en begrip.",
-
     "Het meest invloedrijke voorbeeld blijft dichtbij. Kinderen zien dagelijks hoe jij met leren omgaat.",
 
     {
