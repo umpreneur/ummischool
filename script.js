@@ -256,66 +256,74 @@ content: [
   imageUrl: "",
 content: [
     "Motivatie speelt een grote rol bij leren. Ze beïnvloedt of een kind zich kan concentreren, hoe het omgaat met moeite en of het blijft proberen wanneer iets niet meteen lukt.",
-    "Motivatie kan voortkomen uit interesse en betrokkenheid, maar ook uit afspraken, verwachtingen of doelen. In de praktijk lopen deze vormen vaak door elkaar.",
-    "Wanneer motivatie laag is, voelt leren stroef. Dat zie je terug in uitstel, weerstand of frustratie.",
-     "Dat is geen oordeel, maar een signaal dat er iets in de manier van leren niet goed aansluit." ,
-    "Motivatie staat niet vast. Ze kan groeien.",
-   
-  "<strong>Vroeg beginnen</strong>",
-    "Bij jonge kinderen (ongeveer 2–6 jaar) zijn de hersenen volop in ontwikkeling. Ze maken leerpaden aan net als paadjes in een bos. Hoe vaker zo’n pad wordt gebruikt, hoe makkelijker het wordt.",
-    { type: "highlight", text: "Neuroplasticiteit betekent dat de hersenen verbindingen versterken die vaak gebruikt worden, en andere afzwakken." },
-    "Wat helpt:<br>- dagelijks herhalen<br>- rustig tempo<br>- korte momenten",
-    "Zo wordt leren vertrouwd. Niet omdat kinderen meer moeten leren, maar omdat leren normaal voelt.",
-  { type: "highlight", text: "Rond 7 jaar zijn veel verbindingen in het brein al gevormd, waardoor verandering meer tijd kost." },
-   
-  "<strong>Structuur</strong>",
-    "Leren vraagt soms inspanning, en dat hoort erbij. Wat kinderen daarbij helpt, is duidelijkheid.",
-    "Wanneer leren een herkenbare plek heeft in de dag of week, weten ze waar ze aan toe zijn.",
-    "Belangrijk:<br>- vast moment<br>- duidelijke afspraak<br>- geen onderhandelen",
-   "Wat terugkomt, wordt onderdeel van het dagelijks leven.",
-   
-  "<strong>Keuze</strong>",
-    "Structuur betekent niet dat kinderen niets te zeggen hebben. Juist binnen duidelijke kaders groeit motivatie.",
-  "Leren staat vast, maar de invulling kan meebewegen.",
-    "Bijvoorbeeld:<br> volgorde kiezen<br>- werkplek kiezen",
-    "Het moment staat vast, de vorm mag meebewegen. Zo blijft leren duidelijk, maar voelt het niet opgelegd.",
-  
-    "<strong>Vooruitgang</strong>",
-    "Motivatie groeit wanneer kinderen merken dat ze vooruitgaan. Dat lukt het best wanneer leren behapbaar blijft.",
-    "Denk aan:<br>- kleine stappen<br>- kort en regelmatig<br>- op tijd stoppen",
-    { type: "highlight", text: "Niet alles lukt meteen. Dat is geen fout dat is leren." },
-    "Door ook teleurstelling mee te maken, leren kinderen omgaan met moeite.",
 
-    "<strong>Complimenten</strong>",
-    "Complimenten werken het sterkst wanneer ze gaan over inzet en volhouden, niet over slim zijn.",
- {
-  type: "highlight",
-  text: "Complimenten die inzet en doorzetten benadrukken, helpen een kind een groeimindset te ontwikkelen."
-},
+    "Vaak proberen we motivatie van buitenaf te sturen met afspraken, beloningen of verwachtingen. Dat kan tijdelijk helpen, maar leidt zelden tot echte betrokkenheid. Intrinsieke motivatie laat zich niet afdwingen.",
 
-    "<strong>Belonen</strong>",
-    "Belonen is geen zwart-wit verhaal. Een compliment, erkenning of samen vieren kan juist verbinden.",
-    "Waar het om gaat, is dat leren niet alleen draait om wat je ervoor krijgt.",
-    "Blijf benoemen:<br>- wat geleerd is<br>- hoe gegroeid<br>- waarom waardevol",
-   "Zo blijft motivatie van binnenuit komen in sha Allah.",
+    "Ze groeit wanneer leren aansluit bij wat een kind aankan, begrijpt en als betekenisvol ervaart.",
+
+    "Wanneer motivatie ontbreekt, verloopt leren vaak stroef. Dat zie je terug in uitstel, weerstand of frustratie. Dat is geen oordeel over het kind, maar een signaal dat de manier van leren niet goed aansluit bij wat het nodig heeft.",
+
+    "<strong>Structuur en keuze</strong>",
+
+    "Leren vraagt inspanning. Dat mag ook. Wat kinderen daarbij helpt, is duidelijkheid.",
+
+    "Een vast leermoment geeft rust en voorkomt discussie. Geen onderhandelingen, wel heldere afspraken. Wat regelmatig terugkomt, wordt normaal en kost minder energie.",
+
+    "Binnen die structuur is keuze belangrijk. Het leren zelf staat vast, maar de invulling mag meebewegen. Een kind kan bijvoorbeeld kiezen in welke volgorde het werkt of waar het gaat zitten.",
+
+    "Zo ontstaat eigenaarschap zonder dat de kaders verdwijnen. Juist deze combinatie helpt intrinsieke motivatie groeien.",
+
+    "<strong>Vooruitgang en feedback</strong>",
+
+    "Motivatie groeit wanneer kinderen merken dat ze vooruitgaan. Dat gebeurt niet in grote sprongen, maar in kleine, overzichtelijke stappen.",
+
+    {
+      type: "highlight",
+      text: "Niet alles hoeft meteen te lukken. Moeite en teleurstelling horen bij leren."
+    },
+
+    "Een kind dat leert omgaan met moeite, ontwikkelt veerkracht en doorzettingsvermogen.",
+
+    "Complimenten werken het sterkst wanneer ze gericht zijn op inzet en volhouden, niet op slim zijn of snel resultaat.",
+
+    "Belonen kan verbinden, zolang leren niet draait om wat je ervoor krijgt. Zodra de beloning het doel wordt, verdwijnt de motivatie die van binnenuit kwam.",
 
     "<strong>Betekenis</strong>",
-    "Leren krijgt meer diepte wanneer een kind begrijpt waarom iets belangrijk is. Dat hoeft niet ingewikkeld te zijn.",
+
+    "Leren krijgt meer waarde wanneer een kind begrijpt waarom iets belangrijk is. Dat hoeft niet ingewikkeld te zijn.",
+
     "“Als je leert lezen, kun je straks zelf ontdekken wat je interessant vindt.”",
-    "Zo wordt leren meer dan een taak.",
 
-    "<strong>Rolmodellen</strong>",
-    "Kinderen leren niet alleen door uitleg, maar vooral door na te doen. Ze kijken op naar voorbeelden en denken: zo wil ik zijn.",
-    "Net zoals sommige kinderen Spiderman willen zijn, kun je kinderen laten opkijken naar mensen voor wie kennis centraal stond.",
-"Rolmodellen maken kennis aantrekkelijk: een kind gaat denken ‘zo wil ik zijn’.",
+    "Wanneer leren verbonden wordt aan betekenis, voelt het minder als een taak en meer als iets dat ergens toe leidt.",
 
-    "Denk aan Abu Hurayra, bekend om zijn liefde voor kennis en toewijding aan leren, of Mu’adh ibn Jabal, die al jong bekendstond om zijn wijsheid en begrip.",
-    "Zulke verhalen laten zien dat leren niet alleen iets is wat je doet, maar iets wat je vormt.",
+    "<strong>Even dit</strong>",
 
-    "<strong>Jij als voorbeeld</strong>",
-    "Het meest zichtbare rolmodel ben jij. Kinderen zien dagelijks hoe jij met leren omgaat. Of je leest, vragen stelt en nieuwsgierig blijft of dat nu de Qur’an is of iets anders.",
-    { type: "highlight", text: "Zonder uitleg laat je zien: leren hoort bij het leven." },
+    "Geen enkel kind is altijd gemotiveerd. Net als volwassenen hebben kinderen dagen waarop leren gewoon niet lukt.",
+
+    {
+      type: "highlight",
+      text: "Een keer geen zin of weerstand zegt op zichzelf weinig."
+    },
+
+    "Intrinsieke motivatie gaat niet over altijd willen, maar over weer kunnen aanhaken wanneer de omstandigheden kloppen.",
+
+    "<strong>Leren door voorbeeld</strong>",
+
+    "Kinderen leren niet alleen door uitleg, maar vooral door wat zichtbaar is in hun omgeving. Wat zij dagelijks zien, bepaalt wat voor hen vanzelfsprekend wordt.",
+
+    "Rolmodellen zijn niet altijd vanzelf aanwezig. Als leren of nieuwsgierigheid weinig zichtbaar is, ontstaat bewondering voor kennis niet automatisch.",
+
+    "Verhalen over mensen voor wie kennis centraal stond, kunnen richting geven. Denk aan Abu Hurayra, bekend om zijn liefde voor kennis, of Mu’adh ibn Jabal, die al jong bekendstond om zijn wijsheid en begrip.",
+
+    "Het meest invloedrijke voorbeeld blijft dichtbij. Kinderen zien dagelijks hoe jij met leren omgaat.",
+
+    {
+      type: "highlight",
+      text: "Zonder uitleg laat je zien: leren hoort bij het leven."
+    }
   ]
+
+
 },
   
 };
