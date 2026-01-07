@@ -59,6 +59,15 @@ const blogPreviews = [
   thumbnailUrl: "https://umpreneur.github.io/ummischool/blog2img7.png",
     imageUrl: "https://umpreneur.github.io/ummischool//blog2img7.png",
   },
+  {
+  id: "8",
+  title: "Groeimindset en fixed mindset",
+  excerpt:
+    "Hoe de manier waarop een kind naar leren kijkt bepaalt of vastlopen voelt als falen of als groeien.",
+  slug: "groeimindset-fixed-mindset",
+  thumbnailUrl: "https://umpreneur.github.io/ummischool/blog2img7.png",
+  imageUrl: "https://umpreneur.github.io/ummischool/blog2img7.png", 
+  },
   
 ];
 
