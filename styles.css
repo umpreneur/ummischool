@@ -1600,3 +1600,17 @@ font-size: 1rem;
     border-radius: 0;
   }
 }
+
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+img, video, iframe {
+  max-width: 100%;
+  height: auto;
+}
+
+.printables-grid {
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+}
