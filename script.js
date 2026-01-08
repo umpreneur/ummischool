@@ -258,6 +258,9 @@ content: [
 ]
   },
 
+
+
+  
   "gemotiveerd-leren-thuis": {
   title: "Gemotiveerd leren",
   category: "Thuisonderwijs",
@@ -307,8 +310,77 @@ content: [
     }
   ]
 
-
 },
+
+
+  "groeimindset-fixed-mindset": {
+  title: "Groeimindset en fixed mindset",
+  category: "Thuisonderwijs",
+  headerImageUrl: "https://umpreneur.github.io/ummischool/blog2img7.png",
+    imageUrl: "https://umpreneur.github.io/ummischool//blog2img7.png",
+      
+  content: [
+    "Soms lukt iets meteen. Soms niet. Een kind zit vast, probeert opnieuw en raakt even gefrustreerd.",
+    "In die momenten gebeurt er meer dan leren alleen. Een kind vormt ideeën over wat leren is, wat moeite betekent en wat vastlopen zegt over zichzelf.",
+    "Die manier van kijken noemen we mindset. Het is geen vast kenmerk, maar een manier van denken die zich vormt in de dagelijkse momenten van leren.",
+    "In hoe een kind met leren omgaat, zie je vaak twee manieren van denken terug: een fixed mindset en een groeimindset.",
+
+    "<strong>Fixed mindset</strong>",
+    "Bij een fixed mindset ligt de nadruk sterk op het beeld dat een kind van zichzelf heeft.",
+    "Gedachten als “Ik ben slim, waarom lukt dit mij niet?” of “Als ik het niet meteen snap, kan ik het blijkbaar niet” komen dan snel op.",
+    "Vastlopen voelt niet als een onderdeel van leren, maar als een teken dat er iets mis is met het kind zelf.",
+    "Leren moet lukken. En als het niet lukt, overheerst teleurstelling of twijfel.",
+
+    {
+      type: "highlight",
+      text: "Wanneer leren voelt als een test van wie je bent, wordt vastlopen iets om te vermijden."
+    },
+
+    "<strong>Groeimindset</strong>",
+    "Bij een groeimindset ligt de nadruk niet op wie je bent, maar op wat je aan het doen bent.",
+    "Vastlopen hoort erbij. Moeite betekent niet: ik kan dit niet, maar: ik ben nog aan het leren.",
+    "Begrip mag groeien. Oefenen mag tijd kosten. En opnieuw beginnen is geen mislukking, maar onderdeel van het proces.",
+
+    {
+      type: "highlight",
+      text: "Moeite is geen teken dat het niet lukt, maar dat het leren gaande is."
+    },
+
+    "<strong>De rol van jouw woorden</strong>",
+    "Wat jij zegt tijdens het leren, wanneer iets moeilijk is en wanneer iets lukt, geeft richting aan of je kind een groei- of fixed mindset ontwikkelt.",
+    "Benoem wat er gebeurt, zonder oordeel of haast.",
+    "“Dit lukt nu nog niet. We blijven oefenen en in shā’ Allah wordt het duidelijker.”",
+    "“Je zit vast bij deze stap. Dat hoort bij leren.”",
+    "Vermijd zinnen die onbedoeld druk leggen, zoals “Dit moet je toch kunnen” of “Het is niet zo moeilijk”, en ook meteen overnemen.",
+    "Vraag liever: “Wat heb je al geprobeerd?” of “Zullen we samen kijken?”",
+
+    "<strong>Wanneer iets lukt</strong>",
+    "Ook bij succes leert een kind iets belangrijks, namelijk waar het resultaat vandaan komt.",
+    "“Je bleef oefenen en Allah liet het lukken.”",
+    "“Je deed je best en met de wil van Allah ging het beter.”",
+    "Zo leert een kind tegelijk dat moeite doen mag, en dat de uitkomst bij Allah ligt.",
+
+    {
+      type: "highlight",
+      text: "Dat geeft rust in het leren zelf, los van presteren of falen."
+    },
+
+    "<strong>Wat groeit mee</strong>",
+    "Terwijl een kind leert lezen, rekenen of schrijven, groeit er iets dat verder gaat dan de lesstof.",
+    "Een houding tegenover moeite. Een vertrouwen in blijven proberen.",
+    "En het besef dat inzet telt, terwijl de uitkomst bij Allah ligt.",
+    "En dat neemt een kind overal mee naartoe."
+  ]
+},
+
+
+
+
+
+
+
+
+
   
 };
 
