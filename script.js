@@ -65,8 +65,8 @@ const blogPreviews = [
   excerpt:
     "Hoe de manier waarop een kind naar leren kijkt bepaalt of vastlopen voelt als falen of als groeien.",
   slug: "groeimindset-fixed-mindset",
-  thumbnailUrl: "https://umpreneur.github.io/ummischool/blog2img7.png",
-  imageUrl: "https://umpreneur.github.io/ummischool/blog2img7.png", 
+  thumbnailUrl: "https://umpreneur.github.io/ummischool/fixedvsgroei.png",
+  imageUrl: "https://umpreneur.github.io/ummischool/fixedvsgroei.png", 
   },
   
 ];
@@ -316,8 +316,8 @@ content: [
   "groeimindset-fixed-mindset": {
   title: "Groeimindset en fixed mindset",
   category: "Thuisonderwijs",
-  headerImageUrl: "https://umpreneur.github.io/ummischool/blog2img7.png",
-    imageUrl: "https://umpreneur.github.io/ummischool//blog2img7.png",
+  headerImageUrl: "https://umpreneur.github.io/ummischool/fixedvsgroei.png",
+    imageUrl: "https://umpreneur.github.io/ummischool//fixedvsgroei.png",
       
   content: [
     "Soms lukt iets meteen. Soms niet. Een kind zit vast, probeert opnieuw en raakt even gefrustreerd.",
