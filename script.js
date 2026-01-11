@@ -68,6 +68,16 @@ const blogPreviews = [
   thumbnailUrl: "https://umpreneur.github.io/ummischool/fixedvsgroei.png",
   imageUrl: "https://umpreneur.github.io/ummischool/fixedvsgroei.png", 
   },
+{
+  id: "9",
+  title: "De Qur’an in de vroege jaren",
+  excerpt:
+    "De vroege jaren zijn bij uitstek geschikt voor het leren en memoriseren van de Qur’an. Hoe luisteren, herhaling en spel samen een sterke basis vormen.",
+  slug: "quran-in-de-vroege-jaren",
+  thumbnailUrl: "https://umpreneur.github.io/ummischool/blog2img7.png",
+  imageUrl: "https://umpreneur.github.io/ummischool/blog2img7.png",
+},
+
   
 ];
 
