@@ -70,10 +70,10 @@ const blogPreviews = [
   },
 {
   id: "9",
-  title: "De Qur’an in de vroege jaren",
+  title: "Qur’aan en thuisonderwijs",
   excerpt:
     "De vroege jaren zijn bij uitstek geschikt voor het leren en memoriseren van de Qur’an. Hoe luisteren, herhaling en spel samen een sterke basis vormen.",
-  slug: "quran-in-de-vroege-jaren",
+  slug: "quran-en-thuisonderwijs",
   thumbnailUrl: "https://umpreneur.github.io/ummischool/blog2img7.png",
   imageUrl: "https://umpreneur.github.io/ummischool/blog2img7.png",
 },
@@ -384,8 +384,8 @@ content: [
 },
 
 
-"quran-in-de-vroege-jaren": {
-  title: "De Qur’an in de vroege jaren",
+"quran-en-thuisonderwijs": {
+  title: "Qur’aan en thuisonderwijs",
   category: "Qur’an & opvoeding",
   headerImageUrl: "https://umpreneur.github.io/ummischool/blog2img7.png",
   imageUrl: "https://umpreneur.github.io/ummischool/blog2img7.png",
