@@ -384,6 +384,68 @@ content: [
 },
 
 
+"quran-in-de-vroege-jaren": {
+  title: "De Qur’an in de vroege jaren",
+  category: "Qur’an & opvoeding",
+  headerImageUrl: "https://umpreneur.github.io/ummischool/blog2img7.png",
+  imageUrl: "https://umpreneur.github.io/ummischool/blog2img7.png",
+
+  content: [
+    "Wie jonge kinderen observeert, ziet hoe makkelijk leren in de eerste jaren gaat. Alles wat vaak terugkomt, blijft hangen. Geluiden, woorden en ritme worden opgenomen zonder moeite.",
+    "Juist in deze periode wordt de basis gelegd voor het leren en memoriseren van de Qur’an. Niet door druk of schema’s, maar door herhaling en aanwezigheid in het dagelijks leven.",
+
+    {
+      type: "highlight",
+      text: "Wat een kind vaak hoort, wordt onderdeel van zijn geheugen."
+    },
+
+    "Dit begint al heel vroeg. Tijdens de zwangerschap en in de maanden daarna reageren kinderen op klank en herhaling. Qur’an recitatie kan dan een vertrouwd geluid worden tijdens rustige momenten.",
+    "Door dit regelmatig te horen, raken klank en uitspraak vanzelf bekend en worden ze opgeslagen.",
+
+    "<strong>Luisteren als basis</strong>",
+    "Wanneer een kind groter wordt en begint te praten en na te doen, blijft luisteren de kern. Als dezelfde ayahs en korte suwar steeds terugkomen, herkent het brein deze klanken.",
+    "Wat bekend is, blijft hangen. Zo ontstaat memorisatie op een natuurlijke manier, net zoals kinderen taal leren door woorden steeds opnieuw te horen.",
+    "De Qur’an is ook generaties lang zo overgeleverd: mondeling, door luisteren en herhalen.",
+
+    {
+      type: "highlight",
+      text: "Memoriseren begint met horen, niet met uitleg."
+    },
+
+    "<strong>Spelend leren en memoriseren</strong>",
+    "Leren en memoriseren hoeven in deze fase niet stil of strak te zijn. Het mag meegaan in spel en dagelijkse momenten.",
+    "Ayahs nazeggen tijdens het spelen, samen luisteren naar verschillende recitaties, raden welke surah je hoort en meekijken in de muṣḥaf maken de Qur’an levend en dichtbij.",
+
+    "Laat dezelfde ayah meerdere keren achter elkaar horen en zet dit zo vaak mogelijk aan: tijdens spelen, in de auto, bij opruimen of rustmomenten.",
+    "Benoem steeds duidelijk welke surah het is en wat jullie aan het memoriseren zijn. Zeg bijvoorbeeld: dit kennen we al, dit komt hierna.",
+
+    {
+      type: "highlight",
+      text: "Duidelijkheid geeft rust: dit kennen we al, dit leren we nu."
+    },
+
+    "<strong>Samen herhalen</strong>",
+    "Wanneer een kind meerdere ayahs of een hele surah kent, kun je dit samen speels herhalen.",
+    "Zeg om de beurt een ayah: jij begint, het kind volgt. Zo blijven nieuwe en oudere suwar samen actief in het geheugen.",
+
+    "<strong>Waar begin je?</strong>",
+    "Begin met de korte suwar vanaf Sūrah an-Nās en werk stap voor stap omhoog. Deze suwar zijn kort, herkenbaar en sluiten goed aan bij jonge kinderen.",
+    "Doordat ze vaak in het gebed worden gehoord, voelen ze vertrouwd.",
+
+    {
+      type: "highlight",
+      text: "Herhaling en herkenning vormen samen een sterke basis."
+    },
+
+    "<strong>Begeleiding</strong>",
+    "Dit alles vervangt geen Qur’an-docent. Goede begeleiding en correctie blijven later belangrijk.",
+    "Alleen wanneer ouders zelf ḥāfiẓ zijn en de hifdh bewust en volledig begeleiden, kan dit traject thuis gedragen worden.",
+
+    "<strong>Tot slot</strong>",
+    "De vroege jaren zijn een periode waarin leren licht gaat en het geheugen sterk is.",
+    "Wat je in deze fase zaait, groeit mee en vormt een basis waarop later met rust en vertrouwen kan worden verdergebouwd."
+  ]
+},
 
 
 
