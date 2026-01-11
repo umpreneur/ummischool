@@ -391,16 +391,11 @@ content: [
   imageUrl: "https://umpreneur.github.io/ummischool/blog2img7.png",
 
   content: [
-    "Wie jonge kinderen observeert, ziet hoe makkelijk leren in de eerste jaren gaat. Alles wat vaak terugkomt, blijft hangen. Geluiden, woorden en ritme worden opgenomen zonder moeite.",
-    "Juist in deze periode wordt de basis gelegd voor het leren en memoriseren van de Qur’an. Niet door druk of schema’s, maar door herhaling en aanwezigheid in het dagelijks leven.",
+    "Wie jonge kinderen observeert, ziet hoe makkelijk leren in de eerste jaren gaat. Alles wat vaak terugkomt, blijft hangen. Daarom zijn deze jaren zo waardevol voor het <strong>leren en memoriseren van de Qur’an.</strong>",
 
-    {
-      type: "highlight",
-      text: "Wat een kind vaak hoort, wordt onderdeel van zijn geheugen."
-    },
 
-    "Dit begint al heel vroeg. Tijdens de zwangerschap en in de maanden daarna reageren kinderen op klank en herhaling. Qur’an recitatie kan dan een vertrouwd geluid worden tijdens rustige momenten.",
-    "Door dit regelmatig te horen, raken klank en uitspraak vanzelf bekend en worden ze opgeslagen.",
+    "Dit begint al vroeg. Tijdens de zwangerschap en in de maanden daarna reageren kinderen op klank en herhaling. Qur’an recitatie kan dan een vertrouwd geluid worden in rustige momenten. Door dit vaak te horen, raken klank en uitspraak vanzelf bekend en worden ze opgeslagen.",
+    
 
     "<strong>Luisteren als basis</strong>",
     "Wanneer een kind groter wordt en begint te praten en na te doen, blijft luisteren de kern. Als dezelfde ayahs en korte suwar steeds terugkomen, herkent het brein deze klanken.",
