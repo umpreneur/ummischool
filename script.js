@@ -179,12 +179,12 @@ content: [
     "Voor kinderen ondersteunt het terugvertellen van de dag de taalontwikkeling. Het helpt bij <strong>navertellen</strong>, het <strong>ordenen van gebeurtenissen</strong> en het benoemen van ervaringen, zowel positieve als lastige.",
     {type: "highlight",
       text:
-        "Terugvertellen helpt een kind om ervaringen te verwerken en onder woorden te brengen."},
-    "Naast het terugkijken op gebeurtenissen is er ruimte om samen stil te staan bij wat de dag heeft geleerd. Dat kan gaan over iets nieuws dat is ontdekt, een inzicht dat is ontstaan of een moment waarop iets moeilijk was.<br/>Dit moment kan ook gebruikt worden voor het geven van <strong>complimenten</strong> of het delen van <strong>advies</strong>, zonder te beoordelen of eerdere situaties opnieuw op te halen.",
+        "Terugvertellen helpt een kind ook om ervaringen te verwerken en onder woorden te brengen."},
+    "Naast het terugkijken is er aandacht voor wat een kind die dag heeft geleerd. Dat kan gaan over iets nieuws dat is ontdekt, een inzicht dat is ontstaan of een moment waarop iets moeilijk was.<br/>Dit moment kan ook gebruikt worden voor het geven van <strong>complimenten</strong> of het delen van <strong>advies</strong>, zonder te beoordelen of eerdere situaties opnieuw op te halen.",
     {type: "highlight",
       text:
         "Complimenten en advies krijgen hier een plek, zonder oordeel."},
-    "Binnen een dagafsluiting is er ruimte voor <strong>dankbaarheid</strong> en het <strong>erkennen van de zegeningen van Allah</strong>.",
+    "Binnen een dagafsluiting is er ook veel ruimte voor <strong>dankbaarheid</strong> en het <strong>erkennen van de zegeningen van Allah</strong>.",
     "Een dagafsluiting krijgt in veel gezinnen bewust een vaste plek in de dag. Die voorspelbaarheid kan rust geven en maakt het tot een herkenbaar moment van afronding.",
     {type: "highlight",
       text:
