@@ -180,16 +180,11 @@ content: [
     {type: "highlight",
       text:
         "Terugvertellen helpt een kind ook om ervaringen te verwerken en onder woorden te brengen."},
-    "Naast het terugkijken is er aandacht voor wat een kind die dag heeft geleerd. Dat kan gaan over iets nieuws dat is ontdekt, een inzicht dat is ontstaan of een moment waarop iets moeilijk was.<br/>Dit moment kan ook gebruikt worden voor het geven van <strong>complimenten</strong> of het delen van <strong>advies</strong>, zonder te beoordelen of eerdere situaties opnieuw op te halen.",
-    {type: "highlight",
-      text:
-        "Complimenten en advies krijgen hier een plek, zonder oordeel."},
-    "Binnen een dagafsluiting is er ook veel ruimte voor <strong>dankbaarheid</strong> en het <strong>erkennen van de zegeningen van Allah</strong>.",
-    "Een dagafsluiting krijgt in veel gezinnen bewust een vaste plek in de dag. Die voorspelbaarheid kan rust geven en maakt het tot een herkenbaar moment van afronding.",
+    "Naast het terugkijken is er aandacht voor wat een kind die dag heeft geleerd. Dat kan gaan over iets nieuws dat is ontdekt, een inzicht dat is ontstaan of een moment waarop iets moeilijk was.<br/>Dit moment kan ook gebruikt worden voor het geven van <strong>complimenten</strong> of het delen van <strong>advies</strong>, zonder te beoordelen of eerdere situaties opnieuw op te halen.Ook is er binnen de dagafsluiting aandacht voor dankbaarheid en het erkennen van de zegeningen van Allah",
+  
     {type: "highlight",
       text:
         "Een vaste dagafsluiting kan helpen om de dag met rust en aandacht af te sluiten."},
-    "Een dagafsluiting is daarmee een manier om de dag samen af te sluiten, met aandacht voor wat is beleefd, gedeeld en geleerd.",
   ]
  },
 
