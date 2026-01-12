@@ -149,11 +149,7 @@ headerImageUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
         "Het kind heeft inspraak, de ouder geeft richting."
     },
     "Voor veel kinderen is het prettig om te weten hoe de dag eruitziet. De mate van detail verschilt per leeftijd. Voor jonge kinderen is een globaal overzicht vaak voldoende. Oudere kinderen hebben vaker baat bij een meer uitgewerkte planning, waarin duidelijk is wat wanneer gebeurt.",
-    {
-      type: "highlight",
-      text:
-        "Structuur kan er voor ieder kind anders uitzien."
-    },
+    
     "Een dagstart kan elke dag op hetzelfde moment plaatsvinden, maar dat hoeft niet. Het kan kort zijn of iets uitgebreider. Wat past, hangt samen met leeftijd, behoefte en de situatie van dat moment.",
     "Binnen thuisonderwijs kan een dagstart helpen om samen <strong>doelen</strong> en <strong>verwachtingen</strong> voor de dag te bespreken. Dat geeft duidelijkheid voor zowel kind als ouder."
   ]
@@ -172,7 +168,15 @@ content: [
     {type: "highlight",
       text:
         "Een dagafsluiting biedt ruimte om de dag af te ronden, zonder te beoordelen."},
-    "Een dagafsluiting bestaat vaak uit eenvoudige vragen, zoals:<br/>wat heb je vandaag gedaan (ook als daar samen bij was),<br/>wat vond je leuk,<br/>wat vond je minder fijn,<br/>en wat heb je vandaag geleerd?<br/>Deze vragen helpen om de dag in woorden te brengen.",
+{
+  type: "list",
+  items: [
+    "Wat heb je vandaag gedaan (ook als ik daar bij was)?",
+    "Wat vond je leuk?",
+    "Wat vond je minder fijn?",
+    "Wat heb je vandaag geleerd?"
+  ]
+},
     "Voor kinderen ondersteunt het terugvertellen van de dag de taalontwikkeling. Het helpt bij <strong>navertellen</strong>, het <strong>ordenen van gebeurtenissen</strong> en het benoemen van ervaringen, zowel positieve als lastige.",
     {type: "highlight",
       text:
