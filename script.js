@@ -168,15 +168,14 @@ content: [
     {type: "highlight",
       text:
         "Een dagafsluiting biedt ruimte om de dag af te ronden, zonder te beoordelen."},
-{
-  type: "list",
-  items: [
-    "Wat heb je vandaag gedaan (ook als ik daar bij was)?",
-    "Wat vond je leuk?",
-    "Wat vond je minder fijn?",
-    "Wat heb je vandaag geleerd?"
-  ]
-},
+"Een dagafsluiting bestaat vaak uit eenvoudige vragen, zoals:" +
+"<ul>" +
+  "<li>Wat heb je vandaag gedaan (ook als ik daar bij was)?</li>" +
+  "<li>Wat vond je leuk?</li>" +
+  "<li>Wat vond je minder fijn?</li>" +
+  "<li>Wat heb je vandaag geleerd?</li>" +
+"</ul>" +
+"Deze vragen helpen om de dag in woorden te brengen.",
     "Voor kinderen ondersteunt het terugvertellen van de dag de taalontwikkeling. Het helpt bij <strong>navertellen</strong>, het <strong>ordenen van gebeurtenissen</strong> en het benoemen van ervaringen, zowel positieve als lastige.",
     {type: "highlight",
       text:
