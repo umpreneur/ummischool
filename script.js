@@ -207,15 +207,17 @@ content: [
     { "type": "highlight", "text": "De gebedstijden brengen vanzelf ritme in de dag. Ze verdelen de dag op een rustige manier en bieden houvast voor een praktische planning." },
     "Hieronder vind je een voorbeeld van een thuisonderwijsdag. Het is geen schema om letterlijk over te nemen, maar om een beeld te geven van hoe een dag met structuur eruit <strong> kan </strong> zien.",
     "Hoeveel leerblokken je gebruikt, wanneer je ze plant en hoe je de dag opbouwt, hangt af van je kind, je aanpak en jullie ritme.",
-     "<strong>07:00</strong> – Ontbijt & dagstart<br>" +
-"Opruimen, zelfzorg, praktische taken<br>" +
-"Leerblok óf buitenactiviteit<br>" +
-"Lunch &amp; rust<br>" +
-"Buitenactiviteit óf leerblok<br>" +
-"Vrij spel<br>" +
-"<strong>17:00</strong> – Avondeten &amp; gezamenlijke afronding<br>" +
-"<strong>19:00</strong> – Bedtijd (voor kinderen)<br>" +
-"<strong>Na bedtijd</strong> – Korte planning voor morgen + voorbereiding + me-time",
+     "<ul>" +
+  "<li>07:00 – Ontbijt en dagstart</li>" +
+  "<li>Na het ontbijt: opruimen en zelfzorg</li>" +
+  "<li>Leerblok of buitenactiviteit</li>" +
+  "<li>12:00 – Lunch</li>" +
+  "<li>Buitenactiviteit of leerblok</li>" +
+  "<li>Vrij spel</li>" +
+  "<li>17:00 – Avondeten en gezamenlijke afronding</li>" +
+  "<li>19:00 – Bedtijd (voor jonge kinderen)</li>" +
+  "<li>Na bedtijd: korte planning voor morgen, voorbereiding en tijd voor jezelf</li>" +
+"</ul>",
 
     "Een passende dagplanning vinden kost tijd. Het is vaak zoeken, proberen, bijstellen. Wat op papier goed lijkt, voelt in de praktijk soms anders.",
     "Daarom is het normaal om verschillende schema’s uit te testen voordat duidelijk wordt wat echt werkt in jullie situatie.",
