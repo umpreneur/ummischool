@@ -202,8 +202,8 @@ content: [
     "Leerblokken hoeven niet strak gepland. Ruimte voor pauzes en uitloop hoort erbij. Kinderen werken niet altijd in hetzelfde tempo. Een goede planning houdt daar rekening mee zonder dat de dag zijn vorm verliest.",
     "Wat telt, is dat de planning bij het gezin past en vol te houden is op de lange termijn. Rust, duidelijkheid en haalbaarheid maken het verschil.",
     
-    "Voor wie wil starten met een dagplanning: bouw structuur rond de gebedstijden of andere vaste momenten van de dag. Plan duidelijke leerblokken, afgewisseld met tijd voor rust en beweging. Herhaling en ritme zorgen ervoor dat leren echt onderdeel wordt van het dagelijks leven.",
-    { "type": "highlight", "text": "De gebedstijden brengen vanzelf ritme in de dag. Ze verdelen de dag op een rustige manier en bieden houvast voor een praktische planning." },
+    "Wie wil starten met een dagplanning kan structuur aanbrengen rond de gebedstijden of andere vaste momenten van de dag. Door duidelijke leerblokken af te wisselen met rust en beweging, ontstaat er een prettig ritme waarin leren onderdeel wordt van het dagelijks leven.",
+    { "type": "highlight", "text": "Gebedstijden brengen daarbij vanzelf structuur. Ze verdelen de dag op een rustige manier en bieden houvast voor een praktische en haalbare planning." },
     "Hieronder vind je een voorbeeld van een thuisonderwijsdag. Het is geen schema om letterlijk over te nemen, maar om een beeld te geven van hoe een dag met structuur eruit <strong> kan </strong> zien.",
     "Hoeveel leerblokken je gebruikt, wanneer je ze plant en hoe je de dag opbouwt, hangt af van je kind, je aanpak en jullie ritme.",
      "<ul>" +
