@@ -264,7 +264,7 @@ content: [
 
   {
     type: "highlight",
-    text: "Een dagstart hoeft niet perfect te zijn. Het gaat erom samen de dag te beginnen. Door klein te starten en rustig uit te breiden, groeit de dagstart mee met je kind en wordt het een vast onderdeel van jullie thuisonderwijs, in shā' Allāh."
+    text: "Een dagstart hoeft niet perfect te zijn. Het gaat erom samen de dag te beginnen. Door klein te starten en rustig uit te breiden, groeit de dagstart mee met je kind en wordt het een vast onderdeel van jullie thuisonderwijs, in sha Allah."
   }
 ]
   },
