@@ -167,10 +167,10 @@ content: [
     "Ook binnen thuisonderwijs kan een dagafsluiting een rol spelen. Hoe dit moment wordt ingevuld, verschilt per gezin en per kind.",
     {type: "highlight",
       text:
-        "Een dagafsluiting biedt ruimte om de dag af te ronden, zonder te beoordelen."},
+        "Een dagafsluiting biedt ruimte om de dag af te ronden."},
 "Een dagafsluiting bestaat vaak uit eenvoudige vragen, zoals:" +
 "<ul>" +
-  "<li>Wat heb je vandaag gedaan (ook als ik daar bij was)?</li>" +
+  "<li>Wat heb je vandaag gedaan (ook als je daar bij was)?</li>" +
   "<li>Wat vond je leuk?</li>" +
   "<li>Wat vond je minder fijn?</li>" +
   "<li>Wat heb je vandaag geleerd?</li>" +
@@ -180,7 +180,8 @@ content: [
     {type: "highlight",
       text:
         "Terugvertellen helpt een kind ook om ervaringen te verwerken en onder woorden te brengen."},
-    "Naast het terugkijken is er aandacht voor wat een kind die dag heeft geleerd. Dat kan gaan over iets nieuws dat is ontdekt, een inzicht dat is ontstaan of een moment waarop iets moeilijk was.<br/>Dit moment kan ook gebruikt worden voor het geven van <strong>complimenten</strong> of het delen van <strong>advies</strong>, zonder te beoordelen of eerdere situaties opnieuw op te halen.Ook is er binnen de dagafsluiting aandacht voor dankbaarheid en het erkennen van de zegeningen van Allah",
+    "Naast het terugkijken is er aandacht voor wat een kind die dag heeft geleerd. Dat kan gaan over iets nieuws dat is ontdekt, een inzicht dat is ontstaan of een moment waarop iets moeilijk was.",
+  "Dit moment kan ook gebruikt worden voor het geven van <strong>complimenten</strong> of het delen van <strong>advies</strong>, zonder te beoordelen of eerdere situaties opnieuw op te halen. Ook is er binnen de dagafsluiting aandacht voor dankbaarheid en het erkennen van de zegeningen van Allah",
   
     {type: "highlight",
       text:
