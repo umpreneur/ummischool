@@ -199,11 +199,12 @@ content: [
     "Thuisonderwijs loopt het best als de dag overzichtelijk is. Niet strak, maar wél duidelijk. Als je elke ochtend opnieuw moet bedenken wat er gaat gebeuren, geeft dat onrust bij kinderen én bij ouders. Met een planning weet iedereen wat er bij de dag hoort.",
     "Zo’n planning hoeft niet vol of ingewikkeld te zijn. Vaak is een eenvoudige, herkenbare volgorde al genoeg. Sommige momenten liggen vast, zoals opstaan, eten en slapen. Andere kunnen meebewegen. Het doel is niet om alles dicht te timmeren, maar om het leren een vaste plek te geven.",
     "Regelmaat helpt daarbij. Niet door elke dag exact hetzelfde te doen, maar door dezelfde onderdelen steeds terug te laten komen. Wanneer ze precies plaatsvinden, mag per dag verschillen.",
-    { "type": "highlight", "text": "De gebedstijden brengen vanzelf ritme in de dag. Ze verdelen de dag op een rustige manier en bieden houvast voor een praktische planning." },
+    
     "Leerblokken hoeven niet strak gepland. Ruimte voor pauzes en uitloop hoort erbij. Kinderen werken niet altijd in hetzelfde tempo. Een goede planning houdt daar rekening mee zonder dat de dag zijn vorm verliest.",
     "Wat telt, is dat de planning bij het gezin past en vol te houden is op de lange termijn. Rust, duidelijkheid en haalbaarheid maken het verschil.",
-    { "type": "highlight", "text": "Structuur geeft rust, herhaling geeft resultaat en samen maken ze thuisonderwijs vol te houden in sha Allah." },
+    
     "Voor wie wil starten met een dagplanning: bouw structuur rond de gebedstijden of andere vaste momenten van de dag. Plan duidelijke leerblokken, afgewisseld met tijd voor rust en beweging. Herhaling en ritme zorgen ervoor dat leren echt onderdeel wordt van het dagelijks leven.",
+    { "type": "highlight", "text": "De gebedstijden brengen vanzelf ritme in de dag. Ze verdelen de dag op een rustige manier en bieden houvast voor een praktische planning." },
     "Hieronder vind je een voorbeeld van een thuisonderwijsdag. Het is geen schema om letterlijk over te nemen, maar om een beeld te geven van hoe een dag met structuur eruit <strong> kan </strong> zien.",
     "Hoeveel leerblokken je gebruikt, wanneer je ze plant en hoe je de dag opbouwt, hangt af van je kind, je aanpak en jullie ritme.",
      "<strong>07:00</strong> – Ontbijt & dagstart<br>" +
@@ -219,6 +220,7 @@ content: [
     "Een passende dagplanning vinden kost tijd. Het is vaak zoeken, proberen, bijstellen. Wat op papier goed lijkt, voelt in de praktijk soms anders.",
     "Daarom is het normaal om verschillende schema’s uit te testen voordat duidelijk wordt wat echt werkt in jullie situatie.",
 "Ritme ontstaat door herhaling, maar groei komt vaak juist door aan te passen. Geef jezelf de ruimte om te finetunen tot er een dagritme ontstaat dat rust brengt, helder is en bij jullie leven past.",
+    { "type": "highlight", "text": "Structuur geeft rust, herhaling geeft resultaat en samen maken ze thuisonderwijs vol te houden in sha Allah." },
   ]
 },
 
