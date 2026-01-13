@@ -204,8 +204,7 @@ content: [
     
     "Wie wil starten met een dagplanning kan structuur aanbrengen rond de gebedstijden of andere vaste momenten van de dag. Door duidelijke leerblokken af te wisselen met rust en beweging, ontstaat er een prettig ritme waarin leren onderdeel wordt van het dagelijks leven.",
     { "type": "highlight", "text": "Gebedstijden brengen daarbij vanzelf structuur. Ze verdelen de dag op een rustige manier en bieden houvast voor een praktische en haalbare planning." },
-    "Hieronder vind je een voorbeeld van een thuisonderwijsdag. Het is geen schema om letterlijk over te nemen, maar om een beeld te geven van hoe een dag met structuur eruit <strong> kan </strong> zien.",
-    "Hoeveel leerblokken je gebruikt, wanneer je ze plant en hoe je de dag opbouwt, hangt af van je kind, je aanpak en jullie ritme.",
+    "Dit is mijn eigen globale dagplanning. Afhankelijk van of we ’s ochtends binnen of buiten zijn, verschuif ik de leerblokken naar de ochtend of de middag. Zo blijf ik flexibel, terwijl de kinderen toch vastigheid ervaren.",
      "<ul>" +
   "<li>07:00  Ontbijt en dagstart</li>" +
   "<li>Na het ontbijt: opruimen en zelfzorg</li>" +
@@ -217,7 +216,7 @@ content: [
   "<li>19:00  Bedtijd (voor jonge kinderen)</li>" +
   "<li>Na bedtijd: korte planning voor morgen, voorbereiding en tijd voor jezelf</li>" +
 "</ul>",
-
+    "Hoeveel leerblokken je gebruikt, wanneer je ze plant en hoe je de dag opbouwt, hangt af van je kind, je aanpak en jullie ritme.",
     "Een passende dagplanning vinden kost tijd. Het is vaak zoeken, proberen, bijstellen. Wat op papier goed lijkt, voelt in de praktijk soms anders.",
     "Daarom is het normaal om verschillende schema’s uit te testen voordat duidelijk wordt wat echt werkt in jullie situatie.",
 "Ritme ontstaat door herhaling, maar groei komt vaak juist door aan te passen. Geef jezelf de ruimte om te finetunen tot er een dagritme ontstaat dat rust brengt, helder is en bij jullie leven past.",
