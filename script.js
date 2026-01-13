@@ -35,7 +35,7 @@ const blogPreviews = [
 },
   {
   id: "5",
-  "title": "Thuisonderwijs Dagplanning",
+  "title": "Inhoud Dagplanning",
   "excerpt": "Een rustige dag met vaste ritmes maakt thuisonderwijs helder, haalbaar en vol te houden. Geen strak schema, wel structuur die past bij jouw gezin en geloof.",
   "slug": "Thuisonderwijs-en-Dagplanning",
   "thumbnailUrl": "https://umpreneur.github.io/ummischool/blog5img.png",
@@ -190,7 +190,7 @@ content: [
  },
 
 "Thuisonderwijs-en-Dagplanning": {
- title: "Thuisonderwijs Dagplanning",
+ title: "Inhoud Dagplanning",
     category: "Reflectie",
    headerImageUrl: "https://umpreneur.github.io/ummischool/blog5img.png",
     imageUrl: "https://umpreneur.github.io/ummischool/blog5img.png",
