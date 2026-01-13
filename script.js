@@ -35,7 +35,7 @@ const blogPreviews = [
 },
   {
   id: "5",
-  "title": "T.O. Dagplanning",
+  "title": "Thuisonderwijs Dagplanning",
   "excerpt": "Een rustige dag met vaste ritmes maakt thuisonderwijs helder, haalbaar en vol te houden. Geen strak schema, wel structuur die past bij jouw gezin en geloof.",
   "slug": "Thuisonderwijs-en-Dagplanning",
   "thumbnailUrl": "https://umpreneur.github.io/ummischool/blog5img.png",
@@ -190,14 +190,13 @@ content: [
  },
 
 "Thuisonderwijs-en-Dagplanning": {
- title: "T.O. Dagplanning",
+ title: "Thuisonderwijs Dagplanning",
     category: "Reflectie",
    headerImageUrl: "https://umpreneur.github.io/ummischool/blog5img.png",
     imageUrl: "https://umpreneur.github.io/ummischool/blog5img.png",
   content: [
-    "<strong>Structuur brengt rust, rust brengt ruimte om te leren.</strong>",
     "Thuisonderwijs loopt het best als de dag overzichtelijk is. Niet strak, maar wél duidelijk. Als je elke ochtend opnieuw moet bedenken wat er gaat gebeuren, geeft dat onrust bij kinderen én bij ouders. Met een planning weet iedereen wat er bij de dag hoort.",
-    "Zo’n planning hoeft niet vol of ingewikkeld te zijn. Vaak is een eenvoudige, herkenbare volgorde al genoeg. Sommige momenten liggen vast, zoals opstaan, eten en slapen. Andere kunnen meebewegen. Het doel is niet om alles dicht te timmeren, maar om het leren een vaste plek te geven.",
+    "Zo’n planning hoeft niet vol of ingewikkeld te zijn. Vaak is een eenvoudige, herkenbare volgorde al genoeg. Sommige momenten liggen vast, zoals opstaan, bidden, eten en slapen. Andere kunnen meebewegen. Het doel is niet om alles dicht te timmeren, maar om het leren een vaste plek te geven.",
     "Regelmaat helpt daarbij. Niet door elke dag exact hetzelfde te doen, maar door dezelfde onderdelen steeds terug te laten komen. Wanneer ze precies plaatsvinden, mag per dag verschillen.",
     
     "Leerblokken hoeven niet strak gepland. Ruimte voor pauzes en uitloop hoort erbij. Kinderen werken niet altijd in hetzelfde tempo. Een goede planning houdt daar rekening mee zonder dat de dag zijn vorm verliest.",
@@ -208,14 +207,14 @@ content: [
     "Hieronder vind je een voorbeeld van een thuisonderwijsdag. Het is geen schema om letterlijk over te nemen, maar om een beeld te geven van hoe een dag met structuur eruit <strong> kan </strong> zien.",
     "Hoeveel leerblokken je gebruikt, wanneer je ze plant en hoe je de dag opbouwt, hangt af van je kind, je aanpak en jullie ritme.",
      "<ul>" +
-  "<li>07:00 – Ontbijt en dagstart</li>" +
+  "<li>07:00  Ontbijt en dagstart</li>" +
   "<li>Na het ontbijt: opruimen en zelfzorg</li>" +
   "<li>Leerblok of buitenactiviteit</li>" +
-  "<li>12:00 – Lunch</li>" +
-  "<li>Buitenactiviteit of leerblok</li>" +
-  "<li>Vrij spel</li>" +
-  "<li>17:00 – Avondeten en gezamenlijke afronding</li>" +
-  "<li>19:00 – Bedtijd (voor jonge kinderen)</li>" +
+  "<li>12:00 – Lunch (dit kan ook buiten)</li>" +
+  "<li>Leerblok of buitenactiviteit</li>" +
+ "<li>Vrij spel thuis (kook- en avondvoorbereiding)</li>" +
+  "<li>17:00  Avondeten en gezamenlijke afronding</li>" +
+  "<li>19:00  Bedtijd (voor jonge kinderen)</li>" +
   "<li>Na bedtijd: korte planning voor morgen, voorbereiding en tijd voor jezelf</li>" +
 "</ul>",
 
