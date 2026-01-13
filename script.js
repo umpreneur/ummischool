@@ -315,7 +315,6 @@ content: [
 
 },
 
-
   "groeimindset-fixed-mindset": {
   title: "Groeimindset en fixed mindset",
   category: "Thuisonderwijs",
