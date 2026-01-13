@@ -256,7 +256,11 @@ content: [
     "<li>Kerndoeltrainer (A, B, C): oefenmateriaal voor klokkijken en kalenderbegrip.</li>" +
   "</ul>",
 
-  "Na het leermoment bespreek je samen de dag; door dit verhalend te doen (eerst dit, daarna dat), help je je kind overzicht te krijgen en kun je dit ondersteunen door de planning te visualiseren met dagritmekaarten of een whiteboard, waarbij je je kind waar mogelijk betrekt bij kleine keuzes.",
+  "Na het leermoment bespreek je samen de dag. Door de dag verhalend door te nemen – eerst dit, daarna dat – help je je kind overzicht te krijgen en gebeurtenissen te ordenen. Dit ondersteunt niet alleen het plannen, maar ook het verwerken van wat er is gedaan en wat nog komt.",
+
+"Het zichtbaar maken van de planning kan hierbij helpen. Denk aan dagritmekaarten of een whiteboard, zodat de dag voorspelbaar wordt. Tegelijkertijd is het belangrijk om hierin af te stemmen op de leeftijd en behoeften van je kind. Zeker bij jonge kinderen kan te veel informatie in één keer overprikkelend werken. In dat geval kan het helpender zijn om per dagdeel te kijken wat er komt, of de planning stap voor stap op te bouwen.",
+
+"Wat uiteindelijk werkt, verschilt per kind en per gezin. Het gaat niet om een volledige of vaste planning, maar om wat op dat moment overzicht en rust geeft. Waar mogelijk kun je je kind betrekken bij kleine keuzes, terwijl jij als ouder de richting bewaakt.",
 
   {
     type: "highlight",
