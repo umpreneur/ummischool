@@ -294,7 +294,7 @@ content: [
  {
       type: "highlight",
       text: "Betekenis verbindt wat moeilijk is aan iets dat de moeite waard voelt."
-    }
+    },
   
     "Een kind dat leert omgaan met moeite, ontwikkelt veerkracht en doorzettingsvermogen. Complimenten werken het sterkst wanneer ze gericht zijn op inzet en volhouden, niet op slim zijn of snel resultaat. Belonen kan verbinden, zolang leren niet draait om wat je ervoor krijgt. Zodra de beloning het doel wordt, verdwijnt de motivatie die van binnenuit kwam.",
     
@@ -310,7 +310,7 @@ content: [
     {
       type: "highlight",
       text: "Zonder uitleg laat je zien: leren hoort bij het leven."
-    }
+    },
   ]
 
 },
