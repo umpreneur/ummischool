@@ -282,10 +282,13 @@ content: [
     "Motivatie speelt een grote rol bij leren. Ze beïnvloedt of een kind zich kan concentreren, hoe het omgaat met moeite en of het blijft proberen wanneer iets niet meteen lukt. Vaak proberen we motivatie van buitenaf te sturen met afspraken, beloningen of verwachtingen. Dat kan tijdelijk helpen, maar leidt zelden tot echte betrokkenheid.",
   "Intrinsieke motivatie laat zich niet afdwingen. Ze groeit wanneer leren aansluit bij wat een kind aankan, begrijpt en als betekenisvol ervaart. Wanneer motivatie ontbreekt, verloopt leren vaak stroef. Dat zie je terug in uitstel, weerstand of frustratie. Dat is geen oordeel over het kind, maar een signaal dat de manier van leren niet goed aansluit bij wat het nodig heeft.",
    
-    "<strong>Structuur en keuze</strong><br>Leren vraagt inspanning. Dat mag ook. Wat kinderen daarbij helpt, is duidelijkheid.Een vast leermoment geeft rust en voorkomt discussie. Geen onderhandelingen, wel heldere afspraken. Wat regelmatig terugkomt, wordt normaal en kost minder energie. Binnen die structuur is keuze belangrijk. Het leren zelf staat vast, maar de invulling mag meebewegen. Een kind kan bijvoorbeeld kiezen in welke volgorde het werkt of waar het gaat zitten. Zo ontstaat eigenaarschap zonder dat de kaders verdwijnen. Juist deze combinatie helpt intrinsieke motivatie groeien.",
+    "<strong>Structuur en keuze</strong><br>Leren vraagt inspanning. Dat mag ook. Wat kinderen daarbij helpt, is duidelijkheid.Een vast leermoment geeft rust en voorkomt discussie. Geen onderhandelingen, wel heldere afspraken. Wat regelmatig terugkomt, wordt normaal en kost minder energie.",
+  "Binnen die structuur is keuze belangrijk. Het leren zelf staat vast, maar de invulling mag meebewegen. Een kind kan bijvoorbeeld kiezen in welke volgorde het werkt of waar het gaat zitten. Zo ontstaat eigenaarschap zonder dat de kaders verdwijnen. Juist deze combinatie helpt intrinsieke motivatie groeien.",
    
-  "<strong>Vooruitgang en feedback</strong>",
-    "Motivatie groeit wanneer kinderen merken dat ze vooruitgaan. Dat gebeurt niet in grote sprongen, maar in kleine, overzichtelijke stappen.",
+  "<strong>Vooruitgang en feedback</strong> <br> Motivatie groeit wanneer kinderen merken dat ze vooruitgaan. Die vooruitgang zit vaak niet in grote sprongen, maar in kleine, overzichtelijke stappen die zichtbaar worden gemaakt. Juist het herkennen van die kleine stappen helpt een kind om gemotiveerd te blijven.",
+  "Leren gaat niet altijd vanzelf. Onderweg horen moeite en teleurstelling erbij. Door hiermee om te leren gaan, oefent een kind met volhouden en ontstaat er ruimte voor veerkracht en doorzettingsvermogen.",
+  "In dit proces speelt feedback een belangrijke rol. Complimenten werken het sterkst wanneer ze gericht zijn op inzet en doorzetten, in plaats van op slim zijn of snel resultaat. Ook belonen kan ondersteunend zijn, zolang leren niet draait om wat je ervoor krijgt. Wanneer de beloning het doel wordt, kan de motivatie die van binnenuit komt verdwijnen.",
+  
     {
       type: "highlight",
       text: "Niet alles hoeft meteen te lukken. Moeite en teleurstelling horen bij leren."
