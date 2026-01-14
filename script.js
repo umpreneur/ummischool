@@ -351,10 +351,10 @@ content: [
   imageUrl: "https://umpreneur.github.io/ummischool/blog2img7.png",
 
   content: [
-    "Wie jonge kinderen observeert, ziet hoe makkelijk leren in de eerste jaren gaat. Alles wat vaak terugkomt, blijft hangen. Daarom zijn deze jaren zo waardevol voor het <strong>leren en memoriseren van de Qur’an.</strong>",
+    "Wie jonge kinderen observeert, ziet hoe vanzelf leren in de eerste jaren gaat. Alles wat vaak terugkomt, blijft hangen. Herhaling voelt niet als moeite, maar als spel. Juist daarom zijn deze jaren zo waardevol voor het leggen van een basis. Ook wanneer het gaat om het leren en memoriseren van de Qur’an.</strong>",
 
 
-    "Dit begint al vroeg. Tijdens de zwangerschap en in de maanden daarna reageren kinderen op klank en herhaling. Qur’an recitatie kan dan een vertrouwd geluid worden in rustige momenten. Door dit vaak te horen, raken klank en uitspraak vanzelf bekend en worden ze opgeslagen.",
+    "Deze gevoeligheid voor klank en herhaling is er al heel vroeg. Tijdens de zwangerschap en in de maanden daarna reageren kinderen op geluid en ritme. Qur’anrecitatie kan in die periode een vertrouwd geluid worden in rustige momenten. Door het vaak te horen, raken klank en uitspraak vanzelf bekend en krijgen ze een plek in het geheugen.",
     
 
     "Wanneer een kind groter wordt en begint te praten en na te doen, blijft luisteren de kern. Als dezelfde ayahs en korte suwar steeds terugkomen, worden ze herkend en onthouden, net zoals taal geleerd wordt door herhaling. De Qur’an is ook generaties lang zo overgeleverd: mondeling, door luisteren en herhalen.",
