@@ -280,32 +280,26 @@ content: [
 
 content: [
 
-"Motivatie helpt een kind om te blijven proberen wanneer leren moeilijk wordt. Die motivatie ontstaat niet door druk, maar van binnenuit. Ze groeit wanneer leren past bij het kind en betekenisvol voelt. Dat noemen we intrinsieke motivatie.", 
-  "Wanneer die motivatie ontbreekt, stokt leren vaak. Niet omdat een kind niet wil, maar omdat de omstandigheden niet kloppen. Motivatie is geen eigenschap van het kind, maar een reactie op hoe leren wordt aangeboden. <br>Die omstandigheden kunnen wél worden beïnvloed.",
+"Motivatie ontstaat zelden door druk. Ze groeit van binnenuit, wanneer leren past bij het kind en ergens over gaat. Dat noemen we intrinsieke motivatie. Het is de motivatie die niet leunt op belonen of aandringen, maar op betrokkenheid.", 
+  "Wanneer die motivatie ontbreekt, stokt leren vaak. Niet omdat een kind niet wil leren, maar omdat de omstandigheden het niet ondersteunen. Motivatie is geen eigenschap van een kind. Het is een reactie op hoe leren wordt aangeboden. En dat is belangrijk om te beseffen, want die omstandigheden kun je beïnvloeden.",
 
- "<strong>Structuur en keuze</strong><br>Intrinsieke motivatie groeit niet in chaos. Ze heeft houvast nodig. Duidelijkheid en voorspelbaarheid geven rust. Een vast leermoment voorkomt discussie en maakt leren normaal. Er is geen onderhandeling over of er geleerd wordt.",
-  "Binnen die vaste structuur is ruimte nodig. Het leren staat vast, maar de invulling mag meebewegen: volgorde, plek, tempo. Zo ontstaat eigenaarschap zonder dat grenzen verdwijnen. Structuur draagt, keuze activeert.",
+ "<strong>Structuur en keuze</strong><br>Leren heeft structuur nodig. Zonder houvast ontstaat onrust en discussie. Een vast leermoment geeft duidelijkheid: leren hoort erbij. Daar hoeft niet telkens over onderhandeld te worden. Tegelijk hoeft structuur geen strak keurslijf te zijn. Binnen dat vaste moment mag een kind keuzes maken: de volgorde, het tempo, de plek. Zo blijft het kader stevig, maar voelt het leren van hén.",
    
-  "<strong>Vooruitgang maakt motivatie zichtbaar</strong> <br>Wanneer structuur en keuze kloppen, ontstaat ruimte voor vooruitgang. Motivatie groeit niet door grote resultaten, maar door kleine stappen die gezien worden.",
-  "Leren gaat gepaard met moeite. Dat is geen probleem, maar een voorwaarde. Een kind dat leert omgaan met frustratie, ontwikkelt veerkracht. Feedback ondersteunt dit proces alleen wanneer ze gericht is op inzet en volhouden, niet op slim zijn. Belonen kan tijdelijk helpen, maar mag nooit het doel worden.",
+  "<strong>Vooruitgang maakt motivatie zichtbaar</strong> <brWanneer structuur en keuze in balans zijn, ontstaat ruimte voor vooruitgang. En motivatie groeit juist dáár. Niet door grote sprongen, maar door kleine stappen die gezien worden. Leren mag moeite kosten. Sterker nog, moeite hoort erbij. Een kind dat leert omgaan met frustratie, ontwikkelt veerkracht. Complimenten helpen vooral wanneer ze gaan over inzet en volhouden, niet over slim zijn. Belonen kan soms ondersteunen, maar zodra leren draait om wat je ervoor krijgt, verdwijnt de motivatie die van binnenuit kwam.",
 
-"<strong>Betekenis houdt leren vast </strong> Zelfs wanneer leren goed is opgebouwd, blijft één vraag bepalend: waarom doe ik dit? Zonder betekenis wordt leren leeg. Wanneer een kind begrijpt waar leren toe leidt, krijgt inspanning richting.",
+"<strong>Betekenis houdt leren vast </strong> Zelfs als alles goed staat, blijft één vraag doorslaggevend: waarom doe ik dit? Zonder betekenis voelt leren leeg. Betekenis hoeft niet groots te zijn. Soms is het simpel: “Als je leert lezen, kun je zelf kiezen wat je leest.” Wanneer een kind begrijpt waar leren toe leidt, krijgt inspanning richting.",
 
  {
       type: "highlight",
       text: "Betekenis verbindt wat moeilijk is aan iets dat de moeite waard voelt."
     },
   
-    "Een kind dat leert omgaan met moeite, ontwikkelt veerkracht en doorzettingsvermogen. Complimenten werken het sterkst wanneer ze gericht zijn op inzet en volhouden, niet op slim zijn of snel resultaat. Belonen kan verbinden, zolang leren niet draait om wat je ervoor krijgt. Zodra de beloning het doel wordt, verdwijnt de motivatie die van binnenuit kwam.",
     
-  "<strong>Betekenis</strong>",
-    "Leren krijgt meer waarde wanneer een kind begrijpt waarom iets belangrijk is. Dat hoeft niet ingewikkeld te zijn. “Als je leert lezen, kun je zelf lezen wat jij leuk vindt.”",
-    "Wanneer leren verbonden wordt aan betekenis, voelt het minder als een taak en meer als iets dat ergens toe leidt.",
-   
-  "<strong>Even dit</strong> Geen enkel kind is altijd gemotiveerd. Net als volwassenen hebben kinderen dagen waarop leren gewoon niet lukt.Een keer geen zin of weerstand zegt op zichzelf weinig.",
+
+  "<strong>Nog even dit</strong> En ook dit is belangrijk om te zeggen: geen enkel kind is altijd gemotiveerd. Jij bent dat ook niet. Een dag zonder zin of met weerstand zegt weinig. Het wordt pas relevant wanneer het structureel is en dan loont het om opnieuw naar de omstandigheden te kijken.",
    
     "<strong>Leren door voorbeeld</strong>",
-    "Kinderen leren niet alleen door uitleg, maar vooral door wat zichtbaar is in hun omgeving. Wat zij dagelijks zien, bepaalt wat voor hen vanzelfsprekend wordt. Rolmodellen zijn niet altijd vanzelf aanwezig. Als leren of nieuwsgierigheid weinig zichtbaar is, ontstaat bewondering voor kennis niet automatisch. Verhalen over mensen voor wie kennis centraal stond, kunnen richting geven. Denk aan Abu Hurayra, bekend om zijn liefde voor kennis, of Mu’adh ibn Jabal, die al jong bekendstond om zijn wijsheid en begrip. Het meest invloedrijke voorbeeld blijft dichtbij. Kinderen zien dagelijks hoe jij met leren omgaat.",
+    "Verhalen over mensen die liefde voor kennis belichaamden — zoals Abu Hurayra of Mu’adh ibn Jabal — kunnen richting geven. Ze laten zien dat kennis iets is om naar te verlangen, niet alleen om te behalen. Maar verhalen blijven voorbeelden op afstand. Het meest invloedrijke voorbeeld is dat wat een kind elke dag opnieuw ziet. Hoe jij reageert wanneer iets moeilijk is. Of je doorzet of opgeeft. Of je nieuwsgierig blijft, of het afdoet als lastig. Of leren in jouw leven iets levends is, of iets dat je liever uitstelt. Zonder dat je het benoemt, leert je kind hier hoe leren voelt. En dat weegt vaak zwaarder dan alles wat je erover zegt.",
 
     {
       type: "highlight",
