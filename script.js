@@ -330,16 +330,16 @@ content: [
       text: "Moeite is geen teken dat het niet lukt, maar dat het leren gaande is."
     },
 
-    "<strong>De rol van jouw woorden</strong> Wat jij zegt tijdens het leren, wanneer iets moeilijk is en wanneer iets lukt, geeft richting aan of je kind een groei- of fixed mindset ontwikkelt. Benoem wat er gebeurt, zonder oordeel of haast. “Dit lukt nu nog niet. We blijven oefenen en in shā’ Allah wordt het duidelijker.” “Je zit vast bij deze stap. Dat hoort bij leren.” Vermijd zinnen die onbedoeld druk leggen, zoals “Dit moet je toch kunnen” of “Het is niet zo moeilijk”, en ook meteen overnemen. Vraag liever: “Wat heb je al geprobeerd?” of “Zullen we samen kijken?”",
+    "<strong>De rol van jouw woorden</strong> <br> Wat jij zegt tijdens het leren, wanneer iets moeilijk is en wanneer iets lukt, geeft richting aan of je kind een groei- of fixed mindset ontwikkelt. Benoem wat er gebeurt, zonder oordeel of haast. “Dit lukt nu nog niet. We blijven oefenen en in sha Allah wordt het duidelijker.” “Je zit vast bij deze stap. Dat hoort bij leren.” Vermijd zinnen die onbedoeld druk leggen, zoals “Dit moet je toch kunnen” of “Het is niet zo moeilijk”, en ook meteen overnemen. Vraag liever: “Wat heb je al geprobeerd?” of “Zullen we samen kijken?”",
 
-    "<strong>Wanneer iets lukt</strong> Ook bij succes leert een kind iets belangrijks, namelijk waar het resultaat vandaan komt. “Je bleef oefenen en Allah liet het lukken.”, “Je deed je best en met de wil van Allah ging het beter.”, Zo leert een kind tegelijk dat moeite doen mag, en dat de uitkomst bij Allah ligt.",
+    "<strong>Wanneer iets lukt</strong> <br>  Bij succes leert een kind iets belangrijks, namelijk waar het resultaat vandaan komt. “Je bleef oefenen en Allah liet het lukken.”, “Je deed je best en met de wil van Allah ging het beter.”, Zo leert een kind tegelijk dat moeite doen mag, en dat de uitkomst bij Allah ligt.",
 
     {
       type: "highlight",
       text: "Dat geeft rust in het leren zelf, los van presteren of falen."
     },
 
-    "<strong>Wat groeit mee</strong> Terwijl een kind leert lezen, rekenen of schrijven, groeit er iets dat verder gaat dan de lesstof. Een houding tegenover moeite. Een vertrouwen in blijven proberen. En het besef dat inzet telt, terwijl de uitkomst bij Allah ligt. En dat neemt een kind overal mee naartoe."
+    "<strong>Wat groeit mee</strong> <br> Terwijl een kind leert lezen, rekenen of schrijven, groeit er iets dat verder gaat dan de lesstof. Een houding tegenover moeite. Een vertrouwen in blijven proberen. En het besef dat inzet telt, terwijl de uitkomst bij Allah ligt. En dat neemt een kind overal mee naartoe."
   ]
 },
 
