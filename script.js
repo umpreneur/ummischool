@@ -279,10 +279,9 @@ content: [
     imageUrl: "https://umpreneur.github.io/ummischool//blog2img7.png",
 
 content: [
-
-"Motivatie ontstaat zelden door druk. Ze groeit van binnenuit, wanneer leren past bij het kind en ergens over gaat. Dat noemen we intrinsieke motivatie. Het is de motivatie die niet leunt op belonen of aandringen, maar op betrokkenheid.", 
-  "Wanneer die motivatie ontbreekt, stokt leren vaak. Niet omdat een kind niet wil leren, maar omdat de omstandigheden het niet ondersteunen. Motivatie is geen eigenschap van een kind. Het is een reactie op hoe leren wordt aangeboden. En dat is belangrijk om te beseffen, want die omstandigheden kun je beïnvloeden.",
-
+"Motivatie ontstaat zelden door druk. Hoe harder je duwt, hoe sneller de weerstand groeit. Dat zie je niet alleen bij kinderen, maar waarschijnlijk ook bij jezelf. Wat wél helpt, is wanneer leren van binnenuit ergens over gaat.", 
+  "Wanneer leren past bij het kind, en niet losstaat van wie het is of wat het bezighoudt, verandert er iets. Een kind blijft langer proberen. Geeft minder snel op. Niet omdat het makkelijk is, maar omdat het betekenis heeft. Je ziet betrokkenheid ontstaan: aandacht die blijft, ook wanneer het lastig wordt.",
+"Die vorm van motivatie zie je niet altijd elke dag, en zeker niet bij elk onderwerp. Maar wanneer ze er is, voelt leren anders. Minder als een taak die af moet, meer als iets waar een kind zelf in wil investeren. Niet gedreven door beloning, en ook niet door aandringen van buitenaf. Wanneer motivatie zo ontstaat — vanuit betrokkenheid bij het leren zelf, spreken we van <strong>intrinsieke motivatie.</strong>",
  "<strong>Structuur en keuze</strong><br>Leren heeft structuur nodig. Zonder houvast ontstaat onrust en discussie. Een vast leermoment geeft duidelijkheid: leren hoort erbij. Daar hoeft niet telkens over onderhandeld te worden. Tegelijk hoeft structuur geen strak keurslijf te zijn. Binnen dat vaste moment mag een kind keuzes maken: de volgorde, het tempo, de plek. Zo blijft het kader stevig, maar voelt het leren van hén.",
    
   "<strong>Vooruitgang maakt motivatie zichtbaar</strong> <brWanneer structuur en keuze in balans zijn, ontstaat ruimte voor vooruitgang. En motivatie groeit juist dáár. Niet door grote sprongen, maar door kleine stappen die gezien worden. Leren mag moeite kosten. Sterker nog, moeite hoort erbij. Een kind dat leert omgaan met frustratie, ontwikkelt veerkracht. Complimenten helpen vooral wanneer ze gaan over inzet en volhouden, niet over slim zijn. Belonen kan soms ondersteunen, maar zodra leren draait om wat je ervoor krijgt, verdwijnt de motivatie die van binnenuit kwam.",
