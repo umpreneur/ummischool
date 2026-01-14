@@ -297,8 +297,7 @@ content: [
 
   "<strong>Nog even dit</strong> En ook dit is belangrijk om te zeggen: geen enkel kind is altijd gemotiveerd. Jij bent dat ook niet. Een dag zonder zin of met weerstand zegt weinig. Het wordt pas relevant wanneer het structureel is en dan loont het om opnieuw naar de omstandigheden te kijken.",
    
-    "<strong>Leren door voorbeeld</strong>",
-    "Verhalen over mensen die liefde voor kennis belichaamden — zoals Abu Hurayra of Mu’adh ibn Jabal — kunnen richting geven. Ze laten zien dat kennis iets is om naar te verlangen, niet alleen om te behalen. Maar verhalen blijven voorbeelden op afstand. Het meest invloedrijke voorbeeld is dat wat een kind elke dag opnieuw ziet. Hoe jij reageert wanneer iets moeilijk is. Of je doorzet of opgeeft. Of je nieuwsgierig blijft, of het afdoet als lastig. Of leren in jouw leven iets levends is, of iets dat je liever uitstelt. Zonder dat je het benoemt, leert je kind hier hoe leren voelt. En dat weegt vaak zwaarder dan alles wat je erover zegt.",
+    "<strong>Leren door voorbeeld</strong> Verhalen over mensen die liefde voor kennis belichaamden — zoals Abu Hurayra of Mu’adh ibn Jabal — kunnen richting geven. Ze laten zien dat kennis iets is om naar te verlangen, niet alleen om te behalen. Maar verhalen blijven voorbeelden op afstand. Het meest invloedrijke voorbeeld is dat wat een kind elke dag opnieuw ziet. Hoe jij reageert wanneer iets moeilijk is. Of je doorzet of opgeeft. Of je nieuwsgierig blijft, of het afdoet als lastig. Of leren in jouw leven iets levends is, of iets dat je liever uitstelt. Zonder dat je het benoemt, leert je kind hier hoe leren voelt. En dat weegt vaak zwaarder dan alles wat je erover zegt.",
 
     {
       type: "highlight",
