@@ -351,12 +351,13 @@ content: [
   imageUrl: "https://umpreneur.github.io/ummischool/blog9.png",
 
   content: [
-    "Wie een jong kind observeert, ziet hoe leren vanzelf gaat. Een anasheed dat vaak wordt gehoord, blijft hangen. Een zinnetje dat steeds terugkomt, wordt moeiteloos herhaald. Zonder uitleg, zonder druk. Voor jonge kinderen voelt deze herhaling niet als leren, maar als spel. <br><br> Voor hen is leren niet doelbewust of inspannend zoals bij volwassenen.",
-    "In de eerste levensjaren ontwikkelt het brein zich snel. Wat een kind vaak hoort en ervaart, laat sporen na. Verbindingen worden gemakkelijk gelegd en steeds sterker. Klanken en patronen die regelmatig terugkomen, blijven daardoor makkelijker hangen. Juist dit natuurlijke leervermogen maakt deze fase bijzonder geschikt om iets blijvends op te bouwen.",
-    "Die vanzelfsprekende manier van leren kan ook worden benut voor het memoriseren van de Qur’an. Door herhaald luisteren en terugkerende recitatie raken ayahs vertrouwd en worden zij geleidelijk opgeslagen in het geheugen.",
+    "Wie een jong kind observeert, ziet hoe leren vanzelf gaat. Een anasheed dat vaak wordt gehoord, blijft hangen. Een zinnetje dat steeds terugkomt, wordt moeiteloos herhaald. Zonder uitleg, zonder druk. Voor jonge kinderen voelt dit niet als leren, maar als spel.",
+    "In de eerste levensjaren ontwikkelt het brein zich snel. Wat een kind vaak hoort en ervaart, laat sporen na. Klanken en patronen die regelmatig terugkomen, worden vanzelf vertrouwd. Juist dit natuurlijke leervermogen maakt deze fase bijzonder geschikt om iets blijvends op te bouwen.",
+    "Diezelfde vanzelfsprekende manier van leren kan ook worden benut bij het memoriseren van de Qur’an. Door herhaald luisteren en terugkerende recitatie raken ayahs vertrouwd en worden zij geleidelijk opgeslagen in het geheugen. Niet door druk of oefening, maar door aanwezigheid, herhaling en rust.",
+    
     { 
       type: "highlight",
-      text: "Wat vroeg en op een natuurlijke manier wordt ingeprent, blijft later dragen."
+      text: "Het brein is in de eerste zeven levensjaren het meest neuroplastisch. Dat betekent dat een kind in deze jaren heel gemakkelijk leert en nieuwe dingen oppikt."
     },
  "<strong>Het begin</strong><br/> Begin met Surah al-Fātiḥah. Deze surah vormt de basis van het gebed en is daarom een logische eerste stap. Daarna kun je verdergaan met de korte suwar uit Juz’ ‘Amma. De ayahs zijn kort, overzichtelijk en goed te volgen voor jonge kinderen.",
 
