@@ -366,9 +366,19 @@ content: [
       text: "Wat vaak wordt gehoord, blijft vanzelf hangen."
     },
     
-    "<strong>Samen oefenen</strong><br/>Wanneer een ayah vaak is gehoord, kun je samen gaan oefenen. Laat het kind hierin meebeslissen: samen reciteren of de ayah alleen opzeggen. Dat geeft een gevoel van eigenaarschap en houdt het leuk.<br/><br/>Bij jonge kinderen mag oefenen speels en in beweging zijn. Kies eenvoudige, rustige bewegingen die passen bij het moment en waar duidelijke afspraken over zijn. Denk aan een klein sprongetje maken, even draaien, een bal rustig overrollen of klappen na een ayah. Zo blijft het speels zonder onrustig te worden.<br/><br/>Het is goed om daarnaast bewust te oefenen met rustig zitten, ook al is dat in het begin maar heel kort. Bouw dit stap voor stap op. Samen zitten, luisteren en één ayah rustig herhalen helpt een kind wennen aan de manier van leren die later bij een docent nodig is. Dit maakt de overgang naar traditioneler leren makkelijker.<br/><br/>Van echte memorisatie is pas sprake wanneer een kind een ayah zelfstandig, foutloos en zonder ondersteuning kan opzeggen. Daar mag rustig de tijd voor genomen worden.<br/><br/>Kun je zelf niet (goed) reciteren, dan is dat geen probleem. Het kind kan ook oefenen met duidelijke audio van een docent of een vaste recitator met goede tajweed.<br/><br/>Stop altijd vóór vermoeidheid. Een kind dat met een goed gevoel stopt, komt de volgende keer makkelijker terug.",
-"<strong>Samen herhalen</strong><br/>Wat geleerd is, blijft het best hangen door herhaling. Maak daar een gezamenlijk moment van. Ga samen zitten en reciteer om de beurt één ayah van de geleerde suwar. Dit kan met één kind, met meerdere kinderen of met het hele gezin. De één leest een ayah, de volgende gaat verder.<br/><br/>Je kunt dit bijvoorbeeld beginnen met één vaste Qur’aankring per week en dit rustig uitbreiden als het past. De frequentie is minder belangrijk dan de regelmaat.<br/><br/>Zo blijft wat geleerd is actief, zonder dat het voelt als overhoren. Het wordt iets gezamenlijks, geen prestatie.",
+    "<strong>Samen oefenen</strong><br/>Na een periode van luisteren kun je samen beginnen met oefenen. Laat het kind hierin meebeslissen: samen reciteren of de ayah alleen opzeggen. Dit geeft het kind een gevoel van eigen regie. <br/><br/>Bij jonge kinderen mag oefenen speels en in beweging zijn. Kies eenvoudige, rustige bewegingen die passen bij het moment. Denk bijv. aan een klein sprongetje maken of even draaien, een bal rustig overrollen na een ayah. Zo blijft het speels zonder onrustig te worden.<br/><br/>Het is goed om daarnaast bewust te oefenen met rustig zitten, ook al is dat in het begin maar heel kort. Bouw dit stap voor stap op. Samen zitten, luisteren en één ayah rustig herhalen helpt een kind wennen aan de manier van leren die later bij een docent nodig is. Dit maakt de overgang naar traditioneler leren makkelijker.<br/><br/>Van echte memorisatie is pas sprake wanneer een kind een ayah zelfstandig, foutloos en zonder ondersteuning kan opzeggen.<br/><br/>",
+"<strong>Samen herhalen</strong><br/>Wat geleerd is, blijft het best hangen door herhaling. Maak daar een gezamenlijk moment van. Ga samen zitten en reciteer om de beurt één ayah van de geleerde suwar. Dit kan met één kind, met meerdere kinderen of met het hele gezin. De één leest een ayah, de volgende gaat verder.<br/><br/>Je kunt dit bijvoorbeeld beginnen met één vaste Qur’aankring per week waar je alles of deel van wat geleerd is herhaald, en dit rustig uitbreiden.<br/>Zo blijft wat geleerd is actief, zonder dat het voelt als overhoren. Het wordt iets gezamenlijks, geen prestatie.",
+ 
+ "<strong>Tips</strong>",
 
+  "<ul>" +
+    "<li>Kun je zelf niet (goed) reciteren, dan is dat geen probleem. Het kind kan ook oefenen met duidelijke audio van een docent of een vaste recitator met goede tajweed.</li>" +
+    "<li>Stop altijd vóór vermoeidheid. Een kind dat met een goed gevoel stopt, komt de volgende keer makkelijker terug.</li>" +
+    "<li>Leuke quraan youtube kanaal voor kinderen: قناة داوود للأطفال - Dawood Kids TV </li>" +
+  "<li>Leuke quraan youtube kanaal voor kinderen: Asma Huda </li>" +
+    "<li> Website voor bij het samen oefenen: https://app.quranflash.com/book/Tajweed#/reader </li>" +
+  "</ul>",
+    
   ]
 },
 
