@@ -369,10 +369,10 @@ content: [
       text: "Wat vaak wordt gehoord, blijft vanzelf hangen."
     },
     
-    "<strong>Samen oefenen</strong><br/>Na een periode van luisteren kun je samen beginnen met oefenen. Laat het kind hierin meebeslissen: samen reciteren of de ayah alleen opzeggen. Dit geeft het kind een gevoel van eigen regie. <br/> Bij jonge kinderen mag oefenen speels en in beweging zijn. Kies eenvoudige, rustige bewegingen die passen bij het moment. Denk bijv. aan een klein sprongetje maken of even draaien, een bal rustig overrollen na elke ayah. Zo blijft het speels zonder onrustig te worden.<br/><br/>Oefen daarnaast ook met een rustig, gericht leermoment zonder spel. Bouw dit stap voor stap op. Zo went het kind aan later traditioneel leren. <br/> <i> Let op! Van echte memorisatie is pas sprake wanneer een kind een ayah zelfstandig, foutloos en zonder ondersteuning kan opzeggen.</i>",
+    "<strong>Samen oefenen</strong><br/>Na een periode van luisteren kun je samen beginnen met oefenen. Laat het kind hierin meebeslissen: samen reciteren of de ayah alleen opzeggen. Dit geeft het kind een gevoel van eigen regie. <br/> Bij jonge kinderen mag oefenen speels en in beweging zijn. Kies eenvoudige, rustige bewegingen die passen bij het moment. Denk bijv. aan een klein sprongetje maken of even draaien, een bal rustig overrollen na elke ayah. Zo blijft het speels zonder onrustig te worden.<br/><br/>Oefen daarnaast ook met een rustig, gericht leermoment zonder spel. Bouw dit stap voor stap op. Zo went het kind aan later traditioneel leren. <br/> <br><i> <strong>Let op! Van echte memorisatie is pas sprake wanneer een kind een ayah zelfstandig, foutloos en zonder ondersteuning kan opzeggen.<strong></i>",
 "<strong>Samen herhalen</strong><br/>Wat geleerd is, blijft het best hangen door herhaling. Maak daar een gezamenlijk moment van. Ga samen zitten en reciteer om de beurt één ayah van de geleerde suwar. Dit kan met één kind, met meerdere kinderen of met het hele gezin. De één leest een ayah, de volgende gaat verder.<br/> Je kunt dit bijvoorbeeld beginnen met één vaste Qur’aankring per week waar je alles of deel van wat geleerd is herhaald, en dit rustig uitbreiden.<br/>Zo blijft wat geleerd is actief, zonder dat het voelt als overhoren. Het wordt iets gezamenlijks, geen prestatie.",
  
- "<strong>Tips</strong> <br> <ul>" +
+ "<strong>Tips</strong> <ul>" +
     "<li>Kun je zelf niet (goed) reciteren, dan is dat geen probleem. Het kind kan ook oefenen met duidelijke audio van een docent of een vaste recitator met goede tajweed.</li>" +
     "<li>Stop altijd vóór vermoeidheid. Een kind dat met een goed gevoel stopt, komt de volgende keer makkelijker terug.</li>" +
         "<li>Gebruik Juz ‘Amma tracker om voortgang voor het kind inzichtelijk te maken</li>" +
@@ -380,7 +380,8 @@ content: [
   "<li>Leuk Qur’an YouTube-kanaal voor kinderen: Asma Huda </li>" +
     "<li> Website voor bij het samen oefenen: https://app.quranflash.com/book/Tajweed#/reader </li>" +
   "</ul>",
-    
+
+     "<strong>Nog even dit <strong> Deze manier van werken is geen vervanging van een Qur’an-docent. Het  laat alleen zien hoe je in de vroege jaren gebruik kunt maken van de manier waarop jonge kinderen vanzelf leren. In die tijd gaat leren licht en blijft wat vaak wordt gehoord makkelijk hangen. Wat dan met herhaling wordt opgebouwd, vormt een basis waarop later verder geleerd kan worden, met begeleiding en vertrouwen.",
   ]
 },
 
