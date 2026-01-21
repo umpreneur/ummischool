@@ -351,15 +351,21 @@ content: [
   imageUrl: "https://umpreneur.github.io/ummischool/blog9.png",
 
   content: [
-    "Wie een jong kind observeert, ziet hoe leren vanzelf gaat. Een nasheed dat vaak wordt gehoord, blijft hangen. Een zinnetje dat steeds terugkomt, wordt moeiteloos herhaald. Zonder uitleg, zonder druk. Voor jonge kinderen voelt dit niet als leren, maar als spel.",
-    "In de eerste levensjaren ontwikkelt het brein zich snel. Wat een kind vaak hoort en ervaart, laat sporen na. Klanken en patronen die regelmatig terugkomen, worden vanzelf vertrouwd. Juist dit natuurlijke leervermogen maakt deze fase bijzonder geschikt om iets blijvends op te bouwen.",
-    { 
+    
+    "Bij jonge kinderen verloopt leren op een natuurlijke manier. Wat zij regelmatig horen, nemen zij vanzelf op. Dit gebeurt zonder uitleg of druk en wordt niet als leren ervaren, maar als een vanzelfsprekend onderdeel van het dagelijks leven. <strong>Op deze manier wordt ook de taal die thuis wordt gesproken aangeleerd.</strong>",
+    "Dit natuurlijke leerproces hangt samen met de neuroplasticiteit van het brein. Neuroplasticiteit betekent dat het brein zich kan aanpassen en nieuwe verbindingen kan vormen. Bij jonge kinderen (0-7jaar) is dit vermogen het grootst; dit wordt de hoogste neuroplastische periode genoemd. In deze fase reageert het brein sterk op wat een kind ziet, hoort en herhaalt, waardoor informatie die terugkeert sneller wordt herkend en opgeslagen.",
+
+      { 
       type: "highlight",
-      text: "Het brein is in de eerste zeven levensjaren het meest neuroplastisch. Dat betekent dat een kind in deze jaren heel gemakkelijk leert en nieuwe dingen oppikt."
+      text: "Een jong brein leert het meest van wat het vaak ziet en hoort."
     },
     
-    "Diezelfde vanzelfsprekende manier van leren kan ook worden benut bij het memoriseren van de Quraan. Door herhaald luisteren en terugkerende recitatie raken ayahs vertrouwd en worden zij geleidelijk opgeslagen in het geheugen.",
-    "<i>Hieronder vind je een eenvoudige manier om dit stap voor stap in de praktijk te brengen.</i>",
+    "Omdat het brein in deze periode zo ontvankelijk is, kan dezelfde manier van leren ook worden benut bij het memoriseren van de Quraan. De vaste melodie, regelmatige herhaling en duidelijke structuur van de recitatie sluiten goed aan bij hoe het kinderbrein leert. Door veel te luisteren en mee te reciteren raken ayahs vertrouwd en worden zij geleidelijk in het geheugen vastgelegd.",
+    
+    
+    
+  
+      "<i>Hieronder staat een eenvoudige methode om jonge kinderen begeleid de Koran te laten memoriseren.</i>",
    
  "<strong>Het begin</strong><br/> Begin met Surah al-Fātiḥah. Deze surah vormt de basis van het gebed en is daarom een logische eerste stap. Daarna kun je verdergaan met de korte suwar uit Juz’ ‘Amma. De ayahs zijn kort, overzichtelijk en goed te volgen voor jonge kinderen.",
 
