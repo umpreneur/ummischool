@@ -374,10 +374,9 @@ content: [
     
     "<strong>Samen oefenen</strong><br/>Na een periode van luisteren kun je samen beginnen met oefenen. Laat het kind hierin meebeslissen: samen reciteren of de ayah alleen opzeggen. Dit geeft het kind een gevoel van eigen regie. <br/> Bij jonge kinderen mag oefenen speels en in beweging zijn. Kies eenvoudige, rustige bewegingen die passen bij het moment. Denk bijv. aan een klein sprongetje maken of even draaien, een bal rustig overrollen na elke ayah. Zo blijft het speels zonder onrustig te worden.<br/><br/Naast speels oefenen is het waardevol om ook korte, rustige leermomenten zonder spel aan te bieden. Door dit stap voor stap op te bouwen, leert het kind op een natuurlijke manier omgaan met meer traditioneel leren. <br/> <i> <strong>Let op! Van echte memorisatie is pas sprake wanneer een kind een ayah zelfstandig, foutloos en zonder ondersteuning kan opzeggen.</strong></i>",
 "<strong>Samen herhalen</strong><br/>Wat geleerd is, blijft het best onthouden door herhaling. Maak van die herhaling een gezamenlijk moment. Ga samen zitten en reciteer om de beurt één ayah van de geleerde suwar. Dit kan met één kind, met meerdere kinderen of met het hele gezin. De één leest een ayah, de volgende gaat verder. Je kunt hiervoor één vaste Qur’aankring per week starten, waarin je alles, of een deel van wat geleerd is rustig herhaalt. Later kun je dit uitbreiden als dat prettig voelt. Op deze manier blijft de geleerde stof levend, zonder dat het aanvoelt als een toets of overhoring. Het wordt een gezamenlijk ritueel in plaats van een prestatie.",
- 
+
+ "<strong>Tips</strong>"+
  "<ul>" +
-  
-    "<strong>Tips</strong> <br>"+
     "<li> Kun je zelf niet (goed) reciteren? Gebruik duidelijke audio van een docent of vaste recitator met goede tajwīd.</li>" +
     "<li>Stop altijd vóór vermoeidheid. Een kind dat prettig stopt, begint de volgende keer makkelijker.</li>" +
        "<liPrijs de inzet, niet alleen het resultaat.</li>" +
