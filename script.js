@@ -365,7 +365,7 @@ content: [
     
     
   
-      "<i><strong>Hieronder staat een eenvoudige methode om jonge kinderen begeleid de Koran te laten memoriseren.<strong></i>",
+      "<i><strong>Hieronder staat een eenvoudige methode om jonge kinderen begeleid de Koran te laten memoriseren.</strong></i>",
    
  "<strong>Het begin</strong><br/> Begin met Surah al-Fātiḥah. Deze surah vormt de basis van het gebed en is daarom een logische eerste stap. Daarna kun je verdergaan met de korte suwar uit Juz’ ‘Amma. De ayahs zijn kort, overzichtelijk en goed te volgen voor jonge kinderen.",
 
