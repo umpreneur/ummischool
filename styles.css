@@ -662,6 +662,9 @@ font-size: 1rem;
   margin-bottom: 1.5rem;
 }
 
+.blog-post-content li {
+margin-bottom: 0.5rem;
+}
 
 
 .blog-highlight {
