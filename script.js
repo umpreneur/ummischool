@@ -74,8 +74,8 @@ const blogPreviews = [
   excerpt:
     "Wat jonge kinderen vaak horen, blijft hangen. Door herhaling en luisteren wordt in de vroege jaren een stevige basis gelegd voor het memoriseren van de Qur’an.",
   slug: "quran-en-thuisonderwijs",
-  thumbnailUrl: "https://umpreneur.github.io/ummischool/blog9.png",
-  imageUrl: "https://umpreneur.github.io/ummischool/blog9.png",
+  thumbnailUrl: "https://umpreneur.github.io/ummischool/Quraan.png",
+  imageUrl: "https://umpreneur.github.io/ummischool/Quraan.png",
 },
   
 ];
@@ -347,8 +347,8 @@ content: [
 "quran-en-thuisonderwijs": {
   title: "Qur’aan en thuisonderwijs",
   category: "Qur’an & opvoeding",
-  headerImageUrl: "https://umpreneur.github.io/ummischool/blog9.png",
-  imageUrl: "https://umpreneur.github.io/ummischool/blog9.png",
+  headerImageUrl: "https://umpreneur.github.io/ummischool/Quraan.png",
+  imageUrl: "https://umpreneur.github.io/ummischool/Quraan.png",
 
   content: [
     
