@@ -84,6 +84,7 @@ const blogPreviews = [
   slug: "Thuisonderwijs-Peuters-Kleuters",
   thumbnailUrl: "https://umpreneur.github.io/ummischool/blog3img.png",
   imageUrl: "https://umpreneur.github.io/ummischool/blog3img.png",
+  },
 
 ];
 
