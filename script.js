@@ -82,8 +82,8 @@ const blogPreviews = [
   title: "Thuisonderwijs aan Peuters en Kleuters",
   excerpt: "Jonge kinderen leren vanuit nieuwsgierigheid. Door aan te sluiten bij hun vragen, dagelijkse handelingen en spel, ontstaat thuis een natuurlijke basis voor later leren.",
   slug: "Thuisonderwijs-Peuters-Kleuters",
-  thumbnailUrl: "https://umpreneur.github.io/ummischool/blog3img.png",
-  imageUrl: "https://umpreneur.github.io/ummischool/blog3img.png",
+  thumbnailUrl: "https://umpreneur.github.io/ummischool/penk.png",
+  imageUrl:"https://umpreneur.github.io/ummischool/penk.png",
   },
 
 ];
@@ -401,25 +401,39 @@ content: [
 "Thuisonderwijs-Peuters-Kleuters": {
   title: "Thuisonderwijs aan Peuters en Kleuters",
   category: "Onderwijs",
-  headerImageUrl: "https://umpreneur.github.io/ummischool/blog3img.png",
-  imageUrl: "https://umpreneur.github.io/ummischool/blog3img.png",
+  headerImageUrl: "https://umpreneur.github.io/ummischool/penk.png",
+  imageUrl: "https://umpreneur.github.io/ummischool/penk.png",
   
-  content: [
-    "Thuisonderwijs met jonge kinderen begint bij hun nieuwsgierigheid. Peuters en kleuters willen begrijpen wat ze zien, voelen en meemaken. Door mee te kijken, vragen te benoemen en ervaringen te delen, wordt het gewone dagelijks leven een plek waar leren vanzelf ontstaat. Vanuit die nieuwsgierigheid kun je aansluiten met praktische vaardigheden, thema’s die de wereld begrijpelijk maken en activiteiten die de aandacht stap voor stap opbouwen.",
-    
-    "Praktische vaardigheden Bij jonge kinderen groeit zelfstandigheid in kleine, haalbare stappen. Een peuter begint misschien met een jas aantrekken, iets opruimen of water inschenken. Naarmate het kind ouder wordt, kunnen taken iets nauwkeuriger worden: een rits sluiten, groente snijden met een kindermes, een doekje gebruiken om iets schoon te maken of plantjes verzorgen.",
-    "Door deze dagelijkse handelingen leert een kind wat het al kan, oefent het controle over bewegingen en merkt het hoe fijn het is om iets zelf te doen. Het begint met grote, grove bewegingen en groeit langzaam naar kleinere, preciesere handelingen. Zo ontstaat een basis waarop kinderen later langer kunnen focussen en activiteiten kunnen afronden. Je sluit eenvoudig aan door ruimte te geven om mee te doen in het echte leven, bijvoorbeeld door het kind een taakje te laten kiezen dat past bij wat het al kan.",
-    
-    "De wereld begrijpen Jonge kinderen zijn van nature nieuwsgierig. Hun vragen klinken eenvoudig, maar gaan over belangrijke onderwerpen die hen bezighouden. Een kind kan vragen: “Waarom komt er water uit de lucht?” of “Waarom heeft dat dier haren en die niet?”",
-    "Met zulke vragen probeert een kind grip te krijgen op zijn wereld. Begrip geeft houvast en maakt situaties voorspelbaarder. Door samen te praten, te kijken en woorden te geven aan wat ze opmerken, voelen kinderen zich zekerder in wat ze zien en ervaren.",
-    "Thema’s kunnen helpen om deze nieuwsgierigheid te volgen. Wanneer je een onderwerp kiest dat aansluit bij wat het kind vraagt, zoals weer, seizoenen, dieren, thuis of gevoelens, krijgt het woorden voor wat het ziet en voelt. Kinderen herkennen dingen terug, bouwen algemene kennis op en kunnen gebeurtenissen beter plaatsen.",
-    
-"De basis voor later leren De basis voor later leren wordt gelegd in de kleutertijd. In deze jaren kunnen kinderen zich stapje voor stapje langer op iets richten. Je merkt dat wanneer ze een puzzel willen afmaken, langer blijven tekenen of een bouwwerk verder willen uitbreiden. Activiteiten met een duidelijk begin en einde helpen om die aandacht rustig op te bouwen.",
-    "Tijdens dit spel ontwikkelen kleuters de vaardigheden die ze later nodig hebben. Ze krijgen taalgevoel door te praten, luisteren en rijmpjes te horen. Voorbereidend lezen groeit wanneer ze klanken herkennen en verschillen in geluid opmerken. De rekenbasis ontstaat in spel met vormen, patronen en hoeveelheden. En door te knippen, tekenen, bouwen en kleien versterken ze hun fijne motoriek.",
-    "Deze ontwikkelgebieden sluiten aan bij wat in de SLO-doelen voor het jonge kind centraal staat: spelend leren, groei in taal, beginnende gecijferdheid, motoriek en sociaal-emotionele ontwikkeling. Door materialen aan te bieden die uitnodigen tot wat langere aandacht, groeien kleuters vanzelf toe naar het leren van letters, woorden en getallen — zonder dat dit nu al schools hoeft te zijn.",
-  ]
-},
+ content: [
+  "Thuisonderwijs met jonge kinderen begint bij hun nieuwsgierigheid. Peuters en kleuters willen begrijpen wat ze zien, voelen en meemaken. Door mee te kijken, vragen te benoemen en ervaringen te delen, wordt het gewone dagelijks leven een plek waar leren vanzelf ontstaat. Vanuit die nieuwsgierigheid kun je aansluiten met praktische vaardigheden, thema’s die de wereld begrijpelijk maken en activiteiten die de aandacht stap voor stap opbouwen.",
 
+  "<strong>Praktische vaardigheden</strong><br>Bij jonge kinderen groeit zelfstandigheid in kleine, haalbare stappen. Een peuter begint misschien met een jas aantrekken, iets opruimen of water inschenken. Naarmate het kind ouder wordt, kunnen taken iets nauwkeuriger worden: een rits sluiten, groente snijden met een kindermes, een doekje gebruiken om iets schoon te maken of plantjes verzorgen.",
+  "Door deze dagelijkse handelingen leert een kind wat het al kan, oefent het controle over bewegingen en merkt het hoe fijn het is om iets zelf te doen. Het begint met grote, grove bewegingen en groeit langzaam naar kleinere, preciesere handelingen. Zo ontstaat een basis waarop kinderen later langer kunnen focussen en activiteiten kunnen afronden. Je sluit eenvoudig aan door ruimte te geven om mee te doen in het echte leven, bijvoorbeeld door het kind een taakje te laten kiezen dat past bij wat het al kan.",
+
+  {
+    type: "highlight",
+    text: "Zelf doen is de snelste weg naar zelfvertrouwen."
+  },
+
+  "<strong>De wereld begrijpen</strong><br>Jonge kinderen zijn van nature nieuwsgierig. Hun vragen klinken eenvoudig, maar gaan over belangrijke onderwerpen die hen bezighouden. Een kind kan vragen: “Waarom komt er water uit de lucht?” of “Waarom heeft dat dier haren en die niet?”",
+  "Met zulke vragen probeert een kind grip te krijgen op zijn wereld. Begrip geeft houvast en maakt situaties voorspelbaarder. Door samen te praten, te kijken en woorden te geven aan wat ze opmerken, voelen kinderen zich zekerder in wat ze zien en ervaren.",
+  "Thema’s kunnen helpen om deze nieuwsgierigheid te volgen. Wanneer je een onderwerp kiest dat aansluit bij wat het kind vraagt, zoals weer, seizoenen, dieren, thuis of gevoelens, krijgt het woorden voor wat het ziet en voelt. Kinderen herkennen dingen terug, bouwen algemene kennis op en kunnen gebeurtenissen beter plaatsen.",
+
+  {
+    type: "highlight",
+    text: "Begrip geeft rust — woorden maken de wereld helder."
+  },
+
+  "<strong>De basis voor later leren</strong><br>De basis voor later leren wordt gelegd in de kleutertijd. In deze jaren kunnen kinderen zich stapje voor stapje langer op iets richten. Je merkt dat wanneer ze een puzzel willen afmaken, langer blijven tekenen of een bouwwerk verder willen uitbreiden. Activiteiten met een duidelijk begin en einde helpen om die aandacht rustig op te bouwen.",
+  "Tijdens dit spel ontwikkelen kleuters de vaardigheden die ze later nodig hebben. Ze krijgen taalgevoel door te praten, luisteren en rijmpjes te horen. Voorbereidend lezen groeit wanneer ze klanken herkennen en verschillen in geluid opmerken. De rekenbasis ontstaat in spel met vormen, patronen en hoeveelheden. En door te knippen, tekenen, bouwen en kleien versterken ze hun fijne motoriek.",
+  "Deze ontwikkelgebieden sluiten aan bij wat in de SLO-doelen voor het jonge kind centraal staat: spelend leren, groei in taal, beginnende gecijferdheid, motoriek en sociaal-emotionele ontwikkeling. Door materialen aan te bieden die uitnodigen tot wat langere aandacht, groeien kleuters vanzelf toe naar het leren van letters, woorden en getallen — zonder dat dit nu al schools hoeft te zijn.",
+
+  {
+    type: "highlight",
+    text: "Wat vaak wordt gehoord, blijft vanzelf hangen."
+  },
+]
+ },
 };
 
 const faqItems = [
