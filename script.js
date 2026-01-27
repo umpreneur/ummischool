@@ -86,6 +86,16 @@ const blogPreviews = [
   imageUrl:"https://umpreneur.github.io/ummischool/penk.png",
   },
 
+{
+  "id": "11",
+  "title": "Leren Schrijven",
+  "excerpt": "Het aanbod groeit, de verwarring ook. Toch is leren schrijven verrassend eenvoudig: minder spullen, meer doen en de kracht van herhaling.",
+  "slug": "leren-schrijven",
+  "thumbnailUrl": "https://umpreneur.github.io/ummischool/blog1img.png",
+  "imageUrl": "https://umpreneur.github.io/ummischool/blog1img.png"
+}
+
+
 ];
 
 
@@ -431,6 +441,51 @@ content: [
  
 ]
  },
+"Leren-Schrijven": {
+  "title": "Leren Schrijven",
+  "category": "Praktisch",
+  "headerImageUrl": "https://umpreneur.github.io/ummischool/blog1img.png",
+  "imageUrl": "https://umpreneur.github.io/ummischool/blog1img.png",
+
+  "content": [
+    "Schrijven is een belangrijke vaardigheid in de ontwikkeling van een kind. Het helpt bij taal, concentratie, zelfexpressie en het ordenen van gedachten. Toch kan het met alle adviezen, materialen en meningen soms lastig zijn om te zien wat een kind nu écht nodig heeft om te leren schrijven.",
+    
+    "Vroeger begon schrijven meestal gewoon met een potlood en een schrift. Kinderen herhaalden letters tot hun hand ze vanzelf leek te begrijpen. De focus lag vooral op doen: schrijven en steeds handiger worden in het proces.",
+    
+    "Vandaag de dag ligt de nadruk vaker op allerlei voorbereidende activiteiten: vormen tekenen, kralen rijgen, knippen, spelen met zand en klei, motoriekspelletjes en het oefenen van de pengreep. Deze activiteiten worden gezien als bouwstenen vóór het echte schrijven.",
+    
+    "Beide benaderingen hebben hun waarde. Extra aandacht voor motoriek kan helpen, maar een kind leert uiteindelijk schrijven door het ook daadwerkelijk te doen. Het wordt pas ingewikkeld wanneer de voorbereiding meer aandacht krijgt dan het schrijven zelf.",
+    
+    { 
+      "type": "highlight", 
+      "text": "De kracht van leren schrijven zit nog altijd in eenvoud: een kind, een potlood en herhaling."
+    },
+
+    "Het groeiende aanbod aan materialen maakt het vaak moeilijk om focus te houden. Economische belangen spelen hierin mee. Veel hulpmiddelen worden gepresenteerd als noodzakelijk, terwijl ze dat meestal niet zijn. De meeste kinderen hebben geen speciale potloden, stapels werkboeken of uitgebreide motoriekpakketten nodig.",
+    
+    "Het risico is dat de middelen centraal komen te staan, terwijl het doel steeds verder uit zicht raakt. Zo lijkt leren schrijven ingewikkelder dan het werkelijk is, terwijl de basis juist helder blijft: regelmaat, eenvoud en oefenen.",
+    
+    "Tekenen en kleuren kunnen een goede ondersteuning zijn. Ze helpen de hand en pols soepel te maken en versterken de oog-handcoördinatie. Overtrekletters en -cijfers kunnen helpen om vormen beter te begrijpen, zolang het een tijdelijke stap blijft.",
+    
+    { 
+      "type": "highlight", 
+      "text": "Begin eenvoudig, bouw rustig op en vertrouw op het proces: schrijven groeit door doen." 
+    },
+
+    "Wat een kind écht nodig heeft: een prettig schrijfinstrument, papier en korte momenten van oefening die regelmatig terugkomen. Slordigheid hoort erbij; het is een teken dat een kind aan het ontdekken is.",
+    
+    "Alles wat de start onnodig ingewikkeld maakt, kun je loslaten. Lange voorbereidende trajecten, dure materialen en methodes die beloven dat schrijven vanzelf gaat, zijn geen voorwaarde voor succes. Eenvoud werkt, en het werkt betrouwbaar.",
+    
+    "Schrijven ontstaat niet uit spullen, maar uit ruimte, herhaling en vertrouwen. En dat is precies wat kinderen het meest nodig hebben."
+  ]
+},
+
+
+
+
+
+
+  
 };
 
 const faqItems = [
