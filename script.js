@@ -441,7 +441,7 @@ content: [
  
 ]
  },
-"Leren-Schrijven": {
+"leren-schrijven": {
   "title": "Leren Schrijven",
   "category": "Praktisch",
   "headerImageUrl": "https://umpreneur.github.io/ummischool/blog1img.png",
