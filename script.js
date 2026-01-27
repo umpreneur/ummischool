@@ -79,7 +79,7 @@ const blogPreviews = [
 },
   {
   id: "10",
-  title: "Thuisonderwijs aan Peuters en Kleuters",
+  title: "Peuters en Kleuters leren",
   excerpt: "Jonge kinderen leren vanuit nieuwsgierigheid. Door aan te sluiten bij hun vragen, dagelijkse handelingen en spel, ontstaat thuis een natuurlijke basis voor later leren.",
   slug: "Thuisonderwijs-Peuters-Kleuters",
   thumbnailUrl: "https://umpreneur.github.io/ummischool/penk.png",
@@ -399,7 +399,7 @@ content: [
 },
 
 "Thuisonderwijs-Peuters-Kleuters": {
-  title: "Thuisonderwijs aan Peuters en Kleuters",
+  title: "Peuters en Kleuters leren",
   category: "Onderwijs",
   headerImageUrl: "https://umpreneur.github.io/ummischool/penk.png",
   imageUrl: "https://umpreneur.github.io/ummischool/penk.png",
@@ -412,7 +412,7 @@ content: [
 
   {
     type: "highlight",
-    text: "Zelf doen is de snelste weg naar zelfvertrouwen."
+    text: "Praktische handelingen versterken zowel motoriek als denkontwikkeling."
   },
 
   "<strong>De wereld begrijpen</strong><br>Jonge kinderen zijn van nature nieuwsgierig. Hun vragen klinken eenvoudig, maar gaan over belangrijke onderwerpen die hen bezighouden. Een kind kan vragen: “Waarom komt er water uit de lucht?” of “Waarom heeft dat dier haren en die niet?”",
@@ -421,17 +421,14 @@ content: [
 
   {
     type: "highlight",
-    text: "Begrip geeft rust — woorden maken de wereld helder."
+    text: "Begrijpen begint wanneer een kind woorden krijgt voor wat het ziet.”
   },
 
   "<strong>De basis voor later leren</strong><br>De basis voor later leren wordt gelegd in de kleutertijd. In deze jaren kunnen kinderen zich stapje voor stapje langer op iets richten. Je merkt dat wanneer ze een puzzel willen afmaken, langer blijven tekenen of een bouwwerk verder willen uitbreiden. Activiteiten met een duidelijk begin en einde helpen om die aandacht rustig op te bouwen.",
   "Tijdens dit spel ontwikkelen kleuters de vaardigheden die ze later nodig hebben. Ze krijgen taalgevoel door te praten, luisteren en rijmpjes te horen. Voorbereidend lezen groeit wanneer ze klanken herkennen en verschillen in geluid opmerken. De rekenbasis ontstaat in spel met vormen, patronen en hoeveelheden. En door te knippen, tekenen, bouwen en kleien versterken ze hun fijne motoriek.",
   "Deze ontwikkelgebieden sluiten aan bij wat in de SLO-doelen voor het jonge kind centraal staat: spelend leren, groei in taal, beginnende gecijferdheid, motoriek en sociaal-emotionele ontwikkeling. Door materialen aan te bieden die uitnodigen tot wat langere aandacht, groeien kleuters vanzelf toe naar het leren van letters, woorden en getallen — zonder dat dit nu al schools hoeft te zijn.",
 
-  {
-    type: "highlight",
-    text: "Wat vaak wordt gehoord, blijft vanzelf hangen."
-  },
+ 
 ]
  },
 };
