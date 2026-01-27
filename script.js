@@ -421,7 +421,7 @@ content: [
 
   {
     type: "highlight",
-    text: "Begrijpen begint wanneer een kind woorden krijgt voor wat het ziet.”
+    text: "Begrijpen begint wanneer een kind woorden krijgt voor wat het ziet."
   },
 
   "<strong>De basis voor later leren</strong><br>De basis voor later leren wordt gelegd in de kleutertijd. In deze jaren kunnen kinderen zich stapje voor stapje langer op iets richten. Je merkt dat wanneer ze een puzzel willen afmaken, langer blijven tekenen of een bouwwerk verder willen uitbreiden. Activiteiten met een duidelijk begin en einde helpen om die aandacht rustig op te bouwen.",
