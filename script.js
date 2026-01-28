@@ -91,8 +91,8 @@ const blogPreviews = [
   "title": "Leren Schrijven",
   "excerpt": "Het aanbod groeit, de verwarring ook. Toch is leren schrijven verrassend eenvoudig: minder spullen, meer doen en de kracht van herhaling.",
   "slug": "leren-schrijven",
-  "thumbnailUrl": "https://umpreneur.github.io/ummischool/blog1img.png",
-  "imageUrl": "https://umpreneur.github.io/ummischool/blog1img.png"
+  "thumbnailUrl": "https://umpreneur.github.io/ummischool/schrijven.png",
+  "imageUrl": "https://umpreneur.github.io/ummischool/schrijven.png"
 }
 
 
@@ -444,8 +444,8 @@ content: [
 "leren-schrijven": {
   "title": "Leren Schrijven",
   "category": "Praktisch",
-  "headerImageUrl": "https://umpreneur.github.io/ummischool/blog1img.png",
-  "imageUrl": "https://umpreneur.github.io/ummischool/blog1img.png",
+  "headerImageUrl": "https://umpreneur.github.io/ummischool/schrijven.png",
+  "imageUrl": "https://umpreneur.github.io/ummischool/schrijven.png",
 
   "content": [
     "Schrijven is een belangrijke vaardigheid in de ontwikkeling van een kind. Het helpt bij taal, concentratie, zelfexpressie en het ordenen van gedachten. Toch kan het met alle adviezen, materialen en meningen soms lastig zijn om te zien wat een kind nu écht nodig heeft om te leren schrijven.",
