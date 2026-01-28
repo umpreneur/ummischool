@@ -469,7 +469,7 @@ content: [
     
     { 
       "type": "highlight", 
-      "text": "Begin eenvoudig, bouw rustig op en vertrouw op het proces: schrijven groeit door doen." 
+      "text": "Een kind leert uiteindelijk schrijven door te schrijven." 
     },
 
     "Wat een kind écht nodig heeft: een prettig schrijfinstrument, papier en korte momenten van oefening die regelmatig terugkomen. Slordigheid hoort erbij; het is een teken dat een kind aan het ontdekken is.",
