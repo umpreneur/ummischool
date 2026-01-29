@@ -500,9 +500,9 @@ content: [
 
     "Die manier van leren is de voorbije jaren steeds populairder geworden. Dat is niet zo vreemd. Spelen sluit aan bij hoe kinderen van nature leren. Het maakt leren minder spannend en vaak ook leuker. Kinderen zijn gemotiveerder, durven meer en ervaren minder druk.",
 
-    "Tijdens het spel leren kinderen bovendien meer dan alleen kennis. Ze leren samenwerken, communiceren, creatief denken en omgaan met anderen. Dat maakt spelenderwijs leren aantrekkelijk voor ouders en leerkrachten die verder kijken dan alleen resultaten.",
+    "Tijdens het spel leren kinderen bovendien meer dan alleen kennis. Ze leren samenwerken, communiceren, creatief denken en omgaan met anderen. Dit maakt spelenderwijs leren aantrekkelijk.",
 
-    "Toch brengt deze aanpak ook risico’s met zich mee. Wanneer leren vooral leuk moet zijn, kunnen kinderen afhaken zodra iets moeilijk, saai of frustrerend wordt. Ze leren dan minder goed omgaan met tegenslag en ontwikkelen minder doorzettingsvermogen.",
+    "Toch brengt deze aanpak ook risico’s met zich mee. Wanneer leren vooral in spelvorm moet zijn, kunnen kinderen afhaken zodra iets moeilijk, saai of frustrerend wordt. Ze leren dan minder goed omgaan met tegenslag en ontwikkelen minder doorzettingsvermogen.",
 
     { 
       type: "highlight", 
