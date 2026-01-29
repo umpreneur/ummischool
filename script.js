@@ -489,7 +489,7 @@ content: [
   ]
 },
 
-"Spelenderwijs-Leren": {
+"spelenderwijs-leren": {
   title: "Spelenderwijs leren",
   category: "Onderwijs & Opvoeding",
   headerImageUrl: "https://umpreneur.github.io/ummischool/blog2img.png",
