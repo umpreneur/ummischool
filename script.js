@@ -104,6 +104,17 @@ const blogPreviews = [
   imageUrl: "https://umpreneur.github.io/ummischool/blog2img.png",
 },
 
+ 
+  {
+  id: "13",
+  title: "Thematisch werken met jonge kinderen",
+  excerpt: "Thematisch werken betekent dat je een tijdje met één onderwerp bezig bent. Dat thema komt terug in spelen, praten, lezen, bouwen en ontdekken. Alles hoort bij elkaar en helpt kinderen om betekenisvol te leren.",
+  slug: "Thematisch-werken-met-jonge-kinderen",
+  thumbnailUrl: "PASTE_HIER_JE_COVER_URL",
+  imageUrl: "PASTE_HIER_JE_COVER_URL",
+},
+
+
 
 ];
 
@@ -522,7 +533,40 @@ content: [
   ]
 },
 
+"thematisch-werken-met-jonge-kinderen": {
+  title: "Thematisch werken met jonge kinderen",
+  category: "Onderwijs & Opvoeding",
+  headerImageUrl: "https://umpreneur.github.io/ummischool/blog-thematisch-werken.png",
+  imageUrl: "https://umpreneur.github.io/ummischool/blog-thematisch-werken.png",
 
+  content: [
+    "Thematisch werken betekent dat je een periode lang met één onderwerp bezig bent: het thema. Dat thema komt terug in wat je samen doet, zoals praten, lezen, bouwen, knutselen, bewegen en ontdekken. Alles hangt met elkaar samen en vormt één geheel, in plaats van losse activiteiten.",
+
+    "Deze manier van werken past vooral goed bij jonge kinderen. Zij leren door ervaringen op te doen, dingen uit te proberen en te herhalen. Spel kan hierin een rol spelen, maar het gaat niet alleen om spel. Het belangrijkste is dat kinderen betekenis geven aan wat ze doen en daarvan leren.",
+
+    "Thematisch werken zorgt ervoor dat kinderen makkelijker betrokken raken. Een goed gekozen thema sluit aan bij wat kinderen herkennen uit hun eigen leven. Dat maakt hen nieuwsgierig en gemotiveerd om mee te doen. Door steeds met hetzelfde onderwerp bezig te zijn, krijgen kinderen de kans om woorden, ideeën en inzichten te verdiepen.",
+
+    "Een thema kies je daarom het liefst dichtbij de leefwereld van kinderen. Dat kan iets zijn wat hen bezighoudt, iets actueels of een alledaagse situatie. Ook een verhaal of prentenboek kan helpen om een thema op gang te brengen en richting te geven.",
+
+    { 
+      type: "highlight", 
+      text: "Een thema hoeft niet leuk te zijn, maar moet kinderen iets te leren en ontdekken geven." 
+    },
+
+    "Binnen een thema kun je verschillende activiteiten aanbieden. Denk aan gesprekken, onderzoek, creatieve opdrachten, bouwen, bewegen en het bekijken of voorlezen van boeken. Niet alles hoeft tegelijk of op dezelfde manier; het gaat erom dat activiteiten betekenisvol passen bij het thema.",
+
+    "Het plannen van een thema hoeft niet strak vast te liggen. Een thema duurt zo lang als nodig is, zolang er herhaling en verdieping plaatsvindt. Door te kijken naar wat kinderen laten zien en waar ze in blijven hangen, kun je het aanbod aanpassen.",
+
+    "Wanneer kinderen steeds terugkomen op hetzelfde onderwerp, erover praten of ermee bezig blijven, laat dat zien dat het thema betekenisvol voor hen is. Dan vindt leren plaats op een manier die aansluit bij hun ontwikkeling.",
+
+    { 
+      type: "highlight", 
+      text: "Thematisch werken draait niet om perfect plannen, maar om kijken, volgen en verdiepen." 
+    },
+
+    "Wil je meer achtergrondinformatie of verdieping over thematisch werken met jonge kinderen, dan kun je de uitgebreide handreiking downloaden via de website van SLO."
+  ]
+},
 
 
   
