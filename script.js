@@ -110,8 +110,8 @@ const blogPreviews = [
   title: "Thematisch werken met jonge kinderen",
   excerpt: "Thematisch werken betekent dat je een tijdje met één onderwerp bezig bent. Dat thema komt terug in spelen, praten, lezen, bouwen en ontdekken. Alles hoort bij elkaar en helpt kinderen om betekenisvol te leren.",
   slug: "Thematisch-werken-met-jonge-kinderen",
-  thumbnailUrl: "PASTE_HIER_JE_COVER_URL",
-  imageUrl: "PASTE_HIER_JE_COVER_URL",
+  thumbnailUrl: "https://umpreneur.github.io/ummischool/thema.png",
+  imageUrl: "https://umpreneur.github.io/ummischool/thema.png",
 },
 
 
@@ -533,11 +533,11 @@ content: [
   ]
 },
 
-"thematisch-werken-met-jonge-kinderen": {
+"Thematisch-werken-met-jonge-kinderen": {
   title: "Thematisch werken met jonge kinderen",
   category: "Onderwijs & Opvoeding",
-  headerImageUrl: "https://umpreneur.github.io/ummischool/blog-thematisch-werken.png",
-  imageUrl: "https://umpreneur.github.io/ummischool/blog-thematisch-werken.png",
+  headerImageUrl: "https://umpreneur.github.io/ummischool/thema.png",
+  imageUrl: "https://umpreneur.github.io/ummischool/thema.png",
 
   content: [
     "Thematisch werken betekent dat je een periode lang met één onderwerp bezig bent: het thema. Dat thema komt terug in wat je samen doet, zoals praten, lezen, bouwen, knutselen, bewegen en ontdekken. Alles hangt met elkaar samen en vormt één geheel, in plaats van losse activiteiten.",
