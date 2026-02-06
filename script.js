@@ -576,7 +576,7 @@ content: [
   headerImageUrl: "https://umpreneur.github.io/ummischool/cognitieve-executieve-functies.png",
   imageUrl: "https://umpreneur.github.io/ummischool/cognitieve-executieve-functies.png",
   content: [
-    "Kinderen zijn de hele dag bezig met leren. Soms gaat dat vanzelf, soms loopt het stroef. Ze nemen dingen in zich op, reageren op wat er gebeurt en proberen hun weg te vinden in spel, school en contact met anderen. Dat leren gaat niet alleen over wat ze weten, maar ook over hoe hun brein alles aanstuurt wat ze doen.",
+    "Kinderen zijn de hele dag bezig met leren. Soms gaat dat vanzelf, soms loopt het stroef. Ze nemen dingen in zich op, reageren op wat er gebeurt en proberen hun weg te vinden thuis, buiten en contact met anderen. Dat leren gaat niet alleen over wat ze weten, maar ook over hoe hun brein alles aanstuurt wat ze doen.",
 
     "Cognitieve functies hebben te maken met denken en begrijpen. Ze helpen een kind om te luisteren, dingen te onthouden, verbanden te zien en betekenis te geven aan wat het meemaakt. Dankzij deze functies kan een kind een verhaal volgen, een puzzel maken of begrijpen wat er van hem of haar verwacht wordt. Ze vormen de basis van het denken.",
 
@@ -584,7 +584,7 @@ content: [
 
     { 
       type: "highlight",
-      text: "Executieve functies sturen het denken en handelen, juist in gewone dagelijkse situaties."
+      text: "Begrijpen en weten is cognitief, het inzetten en sturen daarvan is executief."
     },
 
     "De belangrijkste executieve functies zijn:" +
@@ -603,10 +603,6 @@ content: [
 
     "Ontwikkeling gebeurt vooral in gewone momenten. In spel, in gesprekken, in samen dingen doen en stap voor stap oefenen. Door herhaling en duidelijke verwachtingen krijgt het brein houvast om verder te groeien.",
 
-    { 
-      type: "highlight",
-      text: "Niet alles hoeft meteen te lukken. Soms is een kind simpelweg nog aan het leren hoe het zijn eigen denken en doen kan sturen."
-    },
   ]
 },
   
