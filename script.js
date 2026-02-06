@@ -540,9 +540,8 @@ content: [
   imageUrl: "https://umpreneur.github.io/ummischool/thema.png",
 
   content: [
-    "Thematisch werken betekent dat je een periode lang met één onderwerp bezig bent: het thema. Dat thema komt terug in wat je samen doet, zoals praten, lezen, bouwen, knutselen, bewegen en ontdekken. Alles hangt met elkaar samen en vormt één geheel, in plaats van losse activiteiten.",
-
-    "Deze manier van werken past vooral goed bij jonge kinderen. Zij leren door ervaringen op te doen, dingen uit te proberen en te herhalen. Spel kan hierin een rol spelen, maar het gaat niet alleen om spel. Het belangrijkste is dat kinderen betekenis geven aan wat ze doen en daarvan leren.",
+"Thematisch werken betekent dat er gedurende een periode wordt gewerkt aan één onderwerp: het thema. <br>Dit thema kan terugkomen in verschillende activiteiten en leermomenten. Soms worden meerdere vakken betrokken, soms staat het thema op zichzelf. Er is ruimte om aan te passen aan wat past en nodig is.",
+    "Deze manier van werken past vooral goed bij jonge kinderen. Zij leren door ervaringen op te doen, dingen uit te proberen en te herhalen. Het belangrijkste is dat kinderen betekenis geven aan wat ze doen en daarvan leren.",
 
     "Thematisch werken zorgt ervoor dat kinderen makkelijker betrokken raken. Een goed gekozen thema sluit aan bij wat kinderen herkennen uit hun eigen leven. Dat maakt hen nieuwsgierig en gemotiveerd om mee te doen. Door steeds met hetzelfde onderwerp bezig te zijn, krijgen kinderen de kans om woorden, ideeën en inzichten te verdiepen.",
 
