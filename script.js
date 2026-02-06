@@ -113,7 +113,14 @@ const blogPreviews = [
   thumbnailUrl: "https://umpreneur.github.io/ummischool/thema.png",
   imageUrl: "https://umpreneur.github.io/ummischool/thema.png",
 },
-
+{
+  id: "14",
+  title: "Denken en Doen",
+  excerpt: "Leren gaat niet alleen over weten, maar over hoe het brein informatie verwerkt, keuzes maakt en gedrag aanstuurt in het dagelijks leven.",
+  slug: "denken-en-doen",
+  thumbnailUrl: "https://umpreneur.github.io/ummischool/excutieve.png",
+  imageUrl: "https://umpreneur.github.io/ummischool/executieve.png",
+},
 
 
 ];
