@@ -570,7 +570,45 @@ content: [
   ]
 },
 
+"denken-en-doen": {
+  title: "Cognitieve en Executieve Functies",
+  category: "Ontwikkeling",
+  headerImageUrl: "https://umpreneur.github.io/ummischool/cognitieve-executieve-functies.png",
+  imageUrl: "https://umpreneur.github.io/ummischool/cognitieve-executieve-functies.png",
+  content: [
+    "Kinderen zijn de hele dag bezig met leren. Soms gaat dat vanzelf, soms loopt het stroef. Ze nemen dingen in zich op, reageren op wat er gebeurt en proberen hun weg te vinden in spel, school en contact met anderen. Dat leren gaat niet alleen over wat ze weten, maar ook over hoe hun brein alles aanstuurt wat ze doen.",
 
+    "Cognitieve functies hebben te maken met denken en begrijpen. Ze helpen een kind om te luisteren, dingen te onthouden, verbanden te zien en betekenis te geven aan wat het meemaakt. Dankzij deze functies kan een kind een verhaal volgen, een puzzel maken of begrijpen wat er van hem of haar verwacht wordt. Ze vormen de basis van het denken.",
+
+    "Executieve functies zorgen ervoor dat dat denken ook echt gebruikt kan worden. Ze helpen een kind om te stoppen en even na te denken, om te beginnen aan een taak, om door te gaan als iets lastig is en om met emoties om te gaan wanneer iets niet lukt. Ze zijn niet altijd zichtbaar, maar spelen voortdurend mee in het dagelijks leven.",
+
+    { 
+      type: "highlight",
+      text: "Executieve functies sturen het denken en handelen, juist in gewone dagelijkse situaties."
+    },
+
+    "De belangrijkste executieve functies zijn:" +
+    "<ul>" +
+      "<li><strong>Inhibitie</strong>: impulsen kunnen remmen, wachten, niet direct reageren</li>" +
+      "<li><strong>Werkgeheugen</strong>: informatie tijdelijk vasthouden en ermee werken</li>" +
+      "<li><strong>Cognitieve flexibiliteit</strong>: kunnen schakelen tussen taken, regels of ideeën</li>" +
+      "<li><strong>Planning en organisatie</strong>: stappen vooruitdenken en ordenen</li>" +
+      "<li><strong>Emotieregulatie</strong>: omgaan met spanning, teleurstelling en frustratie</li>" +
+      "<li><strong>Taakinitiatie</strong>: kunnen beginnen aan een taak</li>" +
+      "<li><strong>Volgehouden aandacht</strong>: aandacht vasthouden ondanks afleiding</li>" +
+      "<li><strong>Zelfmonitoring</strong>: eigen gedrag en werk controleren en bijsturen</li>" +
+    "</ul>",
+
+    "Deze functies ontwikkelen zich niet allemaal tegelijk. Een kind kan veel begrijpen, maar toch moeite hebben met plannen, starten of volhouden. Dat verklaart waarom iets de ene dag wel lukt en de andere dag niet.",
+
+    "Ontwikkeling gebeurt vooral in gewone momenten. In spel, in gesprekken, in samen dingen doen en stap voor stap oefenen. Door herhaling en duidelijke verwachtingen krijgt het brein houvast om verder te groeien.",
+
+    { 
+      type: "highlight",
+      text: "Niet alles hoeft meteen te lukken. Soms is een kind simpelweg nog aan het leren hoe het zijn eigen denken en doen kan sturen."
+    },
+  ]
+},
   
 };
 
