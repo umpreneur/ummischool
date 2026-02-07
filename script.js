@@ -620,7 +620,7 @@ content: [
 },
 
 
-"Meerdere-kinderen-een-leerplek": {
+"Thuisonderwijs-met-meerdere-kinderen-makkelijker-maken": {
   title: "Meerdere kinderen, één leerplek",
   category: "Thuisonderwijs",
   headerImageUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
