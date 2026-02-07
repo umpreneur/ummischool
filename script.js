@@ -126,7 +126,7 @@ const blogPreviews = [
 
 
   {
-  id: "1",
+  id: "15",
   title: "Thuisonderwijs met meerdere kinderen",
   excerpt: "Thuisonderwijs met meerdere kinderen vraagt veel schakelen. Met kleine, slimme gewoontes—wachten leren, zelfstandig materiaal, jaloezie benoemen en kinderen betrekken—breng je meer rust en overzicht in je dag.",
   slug: "Thuisonderwijs-met-meerdere-kinderen-makkelijker-maken",
