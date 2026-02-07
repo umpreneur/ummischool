@@ -618,6 +618,47 @@ content: [
 
   ]
 },
+
+
+"Meerdere-kinderen-een-leerplek": {
+  title: "Meerdere kinderen, één leerplek",
+  category: "Thuisonderwijs",
+  headerImageUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
+  imageUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
+
+  content: [
+    "Thuisonderwijs met meerdere kinderen betekent vaak veel schakelen. De één heeft uitleg nodig, de ander wil aandacht, en jij probeert ondertussen het overzicht te houden. Als dat soms voelt als veel: je bent niet alleen.",
+
+    "Wat enorm helpt, is kinderen leren dat ze even mogen wachten tot jij bij hen komt. Dat klinkt simpel, maar wachten is iets wat kinderen echt moeten leren. Begin klein. Een paar minuten zelfstandig bezig zijn is al genoeg om dit rustig op te bouwen.",
+
+    "Zelfstandig bezig zijn gaat makkelijker als een kind weet wát het kan doen. Daarom is het fijn om spullen in huis te hebben die ze zelf kunnen pakken, zoals tekenen, klei, een puzzel of mini Loco. Zo kun jij even rustig met één kind zitten, terwijl de ander bezig is.",
+
+    "Wanneer één kind ouder is en meer aandacht krijgt bij het leren, kan dat jaloezie oproepen bij jongere kinderen. Zeker als ze dicht in leeftijd bij elkaar zitten en normaal veel samen spelen. Jongere kinderen willen die aandacht ook en willen vaak doen wat hun oudere broer of zus doet. Dat is heel normaal.",
+
+    "In plaats van dit tegen te houden, helpt het om jongere kinderen erbij te betrekken. Geef ze een potlood en papier en laat ze meedoen op hun eigen manier. Krassen is ook leren. Zo voelen ze zich gezien, zonder dat jij steeds hoeft te stoppen.",
+
+    "Kinderen kunnen bovendien veel van elkaar leren. Oudere kinderen vinden het vaak leuk om iets uit te leggen, en jongere kinderen kijken mee en doen na. Dat scheelt jou energie en versterkt tegelijk hun band.",
+
+    "Niet alles hoeft samen en niet alles hoeft apart. Soms werkt naast elkaar werken fijn, soms juist samen. Kijk per moment wat past, niet wat ‘zou moeten’.",
+
+    "En misschien wel het belangrijkste: neem de tijd. Haast maakt alles lastiger. Als er al frustratie is, wordt die alleen maar groter. Een rustiger tempo helpt niet alleen de kinderen, maar jou ook.",
+
+    { 
+      type: "highlight",
+      text: "Je hoeft dit niet perfect te doen. Als het soms rommelig voelt, betekent dat niet dat het niet werkt."
+    },
+
+    "Je bent bezig, je probeert, en dat is genoeg."
+  ]
+},
+
+
+
+
+
+
+
+
   
 };
 
