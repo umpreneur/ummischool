@@ -122,14 +122,11 @@ const blogPreviews = [
   imageUrl: "https://umpreneur.github.io/ummischool/executieve.png",
 },
 
-
-
-
   {
   id: "15",
   title: "Thuisonderwijs met meerdere kinderen",
   excerpt: "Thuisonderwijs met meerdere kinderen vraagt veel schakelen. Met kleine, slimme gewoontes—wachten leren, zelfstandig materiaal, jaloezie benoemen en kinderen betrekken—breng je meer rust en overzicht in je dag.",
-  slug: "Thuisonderwijs-met-meerdere-kinderen-makkelijker-maken",
+  slug: "Meerderekinderen",
   thumbnailUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
   imageUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
 
@@ -620,7 +617,7 @@ content: [
 },
 
 
-"Thuisonderwijs-met-meerdere-kinderen-makkelijker-maken": {
+"Meerderekinderen": {
   title: "Meerdere kinderen, één leerplek",
   category: "Thuisonderwijs",
   headerImageUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
