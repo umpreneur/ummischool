@@ -129,10 +129,20 @@ const blogPreviews = [
   slug: "Meerderekinderen",
   thumbnailUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
   imageUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
-
-
-    
   },
+  {
+id: "16",
+  title: "Adab en Akhlaaq",
+  excerpt: "Karakter wordt niet gevormd door één moment, maar door verhalen die blijven terugkomen, het geduld van Ayyub, het tawhied van Ibrahim en de vergeving van Yusufén door het waken over wat een kinderhart binnenkomt.",
+  slug: "Adab-en-Akhlaaq",
+  thumbnailUrl: "https://umpreneur.github.io/ummischool/blog2img.png",
+  imageUrl: "https://umpreneur.github.io/ummischool/blog2img.png",
+},
+
+
+
+
+  
 ];
 
 
@@ -650,7 +660,45 @@ content: [
 },
 
 
+"Adab-en-Akhlaaq": {
+  title: "Adab en Akhlaaq",
+  category: "Karaktervorming",
+  headerImageUrl: "https://umpreneur.github.io/ummischool/blog2img.png",
+  imageUrl: "https://umpreneur.github.io/ummischool/blog2img.png",
 
+  content: [
+    "<strong><i>“Voorwaar, jij bezit een verheven karakter.”</i></strong> (Qur’an 68:4)",
+
+    "In de islam begint opvoeding niet bij regels, maar bij het hart. <br>Niet bij wat een kind weet, maar bij wie een kind wordt.",
+    "Adab en akhlaaq zijn geen vakken. Ze zijn een manier van leven. Ze laten zien hoe iemand omgaat met Allah, met mensen en met zichzelf.",
+
+    "Karakter wordt niet gevormd door één gesprek of één correctie. Het groeit door wat een kind steeds opnieuw hoort, ziet en ervaart. Door woorden die terugkomen. Door gedrag dat bevestigd wordt. Door grenzen die beschermen in plaats van breken.",
+
+    "Daarom spelen verhalen zo’n grote rol. Niet om te vermaken, maar om richting te geven. De Qur’an herhaalt verhalen niet zonder reden. Harten hebben herhaling nodig om te rijpen.",
+
+    "Het geduld van Ayyub leert dat sabr geen stilte zonder pijn is, maar vasthouden aan Allah wanneer het moeilijk blijft. <br>Het tawhied van Ibrahim laat zien dat waarheid soms betekent: alleen durven staan. <br>En de vergeving van Yusuf toont dat waardigheid niet verloren gaat door loslaten, maar juist wordt versterkt.",
+
+    { 
+      type: "highlight",
+      text: "Wat blijft terugkomen, wordt een innerlijk kompas."
+    },
+
+    "Maar adab groeit niet alleen door verhalen. Het wordt bevestigd in het dagelijks leven. In hoe conflicten worden benaderd. In hoe fouten worden hersteld. In hoe zachtheid wordt gekozen boven vernedering.",
+
+    "Naast opbouwen vraagt karaktervorming ook om waken. Niet elke invloed voedt het hart. Woorden, beelden, omgevingen en gezelschap vormen mee — vaak stiller dan verwacht.",
+
+    "Waken betekent niet afsluiten van de wereld, maar bewust begeleiden. Niet alles wat normaal is, is neutraal. En niet alles wat herhaald wordt, is onschuldig.",
+
+    { 
+      type: "highlight",
+      text: "Wie adab wil laten groeien, waakt over wat het hart binnenkomt."
+    },
+
+    "Daarom begrepen de vrome moeders van vroeger dat kennis alleen niet genoeg was. De moeder van Imam Malik zei tegen haar zoon dat hij eerst adab moest leren, vóór kennis. Omdat karakter wortels nodig heeft.",
+
+    "Wanneer verhalen blijven terugkomen, gedrag dit bevestigt en het hart wordt beschermd, wordt adab geen instructie — maar een manier van zijn."
+  ]
+},
 
 
 
