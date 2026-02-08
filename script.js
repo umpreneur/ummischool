@@ -130,6 +130,7 @@ const blogPreviews = [
   thumbnailUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
   imageUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
   },
+  
   {
 id: "16",
   title: "Adab en Akhlaaq",
@@ -140,7 +141,14 @@ id: "16",
 },
 
 
-
+{
+  "id": "17",
+  "title": "Thuisonderwijs Is Een Amanah",
+  "excerpt": "Onderwijs is een recht. Wie kiest voor thuisonderwijs draagt volledige verantwoordelijkheid, ook als niemand meekijkt.",
+  "slug": "thuisonderwijs-is-een-amanah",
+  "thumbnailUrl": "https://umpreneur.github.io/ummischool/blog5img.png",
+  "imageUrl": "https://umpreneur.github.io/ummischool/blog5img.png"
+}
 
   
 ];
@@ -668,8 +676,6 @@ content: [
 
   content: [
     "<strong><i>“Voorwaar, jij bezit een verheven karakter.”</i></strong> (Qur’an 68:4)",
-
-    "In de islam begint opvoeding niet bij regels, maar bij het hart. <br>Niet bij wat een kind weet, maar bij wie een kind wordt.",
     "Adab en akhlaaq zijn geen vakken. Ze zijn een manier van leven. Ze laten zien hoe iemand omgaat met Allah, met mensen en met zichzelf.",
 
     "Karakter wordt niet gevormd door één gesprek of één correctie. Het groeit door wat een kind steeds opnieuw hoort, ziet en ervaart. Door woorden die terugkomen. Door gedrag dat bevestigd wordt. Door grenzen die beschermen in plaats van breken.",
@@ -701,6 +707,26 @@ content: [
 },
 
 
+"thuisonderwijs-is-een-amanah": {
+  title: "Thuisonderwijs Is Een Amanah",
+  category: "Reflectie",
+  headerImageUrl: "https://umpreneur.github.io/ummischool/blog5img.png",
+  imageUrl: "https://umpreneur.github.io/ummischool/blog5img.png",
+
+  content: [
+    "Thuisonderwijs is geen lifestylekeuze en geen pedagogisch experiment. <strong>Onderwijs is een recht.</strong> Dat recht verdwijnt niet zodra een kind thuis leert — het komt volledig op de schouders van de ouders te liggen.",
+    "Wie kiest voor thuisonderwijs neemt een <strong>amanah</strong> op zich. En een amanah is geen gevoel, maar een verplichting.",
+    "In de islam is kennis geen bijzaak. Het eerste woord van de openbaring was <strong>iqra</strong> — lees. Kennis vraagt inspanning, structuur en overdracht. Zonder dat blijft thuisonderwijs een naam zonder inhoud.",
+    "Wat thuisonderwijs confronterend maakt, is dat bijna alle externe controle wegvalt. Geen leerkrachten, geen vaste toetsen, geen systeem dat ingrijpt als het misgaat. Dat betekent niet dat er minder verantwoordelijkheid is. Het betekent dat ouders zichzelf moeten controleren.",
+    { type: "highlight", text: "Misschien kijkt niemand mee. Maar dat is geen excuus. Het maakt de verantwoordelijkheid juist zwaarder." },
+    "Goede bedoelingen zijn onvoldoende. Liefde is geen lesmethode. Vrijheid is geen curriculum. Een kind leert niet vanzelf lezen, schrijven of denken omdat de omgeving ‘goed bedoeld’ is.",
+    "Thuisonderwijs vraagt dat ouders ondernemen: tijd maken en bewaken, plannen, herhalen, evalueren — en eerlijk durven bijsturen wanneer iets niet werkt.",
+    "Dat vraagt ook om volwassenheid: erkennen waar kennis of vaardigheden ontbreken, en dan hulp inschakelen in plaats van hopen dat het vanzelf goedkomt.",
+    "Niet elk kind leert hetzelfde en niet elk traject ziet er hetzelfde uit. Maar elk kind heeft recht op onderwijs dat <strong>daadwerkelijk</strong> plaatsvindt — niet alleen op intentie.",
+    { type: "highlight", text: "Amanah zit niet in woorden, maar in daden. Niet in hoe thuisonderwijs klinkt, maar in wat er dagelijks gebeurt." },
+    "Dit is geen oordeel en geen checklist. Wel een spiegel: <strong>als onderwijs een recht is, wat wordt er vandaag concreet gedaan om dat recht waar te maken?</strong>"
+  ]
+},
 
 
 
