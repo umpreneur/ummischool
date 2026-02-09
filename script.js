@@ -653,6 +653,7 @@ content: [
     "In plaats van dit tegen te houden, helpt het om jongere kinderen erbij te betrekken. Geef ze een potlood en papier en laat ze meedoen op hun eigen manier. Krassen is ook leren. Zo voelen ze zich gezien, zonder dat jij steeds hoeft te stoppen.",
 
     "Kinderen kunnen bovendien veel van elkaar leren. Oudere kinderen vinden het vaak leuk om iets uit te leggen, en jongere kinderen kijken mee en doen na. Dat scheelt jou energie en versterkt tegelijk hun band.",
+    "Wat voor ons goed werkt, is dat we tegelijk met hetzelfde vak bezig zijn, ieder op zijn eigen niveau. We beginnen vaak met iets gezamenlijks, zoals voorlezen. Daarna gaat ieder kind verder met een taak die past bij zijn of haar niveau: de één leest met mij, de ander schrijft, knipt of werkt op een andere manier met taal. Zo is iedereen met hetzelfde vak bezig, maar krijgt ieder kind wat het nodig heeft.",
 
     "Niet alles hoeft samen en niet alles hoeft apart. Soms werkt naast elkaar werken fijn, soms juist samen. Kijk per moment wat past, niet wat ‘zou moeten’.",
 
@@ -669,7 +670,6 @@ content: [
   imageUrl: "https://umpreneur.github.io/ummischool/blog2img.png",
 
   content: [
-    "<strong><i>“Voorwaar, jij bezit een verheven karakter.”</i></strong> (Qur’an 68:4)",
     "Adab en akhlaaq zijn geen vakken. Ze zijn een manier van leven. Ze laten zien hoe iemand omgaat met Allah, met mensen en met zichzelf.",
 
     "Karakter wordt niet gevormd door één gesprek of één correctie. Het groeit door wat een kind steeds opnieuw hoort, ziet en ervaart. Door woorden die terugkomen. Door gedrag dat bevestigd wordt. Door grenzen die beschermen in plaats van breken.",
@@ -685,18 +685,13 @@ content: [
 
     "Maar adab groeit niet alleen door verhalen. Het wordt bevestigd in het dagelijks leven. In hoe conflicten worden benaderd. In hoe fouten worden hersteld. In hoe zachtheid wordt gekozen boven vernedering.",
 
-    "Naast opbouwen vraagt karaktervorming ook om waken. Niet elke invloed voedt het hart. Woorden, beelden, omgevingen en gezelschap vormen mee — vaak stiller dan verwacht.",
+    "Naast opbouwen vraagt karaktervorming ook om waken. Niet elke invloed voedt het hart. Woorden, beelden, omgevingen en gezelschap vormen mee vaak stiller dan verwacht.",
 
-    "Waken betekent niet afsluiten van de wereld, maar bewust begeleiden. Niet alles wat normaal is, is neutraal. En niet alles wat herhaald wordt, is onschuldig.",
-
-    { 
-      type: "highlight",
-      text: "Wie adab wil laten groeien, waakt over wat het hart binnenkomt."
-    },
+    "Waken betekent niet afsluiten van de wereld, maar bewust begeleiden.",
 
     "Daarom begrepen de vrome moeders van vroeger dat kennis alleen niet genoeg was. De moeder van Imam Malik zei tegen haar zoon dat hij eerst adab moest leren, vóór kennis. Omdat karakter wortels nodig heeft.",
 
-    "Wanneer verhalen blijven terugkomen, gedrag dit bevestigt en het hart wordt beschermd, wordt adab geen instructie — maar een manier van zijn."
+    "Wanneer verhalen blijven terugkomen, gedrag dit bevestigt en het hart wordt beschermd, wordt adab geen instructie maar een manier van zijn."
   ]
 },
 
