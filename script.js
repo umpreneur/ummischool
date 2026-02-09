@@ -711,7 +711,7 @@ content: [
 
     "Thuisonderwijs vraagt dat ouders ondernemen: tijd maken en bewaken, plannen, herhalen, evalueren — en eerlijk durven bijsturen wanneer iets niet werkt.",
     "Dat vraagt ook om volwassenheid: erkennen waar kennis of vaardigheden ontbreken, en dan hulp inschakelen in plaats van hopen dat het vanzelf goedkomt.",
-    "Niet elk kind leert hetzelfde en niet elk traject ziet er hetzelfde uit. Maar elk kind heeft recht op onderwijs dat <strong>daadwerkelijk</strong> plaatsvindt — niet alleen op intentie.",
+    "Niet elk kind leert hetzelfde en niet elk traject ziet er hetzelfde uit. Maar elk kind heeft recht op onderwijs dat <strong>daadwerkelijk</strong> plaatsvindt niet alleen op intentie.",
     { type: "highlight", text: "Amanah zit niet in woorden, maar in daden. Niet in hoe thuisonderwijs klinkt, maar in wat er dagelijks gebeurt." },
     "Dit is geen oordeel en geen checklist. Wel een spiegel: <strong>als onderwijs een recht is, wat wordt er vandaag concreet gedaan om dat recht waar te maken?</strong>"
   ]
