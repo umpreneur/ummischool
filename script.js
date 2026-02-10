@@ -704,7 +704,7 @@ content: [
 
   content: [
     "Thuisonderwijs is geen lifestylekeuze en geen pedagogisch experiment. <strong>Onderwijs is een recht.</strong> Dat recht verdwijnt niet zodra een kind thuis leert het komt volledig op de schouders van de ouders te liggen.",
-    "Wie kiest voor thuisonderwijs neemt een grote <strong>amanah</strong> op zich.
+    "Wie kiest voor thuisonderwijs neemt een grote <strong>amanah</strong> op zich.",
     "In de islam is kennis geen bijzaak. Het eerste woord van de openbaring was <strong>iqra</strong> lees. Kennis vraagt inspanning, structuur en overdracht. Zonder dat blijft thuisonderwijs een naam zonder inhoud.",
     "Wat thuisonderwijs confronterend maakt, is dat bijna alle externe controle wegvalt. Geen vaste toetsen, geen systeem dat ingrijpt als het misgaat. Dat betekent niet dat er minder verantwoordelijkheid is. Het betekent dat ouders zichzelf moeten controleren.",
     { type: "highlight", text:     "Goede bedoelingen zijn onvoldoende. Liefde is geen lesmethode. Vrijheid is geen curriculum. Een kind leert niet vanzelf lezen, schrijven of denken omdat de omgeving ‘goed bedoeld’ is." },
@@ -713,7 +713,7 @@ content: [
     "Dat vraagt ook om volwassenheid: erkennen waar kennis of vaardigheden ontbreken, en dan hulp inschakelen in plaats van hopen dat het vanzelf goedkomt.",
     "Niet elk kind leert hetzelfde en niet elk traject ziet er hetzelfde uit. Maar elk kind heeft recht op onderwijs dat <strong>daadwerkelijk</strong> plaatsvindt niet alleen op intentie.",
     { type: "highlight", text: "Amanah zit niet in woorden, maar in daden. Niet in hoe thuisonderwijs klinkt, maar in wat er dagelijks gebeurt." },
-    "Dit is geen oordeel en geen checklist. Wel een spiegel: <strong>als onderwijs een recht is, wat wordt er vandaag concreet gedaan om dat recht waar te maken?</strong>"
+    "Dit is geen oordeel en geen checklist. Wel een spiegel: <strong>als onderwijs een recht is, wat wordt er vandaag concreet gedaan om dat recht waar te maken?</strong>",
   ]
 },
 
