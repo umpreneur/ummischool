@@ -100,8 +100,8 @@ const blogPreviews = [
   title: "Spelenderwijs leren",
   excerpt: "Waarom spel belangrijk is, maar niet alles hoeft te zijn. Over leren, oefenen en volhouden.",
   slug: "spelenderwijs-leren",
-  thumbnailUrl: "https://umpreneur.github.io/ummischool/blog2img.png",
-  imageUrl: "https://umpreneur.github.io/ummischool/blog2img.png",
+  thumbnailUrl: "https://umpreneur.github.io/ummischool/spelenderwijze.png",
+  imageUrl: "https://umpreneur.github.io/ummischool/spelenderwijze.png",
 },
 
  
@@ -127,8 +127,8 @@ const blogPreviews = [
   title: "Thuisonderwijs met meerdere kinderen",
   excerpt: "Thuisonderwijs met meerdere kinderen vraagt veel schakelen. Met kleine, slimme gewoontes—wachten leren, zelfstandig materiaal, jaloezie benoemen en kinderen betrekken—breng je meer rust en overzicht in je dag.",
   slug: "Meerderekinderen",
-  thumbnailUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
-  imageUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
+  thumbnailUrl: "https://umpreneur.github.io/ummischool/Meerdere.png",
+  imageUrl: "https://umpreneur.github.io/ummischool/Meerdere.png",
   },
   
   {
@@ -136,8 +136,8 @@ id: "16",
   title: "Adab en Akhlaaq",
   excerpt: "Karakter wordt niet gevormd door één moment, maar door verhalen die blijven terugkomen, het geduld van Ayyub, het tawhied van Ibrahim en de vergeving van Yusufén door het waken over wat een kinderhart binnenkomt.",
   slug: "Adab-en-Akhlaaq",
-  thumbnailUrl: "https://umpreneur.github.io/ummischool/blog2img.png",
-  imageUrl: "https://umpreneur.github.io/ummischool/blog2img.png",
+  thumbnailUrl: "https://umpreneur.github.io/ummischool/Adab.png",
+  imageUrl: "https://umpreneur.github.io/ummischool/Adab.png",
 },
 
 
@@ -146,8 +146,8 @@ id: "16",
   "title": "Thuisonderwijs Is Een Amanah",
   "excerpt": "Onderwijs is een recht. Wie kiest voor thuisonderwijs draagt volledige verantwoordelijkheid, ook als niemand meekijkt.",
   "slug": "thuisonderwijs-is-een-amanah",
-  "thumbnailUrl": "https://umpreneur.github.io/ummischool/blog5img.png",
-  "imageUrl": "https://umpreneur.github.io/ummischool/blog5img.png"
+  "thumbnailUrl": "https://umpreneur.github.io/ummischool/amanah.png",
+  "imageUrl": "https://umpreneur.github.io/ummischool/amanah.png"
 }
 
   
@@ -538,8 +538,8 @@ content: [
 "spelenderwijs-leren": {
   title: "Spelenderwijs leren",
   category: "Onderwijs & Opvoeding",
-  headerImageUrl: "https://umpreneur.github.io/ummischool/blog2img.png",
-  imageUrl: "https://umpreneur.github.io/ummischool/blog2img.png",
+  headerImageUrl: "https://umpreneur.github.io/ummischool/spelenderwijze.png",
+  imageUrl: "https://umpreneur.github.io/ummischool/spelenderwijze.png",
 
   content: [
     "Spelenderwijs leren betekent dat kinderen leren door te spelen, te doen en te ontdekken. In plaats van alleen te luisteren naar uitleg of oefeningen te maken, worden ze actief betrokken bij wat ze leren. Spel helpt kinderen nieuwsgierig te blijven, dingen uit te proberen en fouten te durven maken. Het leren gebeurt vaak vanzelf, zonder dat kinderen het gevoel hebben dat ze moeten presteren.",
@@ -638,8 +638,8 @@ content: [
 "Meerderekinderen": {
   title: "Meerdere kinderen, één leerplek",
   category: "Thuisonderwijs",
-  headerImageUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
-  imageUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
+  headerImageUrl: "https://umpreneur.github.io/ummischool/Meerdere.png",
+  imageUrl: "https://umpreneur.github.io/ummischool/Meerdere.png",
 
   content: [
     "Thuisonderwijs met meerdere kinderen betekent vaak veel schakelen. De één heeft uitleg nodig, de ander wil aandacht, en jij probeert ondertussen het overzicht te houden. Als dat soms voelt als veel: je bent niet alleen.",
@@ -666,8 +666,8 @@ content: [
 "Adab-en-Akhlaaq": {
   title: "Adab en Akhlaaq",
   category: "Karaktervorming",
-  headerImageUrl: "https://umpreneur.github.io/ummischool/blog2img.png",
-  imageUrl: "https://umpreneur.github.io/ummischool/blog2img.png",
+  headerImageUrl: "https://umpreneur.github.io/ummischool/Adab.png",
+  imageUrl: "https://umpreneur.github.io/ummischool/Adab.png",
 
   content: [
     "Adab en akhlaaq zijn geen vakken. Ze zijn een manier van leven. Ze laten zien hoe iemand omgaat met Allah, met mensen en met zichzelf.",
@@ -699,8 +699,8 @@ content: [
 "thuisonderwijs-is-een-amanah": {
   title: "Thuisonderwijs Is Een Amanah",
   category: "Reflectie",
-  headerImageUrl: "https://umpreneur.github.io/ummischool/blog5img.png",
-  imageUrl: "https://umpreneur.github.io/ummischool/blog5img.png",
+  headerImageUrl: "https://umpreneur.github.io/ummischool/amanah.png",
+  imageUrl: "https://umpreneur.github.io/ummischool/amanah.png",
 
   content: [
     "Thuisonderwijs is geen lifestylekeuze en geen pedagogisch experiment. <strong>Onderwijs is een recht.</strong> Dat recht verdwijnt niet zodra een kind thuis leert het komt volledig op de schouders van de ouders te liggen.",
