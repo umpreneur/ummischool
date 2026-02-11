@@ -146,8 +146,8 @@ id: "16",
   "title": "Thuisonderwijs Is Een Amanah",
   "excerpt": "Onderwijs is een recht. Wie kiest voor thuisonderwijs draagt volledige verantwoordelijkheid, ook als niemand meekijkt.",
   "slug": "thuisonderwijs-is-een-amanah",
-  "thumbnailUrl": "https://umpreneur.github.io/ummischool/amanah.png",
-  "imageUrl": "https://umpreneur.github.io/ummischool/amanah.png"
+  "thumbnailUrl": "https://umpreneur.github.io/ummischool/amanah1.png",
+  "imageUrl": "https://umpreneur.github.io/ummischool/amanah1.png"
 }
 
   
@@ -699,8 +699,8 @@ content: [
 "thuisonderwijs-is-een-amanah": {
   title: "Thuisonderwijs Is Een Amanah",
   category: "Reflectie",
-  headerImageUrl: "https://umpreneur.github.io/ummischool/amanah.png",
-  imageUrl: "https://umpreneur.github.io/ummischool/amanah.png",
+  headerImageUrl: "https://umpreneur.github.io/ummischool/amanah1.png",
+  imageUrl: "https://umpreneur.github.io/ummischool/amanah1.png",
 
   content: [
     "Thuisonderwijs is geen lifestylekeuze en geen pedagogisch experiment. <strong>Onderwijs is een recht.</strong> Dat recht verdwijnt niet zodra een kind thuis leert het komt volledig op de schouders van de ouders te liggen.",
