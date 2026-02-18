@@ -148,9 +148,17 @@ id: "16",
   "slug": "thuisonderwijs-is-een-amanah",
   "thumbnailUrl": "https://umpreneur.github.io/ummischool/amanah1.png",
   "imageUrl": "https://umpreneur.github.io/ummischool/amanah1.png"
-}
+},
 
-  
+  {
+  id: "8",
+  title: "Leren lezen thuis",
+  excerpt:
+    "Technisch lezen is de basis: letters zien, klanken maken, en woorden bouwen. Met rust, herhaling en haalbare oefening groeit vlot lezen vanzelf.",
+  slug: "Leren-lezen-thuis",
+  thumbnailUrl: "",
+  imageUrl: "",
+},
 ];
 
 
@@ -717,7 +725,29 @@ content: [
   ]
 },
 
-
+"Leren-lezen-thuis": {
+  title: "Leren lezen thuis",
+  category: "Onderwijs",
+  headerImageUrl: "",
+  imageUrl: "",
+  content: [
+    "Er zijn verschillende soorten lezen. Eerst is er technisch lezen: letters zien en er klanken van maken, zodat er een woord ontstaat. Dat is de bodem waarop alles staat. Daarna groeit begrijpend lezen: snappen wat er staat. En natuurlijk is er lezen voor plezier: samen in een verhaal duiken, lachen om een grap, nieuwsgierig worden. Als woorden lezen makkelijker wordt, komt ook vloeiend lezen: minder hakkend, met pauzes en een fijne toon.",
+    "En precies daarom draait het begin om rust en herhaling. Vloeiend lezen ontstaat pas wanneer woorden lezen niet meer voelt als zwaar werk. Als het hoofd niet meer bezig is met elke letter, komt er ruimte voor tempo, begrip en plezier.",
+    "Dan de vraag die bijna iedereen thuis tegenkomt: beginnen met letternamen of met letterklanken? Bij jonge kinderen (peuters en jonge kleuters) is het logisch om te starten met letternamen. Letters worden dan iets vertrouwds: de M van mama, de eerste letter van de eigen naam. Dat is speels en veilig.",
+    "Maar zodra een kind echt woorden wil leren lezen, verschuift het. Dan is de letterklank nodig, omdat woorden niet gebouwd worden met “em” en “en”, maar met “mmm” en “nnn”. Klanken zijn het gereedschap waarmee een kind woorden kan maken.",
+    "Vroeger was lezenles vaak heel simpel: letters leren, klanken oefenen, woordjes hakken en plakken, hardop lezen en veel herhalen. Steeds hetzelfde kunstje, totdat het vanzelf ging. Dat gaf rust en zekerheid: kinderen leerden woorden echt lezen, niet raden.",
+    "Soms lijkt het alsof er tegenwoordig “meer” nodig is: visueel, auditief, allerlei manieren. Maar voor technisch leren lezen blijft de kern hetzelfde. Alleen: sommige kinderen hebben extra steun nodig bij één stukje van de ketting. Dan is het handig om te kijken waar het vastloopt: bij kijken (letters goed zien en onderscheiden), bij horen (klanken in woorden herkennen en samenvoegen), of bij doen (letters vormen, schrijven, voelen en herhalen zodat het blijft hangen).",
+    { type: "highlight", text: "Rust + herhaling + haalbare woordjes geven vaak de snelste groei, zonder druk." },
+    "Een methode zoals Veilig leren lezen past bij die klassieke aanpak omdat het precies dat doet: stap voor stap letters aanbieden, meteen oefenen in haalbare woorden en zinnen, en steeds terug laten komen wat al geleerd is. Niet om het “druk” te maken, maar om ervoor te zorgen dat een kind niet hoeft te gokken.",
+    "Een beginnende lezer heeft succesmomenten nodig: dit kan echt gelezen worden. En van die succesmomenten wordt een kind sterk.",
+    { type: "highlight", text: "Letternaam om over letters te praten. Letterklank om te lezen." },
+    "Materialen:",
+    "Leestrainer (VLL): https://leestrainer.nl/vll%20nieuw/overzicht%20kernen/index.html",
+    "Juf Cindy (VLL oefenmateriaal): https://samenvooronderwijs.com/Home/Shop/Juf-Cindy",
+    "Kleuteridee (ABC letters): https://kleuteridee.nl/downloads-2/abc-letters/",
+    "De Zolderschool (YouTube): https://www.youtube.com/@dezolderschool"
+  ]
+},
 
   
 };
