@@ -736,7 +736,7 @@ content: [
        { type: "highlight", text: "Als woorden herkennen makkelijker wordt, komt er ruimte in het hoofd. Ruimte voor tempo. Voor begrip. En vooral: voor leesplezier." },
     
 
-"<strong>Begin je met de naam van de letter? Of met de klank?</strong>"
+"<strong>Begin je met de naam van de letter? Of met de klank?</strong>",
 
 "Bij jonge kinderen, peuters en jonge kleuters is het heel logisch om te starten met de letternamen. Letters worden dan iets vertrouwds. De M van mama. De eerste letter van hun eigen naam. Dat voelt speels en veilig. Het gaat nog niet om lezen, maar om herkennen. <br>Zodra je kind écht woorden gaat lezen, verandert er iets. Dan worden de klanken belangrijk. Want woorden maak je niet met “em” en “en”, maar met “mmm” en “nnn”. Klanken zijn eigenlijk het gereedschap. Daarmee bouwt een kind woorden. Zonder klanken kun je geen woord in elkaar zetten.",
 
