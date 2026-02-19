@@ -156,8 +156,8 @@ id: "16",
   excerpt:
     "Technisch lezen is de basis: letters zien, klanken maken, en woorden bouwen. Met rust, herhaling en haalbare oefening groeit vlot lezen vanzelf.",
   slug: "Leren-lezen-thuis",
-  thumbnailUrl: "",
-  imageUrl: "",
+   thumbnailUrl: "https://umpreneur.github.io/ummischool/Lezen.png",
+    imageUrl: "https://umpreneur.github.io/ummischool/Lezen.png",
 },
 ];
 
@@ -728,11 +728,10 @@ content: [
 "Leren-lezen-thuis": {
   title: "Leren lezen thuis",
   category: "Onderwijs",
-  headerImageUrl: "",
-  imageUrl: "",
+  headerImageUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
+  imageUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
   content: [
-    "Er zijn verschillende soorten lezen. Eerst is er technisch lezen: letters zien en er klanken van maken, zodat er een woord ontstaat. Dat is de bodem waarop alles staat. Daarna groeit begrijpend lezen: snappen wat er staat. En natuurlijk is er lezen voor plezier: samen in een verhaal duiken, lachen om een grap, nieuwsgierig worden. Als woorden lezen makkelijker wordt, komt ook vloeiend lezen: minder hakkend, met pauzes en een fijne toon.",
-    "En precies daarom draait het begin om rust en herhaling. Vloeiend lezen ontstaat pas wanneer woorden lezen niet meer voelt als zwaar werk. Als het hoofd niet meer bezig is met elke letter, komt er ruimte voor tempo, begrip en plezier.",
+    "Lezen lijkt soms iets heel groots. Maar eigenlijk begint het heel klein. <br>Eerst leert een kind letters herkennen. Die letters krijgen klanken. En die klanken worden samen een woord. Dat noemen we technisch lezen. Het is misschien niet het leukste stukje, maar het is wél de basis. Zonder die basis wordt alles wat daarna komt moeilijker. <br>Pas als dat steeds makkelijker gaat, ontstaat er ruimte voor de volgende stap: begrijpen wat er staat. Dan leest je kind niet alleen de woorden, maar snapt het ook echt het verhaal of de tekst. <br>En dan gebeurt er iets moois. Dan kan lezen ook leuk worden. Samen lachen om een grappige zin. Nieuwsgierig zijn naar hoe het verder gaat. Helemaal opgaan in een verhaal. Maar dat kan alleen als het lezen zelf niet meer voelt als hard werken. Daarom is rust zo belangrijk in het begin. En herhaling. Steeds weer oefenen, op een ontspannen manier. Want vloeiend lezen ontstaat vanzelf wanneer een kind niet meer over elke letter hoeft na te denken. Als woorden herkennen makkelijker wordt, komt er ruimte in het hoofd.Ruimte voor tempo. Voor begrip. En vooral: voor leesplezier.",
     "Dan de vraag die bijna iedereen thuis tegenkomt: beginnen met letternamen of met letterklanken? Bij jonge kinderen (peuters en jonge kleuters) is het logisch om te starten met letternamen. Letters worden dan iets vertrouwds: de M van mama, de eerste letter van de eigen naam. Dat is speels en veilig.",
     "Maar zodra een kind echt woorden wil leren lezen, verschuift het. Dan is de letterklank nodig, omdat woorden niet gebouwd worden met “em” en “en”, maar met “mmm” en “nnn”. Klanken zijn het gereedschap waarmee een kind woorden kan maken.",
     "Vroeger was lezenles vaak heel simpel: letters leren, klanken oefenen, woordjes hakken en plakken, hardop lezen en veel herhalen. Steeds hetzelfde kunstje, totdat het vanzelf ging. Dat gaf rust en zekerheid: kinderen leerden woorden echt lezen, niet raden.",
