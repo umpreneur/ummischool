@@ -151,7 +151,7 @@ id: "16",
 },
 
   {
-  id: "8",
+  id: "18",
   title: "Leren lezen thuis",
   excerpt:
     "Technisch lezen is de basis: letters zien, klanken maken, en woorden bouwen. Met rust, herhaling en haalbare oefening groeit vlot lezen vanzelf.",
@@ -728,8 +728,8 @@ content: [
 "Leren-lezen-thuis": {
   title: "Leren lezen thuis",
   category: "Onderwijs",
-  headerImageUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
-  imageUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
+  headerImageUrl: "https://umpreneur.github.io/ummischool/Lezen.png",
+  imageUrl: "https://umpreneur.github.io/ummischool/Lezen.png",
   content: [
     "Lezen lijkt soms iets heel groots. Maar eigenlijk begint het heel klein. <br>Eerst leert een kind letters herkennen. Die letters krijgen klanken. En die klanken worden samen een woord. Dat heet technisch lezen. Het is misschien niet het leukste stukje, maar het is wél de basis. Zonder die basis wordt alles wat daarna komt moeilijker.", 
     "Pas als dat steeds makkelijker gaat, ontstaat er ruimte voor de volgende stap: begrijpen wat er staat. Dan leest je kind niet alleen de woorden, maar snapt het ook echt het verhaal of de tekst. <br><br>En dan gebeurt er iets moois. Dan kan lezen ook leuk worden. Samen lachen om een grappige zin. Nieuwsgierig zijn naar hoe het verder gaat. Helemaal opgaan in een verhaal. Maar dat kan alleen als het lezen zelf niet meer voelt als hard werken. <br><br>Daarom is rust zo belangrijk in het begin. En herhaling. Steeds weer oefenen, op een ontspannen manier. Want vloeiend lezen ontstaat vanzelf wanneer een kind niet meer over elke letter hoeft na te denken.",
@@ -741,17 +741,20 @@ content: [
 
     
     "Vroeger ging leren lezen best simpel. Letters leren, klanken oefenen, woordjes hakken en plakken, hardop lezen en veel herhalen. Steeds hetzelfde kunstje, totdat het vanzelf ging. Dat gaf rust en zekerheid: kinderen leerden woorden echt lezen, niet raden.",
-    "Soms lijkt het alsof er tegenwoordig “meer” nodig is: visueel, auditief, allerlei manieren. Maar voor technisch leren lezen blijft de kern hetzelfde. Letters leren. Klanken oefenen. Woorden opbouwen. Veel herhalen.",
-"Soms loopt een kind vast. Niet omdat het ingewikkelder moet, maar omdat één stukje van de basis nog niet stevig genoeg is. Dan helpt het om rustig te kijken: waar zit het precies? <br>bij kijken (letters goed zien en onderscheiden), <br>bij horen (klanken in woorden herkennen en samenvoegen), <br>of bij doen (letters vormen, schrijven, voelen en herhalen zodat het blijft hangen).",
-    { type: "highlight", text: "Rust + herhaling + haalbare woordjes geven vaak de snelste groei, zonder druk." },
-    "Een methode zoals Veilig leren lezen past bij die klassieke aanpak omdat het precies dat doet: stap voor stap letters aanbieden, meteen oefenen in haalbare woorden en zinnen, en steeds terug laten komen wat al geleerd is. Niet om het “druk” te maken, maar om ervoor te zorgen dat een kind niet hoeft te gokken.",
-
+    "Tegenwoordig hoor je vaak dat er “meer” nodig is. Meer visueel. Meer auditief. Meer verschillende manieren door elkaar.Kinderen mogen natuurlijk op verschillende manieren ondersteund worden. Maar als het gaat om technisch leren lezen, blijft de kern heel eenvoudig. Letters leren. Klanken oefenen. Woorden opbouwen. Veel herhalen.",
+"Soms loopt een kind vast. Vaak zit er dan één stukje in de basis dat nog niet stevig genoeg is. Dan helpt het om rustig te kijken: waar precies gaat het mis? <br>bij kijken (letters goed zien en onderscheiden), <br>bij horen (klanken in woorden herkennen en samenvoegen), <br>of bij doen (letters vormen, schrijven, voelen en herhalen zodat het blijft hangen).",
+    { type: "highlight", text: "Begin bij de basis. En blijf herhalen, herhalen, herhalen." },
+"Een goede leesaanpak bouwt rustig op. Eerst een paar letters. Dan woorden die daarbij passen. En veel herhaling. Zo leert een kind woorden echt lezen. Niet gokken, maar opbouwen. Materialen die op deze manier werken, sluiten daar goed bij aan. Zelf werk ik graag met materialen uit Veilig leren lezen, omdat ze precies die rustige opbouw en herhaling bieden.",
     
-    "Materialen:",
-    "Leestrainer (VLL): https://leestrainer.nl/vll%20nieuw/overzicht%20kernen/index.html",
-    "Juf Cindy (VLL oefenmateriaal): https://samenvooronderwijs.com/Home/Shop/Juf-Cindy",
-    "Kleuteridee (ABC letters): https://kleuteridee.nl/downloads-2/abc-letters/",
-    "De Zolderschool (YouTube): https://www.youtube.com/@dezolderschool"
+    "Dit zijn de materialen die ik gebruik bij Veilig leren lezen:",
+    "Leestrainer (VLL): Online oefenen per kern. https://leestrainer.nl/vll%20nieuw/overzicht%20kernen/index.html",
+    "Juf Cindy (VLL): werkbladen per kern. https://samenvooronderwijs.com/Home/Shop/Juf-Cindy",
+    "Kleuteridee (ABC letters): Letterkaarten en materiaal om letters en klanken te oefenen.https://kleuteridee.nl/downloads-2/abc-letters/",
+    "Leesboek maan/zon – Oefenleesboekjes (vaak goedkoop te vinden via Vinted).",
+    "Letters en woorden flitsen (YouTube) – Flitsoefeningen voor automatiseren. https://www.youtube.com/playlist?list=PLaBIbD83O7-YIKCUYjbpZpprb3iom9LbL",
+    "Leerlijn maan (pdf) – Overzicht per kern met bijbehorende letters. https://obspwa.nl/wp-content/uploads/2018/04/vllkim-art-leerlijn-maan-technisch-lezen.pdf",
+    "Leerlijn zon (pdf) – Overzicht van de zonlijn met opbouw per kern.https://obspwa.nl/wp-content/uploads/2018/04/vllkim-leerlijn-technisch-lezen-voor-zon-in-vll-kim-versie.pdf", 
+
   ]
 },
 
