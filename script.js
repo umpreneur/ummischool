@@ -753,8 +753,9 @@ content: [
     "Leesboek maan/zon – Oefenleesboekjes (vaak goedkoop te vinden via Vinted).",
     "Letters en woorden flitsen (YouTube) – Flitsoefeningen voor automatiseren. https://www.youtube.com/playlist?list=PLaBIbD83O7-YIKCUYjbpZpprb3iom9LbL",
     "Leerlijn maan (pdf) – Overzicht per kern met bijbehorende letters. https://obspwa.nl/wp-content/uploads/2018/04/vllkim-art-leerlijn-maan-technisch-lezen.pdf",
-    "Leerlijn zon (pdf) – Overzicht van de zonlijn met opbouw per kern.https://obspwa.nl/wp-content/uploads/2018/04/vllkim-leerlijn-technisch-lezen-voor-zon-in-vll-kim-versie.pdf", 
-
+    "Leerlijn zon (pdf) – Overzicht van de zonlijn met opbouw per kern.https://obspwa.nl/wp-content/uploads/2018/04/vllkim-leerlijn-technisch-lezen-voor-zon-in-vll-kim-versie.pdf",
+    
+"Er is veel te koop, veel te downloaden en veel te proberen. Maar sterk leren lezen begint en eindigt bij de basis. Letters. Klanken. Woorden. En ze vaak genoeg oefenen tot het vanzelf gaat.",
   ]
 },
 
