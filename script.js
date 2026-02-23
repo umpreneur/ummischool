@@ -461,8 +461,8 @@ content: [
     "<li> Kun je zelf niet (goed) reciteren? Gebruik duidelijke audio van een docent of vaste recitator met goede tajwīd.</li>" +
     "<li>Stop altijd vóór vermoeidheid. Een kind dat prettig stopt, begint de volgende keer makkelijker.</li>" +
        "<liPrijs de inzet, niet alleen het resultaat.</li>" +
+    "<li>Handige Qur’an-kanalen voor kinderen: Dawood Kids TV en Asma Huda.</li>" +
 "<li><a href='https://nl.pinterest.com/pin/545991154850141576/' target='_blank' rel='noopener noreferrer'>Gebruik een Juz ‘Amma-tracker om de voortgang zichtbaar te maken. voorbeeld</a></li>" +
-"<li>Handige Qur’an-kanalen voor kinderen: Dawood Kids TV en Asma Huda.</li>" +
 "<li><a href='https://app.quranflash.com/book/Tajweed#/reader' target='_blank' rel='noopener noreferrer'>Website voor bij het samen oefenen</a></li>" +
     
   "</ul>",
@@ -602,7 +602,7 @@ content: [
 
     "Wanneer kinderen steeds terugkomen op hetzelfde onderwerp, erover praten of ermee bezig blijven, laat dat zien dat het thema betekenisvol voor hen is. Dan vindt leren plaats op een manier die aansluit bij hun ontwikkeling.",
 
-    "Wil je meer achtergrondinformatie of verdieping over thematisch werken met jonge kinderen, dan kun je de uitgebreide handreiking downloaden via de website van SLO. (link:)"
+"<p><a href='https://www.slo.nl/publish/pages/16605/handreiking-thematiseren-met-jonge-kinderen-slo-01-2021.pdf' target='_blank' rel='noopener noreferrer'>Wil je meer achtergrondinformatie en verdieping over thematisch werken met jonge kinderen? Download hier de uitgebreide handreiking van SLO (pdf).</a></p>",
   ]
 },
 
