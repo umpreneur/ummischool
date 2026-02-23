@@ -461,10 +461,10 @@ content: [
     "<li> Kun je zelf niet (goed) reciteren? Gebruik duidelijke audio van een docent of vaste recitator met goede tajwīd.</li>" +
     "<li>Stop altijd vóór vermoeidheid. Een kind dat prettig stopt, begint de volgende keer makkelijker.</li>" +
        "<liPrijs de inzet, niet alleen het resultaat.</li>" +
-        "<li>Gebruik een Juz ‘Amma-tracker om de voortgang zichtbaar te maken. voorbeeld: https://nl.pinterest.com/pin/545991154850141576/</li>" +
-    "<li>Handige Qur’an-kanalen voor kinderen: Dawood Kids TV en Asma Huda.</li>" +
-  "<li>Voor samen oefenen: QuranFlash – https://app.quranflash.com/book/Tajweed#/reader</li>" +
-    "<li> Website voor bij het samen oefenen: https://app.quranflash.com/book/Tajweed#/reader </li>" +
+"<li><a href='https://nl.pinterest.com/pin/545991154850141576/' target='_blank' rel='noopener noreferrer'>Gebruik een Juz ‘Amma-tracker om de voortgang zichtbaar te maken. voorbeeld</a></li>" +
+"<li>Handige Qur’an-kanalen voor kinderen: Dawood Kids TV en Asma Huda.</li>" +
+"<li><a href='https://app.quranflash.com/book/Tajweed#/reader' target='_blank' rel='noopener noreferrer'>Website voor bij het samen oefenen</a></li>" +
+    
   "</ul>",
 
      "<strong>Nog even dit </strong> </br>Deze manier van werken vervangt geen Qur’an-docent. Het laat alleen zien hoe je in de vroege jaren kunt meebewegen met de natuurlijke manier waarop jonge kinderen leren. In die fase gaat leren bijna als vanzelf: wat ze vaak horen, blijft hangen. Door daar bewust gebruik van te maken, bouw je een stevige basis op. Later kan een docent hier moeiteloos op voortbouwen.",
