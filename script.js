@@ -747,13 +747,13 @@ content: [
 "Een goede leesaanpak bouwt rustig op. Eerst een paar letters. Dan woorden die daarbij passen. En veel herhaling. Zo leert een kind woorden echt lezen. Niet gokken, maar opbouwen. Materialen die op deze manier werken, sluiten daar goed bij aan. Zelf werk ik graag met materialen uit Veilig leren lezen, omdat ze precies die rustige opbouw en herhaling bieden.",
     
     "Dit zijn de materialen die ik gebruik bij Veilig leren lezen:",
-    "Leestrainer (VLL): Online oefenen per kern. https://leestrainer.nl/vll%20nieuw/overzicht%20kernen/index.html",
-    "Juf Cindy (VLL): werkbladen per kern. https://samenvooronderwijs.com/Home/Shop/Juf-Cindy",
-    "Kleuteridee (ABC letters): Letterkaarten en materiaal om letters en klanken te oefenen.https://kleuteridee.nl/downloads-2/abc-letters/",
     "Leesboek maan/zon – Oefenleesboekjes (vaak goedkoop te vinden via Vinted).",
-    "Letters en woorden flitsen (YouTube) – Flitsoefeningen voor automatiseren. https://www.youtube.com/playlist?list=PLaBIbD83O7-YIKCUYjbpZpprb3iom9LbL",
-    "Leerlijn maan (pdf) – Overzicht per kern met bijbehorende letters. https://obspwa.nl/wp-content/uploads/2018/04/vllkim-art-leerlijn-maan-technisch-lezen.pdf",
-    "Leerlijn zon (pdf) – Overzicht van de zonlijn met opbouw per kern.https://obspwa.nl/wp-content/uploads/2018/04/vllkim-leerlijn-technisch-lezen-voor-zon-in-vll-kim-versie.pdf",
+    "<p><a href='https://leestrainer.nl/vll%20nieuw/overzicht%20kernen/index.html' target='_blank' rel='noopener noreferrer'>Leestrainer (VLL): Online oefenen per kern.</a></p>" +
+"<p><a href='https://samenvooronderwijs.com/Home/Shop/Juf-Cindy' target='_blank' rel='noopener noreferrer'>Juf Cindy (VLL): Werkbladen per kern.</a></p>" +
+"<p><a href='https://kleuteridee.nl/downloads-2/abc-letters/' target='_blank' rel='noopener noreferrer'>Kleuteridee (ABC letters): Letterkaarten en materiaal om letters en klanken te oefenen.</a></p>" +
+"<p><a href='https://www.youtube.com/playlist?list=PLaBIbD83O7-YIKCUYjbpZpprb3iom9LbL' target='_blank' rel='noopener noreferrer'>Letters en woorden flitsen (YouTube): Flitsoefeningen voor automatiseren.</a></p>" +
+"<p><a href='https://obspwa.nl/wp-content/uploads/2018/04/vllkim-art-leerlijn-maan-technisch-lezen.pdf' target='_blank' rel='noopener noreferrer'>Leerlijn maan (pdf): Overzicht per kern met bijbehorende letters.</a></p>" +
+"<p><a href='https://obspwa.nl/wp-content/uploads/2018/04/vllkim-leerlijn-technisch-lezen-voor-zon-in-vll-kim-versie.pdf' target='_blank' rel='noopener noreferrer'>Leerlijn zon (pdf): Overzicht van de zonlijn met opbouw per kern.</a></p>",
     
 "Er is veel te koop, veel te downloaden en veel te proberen. Maar sterk leren lezen begint en eindigt bij de basis. Letters. Klanken. Woorden. En ze vaak genoeg oefenen tot het vanzelf gaat.",
   ]
