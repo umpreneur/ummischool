@@ -1353,6 +1353,16 @@ function renderFooter() {
 }
 
 // Event listeners
+function navigateToPage(page) {
+  history.pushState({ page }, '', '#' + page);
+  showPage(page);
+  resetAllFaq();
+}
+
+function navigateToBlog(slug) {
+  history.pushState({ blog: slug }, '', '#blog=' + slug);
+  showBlogPost(slug);
+}
 function attachEventListeners() {
   // Hamburger menu toggle
   const hamburgerBtn = document.getElementById('hamburger-btn');
@@ -1367,11 +1377,21 @@ function attachEventListeners() {
   });
   
   // Navigation
+function navigateToPage(page) {
+  history.pushState({ page }, '', '#' + page);
+  showPage(page);
+  resetAllFaq();
+}
+
+function navigateToBlog(slug) {
+  history.pushState({ blog: slug }, '', '#blog=' + slug);
+  showBlogPost(slug);
+}
+  
   document.querySelectorAll('.nav-link').forEach(link => {
     link.addEventListener('click', (e) => {
       e.preventDefault();
-      showPage(link.dataset.page);
-      resetAllFaq();
+     navigateToPage(btn.dataset.page);
     });
   });
 
@@ -1379,8 +1399,7 @@ function attachEventListeners() {
     if (!btn.classList.contains('nav-link') && btn.tagName !== 'A') {
       btn.addEventListener('click', (e) => {
         e.preventDefault();
-        showPage(btn.dataset.page);
-        resetAllFaq();
+        navigateToPage(link.dataset.page);
       });
     }
   });
@@ -1390,8 +1409,7 @@ function attachEventListeners() {
     card.addEventListener('click', (e) => {
       e.preventDefault();
       const slug = card.dataset.blogSlug;
-      showBlogPost(slug);
-    });
+navigateToBlog(slug);    });
   });
 
   // FAQ items
@@ -1456,8 +1474,7 @@ function attachEventListeners() {
   // Logo brand home
   document.querySelector('.logo-brand').addEventListener('click', (e) => {
     e.preventDefault();
-    showPage('home');
-    resetAllFaq();
+    navigateToPage('home');
   });
 }
 
@@ -1479,6 +1496,7 @@ window.showPage = function(page) {
   if (pageEl) pageEl.classList.add('active');
   
   // Update nav
+  
   document.querySelectorAll('.nav-link').forEach(link => link.classList.remove('active'));
   const navLink = document.querySelector(`[data-page="${page}"]`);
   if (navLink) navLink.classList.add('active');
@@ -1634,8 +1652,3 @@ function renderPrintablesPage() {
 
 // Start app
 document.addEventListener('DOMContentLoaded', init);
-if (document.readyState === 'loading') {
-  document.addEventListener('DOMContentLoaded', init);
-} else {
-  init();
-}
