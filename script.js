@@ -1526,8 +1526,15 @@ function toggleFaq(id, item) {
 
 function navigateToPage(page) {
   const url = new URL(window.location);
-  url.searchParams.set("page", page);
-  url.searchParams.delete("blog");
+
+  if (page === "home") {
+    url.search = "";
+  } else if (page === "blog") {
+    url.search = "?blog";
+  } else {
+    url.search = "?page=" + page;
+  }
+
   history.pushState({}, "", url);
   showPage(page);
   resetAllFaq();
@@ -1535,12 +1542,10 @@ function navigateToPage(page) {
 
 function navigateToBlog(slug) {
   const url = new URL(window.location);
-  url.searchParams.set("blog", slug);
-  url.searchParams.delete("page");
+  url.search = "?blog=" + encodeURIComponent(slug);
   history.pushState({}, "", url);
   showBlogPost(slug);
 }
-
 
 
 // ===== PRINTABLES / DOWNLOADS PAGE (VOLLEDIG) =====
@@ -1647,19 +1652,30 @@ function handleRoute() {
   const params = new URLSearchParams(window.location.search);
 
   const blog = params.get("blog");
-  const page = params.get("page");
+  const hasBlogParam = window.location.search.includes("?blog");
 
+  // Blogpost
   if (blog) {
     showBlogPost(blog);
     return;
   }
 
+  // Blog overzicht
+  if (hasBlogParam) {
+    showPage("blog");
+    resetAllFaq();
+    return;
+  }
+
+  // Andere pagina's
+  const page = params.get("page");
   if (page) {
     showPage(page);
     resetAllFaq();
     return;
   }
 
+  // Default = home
   showPage("home");
 }
 window.addEventListener("popstate", handleRoute);
