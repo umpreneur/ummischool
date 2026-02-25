@@ -1388,29 +1388,31 @@ function navigateToBlog(slug) {
   showBlogPost(slug);
 }
   
-  document.querySelectorAll('.nav-link').forEach(link => {
-    link.addEventListener('click', (e) => {
+/ Navigation
+document.querySelectorAll('.nav-link').forEach(link => {
+  link.addEventListener('click', (e) => {
+    e.preventDefault();
+    navigateToPage(link.dataset.page);
+  });
+});
+
+document.querySelectorAll('[data-page]').forEach(btn => {
+  if (!btn.classList.contains('nav-link') && btn.tagName !== 'A') {
+    btn.addEventListener('click', (e) => {
       e.preventDefault();
-     navigateToPage(btn.dataset.page);
+      navigateToPage(btn.dataset.page);
     });
-  });
+  }
+});
 
-  document.querySelectorAll('[data-page]').forEach(btn => {
-    if (!btn.classList.contains('nav-link') && btn.tagName !== 'A') {
-      btn.addEventListener('click', (e) => {
-        e.preventDefault();
-        navigateToPage(link.dataset.page);
-      });
-    }
+// Blog cards
+document.querySelectorAll('.blog-card').forEach(card => {
+  card.addEventListener('click', (e) => {
+    e.preventDefault();
+    const slug = card.dataset.blogSlug;
+    navigateToBlog(slug);
   });
-
-  // Blog cards
-  document.querySelectorAll('.blog-card').forEach(card => {
-    card.addEventListener('click', (e) => {
-      e.preventDefault();
-      const slug = card.dataset.blogSlug;
-navigateToBlog(slug);    });
-  });
+});
 
   // FAQ items
   document.querySelectorAll('.faq-button').forEach(btn => {
