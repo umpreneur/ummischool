@@ -1523,16 +1523,17 @@ function toggleFaq(id, item) {
     expandedFaq = id;
   }
 }
-
 function navigateToPage(page) {
   const url = new URL(window.location);
 
+  // home = helemaal schoon
   if (page === "home") {
     url.search = "";
   } else if (page === "blog") {
     url.search = "?blog";
   } else {
-    url.search = "?page=" + page;
+    // alle andere pagina’s: ?pagename
+    url.search = "?" + encodeURIComponent(page);
   }
 
   history.pushState({}, "", url);
@@ -1649,33 +1650,32 @@ function renderPrintablesPage() {
 document.addEventListener('DOMContentLoaded', init);
 
 function handleRoute() {
-  const params = new URLSearchParams(window.location.search);
+  const search = window.location.search; // bv "?faq" of "?blog=Bewust-Kiezen"
+  const params = new URLSearchParams(search);
 
-  const blog = params.get("blog");
-  const hasBlogParam = window.location.search.includes("?blog");
-
-  // Blogpost
-  if (blog) {
-    showBlogPost(blog);
+  // Blogpost: ?blog=slug
+  const blogSlug = params.get("blog");
+  if (blogSlug) {
+    showBlogPost(blogSlug);
     return;
   }
 
-  // Blog overzicht
-  if (hasBlogParam) {
+  // Blog overzicht: ?blog
+  if (search === "?blog") {
     showPage("blog");
     resetAllFaq();
     return;
   }
 
-  // Andere pagina's
-  const page = params.get("page");
-  if (page) {
-    showPage(page);
+  // Andere pagina's: ?faq / ?contact / ?printables etc.
+  if (search.startsWith("?") && !search.includes("=")) {
+    const page = decodeURIComponent(search.slice(1));
+    showPage(page || "home");
     resetAllFaq();
     return;
   }
 
-  // Default = home
+  // Default: home
   showPage("home");
 }
 window.addEventListener("popstate", handleRoute);
