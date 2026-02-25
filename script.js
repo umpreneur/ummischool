@@ -882,7 +882,7 @@ function closeMobileMenu() {
 function init() {
   renderApp();
   attachEventListeners();
-  handleRoute(); // ✅ belangrijk
+ handleRoute(); // ✅ belangrijk
 }
 
 // Render main app structure
@@ -1524,15 +1524,20 @@ function toggleFaq(id, item) {
   }
 }
 
-// 🔽 HIER PLAATSEN
 function navigateToPage(page) {
-  history.pushState({ page }, "", "#" + page);
+  const url = new URL(window.location);
+  url.searchParams.set("page", page);
+  url.searchParams.delete("blog");
+  history.pushState({}, "", url);
   showPage(page);
   resetAllFaq();
 }
 
 function navigateToBlog(slug) {
-  history.pushState({ blog: slug }, "", "#blog/" + encodeURIComponent(slug));
+  const url = new URL(window.location);
+  url.searchParams.set("blog", slug);
+  url.searchParams.delete("page");
+  history.pushState({}, "", url);
   showBlogPost(slug);
 }
 
@@ -1639,26 +1644,22 @@ function renderPrintablesPage() {
 document.addEventListener('DOMContentLoaded', init);
 
 function handleRoute() {
-  const hash = window.location.hash || "#home";
+  const params = new URLSearchParams(window.location.search);
 
-  // #blog/Slug
-  if (hash.startsWith("#blog/")) {
-    const slug = decodeURIComponent(hash.replace("#blog/", ""));
-    showBlogPost(slug);
+  const blog = params.get("blog");
+  const page = params.get("page");
+
+  if (blog) {
+    showBlogPost(blog);
     return;
   }
 
-  // #blog
-  if (hash === "#blog") {
-    showPage("blog");
+  if (page) {
+    showPage(page);
     resetAllFaq();
     return;
   }
 
-  const page = hash.replace("#", "");
-  showPage(page || "home");
-  resetAllFaq();
+  showPage("home");
 }
-
-window.addEventListener("hashchange", handleRoute);
 window.addEventListener("popstate", handleRoute);
