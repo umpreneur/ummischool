@@ -1654,3 +1654,32 @@ function renderPrintablesPage() {
 
 // Start app
 document.addEventListener('DOMContentLoaded', init);
+
+function handleRoute() {
+  const hash = window.location.hash || "#home";
+
+  // #blog=Bewust-Kiezen
+  if (hash.startsWith("#blog=")) {
+    const slug = decodeURIComponent(hash.split("=")[1] || "");
+    showBlogPost(slug);
+    return;
+  }
+
+  // #blog
+  if (hash === "#blog") {
+    showPage("blog");
+    resetAllFaq();
+    return;
+  }
+
+  // andere pages: #faq, #contact, #waar-begin-ik, etc.
+  const page = hash.replace("#", "");
+  showPage(page || "home");
+  resetAllFaq();
+}
+
+// Reageer op browser back/forward
+window.addEventListener("popstate", handleRoute);
+
+// Reageer ook op handmatige hash wijziging (optioneel maar fijn)
+window.addEventListener("hashchange", handleRoute);
