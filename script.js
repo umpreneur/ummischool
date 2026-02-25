@@ -882,6 +882,7 @@ function closeMobileMenu() {
 function init() {
   renderApp();
   attachEventListeners();
+  handleRoute(); // ✅ belangrijk
 }
 
 // Render main app structure
@@ -1352,74 +1353,46 @@ function renderFooter() {
   `;
 }
 
-// Event listeners
-function navigateToPage(page) {
-  history.pushState({ page }, '', '#' + page);
-  showPage(page);
-  resetAllFaq();
-}
-
-function navigateToBlog(slug) {
-  history.pushState({ blog: slug }, '', '#blog=' + slug);
-  showBlogPost(slug);
-}
 function attachEventListeners() {
   // Hamburger menu toggle
   const hamburgerBtn = document.getElementById('hamburger-btn');
-  if (hamburgerBtn) {
-    hamburgerBtn.addEventListener('click', toggleMobileMenu);
-  }
-  
+  if (hamburgerBtn) hamburgerBtn.addEventListener('click', toggleMobileMenu);
+
   // Close menu when navigation link is clicked
   const navLinks = document.querySelectorAll('#mobile-nav .nav-link, #mobile-nav .nav-btn-primary');
-  navLinks.forEach(link => {
-    link.addEventListener('click', closeMobileMenu);
-  });
-  
-  // Navigation
-function navigateToPage(page) {
-  history.pushState({ page }, '', '#' + page);
-  showPage(page);
-  resetAllFaq();
-}
+  navLinks.forEach(link => link.addEventListener('click', closeMobileMenu));
 
-function navigateToBlog(slug) {
-  history.pushState({ blog: slug }, '', '#blog=' + slug);
-  showBlogPost(slug);
-}
-  
-// Navigation
-document.querySelectorAll('.nav-link').forEach(link => {
-  link.addEventListener('click', (e) => {
-    e.preventDefault();
-    navigateToPage(link.dataset.page);
-  });
-});
-
-document.querySelectorAll('[data-page]').forEach(btn => {
-  if (!btn.classList.contains('nav-link') && btn.tagName !== 'A') {
-    btn.addEventListener('click', (e) => {
+  // Navigation links
+  document.querySelectorAll('.nav-link').forEach(link => {
+    link.addEventListener('click', (e) => {
       e.preventDefault();
-      navigateToPage(btn.dataset.page);
+      navigateToPage(link.dataset.page);
     });
-  }
-});
-
-// Blog cards
-document.querySelectorAll('.blog-card').forEach(card => {
-  card.addEventListener('click', (e) => {
-    e.preventDefault();
-    const slug = card.dataset.blogSlug;
-    navigateToBlog(slug);
   });
-});
+
+  // Buttons with data-page
+  document.querySelectorAll('[data-page]').forEach(btn => {
+    if (!btn.classList.contains('nav-link') && btn.tagName !== 'A') {
+      btn.addEventListener('click', (e) => {
+        e.preventDefault();
+        navigateToPage(btn.dataset.page);
+      });
+    }
+  });
+
+  // Blog cards
+  document.querySelectorAll('.blog-card').forEach(card => {
+    card.addEventListener('click', (e) => {
+      e.preventDefault();
+      navigateToBlog(card.dataset.blogSlug);
+    });
+  });
 
   // FAQ items
   document.querySelectorAll('.faq-button').forEach(btn => {
     btn.addEventListener('click', () => {
       const item = btn.closest('.faq-item');
-      const id = item.dataset.faqId;
-      toggleFaq(id, item);
+      toggleFaq(item.dataset.faqId, item);
     });
   });
 
@@ -1428,19 +1401,16 @@ document.querySelectorAll('.blog-card').forEach(card => {
   if (contactForm) {
     contactForm.addEventListener('submit', (e) => {
       e.preventDefault();
-      
+
       const formData = new FormData(contactForm);
-      
+
       fetch('https://formspree.io/f/mldqgory', {
         method: 'POST',
         body: formData,
-        headers: {
-          'Accept': 'application/json'
-        }
+        headers: { 'Accept': 'application/json' }
       })
       .then(response => {
         if (response.ok) {
-          // Create and show success modal
           const modal = document.createElement('div');
           modal.className = 'success-modal';
           modal.innerHTML = `
@@ -1452,14 +1422,10 @@ document.querySelectorAll('.blog-card').forEach(card => {
             </div>
           `;
           document.body.appendChild(modal);
-          
-          // Trigger animation
+
           setTimeout(() => modal.classList.add('show'), 10);
-          
-          // Reset form
           contactForm.reset();
-          
-          // Remove modal after 5 seconds
+
           setTimeout(() => {
             modal.classList.remove('show');
             setTimeout(() => modal.remove(), 300);
@@ -1474,10 +1440,13 @@ document.querySelectorAll('.blog-card').forEach(card => {
   }
 
   // Logo brand home
-  document.querySelector('.logo-brand').addEventListener('click', (e) => {
-    e.preventDefault();
-    navigateToPage('home');
-  });
+  const logo = document.querySelector('.logo-brand');
+  if (logo) {
+    logo.addEventListener('click', (e) => {
+      e.preventDefault();
+      navigateToPage('home');
+    });
+  }
 }
 
 // Reset all FAQ items
@@ -1554,6 +1523,20 @@ function toggleFaq(id, item) {
     expandedFaq = id;
   }
 }
+
+// 🔽 HIER PLAATSEN
+function navigateToPage(page) {
+  history.pushState({ page }, "", "#" + page);
+  showPage(page);
+  resetAllFaq();
+}
+
+function navigateToBlog(slug) {
+  history.pushState({ blog: slug }, "", "#blog/" + encodeURIComponent(slug));
+  showBlogPost(slug);
+}
+
+
 
 // ===== PRINTABLES / DOWNLOADS PAGE (VOLLEDIG) =====
 
@@ -1658,9 +1641,9 @@ document.addEventListener('DOMContentLoaded', init);
 function handleRoute() {
   const hash = window.location.hash || "#home";
 
-  // #blog=Bewust-Kiezen
-  if (hash.startsWith("#blog=")) {
-    const slug = decodeURIComponent(hash.split("=")[1] || "");
+  // #blog/Slug
+  if (hash.startsWith("#blog/")) {
+    const slug = decodeURIComponent(hash.replace("#blog/", ""));
     showBlogPost(slug);
     return;
   }
@@ -1672,14 +1655,10 @@ function handleRoute() {
     return;
   }
 
-  // andere pages: #faq, #contact, #waar-begin-ik, etc.
   const page = hash.replace("#", "");
   showPage(page || "home");
   resetAllFaq();
 }
 
-// Reageer op browser back/forward
-window.addEventListener("popstate", handleRoute);
-
-// Reageer ook op handmatige hash wijziging (optioneel maar fijn)
 window.addEventListener("hashchange", handleRoute);
+window.addEventListener("popstate", handleRoute);
