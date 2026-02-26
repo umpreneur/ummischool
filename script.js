@@ -1,3 +1,20 @@
+function scrollToTop() {
+  // Voor normale pagina scroll
+  const root = document.scrollingElement || document.documentElement;
+  root.scrollTop = 0;
+  document.body.scrollTop = 0;
+
+  // Voor het geval jouw site in een scroll-container zit (meest voorkomend)
+  const main = document.querySelector("main");
+  if (main) main.scrollTop = 0;
+
+  const wrapper = document.querySelector(".app-wrapper");
+  if (wrapper) wrapper.scrollTop = 0;
+
+  const container = document.querySelector(".container");
+  if (container) container.scrollTop = 0;
+}
+
 const blogPreviews = [
   {
   id: "1",
@@ -1473,7 +1490,8 @@ window.showPage = function(page) {
   if (navLink) navLink.classList.add('active');
   
   currentPage = page;
-  window.scrollTo(0, 0);
+requestAnimationFrame(scrollToTop);
+
 }
 
 // Show blog post
@@ -1503,7 +1521,8 @@ function showBlogPost(slug) {
   document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
   document.getElementById('page-post').classList.add('active');
   
-  window.scrollTo(0, 0);
+requestAnimationFrame(scrollToTop);
+
 }
 
 // Toggle FAQ
