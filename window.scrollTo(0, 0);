@@ -13,7 +13,7 @@ function scrollToTop() {
 
   const container = document.querySelector(".container");
   if (container) container.scrollTop = 0;
-}
+},
 const blogPreviews = [
   {
   id: "1",
