@@ -1,19 +1,4 @@
-function scrollToTop() {
-  // Voor normale pagina scroll
-  const root = document.scrollingElement || document.documentElement;
-  root.scrollTop = 0;
-  document.body.scrollTop = 0;
 
-  // Voor het geval jouw site in een scroll-container zit (meest voorkomend)
-  const main = document.querySelector("main");
-  if (main) main.scrollTop = 0;
-
-  const wrapper = document.querySelector(".app-wrapper");
-  if (wrapper) wrapper.scrollTop = 0;
-
-  const container = document.querySelector(".container");
-  if (container) container.scrollTop = 0;
-}
 
 
 const blogPreviews = [
