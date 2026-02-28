@@ -1234,8 +1234,6 @@ function renderBlogPage() {
   const cardsHtml = blogPreviews.map(post => `
     <a class="blog-card" data-blog-slug="${post.slug}" data-testid="card-blog-${post.id}">
           <img src="${post.thumbnailUrl}" loading="lazy" decoding="async" alt="${post.title}" class="blog-card-image" data-testid="img-blog-${post.id}" />
-
-      <img src="${post.thumbnailUrl}" alt="${post.title}" class="blog-card-image" data-testid="img-blog-${post.id}" />
       <div class="blog-card-content">
         <h3 data-testid="text-blog-title-${post.id}">${post.title}</h3>
         <p data-testid="text-blog-excerpt-${post.id}">${post.excerpt}</p>
