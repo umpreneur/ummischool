@@ -1233,6 +1233,8 @@ highlight:
 function renderBlogPage() {
   const cardsHtml = blogPreviews.map(post => `
     <a class="blog-card" data-blog-slug="${post.slug}" data-testid="card-blog-${post.id}">
+          <img src="${post.thumbnailUrl}" loading="lazy" decoding="async" alt="${post.title}" class="blog-card-image" data-testid="img-blog-${post.id}" />
+
       <img src="${post.thumbnailUrl}" alt="${post.title}" class="blog-card-image" data-testid="img-blog-${post.id}" />
       <div class="blog-card-content">
         <h3 data-testid="text-blog-title-${post.id}">${post.title}</h3>
@@ -1627,11 +1629,13 @@ function renderPrintablesPage() {
     .map(
       item => `
         <div class="printables-card">
-          <img 
-            src="${item.imageUrl}" 
-            alt="${item.title}" 
-            class="printables-card-image"
-          />
+         <img 
+  src="${item.imageUrl}" 
+  alt="${item.title}" 
+  class="printables-card-image"
+  loading="lazy"
+  decoding="async"
+/>
 
           <div class="printables-card-content">
             <h3 class="printables-card-title">${item.title}</h3>
