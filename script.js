@@ -1503,7 +1503,7 @@ window.showPage = function(page) {
 
   currentPage = page;
   requestAnimationFrame(scrollToTop);
-};
+
 
   // Update post content
   document.getElementById('post-title').textContent = post.title;
@@ -1527,6 +1527,7 @@ window.showPage = function(page) {
 requestAnimationFrame(scrollToTop);
 
 }
+};
 
 // Toggle FAQ
 function toggleFaq(id, item) {
