@@ -1488,7 +1488,7 @@ function resetAllFaq() {
   expandedFaq = null;
 }
 
-indow.showPage = function(page) {
+window.showPage = function(page) {
   // Hide all pages
   document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
 
