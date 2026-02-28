@@ -1503,31 +1503,38 @@ window.showPage = function(page) {
 
   currentPage = page;
   requestAnimationFrame(scrollToTop);
+};
 
+function showBlogPost(slug) {
+  const post = blogContent[slug];
+  if (!post) {
+    showPage("blog");
+    return;
+  }
 
-  // Update post content
   document.getElementById('post-title').textContent = post.title;
-  document.getElementById('post-header-image').src = post.headerImageUrl;
-  document.getElementById('post-header-image').alt = post.title;
-  
+
+  const img = document.getElementById('post-header-image');
+  img.src = post.headerImageUrl || post.imageUrl;
+  img.alt = post.title;
+
   const postBody = document.getElementById('post-body');
   postBody.innerHTML = post.content.map(p => {
     if (typeof p === 'string') {
       return `<p>${p}</p>`;
-    } else if (p.type === 'highlight') {
+    }
+    if (p.type === 'highlight') {
       return `<div class="blog-highlight"><p>${p.text}</p></div>`;
     }
     return '';
   }).join('');
 
-  // Show post page
   document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
   document.getElementById('page-post').classList.add('active');
-  
-requestAnimationFrame(scrollToTop);
 
+  requestAnimationFrame(scrollToTop);
 }
-};
+
 
 // Toggle FAQ
 function toggleFaq(id, item) {
