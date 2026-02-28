@@ -925,9 +925,14 @@ function renderApp() {
       <main>
         <div class="container">
           <div id="pages">
-            <div id="page-${currentPage}" class="page active">
-              ${renderPage(currentPage)}
-            </div>
+            ${renderHomePage()}
+            ${renderWatIsUmmiPage()}
+            ${renderWaarBeginIkPage()}
+            ${renderPrintablesPage()}
+            ${renderBlogPage()}
+            ${renderBlogPostPage()}
+            ${renderFaqPage()}
+            ${renderContactPage()}
           </div>
         </div>
       </main>
@@ -1483,25 +1488,22 @@ function resetAllFaq() {
   expandedFaq = null;
 }
 
-window.showPage = function(page) {
+indow.showPage = function(page) {
+  // Hide all pages
+  document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
+
+  // Show selected page
+  const pageEl = document.getElementById(`page-${page}`);
+  if (pageEl) pageEl.classList.add('active');
+
+  // Update nav highlight
+  document.querySelectorAll('.nav-link').forEach(link => link.classList.remove('active'));
+  const navLink = document.querySelector(`[data-page="${page}"]`);
+  if (navLink) navLink.classList.add('active');
+
   currentPage = page;
-  renderApp();
-  attachEventListeners();
   requestAnimationFrame(scrollToTop);
 };
-
-// Show blog post
-function showBlogPost(slug) {
-
-currentPage = "post";
-renderApp();
-attachEventListeners();
-  
-  const post = blogContent[slug];
-  if (!post) {
-    console.error('Post not found:', slug);
-    return;
-  }
 
   // Update post content
   document.getElementById('post-title').textContent = post.title;
