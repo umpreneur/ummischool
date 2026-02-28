@@ -903,22 +903,31 @@ function init() {
 }
 
 // Render main app structure
+function renderPage(page) {
+  switch (page) {
+    case "wat-is-ummi": return renderWatIsUmmiPage();
+    case "waar-begin-ik": return renderWaarBeginIkPage();
+    case "printables": return renderPrintablesPage();
+    case "blog": return renderBlogPage();
+    case "post": return renderBlogPostPage();
+    case "faq": return renderFaqPage();
+    case "contact": return renderContactPage();
+    default: return renderHomePage();
+  }
+}
+
 function renderApp() {
-  const app = document.getElementById('app');
+  const app = document.getElementById("app");
+
   app.innerHTML = `
     <div class="app-wrapper">
       ${renderHeader()}
       <main>
         <div class="container">
           <div id="pages">
-            ${renderHomePage()}
-            ${renderWatIsUmmiPage()}
-            ${renderWaarBeginIkPage()}
-            ${renderPrintablesPage()}
-            ${renderBlogPage()}
-            ${renderBlogPostPage()}
-            ${renderFaqPage()}
-            ${renderContactPage()}
+            <div id="page-${currentPage}" class="page active">
+              ${renderPage(currentPage)}
+            </div>
           </div>
         </div>
       </main>
@@ -1474,28 +1483,20 @@ function resetAllFaq() {
   expandedFaq = null;
 }
 
-// Show page (exposed globally for inline onclick)
 window.showPage = function(page) {
-  // Hide all pages
-  document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
-  
-  // Show selected page
-  const pageEl = document.getElementById(`page-${page}`);
-  if (pageEl) pageEl.classList.add('active');
-  
-  // Update nav
-  
-  document.querySelectorAll('.nav-link').forEach(link => link.classList.remove('active'));
-  const navLink = document.querySelector(`[data-page="${page}"]`);
-  if (navLink) navLink.classList.add('active');
-  
   currentPage = page;
-requestAnimationFrame(scrollToTop);
-
-}
+  renderApp();
+  attachEventListeners();
+  requestAnimationFrame(scrollToTop);
+};
 
 // Show blog post
 function showBlogPost(slug) {
+
+currentPage = "post";
+renderApp();
+attachEventListeners();
+  
   const post = blogContent[slug];
   if (!post) {
     console.error('Post not found:', slug);
