@@ -1003,7 +1003,7 @@ function renderWatIsUmmiPage() {
     <div id="page-wat-is-ummi" class="page">
       <div style="text-align: center; margin-bottom: 3rem;">
         <h1 class="page-title" data-testid="text-wat-is-thuisonderwijs-title">Wat is Thuisonderwijs?</h1>
-        <p class="faq-subtitle" data-testid="text-wat-is-thuisonderwijs-subtitle">Steeds meer gezinnen kiezen in Nederland voor thuisonderwijs. Misschien ben je benieuwd wat dat precies inhoudt. Hieronder leggen we het uit, zodat je een goed beeld krijgt.</p>
+        <p class="faq-subtitle" data-testid="text-wat-is-thuisonderwijs-subtitle">Steeds meer gezinnen in Nederland kiezen voor thuisonderwijs. Misschien ben je benieuwd wat dit precies inhoudt. Hieronder volgt een uitleg om een goed beeld te krijgen.</p>
       </div>
       <div class="faq-section">
         ${itemsHtml}
