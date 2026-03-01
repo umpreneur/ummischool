@@ -836,32 +836,32 @@ const watIsItems = [
   {
     id: "wat-is",
     title: "Wat is thuisonderwijs?",
-    content: "Thuisonderwijs houdt in dat ouders zelf verantwoordelijk zijn voor het onderwijs van hun kind, buiten een reguliere school. Zij bepalen hoe het leren wordt ingericht en welke materialen of methoden zij gebruiken.",
+    content: "Thuisonderwijs betekent dat ouders zelf verantwoordelijk zijn voor het onderwijs van hun kind, buiten een reguliere school. Zij bepalen wat hun kind leert, hoe het leren wordt ingericht en welke materialen, methoden en bronnen daarbij worden gebruikt.",
   },
   {
     id: "leraar",
     title: "Moet je een leraar zijn?",
-    content: "Nee. Ouders hebben geen lerarenopleiding nodig. Zij verzamelen zelf de benodigde kennis via lesmateriaal of andere bronnen en begeleiden hun kind daarbij. Voor specifieke vakken kunnen zij, als dat nodig is, extra hulp inschakelen.",
+    content: "<strong>Nee, een lerarenopleiding is niet verplicht.</strong> Met lesmateriaal en ondersteuning kunnen ouders hun kind zelf begeleiden, eventueel met extra hulp voor bepaalde vakken.",
   },
   {
     id: "nederland",
     title: "Mag thuisonderwijs in Nederland?",
-    content: "Thuisonderwijs kan in Nederland alleen in bepaalde situaties. Ouders kunnen bij de gemeente melden dat hun kind niet naar school gaat, bijvoorbeeld vanwege hun levensovertuiging, medische of psychische redenen, of omdat het gezin geen vaste woonplek heeft.",
+    content: "<strong>Ja, soms.</strong> In Nederland is thuisonderwijs mogelijk in bijzondere situaties, zoals bij levensovertuiging, medische of psychische redenen, of wanneer een gezin geen vaste woonplek heeft.",
   },
   {
     id: "sociale",
-    title: "Hoe zien sociale contacten eruit bij thuisonderwijs?",
-    content: "Kinderen ontmoeten anderen via sport, speelplaatsen, uitstapjes, familie, vrienden of thuisonderwijsgroepen. Hoe dit wordt ingevuld verschilt per gezin.",
+    title: "Is er toezicht op thuisonderwijs?",
+    content: "Er is geen toezicht op de inhoud van het onderwijs zoals bij scholen. Wel wordt gecontroleerd of een gezin aan de voorwaarden voor thuisonderwijs voldoet.",
   },
   {
     id: "mogelijkheden",
-    title: "Welke mogelijkheden hebben kinderen later?",
-    content: "Thuisonderwijsleerlingen kunnen vervolgonderwijs instromen via staatsexamens of andere trajecten. De weg is soms anders dan op school, maar uiteindelijk kunnen ze dezelfde diploma's behalen.",
+    title: "Welke mogelijkheden hebben kinderen na thuisonderwijs?",
+    content: "Kinderen met thuisonderwijs kunnen later verder studeren. Via staatsexamens of andere routes kunnen zij officiële diploma’s behalen en doorstromen naar vervolgonderwijs. De weg is soms anders dan op school, maar de kansen zijn hetzelfde.",
   },
   {
     id: "kosten",
     title: "Wat kost thuisonderwijs?",
-    content: "Ouders betalen zelf voor materialen, activiteiten en examens. Tegelijk zijn er veel gratis of goedkope opties. Zo kan elk gezin de kosten op een eigen manier vormgeven.",
+    content: "Bij thuisonderwijs betalen ouders zelf voor lesmateriaal, activiteiten en eventuele examens. Dit kan bestaan uit boeken, online leermiddelen of zelfgemaakt materiaal. De kosten verschillen per gezin, maar thuisonderwijs hoeft niet duur te zijn en kan goed worden aangepast aan het beschikbare budget.",
   },
   
 ];
