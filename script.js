@@ -789,12 +789,12 @@ const faqItems = [
   {
     id: "isolatie",
     question: "Krijgt mijn kind genoeg sociale contacten?",
-    main: "Contact met anderen vraagt om bewuste keuzes. Veel gezinnen sluiten aan bij sport, speelafspraken, uitstapjes of lokale thuisonderwijsgroepen. Online zijn er ook plekken waar je ervaringen kunt delen en contact kunt onderhouden. Je hoeft het niet alleen te doen, maar het komt niet vanzelf.",
+    main: "Sociale contacten kunnen op verschillende manieren ontstaan. Veel gezinnen ontmoeten andere kinderen via sportclubs, speelafspraken, speeltuinen, uitstapjes of thuisonderwijsgroepen. Hoe vaak dat gebeurt, hangt ook af van de initiatieven die ouders nemen.",
   },
    {
     id: "vervolgonderwijs",
     question: "Kan mijn kind doorstromen naar vervolgonderwijs?",
-    main: "Situaties kunnen veranderen, en dat is oké. Je kind kan altijd weer naar school. Houd er wel rekening mee dat het vaak moeilijker is om opnieuw vrijstelling te krijgen als je kind eerder op school heeft gezeten. Denk daarom goed na voordat je begint en zoek vooraf uit hoe het in jouw gemeente geregeld is.",
+    main: "Kinderen uit het thuisonderwijs kunnen instromen in het voortgezet onderwijs of later door naar mbo, hbo of universiteit. Dat kan via een reguliere aanmelding, een toelatingstoets of staatsexamens. Welke route nodig is, hangt af van de opleiding.",
   },
    {
     id: "kinderen",
@@ -812,11 +812,7 @@ const faqItems = [
     question: "Wat als mensen in mijn omgeving het niet begrijpen?",
     main: "Je kunt uitleggen hoe jij ernaar kijkt, maar je hoeft niet iedereen te overtuigen. Niet iedereen zal het meteen begrijpen, en dat kan soms lastig zijn. Uiteindelijk beslis jij wat het beste past bij jouw gezin.",
   },
-  {
-    id: "partner",
-    question: "Wat als mijn man of vrouw het niet steunt?",
-    main: "Dat vraagt tijd, gesprekken en wederzijds begrip. Thuisonderwijs werkt het beste wanneer jij en je man of vrouw allebei achter de keuze staan. Je kunt informatie delen, luisteren naar elkaars zorgen en samen kijken wat mogelijk is. Gesprekken met andere gezinnen kunnen helpen om een eerlijk beeld te krijgen.",
-  },
+
   {
     id: "werk",
     question: "Hoe combineer je thuisonderwijs met werk?",
@@ -1302,7 +1298,7 @@ ${item.highlight && item.highlight.trim() !== ""
     <div id="page-faq" class="page">
       <div style="text-align: center; margin-bottom: 3rem;">
         <h1 class="page-title" data-testid="text-faq-title">Ik Twijfel!</h1>
-        <p class="faq-subtitle" data-testid="text-faq-subtitle">Twijfels horen erbij. Thuisonderwijs is geen klusje dat je 'even tussendoor' doet. Veel ouders zitten met dezelfde vragen. In sha Allah vind je in de antwoorden hieronder helderheid en rust.</p>
+        <p class="faq-subtitle" data-testid="text-faq-subtitle">Twijfels horen erbij. Thuisonderwijs is geen klusje dat je ‘even tussendoor’ doet. Veel ouders die thuisonderwijs overwegen stellen dezelfde vragen. In sha Allah helpen de antwoorden hieronder om goed geïnformeerd keuzes te maken.</p>
       </div>
       <div class="faq-section">
         ${itemsHtml}
