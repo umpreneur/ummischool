@@ -782,13 +782,30 @@ content: [
 const faqItems = [
   {
     id: "leraar",
-    question: "Ik ben geen lerares. Kan ik dit wel?",
-    main: "Ja, dat kan. Veel ouders zonder lerarendiploma zijn je al voorgegaan. Het vraagt inzet: informatie opzoeken en werken met betrouwbaar materiaal. Met boeken, lesmateriaal en online uitleg kom je ver, en voor lastige vakken kun je altijd extra hulp of deelnemen aan gezamenlijke lessen met andere gezinnen.",
+    question: "Maar ik ben toch geen leraar?",
+    main: "Een diploma is nodig om op een school te werken, maar uitleg geven, een kind iets leren en begeleiden is geen exclusieve vaardigheid van mensen met een  lerarenopleiding. Ouders leren hun kinderen van jongs af aan al van alles. Met kennis van de lesstof, duidelijke doelen en goede methodes kan ook zonder lerarenopleiding verantwoord onderwijs worden gegeven. Waar extra expertise nodig is, kan altijd hulp worden ingeschakeld.",
   },
+    
   {
-    id: "tekort",
-    question: "Doe ik mijn kind niet tekort?",
-    main: "Niet wanneer je betrokken blijft en bereid bent om te leren als ouder. Thuisonderwijs is een bewuste keuze, geen gok. Als je openstaat voor groei, hulp zoekt wanneer dat nodig is en zorgt voor een veilige, liefdevolle omgeving, krijgt je kind een stevige basis.",
+    id: "isolatie",
+    question: "Krijgt mijn kind genoeg sociale contacten?",
+    main: "Contact met anderen vraagt om bewuste keuzes. Veel gezinnen sluiten aan bij sport, speelafspraken, uitstapjes of lokale thuisonderwijsgroepen. Online zijn er ook plekken waar je ervaringen kunt delen en contact kunt onderhouden. Je hoeft het niet alleen te doen, maar het komt niet vanzelf.",
+  },
+   {
+    id: "vervolgonderwijs",
+    question: "Kan mijn kind doorstromen naar vervolgonderwijs?",
+    main: "Situaties kunnen veranderen, en dat is oké. Je kind kan altijd weer naar school. Houd er wel rekening mee dat het vaak moeilijker is om opnieuw vrijstelling te krijgen als je kind eerder op school heeft gezeten. Denk daarom goed na voordat je begint en zoek vooraf uit hoe het in jouw gemeente geregeld is.",
+  },
+   {
+    id: "kinderen",
+    question: "Is thuisonderwijs met meerdere kinderen haalbaar?",
+    main: "Ja, dat kan, maar het vraagt organisatie en realistische verwachtingen. Veel gezinnen ontwikkelen een eigen ritme, waarin kinderen op verschillende momenten iets doen: de één werkt even, de ander speelt of doet een eenvoudige activiteit. Jonge kinderen leren vooral in korte, begeleide momenten, terwijl oudere kinderen steeds zelfstandiger kunnen werken.",
+  },
+ 
+  {
+    id: "islamitisch",
+    question: "Thuisonderwijs of een islamitische school?",
+    main: "Thuisonderwijs maakt het mogelijk om geloof direct mee te nemen in de lessen, het lesmateriaal, de dagelijkse structuur en zelfs de omgeving waarin je kind leert. Voor veel moslimgezinnen sluit dat beter aan bij wat zij hun kinderen religieus willen meegeven. Tegelijk is thuisonderwijs niet voor iedereen praktisch haalbaar, en zijn islamitische scholen voor veel gezinnen daarom een waardevolle en dankbare uitkomst. Welke keuze je maakt, hangt uiteindelijk af van jouw situatie, jouw kind en wat voor jullie het beste werkt.",
   },
   {
     id: "familie",
@@ -805,27 +822,8 @@ const faqItems = [
     question: "Hoe combineer je thuisonderwijs met werk?",
     main: "Dat verschilt per gezin. In veel gezinnen werkt één ouder voltijd en is de andere ouder overdag beschikbaar voor de kinderen. Als beide ouders willen werken, is thuisonderwijs vaak moeilijk te combineren, omdat er iemand nodig is om het kind te begeleiden. Deeltijdwerk of (gedeeltelijk) thuiswerken kan dan meer ruimte geven. Het vraagt duidelijke keuzes, planning en soms ook financiële aanpassing.",
   },
-  {
-    id: "kinderen",
-    question: "Is thuisonderwijs met meerdere kinderen haalbaar?",
-    main: "Ja, dat kan, maar het vraagt organisatie en realistische verwachtingen. Veel gezinnen ontwikkelen een eigen ritme, waarin kinderen op verschillende momenten iets doen: de één werkt even, de ander speelt of doet een eenvoudige activiteit. Jonge kinderen leren vooral in korte, begeleide momenten, terwijl oudere kinderen steeds zelfstandiger kunnen werken.",
-  },
-  {
-    id: "islamitisch",
-    question: "Thuisonderwijs of een islamitische school?",
-    main: "Thuisonderwijs maakt het mogelijk om geloof direct mee te nemen in de lessen, het lesmateriaal, de dagelijkse structuur en zelfs de omgeving waarin je kind leert. Voor veel moslimgezinnen sluit dat beter aan bij wat zij hun kinderen religieus willen meegeven. Tegelijk is thuisonderwijs niet voor iedereen praktisch haalbaar, en zijn islamitische scholen voor veel gezinnen daarom een waardevolle en dankbare uitkomst. Welke keuze je maakt, hangt uiteindelijk af van jouw situatie, jouw kind en wat voor jullie het beste werkt.",
-  },
-  {
-    id: "echte-wereld",
-    question: "Bereidt thuisonderwijs kinderen voor op de echte wereld?",
-    main: "Het echte leven bestaat niet uit vier muren met alleen leeftijdsgenoten of vaste schema's. Thuisonderwijs sluit dichter aan op hoe het dagelijks leven eruitziet: verschillende leeftijden door elkaar en situaties die niet altijd volgens één planning verlopen. Welke vorm het beste past, hangt af van wat jij belangrijk vindt voor jouw kind.",
-  },
-  {
-    id: "isolatie",
-    question: "Krijgt mijn kind genoeg sociale contacten?",
-    main: "Contact met anderen vraagt om bewuste keuzes. Veel gezinnen sluiten aan bij sport, speelafspraken, uitstapjes of lokale thuisonderwijsgroepen. Online zijn er ook plekken waar je ervaringen kunt delen en contact kunt onderhouden. Je hoeft het niet alleen te doen, maar het komt niet vanzelf.",
-  },
-  {
+ 
+ {
     id: "stoppen",
     question: "Wat als het niet lukt of we willen stoppen?",
     main: "Situaties kunnen veranderen, en dat is oké. Je kind kan altijd weer naar school. Houd er wel rekening mee dat het vaak moeilijker is om opnieuw vrijstelling te krijgen als je kind eerder op school heeft gezeten. Denk daarom goed na voordat je begint en zoek vooraf uit hoe het in jouw gemeente geregeld is.",
