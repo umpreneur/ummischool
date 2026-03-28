@@ -1014,22 +1014,13 @@ function renderWaarBeginIkPage() {
   title: "Visie",
 content:
  "Thuisonderwijs begint niet bij boeken, maar bij één vraag:<br>" +
-"<strong>Wat hebben jouw kinderen nodig voor hun toekomst?</strong><br><br>" +
-  "Als je dat weet, wordt kiezen eenvoudiger. Je doet alleen wat echt bij jullie gezin past.<br>" +
-"Als je dat helder hebt, ontstaat er vanzelf een richting waarin je een manier van leren kunt opbouwen die echt bij jullie gezin aansluit.<br><br>"+
+"<strong>Bij de vraag: wat wil je voor jouw kinderen in hun toekomst?</strong><br><br>" +
+  "Welke waarden wil je meegeven? Welke kennis en vaardigheden hebben zij nodig? En ook: op welke manier leren zij het best?<br>" +
+"Wanneer die visie helderder wordt, ontstaat er ook meer richting. Zo kun je stap voor stap bouwen aan onderwijs dat echt past bij jouw kinderen en jouw gezin.<br><br>"+
 
-  "<strong>Om richting te bepalen kun je jezelf de volgende vragen stellen:</strong><br>" +
-  "<ul style='margin:0.5rem 0 1rem 1rem; padding:0; line-height:1.5;'>"+
-    "<li><strong>Welke waarden</strong> willen we meegeven?</li>" +
-    "<li>Hoe ziet ons gezin er over vijf à tien jaar uit?</li>" +
-    "<li>Waar wonen we dan waarschijnlijk?</li>" +
-    "<li>Welke <strong>talen en vaardigheden</strong> horen bij die toekomst?</li>" +
-    "<li>Welke manier van leren past bij onze kinderen?</li>" +
-  "</ul>" +
+  "Hieronder vind je een handleiding die handig kan zijn bij het schrijven van jouw thuisonderwijsplan. Een plan schrijven is niet verplicht, maar het kan wel helpen om je gedachten op een rij te zetten.:<br>",
 
-  "Deze vragen geven helderheid over wat voor jullie belangrijk is en vormen een basis om verder op te bouwen.",
-
-     highlight: "Praktisch aan de slag?<br>" + "Hieronder vind je een handleiding die handig kan zijn bij het schrijven van jouw thuisonderwijsplan. Een plan schrijven is niet verplicht, maar het kan wel helpen om je gedachten op een rij te zetten.:<br><br>" + "<a href='https://www.thuisonderwijs.nl/wp-content/uploads/2023/09/Handleiding-schrijf-je-to-plan.pdf' target='_blank'>Download de handleiding</a>"
+     highlight: "Praktisch aan de slag?<br>" + "<a href='https://www.thuisonderwijs.nl/wp-content/uploads/2023/09/Handleiding-schrijf-je-to-plan.pdf' target='_blank'>Download de handleiding</a>"
    },
 
     {
