@@ -799,7 +799,7 @@ const faqItems = [
    {
     id: "kinderen",
     question: "Is thuisonderwijs met meerdere kinderen haalbaar?",
-    main: "Ja, dat kan, maar het vraagt organisatie en realistische verwachtingen. Veel gezinnen ontwikkelen een eigen ritme, waarin kinderen op verschillende momenten iets doen: de één werkt even, de ander speelt of doet een eenvoudige activiteit. Jonge kinderen leren vooral in korte, begeleide momenten, terwijl oudere kinderen steeds zelfstandiger kunnen werken.",
+    main: "Ja, dat kan, maar het vraagt organisatie en realistische verwachtingen. Veel gezinnen zoeken een vorm die bij hen past. Wat mogelijk is, verschilt per gezin, per kind en per fase.",
   },
  
   {
