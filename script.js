@@ -1029,7 +1029,7 @@ content:
 
   "Deze vragen geven helderheid over wat voor jullie belangrijk is en vormen een basis om verder op te bouwen.",
 
-     highlight: "Praktisch aan de slag?<br>" + "Gebruik de NVVTO-handleiding om jouw plan te schrijven:<br><br>" + "<a href='https://www.thuisonderwijs.nl/wp-content/uploads/2023/09/Handleiding-schrijf-je-to-plan.pdf' target='_blank'>Download de handleiding</a>"
+     highlight: "Praktisch aan de slag?<br>" + "Hieronder vind je een handleiding die handig kan zijn bij het schrijven van jouw thuisonderwijsplan. Een plan schrijven is niet verplicht, maar het kan wel helpen om je gedachten op een rij te zetten.:<br><br>" + "<a href='https://www.thuisonderwijs.nl/wp-content/uploads/2023/09/Handleiding-schrijf-je-to-plan.pdf' target='_blank'>Download de handleiding</a>"
    },
 
     {
@@ -1214,7 +1214,7 @@ highlight:
     <div id="page-waar-begin-ik" class="page">
       <div style="text-align: center; margin-bottom: 3rem;">
         <h1 class="page-title" data-testid="text-waar-begin-ik-title">Waar Begin Ik?</h1>
-        <p class="faq-subtitle" data-testid="text-waar-begin-ik-subtitle">Je hebt besloten om voor thuisonderwijs te gaan. Allahumma barik! Moge Allah jullie hierin bijstaan. En nu? Waar begin je eigenlijk? In sha Allah vind je hieronder een helder beginpunt.</p>
+        <p class="faq-subtitle" data-testid="text-waar-begin-ik-subtitle">Je hebt besloten om voor thuisonderwijs te kiezen. Allahumma barik. Moge Allah jullie hierin bijstaan. Maar waar begin je? In sha Allah vind je hieronder een helder beginpunt.</p>
       </div>
       <div class="faq-section">
         ${stepsHtml}
