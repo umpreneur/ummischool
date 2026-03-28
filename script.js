@@ -1013,8 +1013,8 @@ function renderWaarBeginIkPage() {
   id: "intentie",
   title: "Visie",
 content:
- "Thuisonderwijs begint niet bij boeken, maar bij één vraag:<br>" +
-"<strong>Bij de vraag: wat wil je voor jouw kinderen in hun toekomst?</strong><br><br>" +
+ "Thuisonderwijs begint niet bij boeken, maar bij de vraag:<br>" +
+"<strong>wat wil je voor jouw kinderen in hun toekomst?</strong><br><br>" +
   "Welke waarden wil je meegeven? Welke kennis en vaardigheden hebben zij nodig? En ook: op welke manier leren zij het best?<br>" +
 "Wanneer die visie helderder wordt, ontstaat er ook meer richting. Zo kun je stap voor stap bouwen aan onderwijs dat echt past bij jouw kinderen en jouw gezin.<br><br>"+
 
