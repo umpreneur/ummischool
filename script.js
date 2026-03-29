@@ -1044,7 +1044,7 @@ content:
     "<li><strong>Praktische vaardigheden</strong> zoals zelfzorg, zorg voor de omgeving en verantwoordelijkheid nemen</li>" +
   "</ul>" +
 
-  "In de volgende onderdelen lees je per thema wat deze onderdelen inhouden.",
+  "Hieronder lees je per thema kort wat elk onderdeel inhoudt.",
      highlight: ""   // ← lege string = GEEN highlight
     },
 
