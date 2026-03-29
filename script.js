@@ -1181,12 +1181,14 @@ content:
   
 highlight:
   "Praktische informatie:<br>" +
-  "Meer informatie over de wettelijke kader:<br><br>" +
-  "<a href='https://www.thuisonderwijs.nl/wettelijk/' target='_blank'>Voorbeeldbrief en juridische toelichting</a>"
-  "Uitleg over artikel 5 onder b van de Leerplichtwet (richtingbezwaar):<br><br>" +
-  "<a href='https://www.thuisonderwijs.nl/wettelijk/5onderb/' target='_blank'>Voorbeeldbrief en juridische toelichting</a>"
+  "Meer informatie over de wettelijke kader:<br>" +
+  "<a href='https://www.thuisonderwijs.nl/wettelijk/' target='_blank'>Voorbeeldbrief en juridische toelichting</a><br><br>" +
+  
+  "Uitleg over artikel 5 onder b van de Leerplichtwet (richtingbezwaar):<br>" +
+  "<a href='https://www.thuisonderwijs.nl/wettelijk/5onderb/' target='_blank'>Voorbeeldbrief en juridische toelichting</a><br><br>" +
+  
    "Kom je er niet uit of heb je vragen?:<br><br>" +
-  "<a href='https://thuisonderwijs.net/contact/' target='_blank'>Voorbeeldbrief en juridische toelichting</a>"
+  "<a href='https://thuisonderwijs.net/contact/' target='_blank'>Voorbeeldbrief en juridische toelichting</a>",
 
     },
     
