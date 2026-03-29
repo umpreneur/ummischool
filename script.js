@@ -1112,8 +1112,8 @@ content:
       id: "dagelijks",
       title: "Vaardigheden uit het dagelijks leven",
   content:
-  "Binnen thuisonderwijs leert je kind niet alleen uit boeken. Het leert ook door veel zelf te doen.<br>" +
-  "Veel leren gebeurt tijdens dagelijkse handelingen. Denk aan aankleden, helpen met koken, opruimen of iets zelf proberen.br>" +
+  "Binnen thuisonderwijs leert je kind niet alleen uit boeken.<br> Het leert ook door veel zelf te doen.<br>" +
+  "Veel leren gebeurt tijdens dagelijkse handelingen. Denk aan helpen met koken, opruimen of iets zelf proberen.<br>" +
   "Door dit soort activiteiten leert je kind stap voor stap zelfstandiger te worden en verantwoordelijkheid te nemen.",
 
 },
