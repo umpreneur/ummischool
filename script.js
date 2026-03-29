@@ -1039,9 +1039,9 @@ content:
   "<ul style='margin: 0.5rem 0 1rem 1.2rem; padding: 0; line-height: 1.6;'>"+
     "<li><strong>Qur’aan en (fusha) Arabisch</strong></li>" +
     "<li><strong>Adab en akhlaaq:</strong> manieren, omgangsvormen en karaktervorming</li>" +
-    "<li><strong>Basisvakken</strong> zoals taal, rekenen </li>" +
-    "<li><strong>Lichaamsbeweging</strong> zoals sport</li>" +
-    "<li><strong>Praktische vaardigheden</strong> zoals zelfstandigheid, verantwoordelijkheid en meedoen binnen het gezin én in de samenleving.</li>" +
+    "<li><strong>Schoolvakken</strong> zoals taal, rekenen </li>" +
+    "<li><strong>Sport</strong></li>" +
+    "<li><strong>Praktische vaardigheden</strong> zoals zelfzorg, zorg voor de omgeving en verantwoordelijkheid nemen</li>" +
   "</ul>" +
 
   "In de volgende onderdelen lees je per thema wat deze onderdelen inhouden.",
