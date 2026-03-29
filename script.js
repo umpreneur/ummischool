@@ -1042,7 +1042,7 @@ content:
     "<li><strong>Schoolvakken</strong> zoals taal, rekenen </li>" +
     "<li><strong>Sport</strong></li>" +
     "<li><strong>Praktische vaardigheden</strong> zoals zelfzorg, zorg voor de omgeving en verantwoordelijkheid nemen</li>" +
-  "</ul>" +
+  "</ul>"+
 
   "Hieronder lees je per thema kort wat elk onderdeel inhoudt.",
      highlight: ""   // ← lege string = GEEN highlight
