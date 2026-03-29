@@ -1142,9 +1142,15 @@ content:
     {
       id: "dagritme",
       title: "Dagplanning, ritme en structuur",
-      content: "Thuisonderwijs hoeft niet hetzelfde ritme te volgen als een schooldag. Omdat kinderen individueel werken en niet hoeven te wachten op anderen, kan de leertijd korter en flexibeler zijn. Sommige gezinnen kiezen voor één blok per dag, anderen verdelen het over meerdere momenten of passen het ritme aan per dag. Het helpt daarbij om eerst te bepalen wat je wilt aanbieden en dit vervolgens logisch over de dag of week te verdelen.<br><br>" +
+      content:
+"<strong>Thuisonderwijs hoeft niet hetzelfde ritme te volgen als een schooldag.</strong><br><br>" +
+"Het helpt om eerst te bepalen wat je wilt aanbieden. Daarna kun je kijken hoe je dit op een passende manier over de dag of week verdeelt.<br><br>" +
 
-"Hoe je structuur vormgeeft, verschilt per gezin: voor de één is dat een vaste volgorde in de dag, voor de ander herkenbare momenten die houvast bieden. Thuisonderwijs kan strak, flexibel of wisselend worden ingericht  wat werkt, hangt af van jouw gezin."
+"Sommige gezinnen kiezen voor vaste leermomenten.<br>" +
+"Andere gezinnen pakken het flexibeler aan.<br>" +
+"Er is geen vaste vorm die voor iedereen werkt.<br><br>" +
+
+"<strong>Je kiest wat past bij jouw kind en jullie gezin.</strong>",
 
     },
     {
