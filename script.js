@@ -1112,17 +1112,9 @@ content:
       id: "dagelijks",
       title: "Vaardigheden uit het dagelijks leven",
   content:
-  "Kinderen ontwikkelen niet alleen kennis, maar ook verschillende vaardigheden in het dagelijks leven, thuis en in hun omgeving.<br>" +
-  "Tijdens alledaagse activiteiten zoals aankleden, tafel dekken, opruimen, helpen, samenwerken of iets nieuws proberen oefenen ze vaardigheden zoals:<br>" +
-
-  "<ul style='margin: 0.5rem 0 1rem 1.2rem; padding: 0; line-height: 1.6;'>" +
-    "<li><strong>zelfstandigheid</strong></li>" +
-    "<li><strong>verantwoordelijkheid</strong></li>" +
-    "<li><strong>probleemoplossend denken</strong></li>" +
-    "<li><strong>samenwerken</strong></li>" +
-  "</ul>" +
-
-  "Deze vaardigheden ondersteunen het schoolse leren en maken deel uit van wat kinderen binnen thuisonderwijs kunnen ontwikkelen."
+  "Binnen thuisonderwijs leert je kind niet alleen uit boeken. Het leert ook door veel zelf te doen.<br>" +
+  "Veel leren gebeurt tijdens dagelijkse handelingen. Denk aan aankleden, helpen met koken, opruimen of iets zelf proberen.br>" +
+  "Door dit soort activiteiten leert je kind stap voor stap zelfstandiger te worden en verantwoordelijkheid te nemen.",
 
 },
 
