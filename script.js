@@ -1082,7 +1082,7 @@ content:
     "<li><strong>Karaktervorming:</strong> vaardigheden zoals doorzetten, verantwoordelijkheid nemen en omgaan met uitdagingen</li>" +
   "</ul>" +
 
-  "Verhalen uit de Qur’aan, sunnah en de geschiedenis van de profeten en sahaba worden gebruikt om kinderen te inspireren en te vormen, en hen voorbeelden te geven die richting en betekenis bieden."
+  "Verhalen uit de Qur’aan, sunnah en de geschiedenis van de profeten en sahaba worden gebruikt om kinderen te inspireren en te vormen, en hen voorbeelden te geven die richting en betekenis bieden.",
 },
 
     {
@@ -1105,7 +1105,7 @@ content:
     "• SLO-kerndoelen:<br>" +
     "<a href='https://www.slo.nl/thema/meer/jonge-kind/doelen-jonge-kind/' target='_blank'>Bekijk de kerndoelen</a><br><br>" +
     "• Wereldoriëntatie (natuur, geschiedenis, aardrijkskunde) <br>" +
-    "<a href='https://www.slo.nl/sectoren/po/inhoudslijnen-po/inhoudslijnen-orientatie-jezelf-wereld/' target='_blank'>Bekijk de kerndoelen</a><br><br>" +
+    "<a href='https://www.slo.nl/sectoren/po/inhoudslijnen-po/inhoudslijnen-orientatie-jezelf-wereld/' target='_blank'>Bekijk de kerndoelen</a>",
 },
 
     {
