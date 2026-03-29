@@ -1143,8 +1143,8 @@ content:
       id: "dagritme",
       title: "Dagplanning, ritme en structuur",
       content:
-"<strong>Thuisonderwijs hoeft niet hetzelfde ritme te volgen als een schooldag.</strong><br><br>" +
-"Om structuur aan te brengen, helpt het om eerst te bepalen wat je wilt aanbieden. Daarna kun je kijken hoe je dit op een passende manier over de dag of week verdeelt.<br><br>" +
+"<strong>Thuisonderwijs hoeft niet hetzelfde ritme te volgen als een schooldag.</strong><br>" +
+"Om structuur aan te brengen, helpt het om eerst te bepalen wat je wilt aanbieden. Daarna kun je kijken hoe je dit op een passende manier over de dag of week verdeelt.<br>" +
 
 "Sommige gezinnen kiezen voor vaste leermomenten.<br>" +
 "Andere gezinnen pakken het flexibeler aan.<br>" +
