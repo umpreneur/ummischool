@@ -1123,22 +1123,20 @@ content:
       id: "methode",
       title: "Hoe kun je thuisonderwijs vormgeven?",
       content: "Thuisonderwijzers gebruiken verschillende methodes om hun onderwijs vorm te geven. Er bestaat geen vaste of voorgeschreven aanpak; ieder gezin kiest wat aansluit bij hun kinderen, ritme en doelen.<br><br>" +
-"<strong>Veelgebruikte methodes binnen thuisonderwijs zijn onder andere:</strong>" +
-        "<ul style='margin: 0.5rem 0 1rem 1.2rem; padding: 0; line-height: 1.6;'>" +
+"<strong>Hoe kun je thuisonderwijs vormgeven?</strong><br>" +
+"Er is geen vaste manier om thuisonderwijs te geven.<br>" +
+"Ieder gezin kiest wat past bij hun kind, ritme en doelen.<br><br>" +
 
-"<li><strong>Klassieke methode:</strong><br>Een aanpak die de structuur van school volgt: je werkt met vaste lesmomenten en een duidelijke leerlijn per vak, meestal met werkboeken of methodes. Je hoeft geen compleet pakket te kopen; veel ouders kiezen per vak wat het beste past bij hun kind.</li><br>" +
+"Sommige ouders werken met structuur en vaste lesmomenten.<br>" +
+"Ze gebruiken methodes of werkboeken per vak, zoals op school.<br><br>" +
 
-"<li><strong>Charlotte Mason:</strong><br>Een methode waarbij kinderen leren met rijk geschreven, verhalende boeken (living books) in plaats van met traditionele schoolboeken. Na het lezen vertellen ze in hun eigen woorden wat ze hebben onthouden (narrations). De lessen zijn kort en afwisselend, en er is ruimte voor natuurstudie en het oefenen van goede gewoontes.</li><br>" +
+"Andere ouders gebruiken minder werkboeken.<br>" +
+"Zij werken met leesboeken, thema’s etc. <br><br>" +
 
-"<li><strong>Thematisch:</strong><br>Een manier van werken waarbij één thema centraal staat. Soms worden meerdere vakken rond dat thema verbonden, maar vaak gaat het om één vak of onderdeel, terwijl andere vakken gewoon apart worden behandeld.</li><br>" +
+"Vaak is het een combinatie.<br>" +
+"Je kunt per vak kiezen wat het beste werkt.<br><br>" +
 
-"<li><strong>Montessori:</strong><br>Elementen uit de Montessori-benadering toegepast in de thuissituatie, met aandacht voor zelfstandig werken en concreet leermateriaal.</li><br>" +
-
-"<li><strong>Mix:</strong><br>Veel gezinnen combineren elementen uit meerdere methodes. Zo kunnen ze bijvoorbeeld voor rekenen een gestructureerde aanpak gebruiken, voor taal rijke boeken inzetten en voor wereldoriëntatie thematisch werken. De methode past zich aan per kind en per vak.</li><br>" +
-
-"</ul>"
-
-
+"Zo ontstaat een manier van leren die past bij jouw kind en jullie gezin.",
     },
     {
       id: "dagritme",
