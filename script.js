@@ -1089,8 +1089,8 @@ content:
       id: "schoolvakken",
       title: "Schoolvakken",
   content:
-    "Veel ouders vragen zich af wat kinderen in Nederland leren op de basisschool.<br>" +
-    "De kerndoelen van SLO geven per leeftijd en per leergebied een helder overzicht van onderwerpen zoals taal, rekenen en wereldoriëntatie.<br>" +
+    "In Nederland zijn er kerndoelen voor het basisonderwijs.<br>" +
+    "Deze zijn opgesteld door de SLO. Ze geven per leeftijd en leergebied een overzicht van onderwerpen zoals taal, rekenen en wereldoriëntatie.<br>" +
     "Je gebruikt deze informatie als richting: jij bepaalt welke vakken je thuis aanbiedt en in welk tempo dat past bij jullie gezin.<br><br>" +
 
     "<strong>Je bent niet gebonden aan het Nederlandse curriculum</strong><br>" +
@@ -1098,14 +1098,14 @@ content:
     "• de Nederlandse kerndoelen volgen<br>" +
     "• kiezen voor een buitenlands curriculum, zoals het UK-curriculum, US-curriculum of het internationale IB-programma<br><br>" +
 
-    "Welke keuze je ook maakt, het kan helpen om de ontwikkeling van je kind goed bij te houden. Dat geeft overzicht wanneer je later wilt aansluiten bij vervolgonderwijs.",
+    "Welke keuze je ook maakt, het kan helpen om de ontwikkeling van je kind goed bij te houden. Zo zie je hoe je kind zich ontwikkelt en wordt aansluiten bij vervolgonderwijs makkelijker.",
   
   highlight:
     "<i>Handige bronnen:</i><br><br>" +
-    "• Huidige SLO-kerndoelen:<br>" +
+    "• SLO-kerndoelen:<br>" +
     "<a href='https://www.slo.nl/thema/meer/jonge-kind/doelen-jonge-kind/' target='_blank'>Bekijk de kerndoelen</a><br><br>" +
-    "• Vernieuwing kerndoelen (2025 – conceptfase):<br>" +
-    "<a href='https://www.slo.nl/thema/meer/actualisatie-kerndoelen-examenprogramma/actualisatie-kerndoelen/' target='_blank'>Meer over de actualisatie</a>"
+    "• Wereldoriëntatie (natuur, geschiedenis, aardrijkskunde)::<br>" +
+    "<a href='https://www.slo.nl/sectoren/po/inhoudslijnen-po/inhoudslijnen-orientatie-jezelf-wereld/' target='_blank'>Bekijk de kerndoelen</a><br><br>" +
 },
 
     {
