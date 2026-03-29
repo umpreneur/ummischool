@@ -1123,18 +1123,12 @@ content:
       id: "methode",
       title: "Hoe kun je thuisonderwijs vormgeven?",
       content: "Thuisonderwijzers gebruiken verschillende methodes om hun onderwijs vorm te geven. Er bestaat geen vaste of voorgeschreven aanpak; ieder gezin kiest wat aansluit bij hun kinderen, ritme en doelen.<br><br>" +
-"<strong>Hoe kun je thuisonderwijs vormgeven?</strong><br>" +
-"Er is geen vaste manier om thuisonderwijs te geven.<br>" +
-"Ieder gezin kiest wat past bij hun kind, ritme en doelen.<br><br>" +
-
 "Sommige ouders werken met structuur en vaste lesmomenten.<br>" +
-"Ze gebruiken methodes of werkboeken per vak, zoals op school.<br><br>" +
-
+"Ze gebruiken methodes of werkboeken per vak, zoals op school.<br>" +
 "Andere ouders gebruiken minder werkboeken.<br>" +
-"Zij werken met leesboeken, thema’s etc. <br><br>" +
-
+"Zij werken met leesboeken, thema’s etc. <br>" +
 "Vaak is het een combinatie.<br>" +
-"Je kunt per vak kiezen wat het beste werkt.<br><br>" +
+"Je kunt per vak kiezen wat het beste werkt.<br>" +
 
 "Zo ontstaat een manier van leren die past bij jouw kind en jullie gezin.",
     },
