@@ -1176,7 +1176,7 @@ content:
       id: "juridisch",
       title: "Juridisch: hoe regel ik een vrijstelling?",
       content:
-  "In Nederland geldt leerplicht, maar geen schoolplicht. Een kind moet leren, maar dat hoeft niet op school als je voldoet aan de voorwaarden voor vrijstelling. De regels en voorwaarden kunnen per situatie verschillen. Het is daarom belangrijk om je hier goed in te verdiepen.<br>"
+  "In Nederland geldt leerplicht, maar geen schoolplicht. Een kind moet leren, maar dat hoeft niet op school als je voldoet aan de voorwaarden voor vrijstelling. De regels en voorwaarden kunnen per situatie verschillen. Het is daarom belangrijk om je hier goed in te verdiepen.<br>" +
       "In shaa Allah vind je op de onderstaande websites meer uitleg en ondersteuning. <br>",
 
   
