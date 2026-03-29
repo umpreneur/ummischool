@@ -1131,13 +1131,12 @@ content:
 "<strong>Verschillende manieren</strong><br>" +
 "Sommige ouders werken met structuur en vaste lesmomenten.<br>" +
 "Ze gebruiken methodes of werkboeken per vak, zoals op school.<br><br>" +
-
+        
 "Andere ouders gebruiken minder werkboeken.<br>" +
 "Zij werken met leesboeken, thema’s of andere vormen van leren.<br><br>" +
-
+        
 "Vaak is het een combinatie.<br>" +
 "Je kunt per vak kiezen wat het beste werkt.<br><br>" +
-
 "<strong>Zo ontstaat een manier van leren die past bij jouw kind en jullie gezin.</strong>",
     },
     {
