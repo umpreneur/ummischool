@@ -1063,7 +1063,7 @@ content:
     "<li>de Arabische taal (woordenschat, zinsopbouw en eenvoudige teksten)</li>" +
   "</ul>" +
 
-  "Dit kun je zelf aanbieden, eventueel met hulp van een docent."
+  "Dit kun je zelf aanbieden, eventueel met hulp van een docent.",
 },
 
 
