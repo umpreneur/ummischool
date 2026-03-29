@@ -1018,8 +1018,12 @@ content:
   "Welke waarden wil je meegeven?<br>" +
 "Wat hebben zij nodig om te leren en te groeien?<br>" +
 "En hoe leren zij het beste?<br><br>" +
-  "Als je dit helder hebt, ontstaat er richting. Van daaruit bouw je stap voor stap aan onderwijs dat past bij jouw kind en jouw gezin.<br><br>" +
-  "Je kunt je ideeën opschrijven in een plan. Dat is niet verplicht, maar het geeft overzicht en rust.<br>",
+ 
+  "Als je dit helder hebt, ontstaat er richting.<br>" +
+  "Van daaruit bouw je stap voor stap aan onderwijs dat past bij jouw kind en jouw gezin.<br><br>" +
+  
+  "Je kunt je ideeën opschrijven in een plan.<br>"+
+  "Dat is niet verplicht, maar het geeft overzicht en rust.<br>",
      highlight: "Praktisch aan de slag?<br>" + "<a href='https://www.thuisonderwijs.nl/wp-content/uploads/2023/09/Handleiding-schrijf-je-to-plan.pdf' target='_blank'>Download de handleiding</a>"
    },
 
