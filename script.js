@@ -1156,11 +1156,20 @@ content:
     {
       id: "community",
       title: "Community",
-      content:"Hoe thuisonderwijs eruitziet, verschilt sterk per gezin. Sommige gezinnen leren vooral binnen het eigen gezin, anderen vormen samen een klein klasje, spreken af in groepjes of huren samen een docent in. Daarom kan het waardevol zijn om contact te hebben met andere gezinnen die op een vergelijkbare manier thuisonderwijs vormgeven. Ouders vinden elkaar vaak via online groepen of door elkaar te ontmoeten bij activiteiten in de buurt.<br><br>" +
+      content:
+        "<strong>Hoe thuisonderwijs eruitziet, verschilt per gezin.</strong><br>" +
+"Sommige gezinnen leren vooral binnen het eigen gezin.<br>" +
+"Andere gezinnen maken deel uit van een community, spreken af met anderen of doen samen activiteiten.<br><br>" +
 
-"Niet overal wonen thuisonderwijzers vlakbij. Als je merkt dat je contact mist, kun je als je dat prettig vindt zelf een oproep plaatsen of een klein groepje starten. Soms sluiten daar later andere gezinnen bij aan, en groeit er stap voor stap een netwerk.<br><br>" +
+"<strong>Een community kan waardevol zijn.</strong><br>" +
+"Gezinnen ontmoeten elkaar via activiteiten in de buurt of via online groepen.<br><br>" +
 
-"Zo’n netwerk kan veel betekenen: kinderen maken nieuwe vrienden en delen mooie ervaringen, en ouders kunnen vragen stellen, ideeën uitwisselen en zich gesteund voelen. Het is geen voorwaarde om met thuisonderwijs te kunnen beginnen, maar het kan wel helpen. Hoe een community eruitziet, verschilt per gezin; dat kan klein en informeel zijn of juist groter en actiever — er is geen vaste vorm waar je aan moet voldoen."
+"Zo’n community kan veel betekenen.<br>" +
+"Kinderen maken vrienden en doen samen ervaringen op.<br>" +
+"Ouders kunnen vragen stellen, ideeën delen en steun vinden.<br><br>" +
+
+"Het is geen voorwaarde om te beginnen met thuisonderwijs.<br>" +
+"Veel gezinnen ervaren het wel als helpend.",
 
     },
     {
