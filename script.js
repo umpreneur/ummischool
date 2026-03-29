@@ -1176,18 +1176,20 @@ content:
       id: "juridisch",
       title: "Juridisch: hoe regel ik een vrijstelling?",
       content:
-  "Juridisch In Nederland geldt leerplicht, maar geen schoolplicht. Een kind moet leren, maar dat hoeft niet op school als je voldoet aan de voorwaarden voor vrijstelling.De regels en voorwaarden kunnen per situatie verschillen. Het is daarom belangrijk om je hier goed in te verdiepen.<br>",
+  "In Nederland geldt leerplicht, maar geen schoolplicht. Een kind moet leren, maar dat hoeft niet op school als je voldoet aan de voorwaarden voor vrijstelling. De regels en voorwaarden kunnen per situatie verschillen. Het is daarom belangrijk om je hier goed in te verdiepen.<br>"
+      "In shaa Allah vind je op de onderstaande websites meer uitleg en ondersteuning. <br>",
 
   
 highlight:
-  "Praktische informatie:<br>" +
+  "Praktische informatie:<br><br>" +
+  
   "Meer informatie over de wettelijke kader:<br>" +
   "<a href='https://www.thuisonderwijs.nl/wettelijk/' target='_blank'>Voorbeeldbrief en juridische toelichting</a><br><br>" +
   
   "Uitleg over artikel 5 onder b van de Leerplichtwet (richtingbezwaar):<br>" +
   "<a href='https://www.thuisonderwijs.nl/wettelijk/5onderb/' target='_blank'>Voorbeeldbrief en juridische toelichting</a><br><br>" +
   
-   "Kom je er niet uit of heb je vragen?:<br><br>" +
+   "Kom je er niet uit of heb je vragen?:<br>" +
   "<a href='https://thuisonderwijs.net/contact/' target='_blank'>Voorbeeldbrief en juridische toelichting</a>",
 
     },
