@@ -1157,7 +1157,7 @@ content:
       id: "community",
       title: "Community",
       content:
-        "<strong>Hoe thuisonderwijs eruitziet, verschilt per gezin.</strong><br>" +
+        "<strong>Een community binnen thuisonderwijs kan voor elk gezin anders zijn.</strong><br>" +
 "Sommige gezinnen leren vooral binnen het eigen gezin.<br>" +
 "Andere gezinnen maken deel uit van een community, spreken af met anderen of doen samen activiteiten.<br><br>" +
 
@@ -1168,7 +1168,7 @@ content:
 "Kinderen maken vrienden en doen samen ervaringen op.<br>" +
 "Ouders kunnen vragen stellen, ideeën delen en steun vinden.<br><br>" +
 
-"Het is geen voorwaarde om te beginnen met thuisonderwijs.<br>" +
+"Een community is niet nodig om te starten met thuisonderwijs.<br>" +
 "Veel gezinnen ervaren het wel als helpend.",
 
     },
