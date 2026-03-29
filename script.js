@@ -1104,7 +1104,7 @@ content:
     "<i>Handige bronnen:</i><br><br>" +
     "• SLO-kerndoelen:<br>" +
     "<a href='https://www.slo.nl/thema/meer/jonge-kind/doelen-jonge-kind/' target='_blank'>Bekijk de kerndoelen</a><br><br>" +
-    "• Wereldoriëntatie (natuur, geschiedenis, aardrijkskunde)::<br>" +
+    "• Wereldoriëntatie (natuur, geschiedenis, aardrijkskunde) <br>" +
     "<a href='https://www.slo.nl/sectoren/po/inhoudslijnen-po/inhoudslijnen-orientatie-jezelf-wereld/' target='_blank'>Bekijk de kerndoelen</a><br><br>" +
 },
 
