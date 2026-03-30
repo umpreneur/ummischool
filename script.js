@@ -221,7 +221,7 @@ headerImageUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
       "De vraag is dus niet: ‘Wat doen de meeste mensen?’",
       {type: "highlight",
         text: "Maar: ‘Waar leidt dit mij naartoe dichter bij Allah, of verder van Hem?’"},
-      "Soms is het pad smal. Soms loop je alleen. Maar Allah herinnert ons hier: leiding komt niet van aantallen, maar van waarheid."
+      "Soms is het pad smal. Soms loop je alleen. Maar Allah herinnert ons hier: leiding komt niet van aantallen, maar van de waarheid."
     ]
   },
 
@@ -231,7 +231,8 @@ headerImageUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
        headerImageUrl: "https://umpreneur.github.io/ummischool/blog3img.png",
     imageUrl: "https://umpreneur.github.io/ummischool/blog3img.png",
  content: [
-    "Een dagstart is een moment aan het begin van de dag om samen stil te staan bij wat er gaat komen en hoe iedereen zich voelt.</strong>. In verschillende vormen van onderwijs wordt dit gebruikt om de dag gezamenlijk te beginnen. Ook binnen thuisonderwijs kan een dagstart een plek hebben. Hoe dit moment eruitziet, ligt niet vast en verschilt per gezin en per kind. Invullingen voor de dagstart vind je in een ander blog (link).",
+    "Een dagstart is een moment aan het begin van de dag om samen stil te staan bij wat er gaat komen en hoe iedereen zich voelt</strong>. In verschillende vormen van onderwijs wordt dit gebruikt om de dag gezamenlijk te beginnen. Ook binnen thuisonderwijs kan een dagstart een plek hebben. Hoe dit moment eruitziet, ligt niet vast en verschilt per gezin en per kind. Invullingen voor de dagstart vind je in een ander blog"
+   "<a href='https://umpreneur.github.io/ummischool/?blog=Inhoud-dagstart' target='_blank'>Zie blog Inhoud dagstart</a>.",
 
     {
       type: "highlight",
@@ -1178,7 +1179,7 @@ highlight:
   "Facebookgroep voor juridische vragen:<br>" +
   "<a href='https://www.facebook.com/groups/1427208630825489' target='_blank'>Ga naar de Facebookgroep</a><br><br>" +
 
-  "<em>Disclaimer: De bovenstaande links verwijzen naar externe websites. Wij zijn niet betrokken bij de inhoud of werking van deze platforms en kunnen geen garantie geven over de juistheid of actualiteit van de informatie.</em>",
+  "<em>Disclaimer: De bovenstaande links verwijzen naar externe websites. ik ben niet betrokken bij de inhoud of werking van deze platforms en kan geen garantie geven over de juistheid of actualiteit van de informatie.</em>",
 
     },
     
