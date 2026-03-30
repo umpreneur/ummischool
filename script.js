@@ -1160,21 +1160,28 @@ content:
       id: "juridisch",
       title: "Juridisch: hoe regel ik een vrijstelling?",
       content:
-  "In Nederland geldt leerplicht, maar geen schoolplicht. Een kind moet leren, maar dat hoeft niet op school als je voldoet aan de voorwaarden voor vrijstelling. De regels en voorwaarden kunnen per situatie verschillen. Het is daarom belangrijk om je hier goed in te verdiepen.<br>" +
-      "In shaa Allah vind je op de onderstaande websites meer uitleg en ondersteuning. <br>",
+ id: "juridisch",
+title: "Juridisch: hoe regel ik een vrijstelling?",
+content:
+  "In Nederland geldt leerplicht, maar geen schoolplicht. Een kind moet onderwijs krijgen, maar dat hoeft niet per se op een school, mits je voldoet aan de voorwaarden voor vrijstelling. De regels en voorwaarden kunnen per situatie verschillen. Het is daarom belangrijk om je hier goed in te verdiepen.<br><br>" +
+  "In shaa Allah vind je op de onderstaande websites meer uitleg en ondersteuning.<br>",
 
-  
 highlight:
   "Praktische informatie:<br><br>" +
-  
-  "Meer informatie over de wettelijke kader:<br>" +
-  "<a href='https://www.thuisonderwijs.nl/wettelijk/' target='_blank'>Voorbeeldbrief en juridische toelichting</a><br><br>" +
-  
+
+  "Meer informatie over het wettelijk kader:<br>" +
+  "<a href='https://www.thuisonderwijs.nl/wettelijk/' target='_blank'>Website NVvTO</a><br><br>" +
+
   "Uitleg over artikel 5 onder b van de Leerplichtwet (richtingbezwaar):<br>" +
-  "<a href='https://www.thuisonderwijs.nl/wettelijk/5onderb/' target='_blank'>Voorbeeldbrief en juridische toelichting</a><br><br>" +
-  
-   "Kom je er niet uit of heb je vragen?:<br>" +
-  "<a href='https://thuisonderwijs.net/contact/' target='_blank'>Voorbeeldbrief en juridische toelichting</a>",
+  "<a href='https://www.thuisonderwijs.nl/wettelijk/5onderb/' target='_blank'>Website NVvTO</a><br><br>" +
+
+  "Kom je er niet uit of heb je vragen?<br>" +
+  "<a href='https://thuisonderwijs.net/contact/' target='_blank'>Neem contact op met een jurist</a><br><br>" +
+
+  "Facebookgroep voor juridische vragen:<br>" +
+  "<a href='https://www.facebook.com/groups/1427208630825489' target='_blank'>Ga naar de Facebookgroep</a><br><br>" +
+
+  "<em>Disclaimer: De bovenstaande links verwijzen naar externe websites. Wij zijn niet betrokken bij de inhoud of werking van deze platforms en kunnen geen garantie geven over de juistheid of actualiteit van de informatie.</em>",
 
     },
     
