@@ -1063,7 +1063,7 @@ content:
     "<li>de Arabische taal (woordenschat, zinsopbouw en eenvoudige teksten)</li>" +
   "</ul>" +
 
-  "Dit kun je zelf aanbieden, eventueel met hulp van een docent.",
+  "Je kunt dit uitbesteden, of ervoor kiezen het (deels) zelf aan te bieden.",
 },
 
 
@@ -1103,19 +1103,18 @@ content:
   highlight:
     "<i>Handige bronnen:</i><br><br>" +
     "• SLO-kerndoelen:<br>" +
-    "<a href='https://www.slo.nl/thema/meer/jonge-kind/doelen-jonge-kind/' target='_blank'>Bekijk de kerndoelen</a><br><br>" +
+    "<a href='https://www.slo.nl/thema/meer/jonge-kind/doelen-jonge-kind/' target='_blank'>Bekijk de Inhoudslijnen</a><br><br>" +
     "• Wereldoriëntatie (natuur, geschiedenis, aardrijkskunde) <br>" +
-    "<a href='https://www.slo.nl/sectoren/po/inhoudslijnen-po/inhoudslijnen-orientatie-jezelf-wereld/' target='_blank'>Bekijk de kerndoelen</a>",
+    "<a href='https://www.slo.nl/sectoren/po/inhoudslijnen-po/inhoudslijnen-orientatie-jezelf-wereld/' target='_blank'>Bekijk de Inhoudslijnen</a>",
 },
 
     {
       id: "dagelijks",
       title: "Vaardigheden uit het dagelijks leven",
   content:
-  "<strong>Binnen thuisonderwijs leert je kind niet alleen uit boeken, maar ook door zelf te doen.</strong><br><br>" +
-"Veel leren gebeurt tijdens dagelijkse handelingen, zoals helpen met koken, opruimen of iets zelf proberen.<br><br>" +
-"Door dit soort activiteiten leert je kind stap voor stap zelfstandiger te worden en verantwoordelijkheid te nemen.<br>" +
-"Deze vaardigheden zijn een belangrijk onderdeel van de ontwikkeling van je kind.",
+  "<strong>Binnen thuisonderwijs leert je kind niet alleen uit boeken, maar ook door zelf te ontdekken, experimenteren en ervaren.</strong><br>" +
+"Veel leren gebeurt in het dagelijks leven, bijvoorbeeld tijdens het koken, opruimen of wanneer je kind zelf iets uitprobeert.<br>" +
+"Door deze praktische momenten groeit je kind stap voor stap in zelfstandigheid en leert het verantwoordelijkheid te nemen. Deze vaardigheden vormen een belangrijk onderdeel van de ontwikkeling.<br>",
 },
 
   
