@@ -1013,7 +1013,7 @@ function renderWaarBeginIkPage() {
   id: "intentie",
   title: "Visie",
 content:
- "Thuisonderwijs begint niet bij boeken. Het begint bij een vraag:<br>" +
+ "Thuisonderwijs begint niet bij boeken. Het begint met de vraag:<br>" +
 "<strong>wat wil je voor jouw kinderen in de toekomst?</strong><br>" +
   "Welke waarden wil je meegeven?<br>" +
 "Wat hebben zij nodig om te leren en te groeien?<br>" +
@@ -1024,7 +1024,7 @@ content:
   
   "Je kunt je ideeën opschrijven in een plan.<br>"+
   "Dat is niet verplicht, maar het geeft overzicht en rust.<br>",
-     highlight: "Praktisch aan de slag?<br>" + "<a href='https://www.thuisonderwijs.nl/wp-content/uploads/2023/09/Handleiding-schrijf-je-to-plan.pdf' target='_blank'>Download de handleiding</a>"
+     highlight: "Praktisch aan de slag?<br>" + "<a href='https://www.thuisonderwijs.nl/wp-content/uploads/2023/09/Handleiding-schrijf-je-to-plan.pdf' target='_blank'>Download de handleiding schrijf je thuisonderwijs plan van NVvTO</a>"
    },
 
     {
