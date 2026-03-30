@@ -1148,19 +1148,12 @@ content:
       id: "community",
       title: "Community",
       content:
-        "<strong>Een community binnen thuisonderwijs kan voor elk gezin anders zijn.</strong><br>" +
-"Sommige gezinnen leren vooral binnen het eigen gezin.<br>" +
-"Andere gezinnen maken deel uit van een community, spreken af met anderen of doen samen activiteiten.<br><br>" +
+        "Een community binnen thuisonderwijs kan er voor ieder gezin anders uitzien. Sommige gezinnen richten zich vooral op leren binnen het eigen gezin, terwijl anderen actief contact zoeken met andere thuisonderwijzers.<br>" +
+"Zij spreken bijvoorbeeld af met andere gezinnen, organiseren gezamenlijke activiteiten of sluiten zich aan bij een (online) groep.<br><br>" +
 
-"<strong>Een community kan waardevol zijn.</strong><br>" +
-"Gezinnen ontmoeten elkaar via activiteiten in de buurt of via online groepen.<br><br>" +
+"Zo’n community kan een waardevolle aanvulling zijn. Kinderen krijgen de kans om vrienden te maken en samen ervaringen op te doen, terwijl ouders ideeën kunnen uitwisselen, vragen stellen en steun vinden.<br>" +
+"Een community is niet noodzakelijk om te starten met thuisonderwijs, maar veel gezinnen ervaren het wel als helpend en verrijkend.",
 
-"Zo’n community kan veel betekenen.<br>" +
-"Kinderen maken vrienden en doen samen ervaringen op.<br>" +
-"Ouders kunnen vragen stellen, ideeën delen en steun vinden.<br><br>" +
-
-"Een community is niet nodig om te starten met thuisonderwijs.<br>" +
-"Veel gezinnen ervaren het wel als helpend.",
 
     },
     {
