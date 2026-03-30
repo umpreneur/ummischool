@@ -1124,20 +1124,14 @@ content:
       content:
   
 
-      "<strong>Thuisonderwijzers gebruiken verschillende methodes om hun onderwijs vorm te geven.</strong><br>" +
-"Er is geen vaste of voorgeschreven aanpak. Ieder gezin kiest wat past bij hun kinderen, ritme en doelen.<br><br>" +
-
-"<strong>Verschillende manieren</strong><br>" +
-"Sommige ouders werken met structuur en vaste lesmomenten.<br>" +
-"Ze gebruiken methodes of werkboeken per vak, zoals op school.<br><br>" +
-        
-"Andere ouders gebruiken minder werkboeken.<br>" +
-"Zij werken met leesboeken, thema’s of andere vormen van leren.<br><br>" +
-        
-"Vaak is het een combinatie.<br>" +
-"Je kunt per vak kiezen wat het beste werkt.<br><br>" +
-"<strong>Zo ontstaat een manier van leren die past bij jouw kind en jullie gezin.</strong>",
+      "<strong> Binnen thuisonderwijs zijn er verschillende manieren om het leren vorm te geven. Er is geen vaste aanpak: ieder gezin kiest wat past bij hun kind, ritme en doelen.</strong><br>" +
+"Sommige ouders kiezen voor een duidelijke structuur met vaste lesmomenten. Zij werken bijvoorbeeld met lesmethodes en werkboeken per vak, vergelijkbaar met het onderwijs op school.<br>" +
+"Andere ouders pakken het flexibeler aan. Zij gebruiken minder werkboeken en laten hun kind leren via leesboeken, thema’s, projecten of praktische activiteiten.<br><br>" +
+"In de praktijk ontstaat vaak een combinatie van beide. Per vak of onderwerp kies je wat het beste werkt voor jouw kind.<br>"+
+"<strong>Zo groeit er stap voor stap een manier van leren die aansluit bij jullie gezin en de behoeften van je kind.</strong>",
     },
+
+    
     {
       id: "dagritme",
       title: "Dagplanning, ritme en structuur",
