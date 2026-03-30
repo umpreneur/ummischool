@@ -239,7 +239,7 @@ headerImageUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
       text:
         "Een dagstart is geen vast format, maar een moment van afstemming dat meebeweegt met het gezin."
     },
-    "Binnen thuisonderwijs bestaat een dagstart vaak uit het samen doornemen van wat er die dag op de planning staat, het geven van ruimte aan het kind om mee te denken en het kort aandacht hebben voor hoe iedereen zich op dat moment voelt.<br/>Dit kan op verschillende momenten van de dag gebeuren, bijvoorbeeld tijdens het ontbijt of later op de ochtend.",
+    "Binnen thuisonderwijs bestaat een dagstart vaak uit het samen doornemen van wat er die dag op de planning staat, het geven van ruimte aan het kind om mee te denken en het kort aandacht hebben voor hoe iedereen zich op dat moment voelt.<br/>Dit kan op verschillende momenten van de dag gebeuren, bijvoorbeeld na Fajr, tijdens het ontbijt of later op de ochtend.",
     "Tijdens een dagstart wordt de dag in grote of kleine lijnen besproken. Dat maakt duidelijk wat er ongeveer komt en in welke volgorde activiteiten plaatsvinden. Kinderen kunnen delen waar zij naar uitkijken, waar spanning zit of wat zij liever op een ander moment doen.",
     {
       type: "highlight",
@@ -269,9 +269,9 @@ content: [
 "Een dagafsluiting bestaat vaak uit eenvoudige vragen, zoals:" +
 "<ul>" +
   "<li>Wat heb je vandaag gedaan (ook als je daar bij was)?</li>" +
-  "<li>Wat vond je leuk?</li>" +
-  "<li>Wat vond je minder fijn?</li>" +
-  "<li>Wat heb je vandaag geleerd?</li>" +
+  "<li>Wat vond je het leukst vandaag?</li>" +
+  "<li>Was er iets dat je niet zo leuk vond?</li>" +
+  "<li>Wat vond je vandaag interessant of bijzonder?</li>" +
 "</ul>" +
 "Deze vragen helpen om de dag in woorden te brengen.",
     "Voor kinderen ondersteunt het terugvertellen van de dag de taalontwikkeling. Het helpt bij <strong>navertellen</strong>, het <strong>ordenen van gebeurtenissen</strong> en het benoemen van ervaringen, zowel positieve als lastige.",
@@ -293,25 +293,22 @@ content: [
    headerImageUrl: "https://umpreneur.github.io/ummischool/blog5img.png",
     imageUrl: "https://umpreneur.github.io/ummischool/blog5img.png",
   content: [
-    "Thuisonderwijs loopt het best als de dag overzichtelijk is. Niet strak, maar wél duidelijk. Als je elke ochtend opnieuw moet bedenken wat er gaat gebeuren, geeft dat onrust bij kinderen én bij ouders. Met een planning weet iedereen wat er bij de dag hoort.",
-    "Zo’n planning hoeft niet vol of ingewikkeld te zijn. Vaak is een eenvoudige, herkenbare volgorde al genoeg. Sommige momenten liggen vast, zoals opstaan, bidden, eten en slapen. Andere kunnen meebewegen. Het doel is niet om alles dicht te timmeren, maar om het leren een vaste plek te geven.",
-    "Regelmaat helpt daarbij. Niet door elke dag exact hetzelfde te doen, maar door dezelfde onderdelen steeds terug te laten komen. Wanneer ze precies plaatsvinden, mag per dag verschillen.",
+"Thuisonderwijs loopt het best met een duidelijke dagindeling. Niet strak, maar wel overzichtelijk. Zo weet iedereen wat de dag brengt en ontstaat er rust.",
+"De planning hoeft niet ingewikkeld te zijn. Een vaste volgorde is vaak al genoeg. Sommige momenten liggen vast, zoals opstaan, bidden, eten en slapen. De rest kan meebewegen. Leerblokken hoeven niet strak gepland. Ruimte voor pauzes en uitloop hoort erbij.",
+"<strong>Kies een ritme dat past bij jullie gezin en vol te houden is</strong>. Begin bijvoorbeeld rond vaste momenten, zoals gebedstijden, en wissel leren af met rust en beweging.",
     
-    "Leerblokken hoeven niet strak gepland. Ruimte voor pauzes en uitloop hoort erbij. Kinderen werken niet altijd in hetzelfde tempo. Een goede planning houdt daar rekening mee zonder dat de dag zijn vorm verliest.",
-    "Wat telt, is dat de planning bij het gezin past en vol te houden is op de lange termijn. Rust, duidelijkheid en haalbaarheid maken het verschil.",
     
-    "Wie wil starten met een dagplanning kan structuur aanbrengen rond de gebedstijden of andere vaste momenten van de dag. Door duidelijke leerblokken af te wisselen met rust en beweging, ontstaat er een prettig ritme waarin leren onderdeel wordt van het dagelijks leven.",
     { "type": "highlight", "text": "Gebedstijden brengen daarbij vanzelf structuur. Ze verdelen de dag op een rustige manier en bieden houvast voor een praktische en haalbare planning." },
     "Dit is mijn eigen globale dagplanning. Afhankelijk van of we ’s ochtends binnen of buiten zijn, verschuif ik de leerblokken naar de ochtend of de middag. Zo blijf ik flexibel, terwijl de kinderen toch vastigheid ervaren.",
      "<ul>" +
-  "<li>07:00  Ontbijt en dagstart</li>" +
+  "<li>08:00  Ontbijt en dagstart</li>" +
   "<li>Na het ontbijt: opruimen en zelfzorg</li>" +
-  "<li>Leerblok of buitenactiviteit</li>" +
-  "<li>12:00 – Lunch (dit kan ook buiten)</li>" +
-  "<li>Leerblok of buitenactiviteit</li>" +
+  "<li>Leerblok</li>" +
+  "<li>13:00 Lunch (dit kan ook buiten)</li>" +
+  "<li> Buitenactiviteit</li>" +
  "<li>Vrij spel thuis (kook- en avondvoorbereiding)</li>" +
   "<li>17:00  Avondeten en gezamenlijke afronding</li>" +
-  "<li>19:00  Bedtijd (voor jonge kinderen)</li>" +
+  "<li>19:00  Bedtijd </li>" +
   "<li>Na bedtijd: korte planning voor morgen, voorbereiding en tijd voor jezelf</li>" +
 "</ul>",
     "Hoeveel leerblokken je gebruikt, wanneer je ze plant en hoe je de dag opbouwt, hangt af van je kind, je aanpak en jullie ritme. Een passende dagplanning vinden kost tijd. Het is vaak zoeken, proberen, bijstellen. Wat op papier goed lijkt, voelt in de praktijk soms anders. Daarom is het normaal om verschillende schema’s uit te testen voordat duidelijk wordt wat echt werkt in jullie situatie. Ritme ontstaat door herhaling, maar groei komt vaak juist door aan te passen. Geef jezelf de ruimte om te finetunen tot er een dagritme ontstaat dat rust brengt, helder is en bij jullie leven past.",
