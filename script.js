@@ -295,8 +295,8 @@ content: [
   content: [
 "Thuisonderwijs loopt het fijnst als er een duidelijke dagindeling is. Niet strak, maar wel overzichtelijk voor iedereen. Zo weet iedereen wat de dag brengt en ontstaat er rust.",
 "De dagplanning hoeft niet ingewikkeld te zijn. Sommige momenten liggen vast, zoals opstaan, bidden, eten en slapen. Die vormen de basis van de dag, daaromheen plan je de rest.",
-"Van daaruit kijk je naar de leerblokken. Hoeveel tijd heb je daarvoor nodig? Werk je liever in één langer blok met korte pauzes, of verdeel je het over de dag, bijvoorbeeld een moment in de ochtend en één later op de dag?",
-    "Daarna bepaal je waar die leerblokken in de dag komen. Je kiest momenten waarop er ruimte is om echt te werken, en plant de andere activiteiten daaromheen.",
+"Daarna komt de vraag hoe je de leerblokken indeelt. Hoeveel tijd heb je daarvoor nodig? Werk je liever in één langer blok met korte pauzes, of verdeel je het over de dag, bijvoorbeeld een moment in de ochtend en één later op de dag?",
+    "Vervolgens bepaal je waar die leerblokken in de dag passen. Je kiest momenten waarop er rust en aandacht is om te werken, en stemt de rest van de dag daarop af. Kijk daarbij ook naar het energieniveau van je kind. Vaak werkt leren beter op momenten waarop je kind nog fris is, bijvoorbeeld in de ochtend.",
     
     { "type": "highlight", "text": "Gebedstijden kunnen dienen als natuurlijke ankerpunten in de dag. Ze verdelen de dag en geven houvast voor een praktische en haalbare planning." },
     "Dit is mijn eigen globale dagplanning. Afhankelijk van of we ’s ochtends binnen of buiten zijn, verschuif ik de leerblokken naar de ochtend of de middag. Zo blijf ik flexibel, terwijl de kinderen toch vastigheid ervaren.",
