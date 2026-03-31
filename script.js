@@ -323,11 +323,11 @@ content: [
   headerImageUrl: "https://umpreneur.github.io/ummischool/blog5img.png",
   imageUrl: "https://umpreneur.github.io/ummischool/blog5img.png",
  content: [
-  "Een dagstart begint met even samen zijn. Je gaat samen zitten en praat kort met elkaar. Door te praten leert je kind woorden geven aan wat het voelt en denkt, en aan wat de dag gaat brengen.",
+  "Een dagstart begint vaak met even samen zijn. Samen zitten en kort met elkaar praten. Door dat moment krijgen kinderen de ruimte om woorden te geven aan wat ze voelen en wat de dag kan brengen.",
 
-  "Hoe dit gesprek eruitziet, hangt af van de leeftijd van je kind: bij jonge kinderen houd je het eenvoudig, bij oudere kinderen kun je wat verder praten. Door dit dagelijks te doen, ontstaat er structuur, vertrouwen en openheid.",
+  "Hoe dat eruitziet, verschilt per leeftijd. Bij jonge kinderen blijft het eenvoudig, bij oudere kinderen ontstaat vaak vanzelf wat meer gesprek. Door dit dagelijks terug te laten komen, groeit er structuur, vertrouwen en openheid.",
 
-  "Na dit moment kun je, als dat past, kiezen voor een leermoment. Je staat dan kort stil bij vaste onderdelen, zoals de dag van de week, het dagdeel of het weer. Zo kun je het leren op een rustige manier verweven in de dagstart.",
+  "Daarna kan er, als dat past, een klein leermoment volgen. Denk aan de dag van de week, het dagdeel of het weer. Zo wordt leren op een rustige manier onderdeel van de dagstart.",
 
   "<strong>Onderwerpen voor het leermoment</strong>",
 
@@ -352,15 +352,12 @@ content: [
     "<li>Kerndoeltrainer (A, B, C): oefenmateriaal voor klokkijken en kalenderbegrip.</li>" +
   "</ul>",
 
-  "Na het leermoment bespreek je samen de dag. Door de dag verhalend door te nemen eerst dit, daarna dat help je je kind overzicht te krijgen en gebeurtenissen te ordenen. Dit ondersteunt niet alleen het plannen, maar ook het verwerken van wat er is gedaan en wat nog komt.",
-
-"Het zichtbaar maken van de planning kan hierbij helpen. Denk aan dagritmekaarten of een whiteboard, zodat de dag voorspelbaar wordt. Tegelijkertijd is het belangrijk om hierin af te stemmen op de leeftijd en behoeften van je kind. Zeker bij jonge kinderen kan te veel informatie in één keer overprikkelend werken. In dat geval kan het helpender zijn om per dagdeel te kijken wat er komt, of de planning stap voor stap op te bouwen.",
-
-"Wat uiteindelijk werkt, verschilt per kind en per gezin. Het gaat niet om een volledige of vaste planning, maar om wat op dat moment overzicht en rust geeft. Waar mogelijk kun je je kind betrekken bij kleine keuzes, terwijl jij als ouder de richting bewaakt.",
-
+"Na het leermoment kun je samen de dag kort doornemen. Door in eenvoudige stappen te benoemen wat er komt (eerst dit, daarna dat) ontstaat er overzicht en rust.",
+"Het kan helpen om de dag zichtbaar te maken, bijvoorbeeld met dagritmekaarten of een whiteboard, zodat de dag voorspelbaar wordt. Wat daarin werkt, verschilt per kind. Bij jonge kinderen is het vaak fijner om per moment of dagdeel te kijken, in plaats van alles in één keer.",
+"Het hoeft niet volledig of strak te zijn. Het gaat er vooral om dat het overzicht geeft. Waar het past, kun je je kind betrekken bij kleine keuzes, terwijl jij de lijn van de dag bewaakt.",
   {
     type: "highlight",
-    text: "Een dagstart hoeft niet perfect te zijn. Het gaat erom samen de dag te beginnen. Door klein te starten en rustig uit te breiden, groeit de dagstart mee met je kind en wordt het een vast onderdeel van jullie thuisonderwijs, in sha Allah."
+    text: "Een dagstart hoeft niet perfect te zijn. Het gaat erom samen de dag te beginnen.."
   }
 ]
   },
