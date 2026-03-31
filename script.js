@@ -293,25 +293,26 @@ content: [
    headerImageUrl: "https://umpreneur.github.io/ummischool/blog5img.png",
     imageUrl: "https://umpreneur.github.io/ummischool/blog5img.png",
   content: [
-"Thuisonderwijs loopt het best met een duidelijke dagindeling. Niet strak, maar wel overzichtelijk. Zo weet iedereen wat de dag brengt en ontstaat er rust.",
-"De planning hoeft niet ingewikkeld te zijn. Een vaste volgorde is vaak al genoeg. Sommige momenten liggen vast, zoals opstaan, bidden, eten en slapen. De rest kan meebewegen. Leerblokken hoeven niet strak gepland. Ruimte voor pauzes en uitloop hoort erbij.",
-"<strong>Kies een ritme dat past bij jullie gezin en vol te houden is</strong>. Begin bijvoorbeeld rond vaste momenten, zoals gebedstijden, en wissel leren af met rust en beweging.",
+"Thuisonderwijs loopt het fijnst als er een duidelijke dagindeling is. Niet strak, maar wel overzichtelijk voor iedereen. Zo weet iedereen wat de dag brengt en ontstaat er rust.",
+"De dagplanning hoeft niet ingewikkeld te zijn. Sommige momenten liggen vast, zoals opstaan, bidden, eten en slapen. Die vormen de basis van de dag, daaromheen plan je de rest.",
+"Van daaruit kijk je naar de leerblokken. Hoeveel tijd heb je daarvoor nodig? Werk je liever in één langer blok met korte pauzes, of verdeel je het over de dag, bijvoorbeeld een moment in de ochtend en één later op de dag?",
+    "Daarna bepaal je waar die leerblokken in de dag komen. Je kiest momenten waarop er ruimte is om echt te werken, en plant de andere activiteiten daaromheen.",
     
-    
-    { "type": "highlight", "text": "Gebedstijden brengen daarbij vanzelf structuur. Ze verdelen de dag op een rustige manier en bieden houvast voor een praktische en haalbare planning." },
+    { "type": "highlight", "text": "Gebedstijden kunnen dienen als natuurlijke ankerpunten in de dag. Ze verdelen de dag en geven houvast voor een praktische en haalbare planning." },
     "Dit is mijn eigen globale dagplanning. Afhankelijk van of we ’s ochtends binnen of buiten zijn, verschuif ik de leerblokken naar de ochtend of de middag. Zo blijf ik flexibel, terwijl de kinderen toch vastigheid ervaren.",
      "<ul>" +
-  "<li>08:00  Ontbijt en dagstart</li>" +
+  "<li>Ontbijt en dagstart</li>" +
   "<li>Na het ontbijt: opruimen en zelfzorg</li>" +
   "<li>Leerblok</li>" +
-  "<li>13:00 Lunch (dit kan ook buiten)</li>" +
   "<li> Buitenactiviteit</li>" +
- "<li>Vrij spel thuis (kook- en avondvoorbereiding)</li>" +
-  "<li>17:00  Avondeten en gezamenlijke afronding</li>" +
-  "<li>19:00  Bedtijd </li>" +
-  "<li>Na bedtijd: korte planning voor morgen, voorbereiding en tijd voor jezelf</li>" +
+ "<li>16:00 Thuis: vrij spel</li>" +
+  "<li>17:00  Avondeten</li>" +
+  "<li>Leerblok en gezamenlijke afronding</li>" +
+  "<li>Bedtijd </li>" +
 "</ul>",
-    "Hoeveel leerblokken je gebruikt, wanneer je ze plant en hoe je de dag opbouwt, hangt af van je kind, je aanpak en jullie ritme. Een passende dagplanning vinden kost tijd. Het is vaak zoeken, proberen, bijstellen. Wat op papier goed lijkt, voelt in de praktijk soms anders. Daarom is het normaal om verschillende schema’s uit te testen voordat duidelijk wordt wat echt werkt in jullie situatie. Ritme ontstaat door herhaling, maar groei komt vaak juist door aan te passen. Geef jezelf de ruimte om te finetunen tot er een dagritme ontstaat dat rust brengt, helder is en bij jullie leven past.",
+    "Hoeveel leerblokken je gebruikt, wanneer je ze plant en hoe je de dag opbouwt, hangt af van je kind, je aanpak en jullie ritme.<br>",
+    "Een passende dagplanning vinden kost tijd. Het is vaak zoeken, proberen, bijstellen. Wat op papier goed lijkt, voelt in de praktijk soms anders. Daarom is het normaal om verschillende schema’s uit te testen voordat duidelijk wordt wat echt werkt in jullie situatie.<br>",
+    "Ritme ontstaat door herhaling, maar groei komt vaak juist door aan te passen. Geef jezelf de ruimte om te finetunen tot er een dagritme ontstaat dat rust brengt, helder is en bij jullie leven past.",
     { "type": "highlight", "text": "Structuur geeft rust, herhaling geeft resultaat en samen maken ze thuisonderwijs vol te houden in sha Allah." },
   ]
 },
