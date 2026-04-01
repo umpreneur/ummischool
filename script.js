@@ -380,9 +380,11 @@ content: [
   
   "<strong>Structuur en keuze</strong><br>Leren vraagt om structuur. Zonder houvast ontstaat al snel onrust of discussie. Een vast leermoment geeft duidelijkheid: leren hoort erbij, zonder dat het telkens opnieuw besproken hoeft te worden. <br>Tegelijk hoeft die structuur niet strak te zijn. Binnen dat moment kan een kind keuzes maken, in volgorde, tempo of plek. Zo blijft het kader duidelijk, terwijl het leren ook van hén voelt.",
    
-  "<strong>Vooruitgang maakt motivatie zichtbaar </strong> <br> Wanneer structuur en keuze in balans zijn, ontstaat ruimte voor vooruitgang. En juist daar groeit motivatie. Niet in grote sprongen, maar in kleine stappen die gezien worden. <br> Leren mag moeite kosten, dat hoort erbij. Door met frustratie om te leren gaan, groeit veerkracht. <br>Complimenten werken het best wanneer ze gaan over inzet en volhouden, niet over slim zijn. Belonen kan soms helpen, maar zodra leren draait om wat je ervoor krijgt, verdwijnt de motivatie van binnenuit.",
+  "<strong>Vooruitgang maakt motivatie zichtbaar </strong> <br> Wanneer structuur en keuze in balans zijn, ontstaat ruimte voor vooruitgang. En juist daar groeit motivatie. Niet in grote sprongen, maar in kleine stappen die gezien worden.<br>",
+ "<strong>Leren mag moeite kosten, dat hoort erbij. Door met frustratie om te leren gaan, groeit veerkracht.</strong>",
+  "Complimenten werken het best wanneer ze gaan over inzet en volhouden, niet over slim zijn. Belonen kan soms helpen, maar zodra leren draait om wat je ervoor krijgt, verdwijnt de motivatie van binnenuit.",
 
-"<strong>Betekenis houdt leren vast </strong> <br> Zelfs als alles goed staat, blijft één vraag doorslaggevend: waarom doe ik dit? Zonder betekenis voelt leren leeg. Betekenis hoeft niet groots te zijn. Soms is het simpel: “Als je leert tellen, weet je straks zelf hoeveel auto’s je hebt.” Wanneer een kind begrijpt waar leren toe leidt, krijgt inspanning richting.",
+"<strong>Betekenis houdt leren vast </strong> <br> Zelfs als alles goed staat, blijft één vraag doorslaggevend: waarom doe ik dit? Zonder betekenis voelt leren leeg. Betekenis hoeft niet groots te zijn. Soms is het simpel: “Als je leert tellen, tel je straks zelf hoeveel auto’s je hebt.” Wanneer een kind begrijpt waar leren toe leidt, krijgt inspanning richting.",
 
  {
       type: "highlight",
@@ -391,16 +393,16 @@ content: [
   
     
 
-  "<strong>Nog even dit</strong> </br> En ook dit is belangrijk om te zeggen: geen enkel kind is altijd gemotiveerd. Jij bent dat ook niet. Een dag zonder zin of met weerstand zegt weinig. Het wordt pas relevant wanneer het structureel is en dan loont het om opnieuw naar de omstandigheden te kijken.",
+  "<strong>Nog even dit</strong> </br> En ook dit is belangrijk om te zeggen: geen enkel kind is altijd gemotiveerd. Een dag zonder zin of met weerstand zegt weinig. Het wordt pas relevant wanneer het structureel is en dan loont het om opnieuw naar de omstandigheden te kijken.",
    
-    "<strong>Leren door voorbeeld</strong> Ook voorbeelden kunnen helpen om liefde voor kennis te laten groeien. Verhalen over mensen zoals Abu Hurayra of Mu’adh ibn Jabal laten zien dat kennis iets is om naar te verlangen, niet alleen om te behalen. Die verhalen vormen en inspireren. Ze laten zien dat leren niet stopt, maar een leven lang doorgaat. Kennis wordt niet gezien als iets dat je afrondt, maar als iets waar je in blijft groeien.",
+    "<strong>Leren door voorbeeld</strong> <br> Ook voorbeelden kunnen helpen om liefde voor kennis te laten groeien. Verhalen over mensen zoals Abu Hurayra of Mu’adh ibn Jabal laten zien dat kennis iets is om naar te verlangen, niet alleen om te behalen. Die verhalen vormen en inspireren. Ze laten zien dat leren niet stopt, maar een leven lang doorgaat. Kennis wordt niet gezien als iets dat je afrondt, maar als iets waar je in blijft groeien.",
    " Daarnaast speelt het dagelijks voorbeeld ook een rol. Wat een kind ziet, hoe je omgaat met moeite of nieuwsgierigheid laat zien hoe leren eruitziet in het echte leven. Zo leert een kind, vaak zonder woorden, hoe leren voelt en wat het betekent.",
   
   
   
   {
       type: "highlight",
-      text: "Zonder uitleg laat je zien: leren hoort bij het leven."
+      text: "Door zelf bezig te zijn met kennis opdoen, laat je zonder woorden zien: leren hoort bij het leven."
     },
   ]
 
