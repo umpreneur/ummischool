@@ -293,7 +293,7 @@ content: [
    headerImageUrl: "https://umpreneur.github.io/ummischool/blog5img.png",
     imageUrl: "https://umpreneur.github.io/ummischool/blog5img.png",
   content: [
-"Thuisonderwijs loopt het fijnst als er een duidelijke dagindeling is. Niet strak, maar wel overzichtelijk voor iedereen. Zo weet iedereen wat de dag brengt en ontstaat er rust.",
+"Thuisonderwijs loopt het fijnst als er een duidelijke dagplanning is. Niet strak, maar wel overzichtelijk voor iedereen. Zo weet iedereen wat de dag brengt en ontstaat er rust.",
 "De dagplanning hoeft niet ingewikkeld te zijn. Sommige momenten liggen vast, zoals opstaan, bidden, eten en slapen. Die vormen de basis van de dag, daaromheen plan je de rest.",
 "Daarna komt de vraag hoe je de leerblokken indeelt. Hoeveel tijd heb je daarvoor nodig? Werk je liever in één langer blok met korte pauzes, of verdeel je het over de dag, bijvoorbeeld een moment in de ochtend en één later op de dag?",
     "Vervolgens bepaal je waar die leerblokken in de dag passen. Je kiest momenten waarop er rust en aandacht is om te werken, en stemt de rest van de dag daarop af. Kijk daarbij ook naar het energieniveau van je kind. Vaak werkt leren beter op momenten waarop je kind nog fris is, bijvoorbeeld in de ochtend.",
@@ -329,7 +329,7 @@ content: [
 
   "Daarna kan er, als dat past, een klein leermoment volgen. Denk aan de dag van de week, het dagdeel of het weer. Zo wordt leren op een rustige manier onderdeel van de dagstart.",
 
-  "<strong>Onderwerpen voor het leermoment</strong>",
+  "<strong>Een leermoment kan gevuld worden met onderwerpen zoals:</strong>",
 
   "<ul>" +
     "<li>Dagen van de week</li>" +
