@@ -415,8 +415,10 @@ content: [
     imageUrl: "https://umpreneur.github.io/ummischool//fixedvsgroei.png",
       
   content: [
-    "Soms lukt iets meteen. Soms niet. Een kind zit vast, probeert opnieuw en raakt even gefrustreerd. In die momenten gebeurt er meer dan leren alleen. Een kind vormt ideeën over wat leren is, wat moeite betekent en wat vastlopen zegt over zichzelf. Die manier van kijken noemen we mindset. Het is geen vast kenmerk, maar een manier van denken die zich vormt in de dagelijkse momenten van leren. In hoe een kind met leren omgaat, zie je vaak twee manieren van denken terug: een fixed mindset en een groeimindset.",
+"Soms lukt iets meteen, soms niet. Een kind loopt vast, probeert opnieuw en raakt gefrustreerd. Juist in die momenten gebeurt er meer dan leren alleen. Een kind vormt ideeën over wat leren is, wat moeite betekent en wat vastlopen zegt over zichzelf.",
 
+"Die manier van kijken noemen we mindset. Het is geen vast kenmerk, maar een manier van denken die zich vormt in de dagelijkse momenten van leren. In hoe een kind met leren omgaat, zie je vaak twee richtingen: een fixed mindset en een groeimindset.",
+    
     "<strong>Fixed mindset</strong> <br> Bij een fixed mindset ligt de nadruk sterk op het beeld dat een kind van zichzelf heeft. Gedachten als “Ik ben slim, waarom lukt dit mij niet?” of “Als ik het niet meteen snap, kan ik het blijkbaar niet” komen dan snel op. Vastlopen voelt niet als een onderdeel van leren, maar als een teken dat er iets mis is met het kind zelf. Leren moet lukken. En als het niet lukt, overheerst teleurstelling of twijfel.",
 
     {
