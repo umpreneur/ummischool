@@ -465,22 +465,22 @@ content: [
    
  "<strong>Het begin</strong><br/> Begin met Surah al-Fātiḥah, de basis van het gebed en een logische eerste stap. Ga daarna verder met de korte suwar uit Juz’ ‘Amma, die door hun lengte en opbouw goed te volgen zijn voor jonge kinderen.",
 
-    "<strong>Luisteren als basis</strong><br/> Kies één ayah of een paar ayat en blijf daarbij. Zet dezelfde recitatie zo vaak mogelijk aan, bij voorkeur van één vaste recitator, zodat de klank herkenbaar wordt </br> Laat het op verschillende momenten terugkomen tijdens het spelen, in de auto, bij het opruimen of in rustige momenten. Zorg voor een rustige sfeer, zodat het kind de klanken goed kan opnemen.</br> Het kind kan ondertussen vrij spelen. Alleen luisteren is al leren.",
+    "<strong>Luisteren als basis</strong><br/> Kies één ayah of een paar ayat en blijf daarbij. Benoem dat dit de ayah is die jullie samen gaan leren. Zet dezelfde recitatie zo vaak mogelijk aan, bij voorkeur van één vaste recitator, zodat de klank herkenbaar wordt </br> Laat het op verschillende momenten terugkomen tijdens het spelen, in de auto, bij het opruimen of in rustige momenten. Zorg voor een rustige sfeer, zodat het kind de klanken goed kan opnemen.</br> Het kind kan ondertussen vrij spelen. Alleen luisteren is al leren.",
 { 
       type: "highlight",
       text: "Wat vaak wordt gehoord, blijft vanzelf hangen."
     },
 
-    "Na een periode van luisteren kun je samen gaan oefenen. Het kind kan hierin meebeslissen: samen reciteren of zelf opzeggen. Zo ontstaat er een gevoel van eigen regie. Bij jonge kinderen kan dit speels en in beweging zijn. Een klein sprongetje of een bal overrollen na een ayah kan al helpen om het luchtig te houden, zonder dat het onrustig wordt.",
-    "Naast speels oefenen is het waardevol om ook korte, rustige leermomenten zonder spel aan te bieden. Door dit stap voor stap op te bouwen, leert het kind op een natuurlijke manier omgaan met meer traditioneel leren. <br/> <i> <strong>Let op! Van echte memorisatie is pas sprake wanneer een kind een ayah zelfstandig, foutloos en zonder ondersteuning kan opzeggen.</strong></i>",
+    "Na een periode van luisteren kun je samen gaan oefenen. Het kind kan hierin meebeslissen: samen reciteren of zelf opzeggen. Zo ontstaat er een gevoel van eigen regie. Bij jonge kinderen kan dit speels en in beweging zijn.",
+    "Naast speels oefenen is het waardevol om ook korte, rustige leermomenten zonder spel aan te bieden. Door dit stap voor stap op te bouwen, leert het kind op een natuurlijke manier omgaan met meer traditioneel leren.",
 "<strong>Samen herhalen</strong><br/>Wat geleerd is, blijft het best door herhaling. Maak daar een gezamenlijk moment van. Ga samen zitten en reciteer om de beurt een ayah van de geleerde suwar met één kind, meerdere kinderen of het hele gezin. <br> Je kunt hier een vast moment voor nemen, bijvoorbeeld een wekelijkse Qur’aankring, waarin je samen zit en om de beurt een ayah reciteert van dezelfde surah, totdat de hele surah is doorlopen. ",
 
  "<strong>Tips</strong>"+
  "<ul>" +
-    "<li> Kun je zelf niet (goed) reciteren? Gebruik duidelijke audio van een docent of vaste recitator met goede tajwīd.</li>" +
+    "<li>Kun je zelf niet goed reciteren? Gebruik duidelijke audio met correcte tajwīd, zoals Shaykh al-Husary (Ḥafṣ).</li>" +
     "<li>Stop altijd vóór vermoeidheid. Een kind dat prettig stopt, begint de volgende keer makkelijker.</li>" +
        "<li>Prijs de inzet, niet alleen het resultaat. Uiteindelijk is het resultaat van Allah.</li>" +
-    "<li>Handige Qur’an-kanalen voor kinderen: Dawood Kids TV en Asma Huda.</li>" +
+    "<li>Gebruik handige Qur’an-kanalen voor kinderen zoals DawoodKidsTV op youtube. </li>" +
 "<li><a href='https://nl.pinterest.com/pin/545991154850141576/' target='_blank' rel='noopener noreferrer'>Gebruik een Juz ‘Amma-tracker om de voortgang zichtbaar te maken. voorbeeld</a></li>" +
 "<li><a href='https://app.quranflash.com/book/Tajweed#/reader' target='_blank' rel='noopener noreferrer'>Online Qur’an met tajweedkleuren en audio, herhaling tot 10 keer per ayah.</a></li>" +
     
@@ -497,20 +497,23 @@ content: [
   imageUrl: "https://umpreneur.github.io/ummischool/penk.png",
   
  content: [
-  "Thuisonderwijs met jonge kinderen begint bij hun nieuwsgierigheid. Peuters en kleuters willen begrijpen wat ze zien, voelen en meemaken. Door mee te kijken, vragen te benoemen en ervaringen te delen, wordt het gewone dagelijks leven een plek waar leren vanzelf ontstaat. Vanuit die nieuwsgierigheid kun je aansluiten met praktische vaardigheden, thema’s die de wereld begrijpelijk maken en activiteiten die de aandacht stap voor stap opbouwen.",
+  "Thuisonderwijs met jonge kinderen begint bij hun nieuwsgierigheid. Peuters en kleuters willen begrijpen wat ze zien, voelen en meemaken. Door mee te kijken, vragen te benoemen en ervaringen te delen, wordt het gewone dagelijks leven een plek waar leren vanzelf ontstaat.",
 
-  "<strong>Praktische vaardigheden</strong><br>Bij jonge kinderen groeit zelfstandigheid in kleine, haalbare stappen. Een peuter begint misschien met een jas aantrekken, iets opruimen of water inschenken. Naarmate het kind ouder wordt, kunnen taken iets nauwkeuriger worden: een rits sluiten, groente snijden met een kindermes, een doekje gebruiken om iets schoon te maken of plantjes verzorgen.",
-  "Door deze dagelijkse handelingen leert een kind wat het al kan, oefent het controle over bewegingen en merkt het hoe fijn het is om iets zelf te doen. Het begint met grote, grove bewegingen en groeit langzaam naar kleinere, preciesere handelingen. Zo ontstaat een basis waarop kinderen later langer kunnen focussen en activiteiten kunnen afronden. Je sluit eenvoudig aan door ruimte te geven om mee te doen in het echte leven, bijvoorbeeld door het kind een taakje te laten kiezen dat past bij wat het al kan.",
+"Bij jonge kinderen groeit zelfstandigheid in kleine, haalbare stappen. Een peuter begint met eenvoudige handelingen zoals een jas aantrekken, iets opruimen of water inschenken. Naarmate het kind ouder wordt, worden taken preciezer: een rits sluiten, groente snijden met een kindermes, iets schoonmaken of plantjes verzorgen.<br>",
 
+"Door deze dagelijkse handelingen ontdekt een kind wat het al kan, oefent het controle over bewegingen en ervaart het het plezier van zelf doen. Het begint met grove bewegingen en groeit naar meer precisie.<br>",
+
+"Zo ontstaat een basis voor langere focus en het afronden van activiteiten. Je kunt hierbij aansluiten door ruimte te geven om mee te doen in het dagelijks leven, bijvoorbeeld door een taakje te laten kiezen dat past bij wat het kind al kan.<br>,
   {
     type: "highlight",
     text: "Praktische handelingen versterken zowel motoriek als denkontwikkeling."
   },
 
-  "<strong>De wereld begrijpen</strong><br>Jonge kinderen zijn van nature nieuwsgierig. Hun vragen klinken eenvoudig, maar gaan over belangrijke onderwerpen die hen bezighouden. Een kind kan vragen: “Waarom komt er water uit de lucht?” of “Waarom heeft dat dier haren en die niet?”",
-  "Met zulke vragen probeert een kind grip te krijgen op zijn wereld. Begrip geeft houvast en maakt situaties voorspelbaarder. Door samen te praten, te kijken en woorden te geven aan wat ze opmerken, voelen kinderen zich zekerder in wat ze zien en ervaren.",
-  "Thema’s kunnen helpen om deze nieuwsgierigheid te volgen. Wanneer je een onderwerp kiest dat aansluit bij wat het kind vraagt, zoals weer, seizoenen, dieren, thuis of gevoelens, krijgt het woorden voor wat het ziet en voelt. Kinderen herkennen dingen terug, bouwen algemene kennis op en kunnen gebeurtenissen beter plaatsen.",
+  "<strong>De wereld begrijpen</strong>Jonge kinderen zijn van nature nieuwsgierig. Hun vragen lijken eenvoudig, maar gaan over wat hen bezighoudt, zoals: “Waarom komt er water uit de lucht?” of “Waarom heeft dat dier haren en die niet?”<br>",
 
+"Met zulke vragen probeert een kind grip te krijgen op de wereld. Begrip geeft houvast en maakt situaties voorspelbaarder. Door samen te praten, te kijken en te benoemen wat ze zien, voelen kinderen zich zekerder.", 
+
+"Thema’s kunnen helpen om die nieuwsgierigheid te volgen. Sluit aan bij wat het kind bezighoudt — zoals weer, seizoenen, dieren, thuis of gevoelens. Zo krijgt het woorden voor wat het ziet en voelt, herkent het dingen terug en kan het gebeurtenissen beter plaatsen.
   {
     type: "highlight",
     text: "Begrijpen begint wanneer een kind woorden krijgt voor wat het ziet."
