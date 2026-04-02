@@ -312,7 +312,7 @@ content: [
 "</ul>",
     "Hoeveel leerblokken je gebruikt, wanneer je ze plant en hoe je de dag opbouwt, hangt af van je kind, je aanpak en jullie ritme.<br>",
     "Een passende dagplanning vinden kost tijd. Het is vaak zoeken, proberen, bijstellen. Wat op papier goed lijkt, voelt in de praktijk soms anders. Daarom is het normaal om verschillende schema’s uit te testen voordat duidelijk wordt wat echt werkt in jullie situatie.<br>",
-    "Ritme ontstaat door herhaling, maar groei komt vaak juist door aan te passen. Geef jezelf de ruimte om te finetunen tot er een dagritme ontstaat dat rust brengt, helder is en bij jullie leven past.",
+    "Ritme ontstaat door herhaling, geef jezelf de ruimte om te finetunen tot er een dagritme ontstaat dat rust brengt, helder is en bij jullie leven past.",
     { "type": "highlight", "text": "Structuur geeft rust, herhaling geeft resultaat en samen maken ze thuisonderwijs vol te houden in sha Allah." },
   ]
 },
@@ -323,8 +323,7 @@ content: [
   headerImageUrl: "https://umpreneur.github.io/ummischool/blog5img.png",
   imageUrl: "https://umpreneur.github.io/ummischool/blog5img.png",
  content: [
-  "Een dagstart begint vaak met even samen zijn. Samen zitten en kort met elkaar praten. Door dat moment krijgen kinderen de ruimte om woorden te geven aan wat ze voelen en wat de dag kan brengen.",
-
+"Een dagstart begint vaak met even samen zijn, kort zitten en met elkaar praten. Zo krijgen kinderen de ruimte om woorden te geven aan wat ze voelen en wat ze van de dag verwachten.",
   "Hoe dat eruitziet, verschilt per leeftijd. Bij jonge kinderen blijft het eenvoudig, bij oudere kinderen ontstaat vaak vanzelf wat meer gesprek. Door dit dagelijks terug te laten komen, groeit er structuur, vertrouwen en openheid.",
 
   "Daarna kan er, als dat past, een klein leermoment volgen. Denk aan de dag van de week, het dagdeel of het weer. Zo wordt leren op een rustige manier onderdeel van de dagstart.",
@@ -357,7 +356,7 @@ content: [
 "Het hoeft niet volledig of strak te zijn. Het gaat er vooral om dat het overzicht geeft. Waar het past, kun je je kind betrekken bij kleine keuzes, terwijl jij de lijn van de dag bewaakt.",
   {
     type: "highlight",
-    text: "Een dagstart hoeft niet perfect te zijn. Het gaat erom samen de dag te beginnen.."
+    text: "Een dagstart hoeft niet perfect te zijn. Het gaat erom samen de dag te beginnen."
   }
 ]
   },
@@ -384,19 +383,16 @@ content: [
  "<strong>Leren mag moeite kosten, dat hoort erbij. Door met frustratie om te leren gaan, groeit veerkracht.</strong>",
   "Complimenten werken het best wanneer ze gaan over inzet en volhouden, niet over slim zijn. Belonen kan soms helpen, maar zodra leren draait om wat je ervoor krijgt, verdwijnt de motivatie van binnenuit.",
 
-"<strong>Betekenis houdt leren vast </strong> <br> Zelfs als alles goed staat, blijft één vraag doorslaggevend: waarom doe ik dit? Zonder betekenis voelt leren leeg. Betekenis hoeft niet groots te zijn. Soms is het simpel: “Als je leert tellen, tel je straks zelf hoeveel auto’s je hebt.” Wanneer een kind begrijpt waar leren toe leidt, krijgt inspanning richting.",
+"<strong>Betekenis houdt leren vast </strong> <br> Zelfs als alles goed staat, blijft één vraag doorslaggevend: waarom doe ik dit? Zonder betekenis voelt leren leeg. Betekenis hoeft niet groots te zijn. Soms is het simpel: “Als je leert tellen, kun je straks zelf weten hoeveel je nodig hebt. Wanneer een kind begrijpt waar leren toe leidt, krijgt inspanning richting.",
 
  {
       type: "highlight",
       text: "Betekenis verbindt wat moeilijk is aan iets dat de moeite waard voelt."
     },
   
-    
-
-  "<strong>Nog even dit</strong> </br> En ook dit is belangrijk om te zeggen: geen enkel kind is altijd gemotiveerd. Een dag zonder zin of met weerstand zegt weinig. Het wordt pas relevant wanneer het structureel is en dan loont het om opnieuw naar de omstandigheden te kijken.",
-   
-    "<strong>Leren door voorbeeld</strong> <br> Ook voorbeelden kunnen helpen om liefde voor kennis te laten groeien. Verhalen over mensen zoals Abu Hurayra of Mu’adh ibn Jabal laten zien dat kennis iets is om naar te verlangen, niet alleen om te behalen. Die verhalen vormen en inspireren. Ze laten zien dat leren niet stopt, maar een leven lang doorgaat. Kennis wordt niet gezien als iets dat je afrondt, maar als iets waar je in blijft groeien.",
-   " Daarnaast speelt het dagelijks voorbeeld ook een rol. Wat een kind ziet, hoe je omgaat met moeite of nieuwsgierigheid laat zien hoe leren eruitziet in het echte leven. Zo leert een kind, vaak zonder woorden, hoe leren voelt en wat het betekent.",
+       
+    "<strong>Leren door voorbeeld</strong> <br> Ook voorbeelden kunnen helpen om liefde voor kennis te laten groeien.Verhalen over sahaba, zoals Abu Hurayra of Mu’adh ibn Jabal laten zien dat kennis iets is om naar te verlangen, niet alleen om te behalen. Die verhalen vormen en inspireren. Ze laten zien dat leren niet stopt, maar een leven lang doorgaat. Kennis wordt niet gezien als iets dat je afrondt, maar als iets waar je in blijft groeien.",
+   "Daarnaast speelt het dagelijks voorbeeld ook een rol. Wat een kind ziet, hoe je omgaat met moeite of nieuwsgierigheid laat zien hoe leren eruitziet in het echte leven. Zo leert een kind, vaak zonder woorden, hoe leren voelt en wat het betekent.",
   
   
   
