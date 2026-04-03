@@ -503,7 +503,7 @@ content: [
 
 "Door deze dagelijkse handelingen ontdekt een kind wat het al kan, oefent het controle over bewegingen en ervaart het het plezier van zelf doen. Het begint met grove bewegingen en groeit naar meer precisie.<br>",
 
-"Zo ontstaat een basis voor langere focus en het afronden van activiteiten. Je kunt hierbij aansluiten door ruimte te geven om mee te doen in het dagelijks leven, bijvoorbeeld door een taakje te laten kiezen dat past bij wat het kind al kan.<br>,
+"Zo ontstaat een basis voor langere focus en het afronden van activiteiten. Je kunt hierbij aansluiten door ruimte te geven om mee te doen in het dagelijks leven, bijvoorbeeld door een taakje te laten kiezen dat past bij wat het kind al kan.<br>",
   {
     type: "highlight",
     text: "Praktische handelingen versterken zowel motoriek als denkontwikkeling."
