@@ -554,22 +554,15 @@ content: [
   imageUrl: "https://umpreneur.github.io/ummischool/spelenderwijze.png",
 
   content: [
-    "Spelenderwijs leren betekent dat kinderen leren door te spelen, te doen en te ontdekken. In plaats van alleen te luisteren naar uitleg of oefeningen te maken, worden ze actief betrokken bij wat ze leren. Spel helpt kinderen nieuwsgierig te blijven, dingen uit te proberen en fouten te durven maken. Het leren gebeurt vaak vanzelf, zonder dat kinderen het gevoel hebben dat ze moeten presteren.",
-
-    "Die manier van leren is de voorbije jaren steeds populairder geworden. Dat is niet zo vreemd. Spelen sluit aan bij hoe kinderen van nature leren. Het maakt leren minder spannend en vaak ook leuker. Kinderen zijn gemotiveerder, durven meer en ervaren minder druk.",
-
-    "Tijdens het spel leren kinderen bovendien meer dan alleen kennis. Ze leren samenwerken, communiceren, creatief denken en omgaan met anderen. Dit maakt spelenderwijs leren aantrekkelijk.",
-
-    "Toch brengt deze aanpak ook risico’s met zich mee. Wanneer leren vooral in spelvorm moet zijn, kunnen kinderen afhaken zodra iets moeilijk, saai of frustrerend wordt. Ze leren dan minder goed omgaan met tegenslag en ontwikkelen minder doorzettingsvermogen.",
-
+"Spelenderwijs leren sluit aan bij hoe jonge kinderen van nature leren. Door te spelen, te doen en te ontdekken, zijn ze betrokken bij wat ze leren. Het voelt minder als iets dat moet en meer als iets wat vanzelf ontstaat.",
+"Daarom voelt deze manier van leren vaak prettig. Kinderen blijven nieuwsgierig, proberen dingen uit en durven fouten te maken. Leren wordt minder zwaar en vaak ook leuker.",
+"Tijdens het spel gebeurt er meer dan alleen leren. Kinderen oefenen in omgaan met anderen, leren communiceren en ontwikkelen hun eigen ideeën.",
     { 
       type: "highlight", 
       text: "Niet alles wat kinderen moeten leren is meteen leuk, en dat hoeft ook niet zo te zijn." 
     },
-
+    "Tegelijk heeft deze manier van leren ook een grens. Niet alles kan via spel. Sommige dingen vragen oefening, aandacht en doorzetten, ook wanneer het lastig is.",
     "Daarnaast bestaat het risico dat het onderwijs te veel meegaat in de belevingswereld van het kind. Kinderen zijn dan wel bezig, maar leren niet altijd wat nodig is. Vooral basisvaardigheden zoals lezen, schrijven en rekenen vragen oefening, herhaling en soms gewoon even volhouden.",
-
-    "Spelenderwijs leren kan veel betekenen voor kinderen, zolang het niet het enige uitgangspunt wordt. Spelen prikkelt nieuwsgierigheid en maakt leren toegankelijk, maar sommige dingen leren kinderen beter met duidelijke uitleg en oefening.",
 
     "Door spel af te wisselen met momenten van luisteren, proberen en herhalen, krijgen kinderen wat ze op dat moment nodig hebben. Zo leren ze dat leren niet altijd makkelijk is, maar wel de moeite waard.",
 
