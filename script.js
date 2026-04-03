@@ -500,7 +500,7 @@ content: [
 
 "Thuisonderwijs met jonge kinderen begint bij hun nieuwsgierigheid. Peuters en kleuters willen begrijpen wat ze zien en meemaken. Door samen te kijken en te praten over wat het kind ziet en vraagt, ontstaat leren vanzelf in het dagelijks leven.<br>",
 "Vanuit die dagelijkse momenten groeit ook zelfstandigheid, in kleine stappen. Een peuter begint met eenvoudige handelingen zoals aankleden, opruimen of inschenken. Later worden taken preciezer, zoals een rits sluiten, iets snijden of schoonmaken.",
-"In deze handelingen ontdekt een kind wat het al kan, oefent het controle over bewegingen en ervaart het het plezier van zelf doen. Zo groeit het van grove naar fijnere handelingen. Hieruit ontstaat geleidelijk de basis voor langere focus en het afronden van activiteiten. Door het kind mee te laten doen in het dagelijks leven en kleine taken te laten kiezen, sluit je hier vanzelf op aan."
+"In deze handelingen ontdekt een kind wat het al kan, oefent het controle over bewegingen en ervaart het het plezier van zelf doen. Zo groeit het van grove naar fijnere handelingen. Hieruit ontstaat geleidelijk de basis voor langere focus en het afronden van activiteiten. Door het kind mee te laten doen in het dagelijks leven en kleine taken te laten kiezen, sluit je hier vanzelf op aan.",
    
   {
     type: "highlight",
