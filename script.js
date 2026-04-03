@@ -497,13 +497,12 @@ content: [
   imageUrl: "https://umpreneur.github.io/ummischool/penk.png",
   
  content: [
-  "Thuisonderwijs met jonge kinderen begint bij hun nieuwsgierigheid. Peuters en kleuters willen begrijpen wat ze zien, voelen en meemaken. Door mee te kijken, vragen te benoemen en ervaringen te delen, wordt het gewone dagelijks leven een plek waar leren vanzelf ontstaat.",
-
-"Bij jonge kinderen groeit zelfstandigheid in kleine, haalbare stappen. Een peuter begint met eenvoudige handelingen zoals een jas aantrekken, iets opruimen of water inschenken. Naarmate het kind ouder wordt, worden taken preciezer: een rits sluiten, groente snijden met een kindermes, iets schoonmaken of plantjes verzorgen.<br>",
-
-"Door deze dagelijkse handelingen ontdekt een kind wat het al kan, oefent het controle over bewegingen en ervaart het het plezier van zelf doen. Het begint met grove bewegingen en groeit naar meer precisie.<br>",
-
-"Zo ontstaat een basis voor langere focus en het afronden van activiteiten. Je kunt hierbij aansluiten door ruimte te geven om mee te doen in het dagelijks leven, bijvoorbeeld door een taakje te laten kiezen dat past bij wat het kind al kan.<br>",
+"Thuisonderwijs met jonge kinderen begint bij hun nieuwsgierigheid. Peuters en kleuters willen begrijpen wat ze zien en meemaken. Door samen te kijken en te praten over wat het kind ziet en vraagt, ontstaat leren vanzelf in het dagelijks leven.<br><br>",
+"Zelfstandigheid groeit in kleine stappen. Een peuter begint met eenvoudige handelingen zoals aankleden, opruimen of inschenken. Later worden taken preciezer, zoals een rits sluiten, iets snijden of schoonmaken.<br><br>",
+"In deze dagelijkse momenten ontdekt een kind wat het al kan, oefent het controle over bewegingen en ervaart het het plezier van zelf doen. Zo groeit het van grove naar fijnere handelingen.<br><br>",
+"Dit vormt de basis voor langere focus en het afronden van activiteiten.<br>",
+"Door het kind te laten meedoen in het dagelijks leven en kleine taken te laten kiezen, sluit je hier vanzelf op aan.",
+   
   {
     type: "highlight",
     text: "Praktische handelingen versterken zowel motoriek als denkontwikkeling."
