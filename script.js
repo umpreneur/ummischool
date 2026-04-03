@@ -508,21 +508,19 @@ content: [
     text: "Praktische handelingen versterken zowel motoriek als denkontwikkeling."
   },
 
-  "<strong>De wereld begrijpen</strong>Jonge kinderen zijn van nature nieuwsgierig. Hun vragen lijken eenvoudig, maar gaan over wat hen bezighoudt, zoals: “Waarom komt er water uit de lucht?” of “Waarom heeft dat dier haren en die niet?”<br>",
+  "<strong>De wereld begrijpen</strong><br>Jonge kinderen zijn van nature nieuwsgierig. Hun vragen lijken eenvoudig, maar gaan over wat hen bezighoudt, <br>zoals: “Waarom komt er water uit de lucht?” <br>of <br>“Waarom heeft dat dier haren en die niet?”<br>",
 
 "Met zulke vragen probeert een kind grip te krijgen op de wereld. Begrip geeft houvast en maakt situaties voorspelbaarder. Door samen te praten, te kijken en te benoemen wat ze zien, voelen kinderen zich zekerder.", 
 
-"Thema’s kunnen helpen om die nieuwsgierigheid te volgen. Sluit aan bij wat het kind bezighoudt — zoals weer, seizoenen, dieren, thuis of gevoelens. Zo krijgt het woorden voor wat het ziet en voelt, herkent het dingen terug en kan het gebeurtenissen beter plaatsen.", 
+"Thema’s kunnen helpen om die nieuwsgierigheid te volgen. Sluit aan bij wat het kind bezighoudt zoals weer, seizoenen, dieren, thuis of gevoelens. Zo krijgt het woorden voor wat het ziet en voelt, herkent het dingen terug en kan het gebeurtenissen beter plaatsen.", 
   {
     type: "highlight",
     text: "Begrijpen begint wanneer een kind woorden krijgt voor wat het ziet."
   },
 
-  "<strong>De basis voor later leren</strong><br>De basis voor later leren wordt gelegd in de kleutertijd. In deze jaren kunnen kinderen zich stapje voor stapje langer op iets richten. Je merkt dat wanneer ze een puzzel willen afmaken, langer blijven tekenen of een bouwwerk verder willen uitbreiden. Activiteiten met een duidelijk begin en einde helpen om die aandacht rustig op te bouwen.",
-  "Tijdens dit spel ontwikkelen kleuters de vaardigheden die ze later nodig hebben. Ze krijgen taalgevoel door te praten, luisteren en rijmpjes te horen. Voorbereidend lezen groeit wanneer ze klanken herkennen en verschillen in geluid opmerken. De rekenbasis ontstaat in spel met vormen, patronen en hoeveelheden. En door te knippen, tekenen, bouwen en kleien versterken ze hun fijne motoriek.",
-  "Deze ontwikkelgebieden sluiten aan bij wat in de SLO-doelen voor het jonge kind centraal staat: spelend leren, groei in taal, beginnende gecijferdheid, motoriek en sociaal-emotionele ontwikkeling. Door materialen aan te bieden die uitnodigen tot wat langere aandacht, groeien kleuters vanzelf toe naar het leren van letters, woorden en getallen — zonder dat dit nu al schools hoeft te zijn.",
+  "<strong>De basis voor later leren</strong><br> In de kleutertijd groeit het vermogen van kinderen om zich stap voor stap langer te concentreren en ergens bij te blijven. Wat eerst kort en wisselend is, wordt geleidelijk langer en gerichter.<>br",
+   "In hun spel en dagelijkse bezigheden ontwikkelen kleuters vaardigheden die ze later nodig hebben. Door te doen, te herhalen en te ontdekken, groeit hun begrip. Ze leren ergens mee bezig te blijven, door te zetten en iets af te ronden.Zo ontstaat een basis waarop later leren verder kan bouwen, in een tempo dat past bij het kind.", 
 
- 
 ]
  },
 "leren-schrijven": {
