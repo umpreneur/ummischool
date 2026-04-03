@@ -513,7 +513,7 @@ content: [
 
 "Met zulke vragen probeert een kind grip te krijgen op de wereld. Begrip geeft houvast en maakt situaties voorspelbaarder. Door samen te praten, te kijken en te benoemen wat ze zien, voelen kinderen zich zekerder.", 
 
-"Thema’s kunnen helpen om die nieuwsgierigheid te volgen. Sluit aan bij wat het kind bezighoudt — zoals weer, seizoenen, dieren, thuis of gevoelens. Zo krijgt het woorden voor wat het ziet en voelt, herkent het dingen terug en kan het gebeurtenissen beter plaatsen.
+"Thema’s kunnen helpen om die nieuwsgierigheid te volgen. Sluit aan bij wat het kind bezighoudt — zoals weer, seizoenen, dieren, thuis of gevoelens. Zo krijgt het woorden voor wat het ziet en voelt, herkent het dingen terug en kan het gebeurtenissen beter plaatsen.", 
   {
     type: "highlight",
     text: "Begrijpen begint wanneer een kind woorden krijgt voor wat het ziet."
