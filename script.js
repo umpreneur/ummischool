@@ -371,13 +371,9 @@ content: [
     imageUrl: "https://umpreneur.github.io/ummischool//blog2img7.png",
 
 content: [
-"Leren komt het meest tot bloei wanneer een kind zich betrokken voelt. Wanneer iets aansluit bij wat een kind bezighoudt, verandert de houding vaak vanzelf. Aandacht blijft langer hangen en er ontstaat meer bereidheid om moeite te doen.",
-  
-"Van daaruit groeit motivatie van binnenuit. Niet door druk of beloning, maar doordat iets betekenis krijgt. Leren voelt dan minder als iets dat moet, en meer als iets waar een kind zelf in wil investeren. Die motivatie is er niet altijd, en ook niet bij elk onderwerp. Maar wanneer ze er is, is dat vaak goed zichtbaar: er ontstaat focus, verdieping en gerichte inzet. Dit wordt ook wel intrinsieke motivatie genoemd.",
-
-"Intrinsieke motivatie ontstaat niet vanzelf en blijft niet altijd. Ze groeit mee met hoe leren eruitziet en wordt ervaren, en natuurlijk met de wil van Allah. Hieronder staan manieren die, met Zijn toestemming, kunnen helpen om motivatie te laten groeien en te behouden.", 
-  
-  "<strong>Structuur en keuze</strong><br>Leren vraagt om structuur. Zonder houvast kan er onrust ontstaan of steeds opnieuw discussie. Een vast leermoment geeft duidelijkheid en rust. Tegelijk hoeft die structuur niet strak te zijn. Binnen dat moment kan ruimte zijn voor kleine keuzes, zoals volgorde, tempo of plek. Zo blijft er richting, terwijl het leren ook als eigen voelt.<br>", 
+"Leren komt het meest tot bloei wanneer een kind zich betrokken voelt. Wanneer iets aansluit bij wat een kind bezighoudt, verandert de houding vaak vanzelf. Aandacht blijft langer hangen en er ontstaat meer bereidheid om moeite te doen.<>br", 
+  "Van daaruit groeit motivatie van binnenuit. Niet door druk of beloning, maar doordat iets betekenis krijgt. Leren voelt dan minder als iets dat moet, en meer als iets waar een kind zelf in wil investeren. Dit wordt ook wel intrinsieke motivatie genoemd. Intrinsieke motivatie groeit mee met hoe leren eruitziet en wordt ervaren, en natuurlijk met de wil van Allah. Er zijn verschillende manieren die, met Zijn toestemming, kunnen helpen om motivatie te laten groeien. <br>",  
+  "<strong>Structuur en keuze</strong><br> Leren vraagt om structuur. Zonder houvast kan er onrust ontstaan of steeds opnieuw discussie. Een vast leermoment geeft duidelijkheid en rust. Tegelijk hoeft die structuur niet strak te zijn. Binnen dat moment kan het kind kleine keuzes maken, zoals in volgorde, tempo of plek. Zo blijft er richting, terwijl er ook ruimte is voor eigen inbreng.<br>", 
 
    
   "<strong>Vooruitgang maakt motivatie zichtbaar </strong> <br>   Wanneer structuur en keuze in balans zijn, ontstaat er ruimte voor groei. Motivatie groeit vaak in kleine stappen die gezien worden.<br>", 
