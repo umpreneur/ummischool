@@ -294,9 +294,9 @@ content: [
     imageUrl: "https://umpreneur.github.io/ummischool/blog5img.png",
   content: [
 "Thuisonderwijs loopt het fijnst als er een duidelijke dagplanning is. Niet strak, maar wel overzichtelijk voor iedereen. Zo weet iedereen wat de dag brengt en ontstaat er rust.",
-"De dagplanning hoeft niet ingewikkeld te zijn. Sommige momenten liggen vast, zoals opstaan, bidden, eten en slapen. Die vormen de basis van de dag, daaromheen plan je de rest.",
+"De dagplanning hoeft niet ingewikkeld te zijn. Sommige momenten liggen vast, zoals opstaan, bidden, eten en slapen. Die vormen de basis van de dag. Daaromheen plan je de rest.",
 "Daarna komt de vraag hoe je de leerblokken indeelt. Hoeveel tijd heb je daarvoor nodig? Werk je liever in één langer blok met korte pauzes, of verdeel je het over de dag, bijvoorbeeld een moment in de ochtend en één later op de dag?",
-    "Vervolgens bepaal je waar die leerblokken in de dag passen. Je kiest momenten waarop er rust en aandacht is om te werken, en stemt de rest van de dag daarop af. Kijk daarbij ook naar het energieniveau van je kind. Vaak werkt leren beter op momenten waarop je kind nog fris is, bijvoorbeeld in de ochtend.",
+    "Vervolgens bepaal je waar die leerblokken in de dag passen. Je kiest momenten waarop er rust en aandacht is om te werken en stemt de rest van de dag daarop af. Kijk daarbij ook naar het energieniveau van je kind. Vaak werkt leren beter op momenten waarop je kind nog fris is, bijvoorbeeld in de ochtend.",
     
     { "type": "highlight", "text": "Gebedstijden kunnen dienen als natuurlijke ankerpunten in de dag. Ze verdelen de dag en geven houvast voor een praktische en haalbare planning." },
     "Dit is mijn eigen globale dagplanning. Afhankelijk van of we ’s ochtends binnen of buiten zijn, verschuif ik de leerblokken naar de ochtend of de middag. Zo blijf ik flexibel, terwijl de kinderen toch vastigheid ervaren.",
@@ -313,7 +313,7 @@ content: [
     "Hoeveel leerblokken je gebruikt, wanneer je ze plant en hoe je de dag opbouwt, hangt af van je kind, je aanpak en jullie ritme.<br>",
     "Een passende dagplanning vinden kost tijd. Het is vaak zoeken, proberen, bijstellen. Wat op papier goed lijkt, voelt in de praktijk soms anders. Daarom is het normaal om verschillende schema’s uit te testen voordat duidelijk wordt wat echt werkt in jullie situatie.<br>",
     "Ritme ontstaat door herhaling. Geef jezelf de ruimte om bij te sturen tot er een dagritme ontstaat dat rust brengt, helder is en bij jullie leven past.",
-    { "type": "highlight", "text": "Structuur geeft rust, herhaling geeft resultaat en samen maken ze thuisonderwijs vol te houden in sha Allah." },
+    { "type": "highlight", "text": "Structuur geeft rust, herhaling geeft resultaat en samen maken ze thuisonderwijs vol te houden, in sha Allah." },
   ]
 },
 
@@ -351,9 +351,9 @@ content: [
     "<li>Kerndoeltrainer (A, B, C): oefenmateriaal voor klokkijken en kalenderbegrip.</li>" +
   "</ul>",
 
-"Na het leermoment kun je samen de dag kort doornemen. Door in eenvoudige stappen te benoemen wat er komt (eerst dit, daarna dat) ontstaat er overzicht en rust.",
-"Het kan helpen om de dag zichtbaar te maken, bijvoorbeeld met dagritmekaarten of een whiteboard, zodat de dag voorspelbaar wordt. Wat daarin werkt, verschilt per kind. Bij jonge kinderen is het vaak fijner om per moment of dagdeel te kijken, in plaats van alles in één keer.",
-"Het hoeft niet volledig of strak te zijn. Het gaat er vooral om dat het overzicht geeft. Waar het past, kun je je kind betrekken bij kleine keuzes, terwijl jij de lijn van de dag bewaakt.",
+"Na het leermoment kan de dag kort worden doorgenomen. Door in eenvoudige stappen te benoemen wat er komt (eerst dit, daarna dat) ontstaat er overzicht en rust.",
+"Het helpt om de dag zichtbaar te maken, bijvoorbeeld met dagritmekaarten of een whiteboard, zodat de dag voorspelbaar wordt. Wat werkt, verschilt per kind. Bij jonge kinderen is het vaak fijner om per moment of dagdeel te kijken, in plaats van alles in één keer.",
+"Het hoeft niet volledig of strak te zijn. Het gaat er vooral om dat het overzicht geeft. Waar het past, kan het kind betrokken worden bij kleine keuzes, terwijl de ouder richting geeft.",
   {
     type: "highlight",
     text: "Een dagstart hoeft niet perfect te zijn. Het gaat erom samen de dag te beginnen."
