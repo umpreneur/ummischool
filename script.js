@@ -377,13 +377,13 @@ content: [
 
 "Intrinsieke motivatie ontstaat niet vanzelf en blijft niet altijd. Ze groeit mee met hoe leren eruitziet en wordt ervaren, en natuurlijk met de wil van Allah. Hieronder staan manieren die, met Zijn toestemming, kunnen helpen om motivatie te laten groeien en te behouden.", 
   
-  "<strong>Structuur en keuze</strong><br>Leren vraagt om structuur. Zonder houvast ontstaat al snel onrust of discussie. Een vast leermoment geeft duidelijkheid: leren hoort erbij, zonder dat het telkens opnieuw besproken hoeft te worden. <br>Tegelijk hoeft die structuur niet strak te zijn. Binnen dat moment kan een kind keuzes maken, in volgorde, tempo of plek. Zo blijft het kader duidelijk, terwijl het leren ook van hén voelt.",
-   
-  "<strong>Vooruitgang maakt motivatie zichtbaar </strong> <br> Wanneer structuur en keuze in balans zijn, ontstaat ruimte voor vooruitgang. En juist daar groeit motivatie. Niet in grote sprongen, maar in kleine stappen die gezien worden.<br>",
- "<strong><i>Leren mag moeite kosten, dat hoort erbij. Door met frustratie om te leren gaan, groeit veerkracht.</i></strong>",
-  "Complimenten werken het best wanneer ze gaan over inzet en volhouden, niet over slim zijn. Belonen kan soms helpen, maar zodra leren draait om wat je ervoor krijgt, verdwijnt de motivatie van binnenuit.",
+  "<strong>Structuur en keuze</strong><br>Leren vraagt om structuur. Zonder houvast kan er onrust ontstaan of steeds opnieuw discussie. Een vast leermoment geeft duidelijkheid en rust. Tegelijk hoeft die structuur niet strak te zijn. Binnen dat moment kan ruimte zijn voor kleine keuzes, zoals volgorde, tempo of plek. Zo blijft er richting, terwijl het leren ook als eigen voelt.<br>", 
 
-"<strong>Betekenis houdt leren vast </strong> <br> Zelfs als alles goed staat, blijft één vraag doorslaggevend: waarom doe ik dit? Zonder betekenis voelt leren leeg. Betekenis hoeft niet groots te zijn. Soms is het simpel: “Als je leert tellen, kun je straks zelf weten hoeveel je nodig hebt. Wanneer een kind begrijpt waar leren toe leidt, krijgt inspanning richting.",
+   
+  "<strong>Vooruitgang maakt motivatie zichtbaar </strong> <br>   Wanneer structuur en keuze in balans zijn, ontstaat er ruimte voor groei. Motivatie groeit vaak in kleine stappen die gezien worden.<br>", 
+ "<strong><i> Leren mag moeite kosten. Juist door met frustratie om te leren gaan, ontstaat veerkracht. </i></strong><br>",
+
+"<strong>Betekenis houdt leren vast </strong> <br> Zelfs wanneer alles goed is ingericht, blijft de vraag belangrijk: waarom wordt dit geleerd? Zonder betekenis voelt leren al snel leeg. Die hoeft niet groot te zijn, soms zit het in iets kleins en herkenbaars. Wanneer duidelijk is waar leren toe dient, krijgt inspanning richting. Wat moeilijk is, wordt draaglijker wanneer het ergens voor is.", 
 
  {
       type: "highlight",
