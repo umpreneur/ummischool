@@ -377,8 +377,10 @@ content: [
 
    
   "<strong>Vooruitgang maakt motivatie zichtbaar </strong> <br>   Wanneer structuur en keuze in balans zijn, ontstaat er ruimte voor groei. Motivatie groeit vaak in kleine stappen die gezien worden.<br>", 
- "<strong><i> Leren mag moeite kosten. Juist door met frustratie om te leren gaan, ontstaat veerkracht. </i></strong><br>",
-
+ {
+      type: "highlight",
+      text: "Leren mag moeite kosten. Juist door met frustratie om te leren gaan, ontstaat veerkracht."
+    },
 "<strong>Betekenis houdt leren vast </strong> <br> Zelfs wanneer alles goed is ingericht, blijft de vraag belangrijk: waarom wordt dit geleerd? Zonder betekenis voelt leren al snel leeg. Die hoeft niet groot te zijn, soms zit het in iets kleins en herkenbaars. Wanneer duidelijk is waar leren toe dient, krijgt inspanning richting. Wat moeilijk is, wordt draaglijker wanneer het ergens voor is.", 
 
  {
