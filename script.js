@@ -382,11 +382,6 @@ content: [
       text: "Leren mag moeite kosten. Juist door met frustratie om te leren gaan, ontstaat veerkracht."
     },
 "<strong>Betekenis houdt leren vast </strong> <br> Zelfs wanneer alles goed is ingericht, blijft de vraag belangrijk: waarom wordt dit geleerd? Zonder betekenis voelt leren al snel leeg. Die hoeft niet groot te zijn, soms zit het in iets kleins en herkenbaars. Wanneer duidelijk is waar leren toe dient, krijgt inspanning richting. Wat moeilijk is, wordt draaglijker wanneer het ergens voor is.", 
-
- {
-      type: "highlight",
-      text: "Betekenis verbindt wat moeilijk is aan iets dat de moeite waard voelt."
-    },
   
        
     "<strong>Leren door voorbeeld</strong> <br> Ook voorbeelden kunnen helpen om liefde voor kennis te laten groeien.Verhalen over sahaba, zoals Abu Hurayra of Mu’adh ibn Jabal laten zien dat kennis iets is om naar te verlangen, niet alleen om te behalen. Die verhalen vormen en inspireren. Ze laten zien dat leren niet stopt, maar een leven lang doorgaat. Kennis wordt niet gezien als iets dat je afrondt, maar als iets waar je in blijft groeien.",
