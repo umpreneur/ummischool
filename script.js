@@ -356,7 +356,7 @@ content: [
 "Het hoeft niet volledig of strak te zijn. Het gaat er vooral om dat het overzicht geeft. Waar het past, kan het kind betrokken worden bij kleine keuzes, terwijl de ouder richting geeft.",
   {
     type: "highlight",
-    text: "Een dagstart hoeft niet perfect te zijn. Het gaat erom samen de dag te beginnen."
+    text: "Een dagstart hoeft niet perfect te zijn. Het gaat er vooral om samen de dag te beginnen."
   }
 ]
   },
@@ -371,16 +371,16 @@ content: [
     imageUrl: "https://umpreneur.github.io/ummischool//blog2img7.png",
 
 content: [
-"Leren komt het meest tot bloei wanneer een kind zich betrokken voelt. Als wat het leert aansluit bij wie het is en wat het bezighoudt, verandert de houding vanzelf. Aandacht blijft langer hangen en inzet groeit niet omdat het makkelijk is, maar omdat het betekenis heeft.<br>", 
- "Vanuit die betrokkenheid ontstaat motivatie van binnenuit. Niet door beloning of druk, maar iets dat helpt om door te zetten, ook wanneer het moeilijk wordt. Leren voelt dan minder als iets dat moet, en meer als iets waar een kind zelf in wil investeren.<br>", 
-"Die motivatie is er niet altijd, en niet bij elk onderwerp. Maar wanneer ze er is, herken je haar meteen: er is focus, verdieping en gerichte inspanning. Dit heet <strong>intrinsieke motivatie </strong>.<br>", 
+"Leren komt het meest tot bloei wanneer een kind zich betrokken voelt. Wanneer iets aansluit bij wat een kind bezighoudt, verandert de houding vaak vanzelf. Aandacht blijft langer hangen en er ontstaat meer bereidheid om moeite te doen.",
+  
+"Van daaruit groeit motivatie van binnenuit. Niet door druk of beloning, maar doordat iets betekenis krijgt. Leren voelt dan minder als iets dat moet, en meer als iets waar een kind zelf in wil investeren. Die motivatie is er niet altijd, en ook niet bij elk onderwerp. Maar wanneer ze er is, is dat vaak goed zichtbaar: er ontstaat focus, verdieping en gerichte inzet. Dit wordt ook wel intrinsieke motivatie genoemd.",
 
-"Intrinsieke motivatie ontstaat niet vanzelf en blijft niet altijd. Ze groeit mee met hoe leren eruitziet en aanvoelt, en natuurlijk met de wil van Allah. Hieronder volgen manieren die, met Zijn toestemming, kunnen helpen om motivatie te laten groeien en blijven.<br>",
+"Intrinsieke motivatie ontstaat niet vanzelf en blijft niet altijd. Ze groeit mee met hoe leren eruitziet en wordt ervaren, en natuurlijk met de wil van Allah. Hieronder staan manieren die, met Zijn toestemming, kunnen helpen om motivatie te laten groeien en te behouden.", 
   
   "<strong>Structuur en keuze</strong><br>Leren vraagt om structuur. Zonder houvast ontstaat al snel onrust of discussie. Een vast leermoment geeft duidelijkheid: leren hoort erbij, zonder dat het telkens opnieuw besproken hoeft te worden. <br>Tegelijk hoeft die structuur niet strak te zijn. Binnen dat moment kan een kind keuzes maken, in volgorde, tempo of plek. Zo blijft het kader duidelijk, terwijl het leren ook van hén voelt.",
    
   "<strong>Vooruitgang maakt motivatie zichtbaar </strong> <br> Wanneer structuur en keuze in balans zijn, ontstaat ruimte voor vooruitgang. En juist daar groeit motivatie. Niet in grote sprongen, maar in kleine stappen die gezien worden.<br>",
- "<strong>Leren mag moeite kosten, dat hoort erbij. Door met frustratie om te leren gaan, groeit veerkracht.</strong>",
+ "<strong><i>Leren mag moeite kosten, dat hoort erbij. Door met frustratie om te leren gaan, groeit veerkracht.</i></strong>",
   "Complimenten werken het best wanneer ze gaan over inzet en volhouden, niet over slim zijn. Belonen kan soms helpen, maar zodra leren draait om wat je ervoor krijgt, verdwijnt de motivatie van binnenuit.",
 
 "<strong>Betekenis houdt leren vast </strong> <br> Zelfs als alles goed staat, blijft één vraag doorslaggevend: waarom doe ik dit? Zonder betekenis voelt leren leeg. Betekenis hoeft niet groots te zijn. Soms is het simpel: “Als je leert tellen, kun je straks zelf weten hoeveel je nodig hebt. Wanneer een kind begrijpt waar leren toe leidt, krijgt inspanning richting.",
