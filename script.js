@@ -237,7 +237,7 @@ headerImageUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
     {
       type: "highlight",
       text:
-        "Een dagstart ligt niet vast, maar is een moment om samen af te stemmen wat past bij het gezin."
+        "Een dagstart ligt niet vast, maar is een moment om samen af te stemmen."
     },
     "Binnen thuisonderwijs bestaat een dagstart vaak uit het samen doornemen van wat er die dag op de planning staat, het geven van ruimte aan het kind om mee te denken en het kort aandacht hebben voor hoe iedereen zich op dat moment voelt.<br/>Dit kan op verschillende momenten van de dag gebeuren, bijvoorbeeld na Fajr, tijdens het ontbijt of later op de ochtend.",
     "Tijdens de dagstart wordt de dag doorgenomen. Dat maakt duidelijk wat er ongeveer komt en in welke volgorde activiteiten plaatsvinden. Kinderen kunnen delen waar ze naar uitkijken, wat ze spannend vinden of wat ze liever op een ander moment doen.",
@@ -312,7 +312,7 @@ content: [
 "</ul>",
     "Hoeveel leerblokken je gebruikt, wanneer je ze plant en hoe je de dag opbouwt, hangt af van je kind, je aanpak en jullie ritme.<br>",
     "Een passende dagplanning vinden kost tijd. Het is vaak zoeken, proberen, bijstellen. Wat op papier goed lijkt, voelt in de praktijk soms anders. Daarom is het normaal om verschillende schema’s uit te testen voordat duidelijk wordt wat echt werkt in jullie situatie.<br>",
-    "Ritme ontstaat door herhaling, geef jezelf de ruimte om te finetunen tot er een dagritme ontstaat dat rust brengt, helder is en bij jullie leven past.",
+    "Ritme ontstaat door herhaling. Geef jezelf de ruimte om bij te sturen tot er een dagritme ontstaat dat rust brengt, helder is en bij jullie leven past.",
     { "type": "highlight", "text": "Structuur geeft rust, herhaling geeft resultaat en samen maken ze thuisonderwijs vol te houden in sha Allah." },
   ]
 },
