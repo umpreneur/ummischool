@@ -431,7 +431,7 @@ content: [
 
     "<strong>Wat groeit mee</strong> <br> Terwijl een kind leert lezen, rekenen of schrijven, groeit er iets dat verder gaat dan de lesstof. Een houding tegenover moeite. Een vertrouwen in blijven proberen. En het besef dat inzet telt, terwijl de uitkomst bij Allah ligt. En dat neemt een kind overal mee naartoe.",
  
-  "<strong><i>Het boek Mindset van Carol Dweck gaat dieper in op dit onderwerp, zeker een aanrader.</i></strong>.
+  "<strong><i>Het boek Mindset van Carol Dweck gaat dieper in op dit onderwerp, zeker een aanrader.</i></strong>.", 
   
   ]
 },
