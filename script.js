@@ -231,16 +231,16 @@ headerImageUrl: "https://umpreneur.github.io/ummischool/blog1img.png",
        headerImageUrl: "https://umpreneur.github.io/ummischool/blog3img.png",
     imageUrl: "https://umpreneur.github.io/ummischool/blog3img.png",
  content: [
-    "Een dagstart is een moment aan het begin van de dag om samen stil te staan bij wat er gaat komen en hoe iedereen zich voelt</strong>. In verschillende vormen van onderwijs wordt dit gebruikt om de dag gezamenlijk te beginnen. Ook binnen thuisonderwijs kan een dagstart een plek hebben. Hoe dit moment eruitziet, ligt niet vast en verschilt per gezin en per kind. Invullingen voor de dagstart vind je in een ander blog",
-   "<a href='https://umpreneur.github.io/ummischool/?blog=Inhoud-dagstart' target='_blank'>Zie blog Inhoud dagstart</a>.",
+    "Een dagstart is een moment aan het begin van de dag om samen stil te staan bij wat er gaat komen en hoe iedereen zich voelt</strong>. In verschillende vormen van onderwijs wordt dit gebruikt om de dag gezamenlijk te beginnen. Ook binnen thuisonderwijs kan een dagstart een plek hebben. Hoe dit moment eruitziet, ligt niet vast en verschilt per gezin en per kind. Bekijk de invullingen voor de dagstart in deze blog: <a href='https://umpreneur.github.io/ummischool/?blog=Inhoud-dagstart' target='_blank'>Inhoud dagstart</a>.",
+  
 
     {
       type: "highlight",
       text:
-        "Een dagstart is geen vast format, maar een moment van afstemming dat meebeweegt met het gezin."
+        "Een dagstart ligt niet vast, maar is een moment om samen af te stemmen wat past bij het gezin."
     },
     "Binnen thuisonderwijs bestaat een dagstart vaak uit het samen doornemen van wat er die dag op de planning staat, het geven van ruimte aan het kind om mee te denken en het kort aandacht hebben voor hoe iedereen zich op dat moment voelt.<br/>Dit kan op verschillende momenten van de dag gebeuren, bijvoorbeeld na Fajr, tijdens het ontbijt of later op de ochtend.",
-    "Tijdens een dagstart wordt de dag in grote of kleine lijnen besproken. Dat maakt duidelijk wat er ongeveer komt en in welke volgorde activiteiten plaatsvinden. Kinderen kunnen delen waar zij naar uitkijken, waar spanning zit of wat zij liever op een ander moment doen.",
+    "Tijdens de dagstart wordt de dag doorgenomen. Dat maakt duidelijk wat er ongeveer komt en in welke volgorde activiteiten plaatsvinden. Kinderen kunnen delen waar ze naar uitkijken, wat ze spannend vinden of wat ze liever op een ander moment doen.",
     {
       type: "highlight",
       text:
