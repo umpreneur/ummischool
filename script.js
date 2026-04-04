@@ -376,12 +376,12 @@ content: [
   "<strong>Structuur en keuze</strong><br> Leren vraagt om structuur. Zonder houvast kan er onrust ontstaan of steeds opnieuw discussie. Een vast leermoment geeft duidelijkheid en rust. Tegelijk hoeft die structuur niet strak te zijn. Binnen dat moment kan het kind kleine keuzes maken, zoals in volgorde, tempo of plek. Zo blijft er richting, terwijl er ook ruimte is voor eigen inbreng.<br>", 
 
    
-  "<strong>Vooruitgang maakt motivatie zichtbaar </strong> <br>   Wanneer structuur en keuze in balans zijn, ontstaat er ruimte voor groei. Motivatie groeit vaak in kleine stappen die gezien worden.<br>", 
+  "<strong>Vooruitgang maakt motivatie zichtbaar </strong> <br> Wanneer structuur en keuze in balans zijn, ontstaat er ruimte voor groei. Kleine stappen vooruit geven een kind vertrouwen en zorgen vaak voor meer motivatie. Zo wordt zichtbaar dat inspanning iets oplevert.<br>", 
  {
       type: "highlight",
       text: "Leren mag moeite kosten. Juist door met frustratie om te leren gaan, ontstaat veerkracht."
     },
-"<strong>Betekenis houdt leren vast </strong> <br> Zelfs wanneer alles goed is ingericht, blijft de vraag belangrijk: waarom wordt dit geleerd? Zonder betekenis voelt leren al snel leeg. Die hoeft niet groot te zijn, soms zit het in iets kleins en herkenbaars. Wanneer duidelijk is waar leren toe dient, krijgt inspanning richting. Wat moeilijk is, wordt draaglijker wanneer het ergens voor is.", 
+"<strong>Betekenis houdt leren vast </strong> <br> Zelfs wanneer alles goed is ingericht, blijft de vraag belangrijk: waarom wordt dit geleerd? Zonder betekenis voelt leren al snel leeg. Betekenis hoeft niet groot te zijn, soms zit het in iets kleins en herkenbaars. Wanneer duidelijk is waar leren toe dient, krijgt inspanning richting. Wat moeilijk is, wordt draaglijker wanneer het ergens voor is.", 
   
        
     "<strong>Leren door voorbeeld</strong> <br> Ook voorbeelden kunnen helpen om liefde voor kennis te laten groeien.Verhalen over sahaba, zoals Abu Hurayra of Mu’adh ibn Jabal laten zien dat kennis iets is om naar te verlangen, niet alleen om te behalen. Die verhalen vormen en inspireren. Ze laten zien dat leren niet stopt, maar een leven lang doorgaat. Kennis wordt niet gezien als iets dat je afrondt, maar als iets waar je in blijft groeien.",
@@ -404,10 +404,8 @@ content: [
     imageUrl: "https://umpreneur.github.io/ummischool//fixedvsgroei.png",
       
   content: [
-"Soms lukt iets meteen, soms niet. Een kind loopt vast, probeert opnieuw en raakt gefrustreerd. Juist in die momenten gebeurt er meer dan leren alleen. Een kind vormt ideeën over wat leren is, wat moeite betekent en wat vastlopen zegt over zichzelf.",
 
-"Die manier van kijken noemen we mindset. Het is geen vast kenmerk, maar een manier van denken die zich vormt in de dagelijkse momenten van leren. In hoe een kind met leren omgaat, zie je vaak twee richtingen: een fixed mindset en een groeimindset.",
-    
+"Soms lukt iets meteen, soms niet. Een kind loopt vast, probeert opnieuw en raakt gefrustreerd. Juist in die momenten gebeurt er meer dan leren alleen. Een kind vormt ideeën over wat leren is, wat moeite betekent en wat vastlopen zegt over zichzelf. Deze manier van kijken groeit mee in het dagelijks leren. Vaak zie je daarin twee richtingen: een fixed mindset en een groeimindset.<br>",   
     "<strong>Fixed mindset</strong> <br> Bij een fixed mindset ligt de nadruk sterk op het beeld dat een kind van zichzelf heeft. Gedachten als “Ik ben slim, waarom lukt dit mij niet?” of “Als ik het niet meteen snap, kan ik het blijkbaar niet” komen dan snel op. Vastlopen voelt niet als een onderdeel van leren, maar als een teken dat er iets mis is met het kind zelf. Leren moet lukken. En als het niet lukt, overheerst teleurstelling of twijfel.",
 
     {
@@ -431,7 +429,10 @@ content: [
       text: "Dat geeft rust in het leren zelf, los van presteren of falen."
     },
 
-    "<strong>Wat groeit mee</strong> <br> Terwijl een kind leert lezen, rekenen of schrijven, groeit er iets dat verder gaat dan de lesstof. Een houding tegenover moeite. Een vertrouwen in blijven proberen. En het besef dat inzet telt, terwijl de uitkomst bij Allah ligt. En dat neemt een kind overal mee naartoe."
+    "<strong>Wat groeit mee</strong> <br> Terwijl een kind leert lezen, rekenen of schrijven, groeit er iets dat verder gaat dan de lesstof. Een houding tegenover moeite. Een vertrouwen in blijven proberen. En het besef dat inzet telt, terwijl de uitkomst bij Allah ligt. En dat neemt een kind overal mee naartoe.",
+ 
+  "<strong><i>Het boek Mindset van Carol Dweck gaat dieper in op dit onderwerp, zeker een aanrader.</i></strong>.
+  
   ]
 },
 
