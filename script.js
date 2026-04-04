@@ -445,9 +445,11 @@ content: [
 
   content: [
     
-    "Bij jonge kinderen verloopt leren op een natuurlijke manier. Wat zij regelmatig horen, nemen zij vanzelf op. Dit gebeurt zonder uitleg of druk en wordt niet als leren ervaren, maar als een vanzelfsprekend onderdeel van het dagelijks leven. <strong>Op deze manier wordt ook de taal die thuis wordt gesproken aangeleerd.</strong>",
-    "Dit natuurlijke leerproces hangt samen met de neuroplasticiteit van het brein. Neuroplasticiteit betekent dat het brein zich kan aanpassen en nieuwe verbindingen kan vormen. Bij jonge kinderen (0-7jaar) is dit vermogen het grootst; dit wordt de hoogste neuroplastische periode genoemd. In deze fase reageert het brein sterk op wat een kind ziet, hoort en herhaalt, waardoor informatie die terugkeert sneller wordt herkend en opgeslagen.",
+" Bij jonge kinderen verloopt leren op een natuurlijke manier. Wat zij regelmatig horen, nemen zij vanzelf op. Zonder druk of uitleg, maar als onderdeel van het dagelijks leven.<br>",
 
+"Het jonge brein staat open voor wat het vaak ziet en hoort. Wat terugkomt, wordt herkend en blijft makkelijker hangen. Omdat die manier van leren zo sterk is, kan die ook gebruikt worden bij het memoriseren van de Qur’aan. Door te luisteren en mee te reciteren raken ayahs vertrouwd en worden ze geleidelijk onthouden.",
+
+    
       { 
       type: "highlight",
       text: "Een jong brein leert het meest van wat het vaak ziet en hoort."
