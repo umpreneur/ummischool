@@ -406,23 +406,23 @@ content: [
   content: [
 
 "Soms lukt iets meteen, soms niet. Een kind loopt vast, probeert opnieuw en raakt gefrustreerd. Juist in die momenten gebeurt er meer dan leren alleen. Een kind vormt ideeën over wat leren is, wat moeite betekent en wat vastlopen zegt over zichzelf. Deze manier van kijken groeit mee in het dagelijks leren. Vaak zie je daarin twee richtingen: een fixed mindset en een groeimindset.<br>",   
-    "<strong>Fixed mindset</strong> <br> Bij een fixed mindset ligt de nadruk sterk op het beeld dat een kind van zichzelf heeft. Gedachten als “Ik ben slim, waarom lukt dit mij niet?” of “Als ik het niet meteen snap, kan ik het blijkbaar niet” komen dan snel op. Vastlopen voelt niet als een onderdeel van leren, maar als een teken dat er iets mis is met het kind zelf. Leren moet lukken. En als het niet lukt, overheerst teleurstelling of twijfel.",
+    "<strong>Fixed mindset</strong> <br> Bij een fixed mindset gaat het vooral over hoe een kind naar zichzelf kijkt. Gedachten als “Ik ben slim, waarom lukt dit mij niet?” of “Als ik het niet meteen snap, kan ik het blijkbaar niet” komen dan snel op. Vastlopen voelt niet als een onderdeel van leren, maar als een teken dat er iets mis is met het kind zelf. Leren moet lukken. En als het niet lukt, overheerst teleurstelling of twijfel.",
 
     {
       type: "highlight",
       text: "Wanneer leren voelt als een test van wie je bent, wordt vastlopen iets om te vermijden."
     },
 
-    "<strong>Groeimindset</strong> <br> Bij een groeimindset ligt de nadruk niet op wie je bent, maar op wat je aan het doen bent. Vastlopen hoort erbij. Moeite betekent niet: ik kan dit niet, maar: ik ben nog aan het leren. Begrip mag groeien. Oefenen mag tijd kosten. En opnieuw beginnen is geen mislukking, maar onderdeel van het proces.",
+    "<strong>Groeimindset</strong> <br> Bij een groeimindset ligt de nadruk minder op wie een kind is, en meer op wat het aan het leren is. Vastlopen hoort erbij. Moeite betekent niet: ik kan dit niet, maar: ik ben nog aan het leren. Begrip mag groeien. Oefenen mag tijd kosten. En opnieuw beginnen is geen mislukking, maar onderdeel van het proces.",
 
     {
       type: "highlight",
       text: "Moeite is geen teken dat het niet lukt, maar dat het leren gaande is."
     },
 
-    "<strong>De rol van jouw woorden</strong> <br> Wat jij zegt tijdens het leren, wanneer iets moeilijk is en wanneer iets lukt, geeft richting aan of je kind een groei- of fixed mindset ontwikkelt. Benoem wat er gebeurt, zonder oordeel of haast. “Dit lukt nu nog niet. We blijven oefenen en in sha Allah wordt het duidelijker.” “Je zit vast bij deze stap. Dat hoort bij leren.” Vermijd zinnen die onbedoeld druk leggen, zoals “Dit moet je toch kunnen” of “Het is niet zo moeilijk”, en ook meteen overnemen. Vraag liever: “Wat heb je al geprobeerd?” of “Zullen we samen kijken?”",
+    "<strong>De rol van jouw woorden</strong> <br> Woorden tijdens het leren maken verschil, vooral op momenten dat iets moeilijk is of juist lukt. Wat gezegd wordt, kan helpen om leren lichter en rustiger te laten voelen. Zinnen als: “Dit lukt nu nog niet, we blijven oefenen en in sha Allah wordt het duidelijker” of “Je zit vast bij deze stap, dat hoort erbij” kunnen helpen om ruimte te houden. Zinnen die druk geven, zoals “Dit moet je toch kunnen” of “Het is niet zo moeilijk”, maken leren vaak zwaarder.",
 
-    "<strong>Wanneer iets lukt</strong> <br>  Bij succes leert een kind iets belangrijks, namelijk waar het resultaat vandaan komt. “Je bleef oefenen en Allah liet het lukken.”, “Je deed je best en met de wil van Allah ging het beter.”, Zo leert een kind tegelijk dat moeite doen mag, en dat de uitkomst bij Allah ligt.",
+    "<strong>Wanneer iets lukt</strong> <br>  Bij succes leert een kind iets belangrijks, namelijk waar het resultaat vandaan komt. “Je bleef oefenen en Allah liet het lukken.” “Je deed je best en met de wil van Allah ging het beter.” Zo leert een kind tegelijk dat moeite doen mag, en dat de uitkomst bij Allah ligt.",
 
     {
       type: "highlight",
@@ -431,7 +431,7 @@ content: [
 
     "<strong>Wat groeit mee</strong> <br> Terwijl een kind leert lezen, rekenen of schrijven, groeit er iets dat verder gaat dan de lesstof. Een houding tegenover moeite. Een vertrouwen in blijven proberen. En het besef dat inzet telt, terwijl de uitkomst bij Allah ligt. En dat neemt een kind overal mee naartoe.",
  
-  "<strong><i>Het boek Mindset van Carol Dweck gaat dieper in op dit onderwerp, zeker een aanrader.</i></strong>.", 
+  "<strong><i>Het boek Mindset van Carol Dweck gaat dieper in op dit onderwerp, zeker een aanrader </i></strong>.", 
   
   ]
 },
