@@ -371,8 +371,8 @@ content: [
     imageUrl: "https://umpreneur.github.io/ummischool//blog2img7.png",
 
 content: [
-"Leren komt het meest tot bloei wanneer een kind zich betrokken voelt. Wanneer iets aansluit bij wat een kind bezighoudt, verandert de houding vaak vanzelf. Aandacht blijft langer hangen en er ontstaat meer bereidheid om moeite te doen.<>br", 
-  "Van daaruit groeit motivatie van binnenuit. Niet door druk of beloning, maar doordat iets betekenis krijgt. Leren voelt dan minder als iets dat moet, en meer als iets waar een kind zelf in wil investeren. Dit wordt ook wel intrinsieke motivatie genoemd. Intrinsieke motivatie groeit mee met hoe leren eruitziet en wordt ervaren, en natuurlijk met de wil van Allah. Er zijn verschillende manieren die, met Zijn toestemming, kunnen helpen om motivatie te laten groeien. <br>",  
+"Leren komt het meest tot bloei wanneer een kind zich betrokken voelt. Als iets aansluit bij wat een kind bezighoudt, ontstaat er vaak vanzelf meer aandacht en bereidheid om moeite te doen.<br>", 
+"Motivatie groeit dan van binnenuit. Niet door druk of beloning, maar doordat iets betekenis krijgt. Leren voelt dan minder als iets dat moet, en meer als iets waar een kind zelf in wil investeren. Dit wordt ook wel intrinsieke motivatie genoemd. Intrinsieke motivatie groeit mee met hoe leren eruitziet en wordt ervaren, en natuurlijk met de wil van Allah. Er zijn verschillende manieren die, met Zijn toestemming, kunnen helpen om motivatie te laten groeien.",
   "<strong>Structuur en keuze</strong><br> Leren vraagt om structuur. Zonder houvast kan er onrust ontstaan of steeds opnieuw discussie. Een vast leermoment geeft duidelijkheid en rust. Tegelijk hoeft die structuur niet strak te zijn. Binnen dat moment kan het kind kleine keuzes maken, zoals in volgorde, tempo of plek. Zo blijft er richting, terwijl er ook ruimte is voor eigen inbreng.<br>", 
 
    
