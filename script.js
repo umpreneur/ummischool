@@ -381,7 +381,7 @@ content: [
       type: "highlight",
       text: "Leren mag moeite kosten. Juist door met frustratie om te leren gaan, ontstaat veerkracht."
     },
-"<strong>Betekenis houdt leren vast </strong> <br> Zelfs wanneer alles goed is ingericht, blijft de vraag belangrijk: waarom wordt dit geleerd? Zonder betekenis voelt leren al snel leeg. Betekenis hoeft niet groot te zijn, soms zit het in iets kleins en herkenbaars. Wanneer duidelijk is waar leren toe dient, krijgt inspanning richting. Wat moeilijk is, wordt draaglijker wanneer het ergens voor is.", 
+"<strong>Betekenis houdt leren vast </strong> <br> Zelfs wanneer alles goed is ingericht, blijft de vraag belangrijk: waarom wordt dit geleerd? Zonder betekenis voelt leren al snel leeg. Betekenis hoeft niet groot te zijn, soms zit het in iets kleins en herkenbaars. Wanneer duidelijk is waar leren toe dient, wordt het makkelijker om ervoor te gaan. Wat moeilijk is, wordt draaglijker wanneer het ergens voor is.", 
   
        
     "<strong>Leren door voorbeeld</strong> <br> Ook voorbeelden kunnen helpen om liefde voor kennis te laten groeien.Verhalen over sahaba, zoals Abu Hurayra of Mu’adh ibn Jabal laten zien dat kennis iets is om naar te verlangen, niet alleen om te behalen. Die verhalen vormen en inspireren. Ze laten zien dat leren niet stopt, maar een leven lang doorgaat. Kennis wordt niet gezien als iets dat je afrondt, maar als iets waar je in blijft groeien.",
@@ -405,7 +405,7 @@ content: [
       
   content: [
 
-"Soms lukt iets meteen, soms niet. Een kind loopt vast, probeert opnieuw en raakt gefrustreerd. Juist in die momenten gebeurt er meer dan leren alleen. Een kind vormt ideeën over wat leren is, wat moeite betekent en wat vastlopen zegt over zichzelf. Deze manier van kijken groeit mee in het dagelijks leren. Vaak zie je daarin twee richtingen: een fixed mindset en een groeimindset.<br>",   
+"Leren gaat stap voor stap. Soms lukt iets meteen, soms vraagt het meer tijd en oefening. In zulke momenten gebeurt er meer dan leren alleen. Een kind vormt ideeën over wat leren is, wat moeite betekent en wat vastlopen zegt over zichzelf. Deze manier van kijken groeit mee in het dagelijks leren. Vaak zie je daarin twee richtingen: een fixed mindset en een groeimindset.<br>",   
     "<strong>Fixed mindset</strong> <br> Bij een fixed mindset gaat het vooral over hoe een kind naar zichzelf kijkt. Gedachten als “Ik ben slim, waarom lukt dit mij niet?” of “Als ik het niet meteen snap, kan ik het blijkbaar niet” komen dan snel op. Vastlopen voelt niet als een onderdeel van leren, maar als een teken dat er iets mis is met het kind zelf. Leren moet lukken. En als het niet lukt, overheerst teleurstelling of twijfel.",
 
     {
@@ -463,8 +463,7 @@ content: [
       text: "Wat vaak wordt gehoord, blijft vanzelf hangen."
     },
 
-"Na een periode van luisteren kan er samen geoefend worden. Meereciteren of zelf opzeggen kan naast elkaar bestaan. Zo ontstaat er ruimte om te groeien.",
-    "Naast speels oefenen is het waardevol om ook korte, rustige leermomenten zonder spel aan te bieden. Door dit stap voor stap op te bouwen, leert het kind op een natuurlijke manier omgaan met meer traditioneel leren.",
+"Na een periode van luisteren kan er samen geoefend worden. Meereciteren of zelf opzeggen kan naast elkaar bestaan. Zo ontstaat er ruimte om te groeien. Naast speels oefenen is het waardevol om ook korte, rustige leermomenten zonder spel aan te bieden. Door dit stap voor stap op te bouwen, leert het kind op een natuurlijke manier omgaan met meer traditioneel leren.",
 "<strong>Samen herhalen</strong><br/>Wat geleerd is, blijft het best door herhaling. Maak daar een gezamenlijk moment van. Ga samen zitten en reciteer om de beurt een ayah van de geleerde suwar met één kind, meerdere kinderen of het hele gezin. <br> Je kunt hier een vast moment voor nemen, bijvoorbeeld een wekelijkse Qur’aankring, waarin je samen zit en om de beurt een ayah reciteert van dezelfde surah, totdat de hele surah is doorlopen. ",
 
  "<strong>Tips</strong>"+
