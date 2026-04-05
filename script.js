@@ -446,7 +446,7 @@ content: [
   content: [
     
 " Bij jonge kinderen verloopt leren op een natuurlijke manier. Wat zij regelmatig horen, nemen zij vanzelf op. Zonder druk of uitleg, maar als onderdeel van het dagelijks leven.<br>",
-"Het jonge brein staat open voor wat het vaak ziet en hoort. Wat terugkomt, wordt herkend en blijft makkelijker hangen. Omdat die manier van leren zo sterk is, kan die ook gebruikt worden bij het memoriseren van de Qur’aan. Door te luisteren en mee te reciteren raken ayahs vertrouwd en worden ze geleidelijk onthouden.",
+"Het jonge brein staat open voor wat het vaak ziet en hoort. Wat terugkomt, wordt herkend en blijft makkelijker hangen. Omdat die manier van leren zo sterk is, kan die ook gebruikt worden bij het memoriseren van de Qur’aan. Door te luisteren en mee te reciteren raken ayat vertrouwd en worden ze geleidelijk onthouden.",
 
     
       { 
@@ -489,10 +489,7 @@ content: [
   
  content: [
 
-"Thuisonderwijs met jonge kinderen begint bij hun nieuwsgierigheid. Peuters en kleuters willen begrijpen wat ze zien en meemaken. Door samen te kijken en te praten over wat het kind ziet en vraagt, ontstaat leren vanzelf in het dagelijks leven.<br>",
-"Vanuit die dagelijkse momenten groeit ook zelfstandigheid, in kleine stappen. Een peuter begint met eenvoudige handelingen zoals aankleden, opruimen of inschenken. Later worden taken preciezer, zoals een rits sluiten, iets snijden of schoonmaken.",
-"In deze handelingen ontdekt een kind wat het al kan, oefent het controle over bewegingen en ervaart het het plezier van zelf doen. Zo groeit het van grove naar fijnere handelingen. Hieruit ontstaat geleidelijk de basis voor langere focus en het afronden van activiteiten. Door het kind mee te laten doen in het dagelijks leven en kleine taken te laten kiezen, sluit je hier vanzelf op aan.",
-   
+"Thuisonderwijs met jonge kinderen ontstaat in het dagelijks leven. Door samen te kijken en te praten over wat een kind ziet en meemaakt, komt leren vanzelf op gang. In diezelfde momenten groeit ook zelfstandigheid, stap voor stap. Wat eerst eenvoudig is, wordt langzaam iets preciezer. Een kind ontdekt wat het al kan, krijgt meer controle over zijn bewegingen en ervaart hoe fijn het is om iets zelf te doen.Zo versterken dagelijkse handelingen ongemerkt zowel de motoriek als het denken. <br>",
   {
     type: "highlight",
     text: "Praktische handelingen versterken zowel motoriek als denkontwikkeling."
@@ -500,8 +497,7 @@ content: [
 
   "<strong>De wereld begrijpen</strong><br>Jonge kinderen zijn van nature nieuwsgierig. Hun vragen lijken eenvoudig, maar gaan over wat hen bezighoudt, zoals: “Waarom komt er water uit de lucht?” of “Waarom heeft dat dier haren en die niet?”<br>",
 
-"Met zulke vragen probeert een kind grip te krijgen op de wereld. Begrip geeft houvast en maakt situaties voorspelbaarder. Door samen te praten, te kijken en te benoemen wat ze zien, voelen kinderen zich zekerder.", 
-
+"Vanuit die ervaringen ontstaan ook vragen. Vragen die misschien eenvoudig lijken, maar voor een kind gaan over begrijpen wat het ziet en meemaakt. Door daar samen bij stil te staan en woorden te geven aan wat er gebeurt, groeit dat begrip. De wereld wordt herkenbaarder en daardoor ook rustiger. Wanneer je aansluit bij wat het kind bezighoudt, leert het verbanden zien en dingen beter plaatsen.",
 "Thema’s kunnen helpen om die nieuwsgierigheid te volgen. Sluit aan bij wat het kind bezighoudt zoals weer, seizoenen, dieren, thuis of gevoelens. Zo krijgt het woorden voor wat het ziet en voelt, herkent het dingen terug en kan het gebeurtenissen beter plaatsen.", 
   {
     type: "highlight",
