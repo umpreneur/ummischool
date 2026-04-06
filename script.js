@@ -489,14 +489,14 @@ content: [
   
  content: [
 
-"Thuisonderwijs met jonge kinderen groeit vaak vanzelf mee met het dagelijks leven. In kleine momenten – samen kijken, benoemen wat er gebeurt, even stilstaan bij iets wat opvalt – ontstaat al veel. Terwijl een kind speelt, helpt, probeert en opnieuw probeert, ontwikkelt het zich stap voor stap. Wat eerst nog onhandig voelt, wordt langzaam zekerder. Bewegingen worden preciezer, het zelfvertrouwen groeit en er komt steeds meer plezier in zelf doen. In die gewone, dagelijkse handelingen versterken motoriek en denken elkaar als vanzelf.",
+"Thuisonderwijs met jonge kinderen groeit vaak vanzelf mee met het dagelijks leven. In kleine momenten samen kijken, benoemen wat er gebeurt, even stilstaan bij iets wat opvalt ontstaat al veel. Terwijl een kind speelt, helpt, probeert en opnieuw probeert, ontwikkelt het zich stap voor stap. Wat eerst nog onhandig voelt, wordt langzaam zekerder. Bewegingen worden preciezer, het zelfvertrouwen groeit en er komt steeds meer plezier in zelf doen. In die gewone, dagelijkse handelingen versterken motoriek en denken elkaar als vanzelf.",
    
    {
     type: "highlight",
     text: "Juist in het alledaagse groeit ontwikkeling stap voor stap."
   },
 
-  "<strong>De wereld begrijpen</strong><br> In wat ze elke dag zien en meemaken, zoeken jonge kinderen naar betekenis. Met een open blik stellen ze vragen over de wereld om hen heen. Soms klein, maar voor hen belangrijk: waarom het regent, waarom dieren verschillen, waarom dingen gaan zoals ze gaan. <br>", 
+  "<strong>De wereld begrijpen</strong><br> In wat ze elke dag zien en meemaken, zoeken jonge kinderen naar betekenis. Ze stellen vragen over de wereld om hen heen. Soms klein, maar voor hen belangrijk: waarom het regent, waarom dieren verschillen, waarom dingen gaan zoals ze gaan. <br>", 
 
    "Door samen stil te staan bij die vragen en woorden te geven aan wat er gebeurt, wordt de wereld stap voor stap duidelijker. Herkenning groeit, en daarmee ook rust en vertrouwen. Dingen krijgen een plek.<br>", 
 
@@ -519,15 +519,18 @@ content: [
 
   "content": [
     
-    "Vroeger begon schrijven meestal gewoon met een potlood en een schrift. Kinderen herhaalden letters tot hun hand ze vanzelf leek te begrijpen. De focus lag vooral op doen: schrijven en steeds handiger worden in het proces.",
-    
-    "Vandaag de dag ligt de nadruk vaker op allerlei voorbereidende activiteiten: vormen tekenen, kralen rijgen, knippen, spelen met zand en klei, motoriekspelletjes en het oefenen van de pengreep. Deze activiteiten worden gezien als bouwstenen vóór het echte schrijven.",
-"Beide benaderingen hebben waarde. Aandacht voor motoriek helpt, maar schrijven leer je door het te doen. Tekenen en kleuren kunnen ondersteunen en de hand en pols soepel maken. Overtrekletters en -cijfers kunnen helpen om vormen beter te begrijpen, zolang het een tijdelijke stap blijft. De voorbereiding mag het schrijven zelf niet naar de achtergrond drukken.",   
-    { 
+"Vroeger begon schrijven meestal gewoon met een potlood en een schrift. Kinderen herhaalden letters tot hun hand ze vanzelf leek te begrijpen. De focus lag op doen: schrijven en daar steeds handiger in worden.<br>",    
+
+"Vandaag ligt de nadruk vaker op voorbereidende activiteiten en het oefenen van de pengreep. Deze worden gezien als noodzakelijke stap vóór het echte schrijven. Tekenen en kleuren kunnen de hand soepeler maken, en overtrekletters of -cijfers kunnen helpen om vormen te herkennen. Maar dat blijft ondersteuning.", 
+ 
+   { 
       "type": "highlight", 
-      "text": "Een kind leert uiteindelijk schrijven door te schrijven." 
+      "text": "Schrijven leer je door te schrijven. Niet door er vooral naartoe te werken." 
     },
 
+"Wanneer de voorbereiding de plaats inneemt van het echte schrijven, raakt het proces uit balans. Juist door letters zelf te vormen, fouten te maken en opnieuw te proberen, ontwikkelt het zich zoals het bedoeld is: van binnenuit, in de hand zelf.", 
+    
+   
     "Wat een kind écht nodig heeft: een fijn HB-potlood, papier en korte momenten van oefening die regelmatig terugkomen. Slordigheid hoort erbij; het is een teken dat een kind aan het ontdekken is.",
     
     "Alles wat de start onnodig ingewikkeld maakt, kun je loslaten. Lange voorbereidende trajecten, dure materialen en methodes die beloven dat schrijven vanzelf gaat, zijn geen voorwaarde voor succes. Eenvoud werkt, en het werkt betrouwbaar.",
