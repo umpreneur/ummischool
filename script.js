@@ -551,12 +551,10 @@ content: [
 "Tijdens het spel gebeurt er meer dan alleen leren. Kinderen oefenen in omgaan met anderen, leren communiceren en ontwikkelen hun eigen ideeën.",
     { 
       type: "highlight", 
-      text: "Niet alles wat kinderen moeten leren is meteen leuk, en dat hoeft ook niet zo te zijn." 
+      text: "Zo ontstaat leren op een manier die past bij een jong kind." 
     },
-    "Tegelijk heeft deze manier van leren ook een grens. Niet alles kan via spel. Sommige dingen vragen oefening, aandacht en doorzetten, ook wanneer het lastig is.",
-    "Daarnaast bestaat het risico dat het onderwijs te veel meegaat in de belevingswereld van het kind. Kinderen zijn dan wel bezig, maar leren niet altijd wat nodig is. Vooral basisvaardigheden zoals lezen, schrijven en rekenen vragen oefening, herhaling en soms gewoon even volhouden.",
-
-    "Door spel af te wisselen met momenten van luisteren, proberen en herhalen, krijgen kinderen wat ze op dat moment nodig hebben. Zo leren ze dat leren niet altijd makkelijk is, maar wel de moeite waard.",
+    "Maar spel heeft ook zijn grens. Niet alles kan spelenderwijs geleerd worden. Sommige dingen vragen oefening, aandacht en doorzetten, juist wanneer het lastig is.Vooral basisvaardigheden zoals lezen, schrijven en rekenen vragen herhaling en inzet. Alleen bezig zijn is niet genoeg.",
+"Door spel af te wisselen met momenten van oefenen en herhalen, ontstaat er balans. Zo leren kinderen niet alleen met plezier, maar ook met doorzettingsvermogen.",
 
     { 
       type: "highlight", 
