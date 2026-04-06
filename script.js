@@ -489,22 +489,24 @@ content: [
   
  content: [
 
-"Thuisonderwijs met jonge kinderen ontstaat in het dagelijks leven. Door samen te kijken en te praten over wat een kind ziet en meemaakt, komt leren vanzelf op gang. In diezelfde momenten groeit ook zelfstandigheid, stap voor stap. Wat eerst eenvoudig is, wordt langzaam iets preciezer. Een kind ontdekt wat het al kan, krijgt meer controle over zijn bewegingen en ervaart hoe fijn het is om iets zelf te doen.Zo versterken dagelijkse handelingen ongemerkt zowel de motoriek als het denken. <br>",
-  {
+"Thuisonderwijs met jonge kinderen groeit vaak vanzelf mee met het dagelijks leven. In kleine momenten – samen kijken, benoemen wat er gebeurt, even stilstaan bij iets wat opvalt – ontstaat al veel. Terwijl een kind speelt, helpt, probeert en opnieuw probeert, ontwikkelt het zich stap voor stap. Wat eerst nog onhandig voelt, wordt langzaam zekerder. Bewegingen worden preciezer, het zelfvertrouwen groeit en er komt steeds meer plezier in zelf doen. In die gewone, dagelijkse handelingen versterken motoriek en denken elkaar als vanzelf.",
+   
+   {
     type: "highlight",
-    text: "Praktische handelingen versterken zowel motoriek als denkontwikkeling."
+    text: "."Juist in het alledaagse groeit ontwikkeling stap voor stap.",
   },
 
-  "<strong>De wereld begrijpen</strong><br>Jonge kinderen zijn van nature nieuwsgierig. Hun vragen lijken eenvoudig, maar gaan over wat hen bezighoudt, zoals: “Waarom komt er water uit de lucht?” of “Waarom heeft dat dier haren en die niet?”<br>",
+  "<strong>De wereld begrijpen</strong><br> In wat ze elke dag zien en meemaken, zoeken jonge kinderen naar betekenis. Met een open blik stellen ze vragen over de wereld om hen heen. Soms klein, maar voor hen belangrijk: waarom het regent, waarom dieren verschillen, waarom dingen gaan zoals ze gaan. <br>", 
 
-"Vanuit die ervaringen ontstaan ook vragen. Vragen die misschien eenvoudig lijken, maar voor een kind gaan over begrijpen wat het ziet en meemaakt. Door daar samen bij stil te staan en woorden te geven aan wat er gebeurt, groeit dat begrip. De wereld wordt herkenbaarder en daardoor ook rustiger. Wanneer je aansluit bij wat het kind bezighoudt, leert het verbanden zien en dingen beter plaatsen.",
-"Thema’s kunnen helpen om die nieuwsgierigheid te volgen. Sluit aan bij wat het kind bezighoudt zoals weer, seizoenen, dieren, thuis of gevoelens. Zo krijgt het woorden voor wat het ziet en voelt, herkent het dingen terug en kan het gebeurtenissen beter plaatsen.", 
-  {
+   "Door samen stil te staan bij die vragen en woorden te geven aan wat er gebeurt, wordt de wereld stap voor stap duidelijker. Herkenning groeit, en daarmee ook rust en vertrouwen. Dingen krijgen een plek.<br>", 
+
+"Het helpt om aan te sluiten bij wat op dat moment leeft. Thema’s zoals het weer, de seizoenen, dieren, thuis of gevoelens geven houvast. Ze maken het makkelijker om verbanden te zien en ervaringen te begrijpen. Zo groeit taal, inzicht en betrokkenheid op een natuurlijke manier, gewoon vanuit het leven zelf. <br>",
+   {
     type: "highlight",
     text: "Begrijpen begint wanneer een kind woorden krijgt voor wat het ziet."
   },
 
-  "<strong>De basis voor later leren</strong><br> In de kleutertijd groeit het vermogen van kinderen om zich stap voor stap langer te concentreren en ergens bij te blijven. Wat eerst kort en wisselend is, wordt geleidelijk langer en gerichter.<>br",
+  "<strong>De basis voor later leren</strong><br> In de kleutertijd groeit het vermogen van kinderen om zich stap voor stap langer te concentreren en ergens bij te blijven. Wat eerst kort en wisselend is, wordt geleidelijk langer en gerichter.<br>",
    "In hun spel en dagelijkse bezigheden ontwikkelen kleuters vaardigheden die ze later nodig hebben. Door te doen, te herhalen en te ontdekken, groeit hun begrip. Ze leren ergens mee bezig te blijven, door te zetten en iets af te ronden.Zo ontstaat een basis waarop later leren verder kan bouwen, in een tempo dat past bij het kind.", 
 
 ]
