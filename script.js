@@ -493,7 +493,7 @@ content: [
    
    {
     type: "highlight",
-    text: "."Juist in het alledaagse groeit ontwikkeling stap voor stap.",
+    text: "Juist in het alledaagse groeit ontwikkeling stap voor stap."
   },
 
   "<strong>De wereld begrijpen</strong><br> In wat ze elke dag zien en meemaken, zoeken jonge kinderen naar betekenis. Met een open blik stellen ze vragen over de wereld om hen heen. Soms klein, maar voor hen belangrijk: waarom het regent, waarom dieren verschillen, waarom dingen gaan zoals ze gaan. <br>", 
