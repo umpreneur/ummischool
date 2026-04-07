@@ -594,7 +594,7 @@ content: [
 
     "Cognitieve functies hebben te maken met denken en begrijpen. Ze helpen een kind om te luisteren, dingen te onthouden, verbanden te zien en betekenis te geven aan wat het meemaakt. Dankzij deze functies kan een kind een verhaal volgen, een puzzel maken of begrijpen wat er van hem of haar verwacht wordt. Ze vormen de basis van het denken.",
 
-    "Executieve functies zorgen ervoor dat dat denken ook echt gebruikt kan worden. Ze helpen een kind om te stoppen en even na te denken, om te beginnen aan een taak, om door te gaan als iets lastig is en om met emoties om te gaan wanneer iets niet lukt. Ze zijn niet altijd zichtbaar, maar spelen voortdurend mee in het dagelijks leven.",
+    "Executieve functies zorgen ervoor dat denken ook echt gebruikt kan worden. Ze helpen een kind om te stoppen en even na te denken, om te beginnen aan een taak, om door te gaan als iets lastig is en om met emoties om te gaan wanneer iets niet lukt. Ze zijn niet altijd zichtbaar, maar spelen voortdurend mee in het dagelijks leven.",
 
     { 
       type: "highlight",
@@ -616,7 +616,7 @@ content: [
     "Deze functies ontwikkelen zich niet allemaal tegelijk. Een kind kan veel begrijpen, maar toch moeite hebben met plannen, starten of volhouden. Dat verklaart waarom iets de ene dag wel lukt en de andere dag niet.",
 
     "Ontwikkeling gebeurt vooral in gewone momenten. In spel, in gesprekken, in samen dingen doen en stap voor stap oefenen. Door herhaling en duidelijke verwachtingen krijgt het brein houvast om verder te groeien.",
-
+"<p><a href='https://kleuteruniversiteit.nl/wp-content/uploads/2018/11/Trainen-van-de-executieve-functies_tiplijst.pdf' target='_blank' rel='noopener noreferrer'>kleuteruniversiteit Trainen van executieve functies.</a></p>",
   ]
 },
 
