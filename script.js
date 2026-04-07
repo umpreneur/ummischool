@@ -546,20 +546,17 @@ content: [
   imageUrl: "https://umpreneur.github.io/ummischool/spelenderwijze.png",
 
   content: [
-"Spelenderwijs leren sluit aan bij hoe jonge kinderen van nature leren. Door te spelen, te doen en te ontdekken, zijn ze betrokken bij wat ze leren. Het voelt minder als iets dat moet en meer als iets wat vanzelf ontstaat.",
-"Daarom voelt deze manier van leren vaak prettig. Kinderen blijven nieuwsgierig, proberen dingen uit en durven fouten te maken. Leren wordt minder zwaar en vaak ook leuker.",
+"Spelenderwijs leren sluit aan bij hoe jonge kinderen van nature leren. Door te spelen, te doen en te ontdekken, zijn ze betrokken bij wat ze leren. Het voelt minder als iets dat moet en meer als iets wat vanzelf ontstaat. Daarom voelt deze manier van leren vaak prettig. Kinderen blijven nieuwsgierig, proberen dingen uit en durven fouten te maken. Leren wordt minder zwaar en vaak ook leuker.",
 "Tijdens het spel gebeurt er meer dan alleen leren. Kinderen oefenen in omgaan met anderen, leren communiceren en ontwikkelen hun eigen ideeën.",
     { 
       type: "highlight", 
       text: "Zo ontstaat leren op een manier die past bij een jong kind." 
     },
-    "Maar spel heeft ook zijn grens. Niet alles kan spelenderwijs geleerd worden. Sommige dingen vragen oefening, aandacht en doorzetten, juist wanneer het lastig is.Vooral basisvaardigheden zoals lezen, schrijven en rekenen vragen herhaling en inzet. Alleen bezig zijn is niet genoeg.",
-"Door spel af te wisselen met momenten van oefenen en herhalen, ontstaat er balans. Zo leren kinderen niet alleen met plezier, maar ook met doorzettingsvermogen.",
 
-    { 
-      type: "highlight", 
-      text: "Wanneer spel en oefenen elkaar afwisselen, ontstaat leren dat blijft hangen en kinderen sterker maakt." 
-    },
+"Tegelijkertijd heeft spel ook zijn grenzen. Niet alles kan spelenderwijs geleerd worden. Sommige vaardigheden vragen gerichte oefening, aandacht en doorzettingsvermogen, juist wanneer het moeilijk wordt. Denk bijvoorbeeld aan basisvaardigheden zoals lezen, schrijven en rekenen: die ontwikkelen zich niet vanzelf en vragen herhaling en inzet.", 
+
+"Daarom is het belangrijk om spel af te wisselen met momenten van oefenen en verdiepen. Op die manier ontstaat er een goede balans. Kinderen leren dan niet alleen met plezier, maar ontwikkelen ook het doorzettingsvermogen dat nodig is om verder te komen.", 
+   
   ]
 },
 
