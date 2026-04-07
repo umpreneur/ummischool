@@ -567,26 +567,20 @@ content: [
   imageUrl: "https://umpreneur.github.io/ummischool/thema.png",
 
   content: [
-"Thematisch werken betekent dat er gedurende een periode wordt gewerkt aan één onderwerp: het thema. <br>Dit thema kan terugkomen in verschillende activiteiten en leermomenten. Soms worden meerdere vakken betrokken, soms staat het thema op zichzelf. Er is ruimte om mee te bewegen met wat past en nodig is.",
-    "Deze manier van werken past vooral goed bij jonge kinderen. Zij leren door ervaringen op te doen, dingen uit te proberen en te herhalen. Het belangrijkste is dat kinderen betekenis geven aan wat ze doen en daarvan leren.",
-
-"Deze manier van werken sluit goed aan bij jonge kinderen. Zij leren door te ervaren, te proberen en te herhalen. Wat daarbij centraal staat, is dat kinderen betekenis geven aan wat ze doen en daarvan leren.",
-
+"Thematisch werken betekent dat je een tijdje met één onderwerp bezig bent: het thema. Dat thema komt terug in verschillende activiteiten en momenten op de dag. Soms koppel je er meerdere vakken aan, soms staat het gewoon op zichzelf. Je kunt daarin meebewegen met wat op dat moment past en nodig is.",
+    "Thematisch werken helpt kinderen om betrokken te raken. Een thema dat aansluit bij hun eigen leven zorgt voor herkenning en maakt hen nieuwsgierig. Dat nodigt uit om mee te doen en verder te ontdekken. Doordat ze een tijdje met hetzelfde onderwerp bezig zijn, krijgen ze de kans om woorden, ideeën en inzichten verder te ontwikkelen.", 
+   "Daarom kies je een thema het liefst dicht bij de leefwereld van kinderen. Dat kan iets zijn wat hen bezighoudt, iets uit het dagelijks leven of iets wat op dat moment speelt. Ook een verhaal of prentenboek kan een mooie start zijn en richting geven aan het thema.",
     
-"Thematisch werken helpt kinderen om zich betrokken te voelen. Een thema dat aansluit bij hun eigen leven roept herkenning op en maakt nieuwsgierig. Dat nodigt uit om mee te doen en verder te ontdekken. Door een periode met hetzelfde onderwerp bezig te zijn, krijgen kinderen de tijd om woorden, ideeën en inzichten te laten groeien.",
-    "Een thema wordt daarom het liefst gekozen dicht bij de leefwereld van kinderen. Dat kan iets zijn wat hen bezighoudt, iets alledaags of iets dat op dat moment speelt. Ook een verhaal of prentenboek kan helpen om een thema te openen en richting te geven.",
     { 
       type: "highlight", 
-      text: "Wanneer leren aansluit bij wat kinderen herkennen, voelen zij zich betrokken en gezien." 
+      text: "Als kinderen zich herkennen in wat ze doen, voelen ze zich meer betrokken en gezien." 
     },
+"Binnen een thema kun je allerlei activiteiten doen. Denk aan gesprekken, kleine onderzoekjes, knutselen, bouwen, bewegen of samen een boek lezen. Niet alles hoeft tegelijk of op dezelfde manier; het gaat erom dat het past bij het thema en betekenis heeft voor de kinderen.", 
 
-    "Binnen een thema kun je verschillende activiteiten aanbieden. Denk aan gesprekken, onderzoek, creatieve opdrachten, bouwen, bewegen en het bekijken of voorlezen van boeken. Niet alles hoeft tegelijk of op dezelfde manier; het gaat erom dat activiteiten betekenisvol passen bij het thema.",
+"Een thema hoeft ook niet strak vast te liggen. Je kunt het zo lang laten lopen als nodig is, zolang kinderen blijven oefenen en verdiepen. Door goed te kijken naar wat kinderen doen en waar hun interesse ligt, kun je steeds bijsturen.", 
+"Als kinderen steeds terugkomen op hetzelfde onderwerp, erover praten of ermee blijven spelen, merk je dat het thema voor hen leeft. Dan leren ze op een manier die goed bij hen past.", 
 
-    "Het plannen van een thema hoeft niet strak vast te liggen. Een thema duurt zo lang als nodig is, zolang er herhaling en verdieping plaatsvindt. Door te kijken naar wat kinderen laten zien en waar ze in blijven hangen, kun je het aanbod aanpassen.",
-
-    "Wanneer kinderen steeds terugkomen op hetzelfde onderwerp, erover praten of ermee bezig blijven, laat dat zien dat het thema betekenisvol voor hen is. Dan vindt leren plaats op een manier die aansluit bij hun ontwikkeling.",
-
-"<p><a href='https://www.slo.nl/publish/pages/16605/handreiking-thematiseren-met-jonge-kinderen-slo-01-2021.pdf' target='_blank' rel='noopener noreferrer'>Wil je meer achtergrondinformatie en verdieping over thematisch werken met jonge kinderen? Download hier de uitgebreide handreiking van SLO (pdf).</a></p>",
+"<p><a href='https://www.slo.nl/publish/pages/16605/handreiking-thematiseren-met-jonge-kinderen-slo-01-2021.pdf' target='_blank' rel='noopener noreferrer'>Meer weten? Download de handreiking van SLO (pdf).</a></p>",
   ]
 },
 
