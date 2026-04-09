@@ -167,15 +167,7 @@ id: "16",
   "imageUrl": "https://umpreneur.github.io/ummischool/amanah1.png"
 },
 
-  {
-  id: "18",
-  title: "Leren lezen thuis",
-  excerpt:
-    "Technisch lezen is de basis: letters zien, klanken maken, en woorden bouwen. Met rust, herhaling en haalbare oefening groeit vlot lezen vanzelf.",
-  slug: "Leren-lezen-thuis",
-   thumbnailUrl: "https://umpreneur.github.io/ummischool/Lezen.png",
-    imageUrl: "https://umpreneur.github.io/ummischool/Lezen.png",
-},
+ 
 ];
 
 
@@ -628,23 +620,7 @@ content: [
   imageUrl: "https://umpreneur.github.io/ummischool/Meerdere.png",
 
   content: [
-    "Thuisonderwijs met meerdere kinderen betekent vaak veel schakelen. De één heeft uitleg nodig, de ander wil aandacht, en jij probeert ondertussen het overzicht te houden. Als dat soms voelt als veel: je bent niet alleen.",
-
-    "Wat enorm helpt, is kinderen leren dat ze even mogen wachten tot jij bij hen komt. Dat klinkt simpel, maar wachten is iets wat kinderen echt moeten leren. Begin klein. Een paar minuten zelfstandig bezig zijn is al genoeg om dit rustig op te bouwen.",
-
-    "Zelfstandig bezig zijn gaat makkelijker als een kind weet wát het kan doen. Daarom is het fijn om spullen in huis te hebben die ze zelf kunnen pakken, zoals tekenen, klei, een puzzel. Zo kun jij even rustig met één kind zitten, terwijl de ander bezig is.",
-
-    "Wanneer één kind ouder is en meer aandacht krijgt bij het leren, kan dat jaloezie oproepen bij jongere kinderen. Zeker als ze dicht in leeftijd bij elkaar zitten en normaal veel samen spelen. Jongere kinderen willen die aandacht ook en willen vaak doen wat hun oudere broer of zus doet, ook als ze het nog niet kunnen. Dat is heel normaal.",
-
-    "In plaats van dit tegen te houden, helpt het om jongere kinderen erbij te betrekken. Geef ze een potlood en papier en laat ze meedoen op hun eigen manier. Krassen is ook leren. Zo voelen ze zich gezien, zonder dat jij steeds hoeft te stoppen.",
-
-    "Kinderen kunnen bovendien veel van elkaar leren. Oudere kinderen vinden het vaak leuk om iets uit te leggen, en jongere kinderen kijken mee en doen na. Dat scheelt jou energie en versterkt tegelijk hun band.",
-    "Wat voor ons goed werkt, is dat we tegelijk met hetzelfde vak bezig zijn, ieder op zijn eigen niveau. We beginnen vaak met iets gezamenlijks, zoals voorlezen. Daarna gaat ieder kind verder met een taak die past bij zijn of haar niveau: de één leest met mij, de ander schrijft, knipt of werkt op een andere manier met taal. Zo is iedereen met hetzelfde vak bezig, maar krijgt ieder kind wat het nodig heeft.",
-
-    "Niet alles hoeft samen en niet alles hoeft apart. Soms werkt naast elkaar werken fijn, soms juist samen. Kijk per moment wat past, niet wat ‘zou moeten’.",
-
-    "En misschien wel het belangrijkste: neem de tijd. Haast maakt alles lastiger. Als er al frustratie is, wordt die alleen maar groter. Een rustiger tempo helpt niet alleen de kinderen, maar jou ook.",
-
+"Thuisonderwijs aan meerdere kinderen kost tijd, en dat is heel normaal. In de praktijk betekent het vaak dat je je aandacht moet verdelen. Terwijl je met het ene kind bezig bent, heeft de ander ook iets van je nodig. Zeker op dagen dat er meer speelt of wanneer de tijd krap is, kan dat onrust geven — bij jezelf, maar ook bij de kinderen.",
   ]
 },
 
@@ -689,7 +665,6 @@ content: [
   imageUrl: "https://umpreneur.github.io/ummischool/amanah1.png",
 
   content: [
-    "Thuisonderwijs is geen lifestylekeuze en geen pedagogisch experiment. <strong>Onderwijs is een recht.</strong> Dat recht verdwijnt niet zodra een kind thuis leert het komt volledig op de schouders van de ouders te liggen.",
     "Wie kiest voor thuisonderwijs neemt een grote <strong>amanah</strong> op zich.",
     "In de islam is kennis geen bijzaak. Het eerste woord van de openbaring was <strong>iqra</strong> lees. Kennis vraagt inspanning, structuur en overdracht. Zonder dat blijft thuisonderwijs een naam zonder inhoud.",
     "Wat thuisonderwijs confronterend maakt, is dat bijna alle externe controle wegvalt. Geen vaste toetsen, geen systeem dat ingrijpt als het misgaat. Dat betekent niet dat er minder verantwoordelijkheid is. Het betekent dat ouders zichzelf moeten controleren.",
