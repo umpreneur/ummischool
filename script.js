@@ -139,23 +139,23 @@ const blogPreviews = [
   imageUrl: "https://umpreneur.github.io/ummischool/executieve.png",
 },
 
-  {
-  id: "15",
-  title: "Thuisonderwijs met meerdere kinderen",
-  excerpt: "Thuisonderwijs met meerdere kinderen vraagt veel schakelen. Met kleine, slimme gewoontes—wachten leren, zelfstandig materiaal, jaloezie benoemen en kinderen betrekken—breng je meer rust en overzicht in je dag.",
-  slug: "Meerderekinderen",
-  thumbnailUrl: "https://umpreneur.github.io/ummischool/Meerdere.png",
-  imageUrl: "https://umpreneur.github.io/ummischool/Meerdere.png",
-  },
+  // {
+ //  id: "15",
+ //  title: "Thuisonderwijs met meerdere kinderen",
+ //  excerpt: "Thuisonderwijs met meerdere kinderen vraagt veel schakelen. Met kleine, slimme gewoontes—wachten leren, zelfstandig materiaal, jaloezie benoemen en kinderen betrekken—breng je meer rust en overzicht in je dag.",
+//   slug: "Meerderekinderen",
+//   thumbnailUrl: "https://umpreneur.github.io/ummischool/Meerdere.png",
+//   imageUrl: "https://umpreneur.github.io/ummischool/Meerdere.png",
+//   },
   
-  {
-id: "16",
-  title: "Adab en Akhlaaq",
+ //  {
+//  id: "16",
+//   title: "Adab en Akhlaaq",
   excerpt: "Karakter wordt niet gevormd door één moment, maar door verhalen die blijven terugkomen, het geduld van Ayyub, het tawhied van Ibrahim en de vergeving van Yusufén door het waken over wat een kinderhart binnenkomt.",
-  slug: "Adab-en-Akhlaaq",
-  thumbnailUrl: "https://umpreneur.github.io/ummischool/Adab.png",
-  imageUrl: "https://umpreneur.github.io/ummischool/Adab.png",
-},
+//   slug: "Adab-en-Akhlaaq",
+//   thumbnailUrl: "https://umpreneur.github.io/ummischool/Adab.png",
+//   imageUrl: "https://umpreneur.github.io/ummischool/Adab.png",
+//  },
 
 
 {
@@ -167,6 +167,15 @@ id: "16",
   "imageUrl": "https://umpreneur.github.io/ummischool/amanah1.png"
 },
 
+  //  {
+//   id: "18",
+//   title: "Leren lezen thuis",
+//   excerpt:
+//     "Technisch lezen is de basis: letters zien, klanken maken, en woorden bouwen. Met rust, herhaling en haalbare oefening groeit vlot lezen vanzelf.",
+//   slug: "Leren-lezen-thuis",
+//    thumbnailUrl: "https://umpreneur.github.io/ummischool/Lezen.png",
+//     imageUrl: "https://umpreneur.github.io/ummischool/Lezen.png",
+//  },
  
 ];
 
