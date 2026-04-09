@@ -151,7 +151,7 @@ const blogPreviews = [
  //  {
 //  id: "16",
 //   title: "Adab en Akhlaaq",
-  excerpt: "Karakter wordt niet gevormd door één moment, maar door verhalen die blijven terugkomen, het geduld van Ayyub, het tawhied van Ibrahim en de vergeving van Yusufén door het waken over wat een kinderhart binnenkomt.",
+//   excerpt: "Karakter wordt niet gevormd door één moment, maar door verhalen die blijven terugkomen, het geduld van Ayyub, het tawhied van Ibrahim en de vergeving van Yusufén door het waken over wat een kinderhart binnenkomt.",
 //   slug: "Adab-en-Akhlaaq",
 //   thumbnailUrl: "https://umpreneur.github.io/ummischool/Adab.png",
 //   imageUrl: "https://umpreneur.github.io/ummischool/Adab.png",
