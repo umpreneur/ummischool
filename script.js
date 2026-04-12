@@ -1537,7 +1537,7 @@ const printablesItems = [
   {
     title: "Duakaarten",
     description:
-      "NOg iets.",
+      ".",
     imageUrl: "",
     url: "",
     available: false
@@ -1546,7 +1546,7 @@ const printablesItems = [
     {
     title: "Emotiekaarten",
     description:
-      "iets",
+      "",
     imageUrl: "",
     url: "",
     available: false
@@ -1554,7 +1554,7 @@ const printablesItems = [
       {
     title: "Themaplanning",
     description:
-      "iets",
+      "",
     imageUrl: "",
     url: "",
     available: false
@@ -1600,8 +1600,8 @@ function renderPrintablesPage() {
       <div style="text-align:center; margin-bottom:3rem;">
         <h1 class="page-title">Printables</h1>
         <p class="faq-subtitle">
-          Handige hulpmiddelen om structuur te brengen in jullie thuisonderwijs.
-        </p>
+Verschillende printables voor thuisonderwijs, gratis te downloaden.
+</p>
       </div>
 
       <div class="printables-grid">
