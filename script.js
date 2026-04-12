@@ -1485,20 +1485,30 @@ function toggleFaq(id, item) {
     expandedFaq = id;
   }
 }
+
+const routes = {
+  home: "/",
+  "wat-is-ummi": "/thuisonderwijs",
+  faq: "/faq",
+  blog: "/blog",
+  printables: "/printables",
+  "waar-begin-ik": "/waar-begin-ik",
+  contact: "/contact",
+};
+
 function navigateToPage(page) {
-  const url = new URL(window.location);
+  const routes = {
+    home: "/",
+    "wat-is-ummi": "/thuisonderwijs",
+    faq: "/faq",
+    blog: "/blog",
+    printables: "/printables",
+    "waar-begin-ik": "/waar-begin-ik",
+    contact: "/contact",
+  };
 
-  // home = helemaal schoon
-  if (page === "home") {
-    url.search = "";
-  } else if (page === "blog") {
-    url.search = "?blog";
-  } else {
-    // alle andere pagina’s: ?pagename
-    url.search = "?" + encodeURIComponent(page);
-  }
-
-  history.pushState({}, "", url);
+  const path = routes[page] || "/";
+  history.pushState({}, "", path);
   showPage(page);
   resetAllFaq();
 }
