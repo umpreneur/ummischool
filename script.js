@@ -1627,32 +1627,49 @@ function handleRoute() {
 
   const redirect = params.get("redirect");
   if (redirect) {
-    const path = decodeURIComponent(redirect);
-
-    if (path === "/thuisonderwijs") return showPage("wat-is-ummi");
-    if (path === "/faq") return showPage("faq");
-    if (path === "/blog") return showPage("blog");
-    if (path === "/printables") return showPage("printables");
-    if (path === "/waar-begin-ik") return showPage("waar-begin-ik");
-    if (path === "/contact") return showPage("contact");
-
-    return showPage("home");
+    const cleanPath = decodeURIComponent(redirect).replace(/\/+$/, "") || "/";
+    history.replaceState({}, "", cleanPath);
   }
 
   const path = window.location.pathname.replace(/\/+$/, "") || "/";
 
-  if (path === "/thuisonderwijs") return showPage("wat-is-ummi");
-  if (path === "/faq") return showPage("faq");
-  if (path === "/blog") return showPage("blog");
-  if (path === "/printables") return showPage("printables");
-  if (path === "/waar-begin-ik") return showPage("waar-begin-ik");
-  if (path === "/contact") return showPage("contact");
+  if (path === "/thuisonderwijs") {
+    showPage("wat-is-ummi");
+    return;
+  }
+
+  if (path === "/faq") {
+    showPage("faq");
+    return;
+  }
+
+  if (path === "/blog") {
+    showPage("blog");
+    return;
+  }
+
+  if (path === "/printables") {
+    showPage("printables");
+    return;
+  }
+
+  if (path === "/waar-begin-ik") {
+    showPage("waar-begin-ik");
+    return;
+  }
+
+  if (path === "/contact") {
+    showPage("contact");
+    return;
+  }
 
   const blogSlug = params.get("blog");
-  if (blogSlug) return showBlogPost(blogSlug);
+  if (blogSlug) {
+    showBlogPost(blogSlug);
+    return;
+  }
 
   showPage("home");
 }
-
 
 window.addEventListener("popstate", handleRoute);
