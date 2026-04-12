@@ -1622,34 +1622,37 @@ Verschillende printables voor thuisonderwijs, gratis te downloaden.
 
 // Start app
 document.addEventListener('DOMContentLoaded', init);
-
 function handleRoute() {
-  const search = window.location.search; // bv "?faq" of "?blog=Bewust-Kiezen"
-  const params = new URLSearchParams(search);
+  const params = new URLSearchParams(window.location.search);
 
-  // Blogpost: ?blog=slug
+  const redirect = params.get("redirect");
+  if (redirect) {
+    const path = decodeURIComponent(redirect);
+
+    if (path === "/thuisonderwijs") return showPage("wat-is-ummi");
+    if (path === "/faq") return showPage("faq");
+    if (path === "/blog") return showPage("blog");
+    if (path === "/printables") return showPage("printables");
+    if (path === "/waar-begin-ik") return showPage("waar-begin-ik");
+    if (path === "/contact") return showPage("contact");
+
+    return showPage("home");
+  }
+
+  const path = window.location.pathname.replace(/\/+$/, "") || "/";
+
+  if (path === "/thuisonderwijs") return showPage("wat-is-ummi");
+  if (path === "/faq") return showPage("faq");
+  if (path === "/blog") return showPage("blog");
+  if (path === "/printables") return showPage("printables");
+  if (path === "/waar-begin-ik") return showPage("waar-begin-ik");
+  if (path === "/contact") return showPage("contact");
+
   const blogSlug = params.get("blog");
-  if (blogSlug) {
-    showBlogPost(blogSlug);
-    return;
-  }
+  if (blogSlug) return showBlogPost(blogSlug);
 
-  // Blog overzicht: ?blog
-  if (search === "?blog") {
-    showPage("blog");
-    resetAllFaq();
-    return;
-  }
-
-  // Andere pagina's: ?faq / ?contact / ?printables etc.
-  if (search.startsWith("?") && !search.includes("=")) {
-    const page = decodeURIComponent(search.slice(1));
-    showPage(page || "home");
-    resetAllFaq();
-    return;
-  }
-
-  // Default: home
   showPage("home");
 }
+
+
 window.addEventListener("popstate", handleRoute);
