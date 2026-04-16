@@ -1534,7 +1534,7 @@ const printablesItems = [
     available: true
   },
   {
-    title: "Duakaarten",
+    title: "Emotiekaarten",
     description:
       "Leer kinderen hun gevoelens herkennen en benoemen, met islamitische koppeling.",
    imageUrl: "https://umpreneur.github.io/ummischool/emotie.png",
@@ -1543,7 +1543,7 @@ const printablesItems = [
   },
 
     {
-    title: "Emotiekaarten",
+    title: "Duakaarten",
     description:
       "",
     imageUrl: "",
