@@ -894,12 +894,9 @@ function renderHeader() {
           <span></span>
         </button>
         <nav id="mobile-nav">
-        
-          <a data-page="faq" class="nav-link" data-testid="link-nav-faq">Ik Twijfel!</a>
-          <a data-page="waar-begin-ik" class="nav-link" data-testid="link-nav-waar-begin-ik">Waar Begin Ik?</a>
-           <a data-page="printables" class="nav-link" data-testid="link-nav-printables">Printables</a>
-          <a data-page="blog" class="nav-link" data-testid="link-nav-blog">Blog</a>
-          <button data-page="wat-is-ummi" class="nav-btn-primary" data-testid="button-nav-wat-is-thuisonderwijs">Wat is Thuisonderwijs?</button>
+        <a data-page="waar-begin-ik" class="nav-link">Waar Begin Ik?</a>
+<a data-page="blog" class="nav-link">Blog</a>
+<button data-page="printables" class="nav-btn-primary">Printables</button>
         </nav>
       </div>
     </header>
