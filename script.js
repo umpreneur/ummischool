@@ -1308,7 +1308,7 @@ function renderContactPage() {
 function renderFooter() {
   return `
     <footer data-testid="footer">
-      <p data-testid="text-footer-copyright">&copy; 2025 Thuisonderwijsinfo. Alle rechten voorbehouden.</p>
+      <p data-testid="text-footer-copyright">&copy; 2026 wijlerenthuis. Alle rechten voorbehouden.</p>
     </footer>
   `;
 }
