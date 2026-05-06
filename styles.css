@@ -1169,7 +1169,16 @@ font-size: 1rem;
   font-weight: 400;
 }
 
+.instagram-link {
+  display: flex;
+  align-items: center;
+}
 
+.instagram-icon {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+}
 
   
   .faq-toggle {
