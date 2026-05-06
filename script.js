@@ -893,7 +893,24 @@ function renderHeader() {
           <span></span>
           <span></span>
         </button>
-        <nav id="mobile-nav">
+      <nav id="mobile-nav">
+  <a 
+    href="https://www.instagram.com/JOUW-INSTAGRAM-NAAM" 
+    target="_blank" 
+    rel="noopener noreferrer" 
+    class="instagram-link"
+    aria-label="Instagram"
+  >
+    <img 
+      src="instagram.png" 
+      alt="Instagram" 
+      class="instagram-icon"
+    />
+  </a>
+
+
+
+        
         <a data-page="waar-begin-ik" class="nav-link">Waar Begin Ik?</a>
 <a data-page="blog" class="nav-link">Blog</a>
 <button data-page="printables" class="nav-btn-primary">Printables</button>
