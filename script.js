@@ -1544,7 +1544,7 @@ const printablesItems = [
     description:
       "Visuele dagritmekaarten die kinderen helpen overzicht te krijgen in de dag.",
     imageUrl: "https://umpreneur.github.io/ummischool/Dagritmekaarten.png",
-    url: "https://umpreneur.github.io/ummischool/Dagritmekaarten.pdf",
+    url: "https://umpreneur.github.io/ummischool/Dagritmekaarten (2).pdf",
     available: true
   },
   {
