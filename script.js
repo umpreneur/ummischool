@@ -1536,7 +1536,7 @@ const printablesItems = [
     description:
       "Een weekplanner voor kinderen om hun gebeden bij te houden.",
     imageUrl: "https://umpreneur.github.io/ummischool/SalahTracker.png",
-    url: "https://umpreneur.github.io/ummischool/Salahtracker.pdf",
+    url: "https://umpreneur.github.io/ummischool/Salahtracker (2).pdf",
     available: true
   },
    {
