@@ -1555,6 +1555,21 @@ const printablesItems = [
     url: "https://umpreneur.github.io/ummischool/Emoties.pdf",
     available: true
   },
+  {
+    title: "hajj-poster",
+    description:
+      "Educatieve poster: introductie tot Hajj",
+   imageUrl: "https://umpreneur.github.io/ummischool/Hajjintro.png",
+    url: "https://umpreneur.github.io/ummischool/pdf24_merged (16)",
+    available: true
+  },
+
+
+
+
+
+
+  
 
     {
     title: "Duakaarten",
