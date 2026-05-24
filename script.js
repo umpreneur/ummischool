@@ -1552,7 +1552,7 @@ const printablesItems = [
     description:
       "Leer kinderen hun gevoelens herkennen en benoemen, met islamitische koppeling.",
    imageUrl: "https://umpreneur.github.io/ummischool/emotie.png",
-    url: "https://umpreneur.github.io/ummischool/Emoties.pdf",
+    url: "https://umpreneur.github.io/ummischool/Emoties1.pdf.pdf",
     available: true
   },
   {
