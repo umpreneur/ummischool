@@ -1560,7 +1560,7 @@ const printablesItems = [
     description:
       "Educatieve poster: introductie tot Hajj",
    imageUrl: "https://umpreneur.github.io/ummischool/Hajjintro.png",
-    url: "https://umpreneur.github.io/ummischool/Hajjposter.pdf",
+    url: "https://umpreneur.github.io/ummischool/hajjposter (2).pdf",
     available: true
   },
 
