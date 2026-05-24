@@ -1628,7 +1628,7 @@ function renderPrintablesPage() {
       <div style="text-align:center; margin-bottom:3rem;">
         <h1 class="page-title">Printables</h1>
         <p class="faq-subtitle">
-Verschillende printables voor thuisonderwijs, gratis te downloaden.
+Verschillende educatieve printables voor kinderen, gratis te downloaden.
 </p>
       </div>
 
