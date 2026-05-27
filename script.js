@@ -1564,7 +1564,14 @@ const printablesItems = [
     available: true
   },
 
-
+  {
+    title: "hajj-rituelen",
+    description:
+      "Leer de Hajj-rituelen op een speelse manier.",
+   imageUrl: "https://umpreneur.github.io/ummischool/hajjrituelen.png",
+    url: "https://umpreneur.github.io/ummischool/Hajjrituelenleren.pdf",
+    available: true
+  },
 
 
 
