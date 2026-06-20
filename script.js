@@ -348,7 +348,6 @@ content: [
     "<li>Goula houten kalender: een educatieve houten kalender waarmee kinderen spelenderwijs inzicht krijgen in dag, datum, seizoen, weer en tijd.</li>" +
     "<li>Hijri-kalender: eventueel online te downloaden</li>" +
     "<li>Whiteboard: Kan worden gebruikt om de dagplanning te visualiseren, dagdelen te ordenen en meer.</li>" +
-    "<li>Dagritmekaarten: Je kunt dagritmekaarten gratis downloaden op (link)</li>" +
     "<li>Kerndoeltrainer (A, B, C): oefenmateriaal voor klokkijken en kalenderbegrip.</li>" +
   "</ul>",
 
