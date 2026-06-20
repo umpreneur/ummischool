@@ -913,7 +913,7 @@ function renderHeader() {
         
 <a data-page="wat-is-ummi" class="nav-link">Wat is thuisonderwijs?</a>
 <a data-page="waar-begin-ik" class="nav-link">Waar Begin Ik?</a>
-<button data-page="printables" class="nav-btn-primary">Blog</button>
+<button data-page="blog" class="nav-btn-primary">Blog</button>
         </nav>
       </div>
     </header>
