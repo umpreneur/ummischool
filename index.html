@@ -162,7 +162,33 @@
         background: linear-gradient(90deg, transparent, var(--sand), transparent);
       }
 
+      .instagram {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        margin-top: 2px;
+        padding: 11px 16px;
+        color: var(--text);
+        border: 1px solid var(--line);
+        border-radius: 999px;
+        font-size: .9rem;
+        text-decoration: none;
+        transition: border-color .2s ease, background .2s ease, transform .2s ease;
+      }
+
+      .instagram span {
+        color: var(--mint);
+        font-weight: 600;
+      }
+
+      .instagram:hover {
+        background: rgba(185, 228, 208, .08);
+        border-color: rgba(185, 228, 208, .52);
+        transform: translateY(-2px);
+      }
+
       .footer {
+        margin-top: 18px;
         color: rgba(246, 244, 237, .58);
         font-size: .83rem;
       }
@@ -196,6 +222,15 @@
         Bedankt voor je geduld — we zien je graag snel weer terug.
       </p>
       <div class="divider" aria-hidden="true"></div>
+      <a
+        class="instagram"
+        href="https://www.instagram.com/wijlerenthuis/"
+        target="_blank"
+        rel="noopener noreferrer"
+        aria-label="Volg Wij Leren Thuis op Instagram"
+      >
+        Instagram <span>@wijlerenthuis</span> <span aria-hidden="true">↗</span>
+      </a>
       <div class="footer">Tot snel.</div>
     </main>
   </body>
