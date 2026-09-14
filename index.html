@@ -1,36 +1,202 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="nl">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content="Thuisonderwijs, Praktische informatie voor ouders die thuisonderwijs overwegen of geven." />
-  <meta property="og:title" content="Thuisonderwijs" />
-  <meta property="og:description" content="Over rust, richting en groei" />
-  <meta property="og:image" content="https://images.unsplash.com/photo-1507842621343-583f20270319?w=800&h=600&fit=crop" />
-  <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Thuisonderwijs" />
-  <meta name="twitter:description" content="Over rust, richting en groei" />
-  <meta name="twitter:image" content="https://images.unsplash.com/photo-1507842621343-583f20270319?w=800&h=600&fit=crop" />
-  <meta name="twitter:site" content="@replit" />
-  
-  <title>Thuisonderwijs</title>
-  <link rel="icon" type="image/png" href="ChatGPT_Image_11_dec_2025__21_29_59-removebg-preview.png" />
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-  <div id="app"></div>
-  
-  <!-- Hidden form for Netlify -->
-  <form name="contact" method="POST" netlify style="display: none;">
-    <input type="text" name="name" />
-    <input type="email" name="email" />
-    <input type="text" name="subject" />
-    <textarea name="message"></textarea>
-  </form>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#101827" />
+    <meta
+      name="description"
+      content="UmmiSchool is binnenkort weer beschikbaar."
+    />
+    <meta property="og:title" content="UmmiSchool — binnenkort weer terug" />
+    <meta
+      property="og:description"
+      content="We werken achter de schermen aan iets moois."
+    />
+    <title>UmmiSchool — binnenkort weer terug</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@500;600&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      :root {
+        color-scheme: dark;
+        --background: #101827;
+        --card: rgba(24, 37, 55, 0.76);
+        --text: #f6f4ed;
+        --muted: #b9c3c1;
+        --line: rgba(246, 244, 237, 0.15);
+        --mint: #b9e4d0;
+        --sand: #e8c99a;
+      }
 
-  <script src="script.js" defer></script>
-</body>
+      * { box-sizing: border-box; }
+
+      html, body { min-height: 100%; }
+
+      body {
+        min-height: 100vh;
+        margin: 0;
+        display: grid;
+        place-items: center;
+        overflow: hidden;
+        padding: 24px;
+        color: var(--text);
+        background:
+          radial-gradient(circle at 7% 5%, rgba(185, 228, 208, 0.15), transparent 28%),
+          radial-gradient(circle at 96% 92%, rgba(232, 201, 154, 0.13), transparent 31%),
+          var(--background);
+        font-family: "DM Sans", ui-sans-serif, system-ui, sans-serif;
+      }
+
+      body::before {
+        position: fixed;
+        inset: 0;
+        content: "";
+        opacity: 0.18;
+        pointer-events: none;
+        background-image: linear-gradient(rgba(255,255,255,.04) 1px, transparent 1px),
+          linear-gradient(90deg, rgba(255,255,255,.04) 1px, transparent 1px);
+        background-size: 42px 42px;
+        mask-image: linear-gradient(to bottom, black, transparent 80%);
+      }
+
+      .glow {
+        position: fixed;
+        width: 34vw;
+        height: 34vw;
+        min-width: 250px;
+        min-height: 250px;
+        border-radius: 50%;
+        opacity: 0.48;
+        filter: blur(8px);
+        pointer-events: none;
+        animation: float 14s ease-in-out infinite alternate;
+      }
+
+      .glow--mint {
+        top: -21vw;
+        left: -12vw;
+        background: radial-gradient(circle, rgba(185,228,208,.45), transparent 67%);
+      }
+
+      .glow--sand {
+        right: -15vw;
+        bottom: -21vw;
+        background: radial-gradient(circle, rgba(232,201,154,.35), transparent 67%);
+        animation-delay: -5s;
+      }
+
+      .card {
+        position: relative;
+        z-index: 1;
+        width: min(730px, 100%);
+        padding: clamp(38px, 8vw, 82px) clamp(28px, 8vw, 76px);
+        text-align: center;
+        border: 1px solid var(--line);
+        border-radius: 32px;
+        background: linear-gradient(145deg, rgba(36, 53, 70, .8), var(--card));
+        box-shadow: 0 32px 100px rgba(0, 0, 0, .34), inset 0 1px 0 rgba(255,255,255,.08);
+        backdrop-filter: blur(22px);
+      }
+
+      .brand {
+        display: inline-flex;
+        align-items: center;
+        gap: 11px;
+        margin-bottom: 46px;
+        color: var(--mint);
+        font-size: .75rem;
+        font-weight: 700;
+        letter-spacing: .2em;
+        text-transform: uppercase;
+      }
+
+      .brand::before {
+        width: 10px;
+        height: 10px;
+        content: "";
+        border-radius: 50%;
+        background: var(--mint);
+        box-shadow: 0 0 20px rgba(185,228,208,.8);
+      }
+
+      .eyebrow {
+        margin: 0 0 18px;
+        color: var(--sand);
+        font-size: .85rem;
+        font-weight: 600;
+        letter-spacing: .12em;
+        text-transform: uppercase;
+      }
+
+      h1 {
+        max-width: 600px;
+        margin: 0 auto 24px;
+        font-family: "Playfair Display", Georgia, serif;
+        font-size: clamp(3rem, 9vw, 6.6rem);
+        font-weight: 500;
+        letter-spacing: -.065em;
+        line-height: .95;
+      }
+
+      h1 span {
+        display: block;
+        color: var(--mint);
+      }
+
+      .intro {
+        max-width: 500px;
+        margin: 0 auto;
+        color: var(--muted);
+        font-size: clamp(1rem, 2vw, 1.16rem);
+        line-height: 1.75;
+      }
+
+      .divider {
+        width: 92px;
+        height: 1px;
+        margin: 38px auto 22px;
+        background: linear-gradient(90deg, transparent, var(--sand), transparent);
+      }
+
+      .footer {
+        color: rgba(246, 244, 237, .58);
+        font-size: .83rem;
+      }
+
+      @keyframes float {
+        from { transform: translate3d(-2%, -2%, 0) scale(1); }
+        to { transform: translate3d(4%, 3%, 0) scale(1.08); }
+      }
+
+      @media (prefers-reduced-motion: reduce) {
+        .glow { animation: none; }
+      }
+
+      @media (max-width: 520px) {
+        body { padding: 14px; }
+        .card { border-radius: 24px; }
+        .brand { margin-bottom: 36px; }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="glow glow--mint" aria-hidden="true"></div>
+    <div class="glow glow--sand" aria-hidden="true"></div>
+
+    <main class="card">
+      <div class="brand">UmmiSchool</div>
+      <p class="eyebrow">Even een kleine pauze</p>
+      <h1>We zijn <span>snel weer terug.</span></h1>
+      <p class="intro">
+        Achter de schermen werken we aan een mooie vernieuwing.
+        Bedankt voor je geduld — we zien je graag snel weer terug.
+      </p>
+      <div class="divider" aria-hidden="true"></div>
+      <div class="footer">Tot snel.</div>
+    </main>
+  </body>
 </html>
